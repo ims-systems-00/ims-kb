@@ -42,6 +42,6 @@ Credentials will look like this :
 
 Email : your.name@domain.com
 
-Password : `system generated string` ie: (jahd8234bj^&%d)
+Password : `system generated password` ie: (jahd8234bj^&%d)
 
 Give permissions to users on their merit and your team is kicked off to start using the system.
