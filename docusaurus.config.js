@@ -81,12 +81,12 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/RiadHossain43/ims-docs',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/RiadHossain43/ims-docs',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

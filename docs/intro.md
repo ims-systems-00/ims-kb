@@ -8,15 +8,15 @@ Let's configure **iMS in less than 15 minutes**.
 
 ## Getting Started
 
-Get started by **creating your organisation** with appropriate amount of licenses which will  be a onboarding process.
+Get started by **creating your organisation** with appropriate amount of licenses which will be an onboarding process.
 
 **Strat your iMS immediately** with **[imssystems.tech](https://imssystems.tech)**.
 
 ## Create a business function
 
-After having a super admin access, login to the system and navigate to **Our iMS** from the `Sidebar` that you'll see at the left side of the screen.
+After having a super admin access, login to the system and navigate to **Our iMS** from the `Sidebar` which you'll see at the left side of the screen.
 
-You will find 5 tabs in the screen stay click on `Business functions` and create your business function with the information that are asked for. Great you have successfully created your first business function. 
+You will find 5 tabs on the screen there, click on `Business functions` and create your business function with the information that are asked for. Great you have successfully created your first business function. 
 
 ## Add job roles to the team
 
