@@ -3,9 +3,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Welcome to iMS Systems',
+  title: 'iMS Systems',
   tagline: 'Integrate your business operations, processes and compliance for easier management',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docs.imssystems.tech',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
