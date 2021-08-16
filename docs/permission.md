@@ -1,4 +1,4 @@
-## Roles & Permissions
+# Roles & Permissions
 iMS Systems has 5 major roles in the system and thier permissions vary according to their roles.
 
 ## Role-[super] (Super user)

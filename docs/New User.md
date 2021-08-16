@@ -3,12 +3,12 @@
 ## New User
 Upon being granted access either by iMS or your organisation, you will receive an email containing your login details.
 
-![Image here](https://imssystems.tech/assets/images/docs/img.png "New User Email.png")
+![New user email](../static/img/hiw1.svg "New User Email.png")
 
 ### Logging In 
 You will need to access your organisation's iMS System, you will have received the website address during your onboarding process. From here, login to the website using the login details found in the email. 
 
-![Image here](https://imssystems.tech/assets/images/docs/img.png "Log In.png")
+![Login](https://imssystems.tech/assets/images/docs/img.png "Log In.png")
 
 ### Setting a Password
 Upon logging in for the first time, you will be prompted to change your password for security purposes. Your password must contain at least 8 characters.
