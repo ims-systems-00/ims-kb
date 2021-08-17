@@ -128,14 +128,29 @@ Simply select `Cancel` to stop the deletion process or `Confirm` in order to del
 
 ### Task Manager
 
+*Please note that* `Partner` *business functions can only view Tasks that they have been given access to AND are owned by their business function.*
+
+For each `Task`, you can either `Modify` or `Delete` them, much like with `Assets`, `Risks` and `Incidents`, however you can also `Assign` a Task to a user either from the `Modify` menu or during creation of the task itself..
+
+![Image here](https://imssystems.tech/assets/images/docs/img.png "Task Manager Actions (Amend, Delete).png")
+
 #### Modifying a Task
+
+In order to `Amend` a Task, select the pencil icon under the `Actions` field and navigate to the tab named `Amend task`. When finished, to save your changes click on `Update`.
+
+If you wish to mark a task as *completed* click on the `Complete` button instead of `Update`.
+
+When modifying a Task, you may be limited by your level of access.
 
 #### Deleting a Task
 
-#### Sharing a Private Task
+In order to `Delete` a Task, select the trash can icon under the `Actions` field.
 
-#### Assigning a Task
+When deleting a Task, you will first be asked to confirm you really wish to delete the OFI. Please be warned that deleted Tasks cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
 
+![Image here](https://imssystems.tech/assets/images/docs/img.png "Task Manager Delete Confirmation.png")
+ 
+Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Task.
 
 
 
