@@ -53,21 +53,25 @@ Make sure to give guide link to configuration for first-time setup
 [How to modify and delete Assets within the Inventory System][Asset Actions]
 
 [Inventory Management]: link/to/im "Inventory Management.md"
-[Asset Actions]: link/to/actions "Asset and Risk Actions, #Assets"
+[Asset Actions]: link/to/actions "Actions, #Assets"
 
 #### Risk Management
 
-**not made**
-[How to add risks to the Risk Management System][Risk Management] **not made**
+[How to add risks to the Risk Management System][Risk Management]
 [How to modify and delete Risks within the Risk Management System][Risk Actions]
 [How is the Risk Score System Calculated][Risk Scoring] **not made**
 
 [Risk Management]: link/to/rm "Risk Management.md"
-[Risk Actions]: link/to/actions "Asset and Risk Actions, #Risks"
+[Risk Actions]: link/to/actions "Actions, #Risks"
 [Risk Scoring]: link/to/page "Risk Scoring"
 
 #### Incident Management
 
+[How to add incidents to the Incident Management System][Incident Management] **not made**
+[How to modify and delete Incidents within the Incident Management System][Incident Action]
+
+[Incident Management]: link/to/inm "Incident Management.md"
+[Incident Actions]: link/to/actions "Actions.md, #Incidents"
 Link to guide, **not made**
 
 #### Audits
