@@ -24,9 +24,9 @@ incident management, actions, expand on mitigated/accepted
 | -------- | ------- |
 |Dashboard|Overview, Dashboard report, graphs|
 |Our IMS|Business function, Compliance, System Dates, Incident Resolution, Our IMS|
-|Inventory|~~Addings Assets~~, ~~Actions~~, Table Sort by, Table Navigation|
-|Risk Management|~~Adding Risks~~, ~~Action~~, Table Sort by, Table Navigation|
-|Incident Management|~~Adding Incidents~~, ~~Actions~~, Table sort by, Table navigation, Incident List, Resolved List, Escalated|
+|Inventory|Table Sort by, Table Navigation|
+|Risk Management|Table Sort by, Table Navigation|
+|Incident Management|Table sort by, Table navigation, Incident List, Resolved List, Escalated|
 |Audits| Add Audits, Schedule, Completed, Actions|
 |Management Reviews| Add Review, Schedule, Completed, Actions|
 |KPI/Objectives|Add KPI, Business function, Organisation, Actions|
@@ -34,7 +34,7 @@ incident management, actions, expand on mitigated/accepted
 |Compliance|Actions, Comments + Upload, Score system|
 |Supplier Management|Add supplier, Supplier List, Actions|
 |Document Management|Add Documents, Privacy, Sharing, Actions|
-|Task Manager|Add tasks, My tasks, Requests, Actions|
+|Task Manager|My tasks, Requests|
 |Calendar|Actions, Add calendar, Automatic|
 |User Management|User access management, Action, Toolkit|
 |User Management| License, request, actions|
@@ -51,3 +51,5 @@ incident management, actions, expand on mitigated/accepted
 |**Raising an Incident**|General Information/Incident Management/Raising Incident.md|
 |**Adding Assets**|General Information/Inventory Management/Adding Assets.md|
 |**Adding Risks**|General Information/Risk Management/Adding Risks.md|
+|**Add Tasks**|General Information/Task Manager/Add Task.md|
+|**Task Manager Actions**|General Information/Actions.md|
