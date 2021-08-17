@@ -4,6 +4,34 @@
 
 *Please note that* `Partner` *business functions can only view Assets that they have been given access to AND are owned by their business function.*
 
+### Tables
+
+When browsing a set of data presented on a table, there are a number of ways to search, sort and present the information you are looking at.
+
+#### Search
+
+Each table allows you to search relevant information to find a match. For example, if you are searching for a **Hardware Asset**, you have the option of searching by any of the following
++ Asset Name
++ Asset Tag
++ Asset Owner
++ Assigned Date
++ Returned Date
++ Business Function
+
+![Hardware Asset Search]("Hardware_Asset_Search")
+
+#### Sort
+
+Each table also allows you to customise how you wish to sort it. At the moment, you can only sort by A-Z (1-9) and Z-A (9-1) by click the arrow buttons next to the header of each column in the table.
+
+![Sort By]("Hardware_Sort_By")
+
+#### Number of Results
+
+You can also adjust the number of rows to display at once. The default number of displayed rows is 10, and the maximum is 100.
+
+![Number of Rows]("Number_of_Rows")
+
 ### Assets
 
 For each `Asset`, you can `Modify` or `Delete` each entry in the `Inventory` system for each individual category.
