@@ -12,9 +12,11 @@ To add an Event to the `Calendar`, you first need to pick a date to add an event
 
 You first need to give the event a name in `Event title`, the time the event will `Start` and `End`, as well as a `Description` that fits the event.
 
-**Please note that internal and external Audit events will not show on the Calendar unless you are logged into the Auditor account.**
+**Please note that internal and external Audit events will not show on the Calendar.**
 
 Once you are done entering the details, simply click `Create` and the event will be added to the Calendar.
+
+![Completed Calendar Form](Completed Calendar Form.png)
 
 [Calendar]: /link/to/Actions "Link to Actions.md/##Calendar"
 [Modifying Calendar]: /link/to/Actions "Link to Actions.md/####Modifying-a-Calendar-Event"
