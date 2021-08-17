@@ -83,4 +83,4 @@ After completing the form, click `add` to submit the risk to your organisation's
 **This service is still a work in progress**
 
 [Risks]: /link/to/Actions "Link to Actions.md/##Risks"
-[Modifying a Risk]: /link/to/Actions "Link to Actions.md/####Modifying a Risk"
+[Modifying a Risk]: /link/to/Actions "Link to Actions.md/####Modifying-a-Risk"

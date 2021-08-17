@@ -72,5 +72,5 @@ After selecting the `owner` of the information, and the `cost` of the asset, cli
 ![Image here](https://imssystems.tech/assets/images/docs/img.png "Completed Information Asset Form.png")
 
 
-[Assets]: /link/to/AssetActions "Link to Actions.md/##Assets"
-[Modifying an Asset]: /link/to/Actions "Link to Actions.md/####Modifying an Asset"
+[Assets]: /link/to/Actions "Link to Actions.md/##Assets"
+[Modifying an Asset]: /link/to/Actions "Link to Actions.md/####Modifying-an-Asset"

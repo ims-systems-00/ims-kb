@@ -10,7 +10,7 @@ For more information on Incidents click [here][Incidents] or scroll down.
 
 ## Raising an Incident
 
-You must first choose the **Business function** you are assigning the incdent to. The business function selector is a drop-down menu, from which you can select from the business functions your organisation has created.
+You must first choose the **Business function** you are assigning the incident to. The business function selector is a drop-down menu, from which you can select from the business functions your organisation has created.
 
 After this you must enter the `Title` you want to give the incident, followed by a `Description` of the event. `Method of notification` is how you were made aware of the incident, this could be an email that was sent to your department.
 
@@ -45,4 +45,4 @@ Technical queries and advice. Resolution in 72 hours.
 
 
 [Incidents]: /link/to/Actions "Link to Actions.md/##Incidents"
-[Modifying an Incident]: /link/to/Actions "Link to Actions.md/####Modifying an Incident"
+[Modifying an Incident]: /link/to/Actions "Link to Actions.md/####Modifying-an-Incident"
