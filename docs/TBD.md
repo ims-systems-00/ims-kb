@@ -1,15 +1,7 @@
 # To be done:
 
-## New User.md
-
 + Profile
-
-## Navigation.md
-
-+ everything
-
-# Guides
-
++ Navigation.md
 + Dashboard
 + Our IMS
 + Inventory
