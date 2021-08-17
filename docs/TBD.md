@@ -69,3 +69,5 @@ incident management, actions, expand on mitigated/accepted
 |Actions				|**Continual Improvement**		|General Information/Actions.md 							|
 |Actions				|**Sorting Features**			|General Information/Actions.md 							|
 |Calendar				|**Add Calendar Event**			|14_Calendar/Add_Calendar.md 								|
+
+End of 17.08.2021
