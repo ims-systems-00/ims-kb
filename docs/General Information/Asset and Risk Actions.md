@@ -5,16 +5,19 @@
 *Please note that* `Partner` *business functions can only view Assets that they have been given access to AND are owned by their business function.*
 
 ### Actions
+
 For each `Asset`, you can `Modify` or `Delete` each entry in the `Inventory` system for each individual category.
 
 ![Image here](https://imssystems.tech/assets/images/docs/img.png "Asset Actions (Amend, Delete).png")
 
 #### Modifying an Asset
+
 In order to `Amend` an asset, select the pencil icon under the `Actions` field.
 
 When modifying an Asset, you may be limited by your level of access.
 
 #### Deleting an Asset
+
 In order to `Delete` an Asset, select the trash can icon under the `Actions` field.
 
 When deleting an Asset, you will first be asked to confirm you really wish to delete the asset. Please be warned that deleted assets cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
@@ -28,16 +31,19 @@ Simply select `Cancel` to stop the deletion process or `Confirm` in order to del
 *Please note that* `Partner` *business functions can only view Assets, Risks that they have been given access to AND are owned by their business function.*
 
 ### Actions
+
 For each `Risk`, you can either `Modify`, `Escalate` or `Delete` them, much like with `Assets`.
 
 ![Image here](https://imssystems.tech/assets/images/docs/img.png "Risk Actions (Amend, Escalate, Delete).png")
 
 #### Modifying a Risk
+
 In order to `Amend` a risk, select the pencil icon under the `Actions` field.
 
 When modifying a Risk, you may be limited by your level of access.
 
 #### Escalating a Risk
+
 When escalating a Risk, you will be first asked to confirm escalation of the Risk. Note that escalating a Risk will notify the Head of Service and Superadmin accounts of the risk that was escalated, as well as the `owner` of the risk.
 
 ![Image here](https://imssystems.tech/assets/images/docs/img.png "Risk Escalation Confirmation.png")
@@ -47,6 +53,7 @@ Simply select `Cancel` to stop the escalation process or `Confirm` in order to e
 ![Image here](https://imssystems.tech/assets/images/docs/img.png "Risk Escalation Location.png")
  
 #### Deleting a Risk
+
 In order to `Delete` a Risk, select the trash can icon under the `Actions` field.
 
 When deleting a Risk, you will first be asked to confirm you really wish to delete the asset. Please be warned that deleted assets cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
@@ -54,3 +61,5 @@ When deleting a Risk, you will first be asked to confirm you really wish to dele
 ![Image here](https://imssystems.tech/assets/images/docs/img.png "Risk Delete Confirmation.png")
  
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Risk.
+
+[Backup]: link/to/backup/guide "Link to Backup Guide" **not yet made**

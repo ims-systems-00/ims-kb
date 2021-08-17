@@ -23,6 +23,7 @@ img
 + supplier management
 
 #### Account
+
 **not made**
 `profile` 
 `change password` link to #forgot-password
@@ -32,6 +33,7 @@ img
 ### Sidebar
 
 #### Dashboard
+
 **not made**
 Link to dashboard guide (need to make)
 What does the contextual dashboard show
@@ -39,6 +41,7 @@ include partner roles only seeing what they've given access to
 5 min delay
 
 #### Our IMS
+
 **not made**
 Make sure to give guide link to configuration for first-time setup
 
@@ -53,6 +56,7 @@ Make sure to give guide link to configuration for first-time setup
 [Asset Actions]: link/to/actions "Asset and Risk Actions, #Assets"
 
 #### Risk Management
+
 **not made**
 [How to add risks to the Risk Management System][Risk Management] **not made**
 [How to modify and delete Risks within the Risk Management System][Risk Actions]
@@ -102,6 +106,6 @@ Link to guide, **not made**
 
 Link to guide, **not made**
 
-
 #### User Access
+
 Link to guide, **not made**

@@ -1,11 +1,13 @@
-# Inventory Management
+# Inventory Management - Adding Assets
 
 ## Getting Started
+
 Get started by navigating to and clicking on the `Inventory` button on the `Sidebar`, which is on the left-hand side.
 
 For more information on Assets click [here][Assets] or scroll down.
 
 ## Categories
+
 After clicking the `Inventory` button, you must now select which category you are wanting to add an asset to, or view the inventory of.
 
 The following categories are available.
@@ -16,6 +18,7 @@ The following categories are available.
 + Information
 
 ### Hardware
+
 For **Hardware** assets, you must first choose the **Business function** you are assigning the hardware asset to. The business function selector is a drop-down menu, from which you can select from the business functions your organisation has created.
 
 From here, you enter the `name` and `tag` of the asset followed by the team member who is the `owner` of it. Following on, you need to enter the date the asset was `assigned` to the team member - this can be a date in the past or the future.
@@ -27,6 +30,7 @@ After entering the `cost` of the asset, click `confirm` to submit the asset to y
 ![Image here](https://imssystems.tech/assets/images/docs/img.png "Completed Hardware Asset Form")
 
 ### Software
+
 For **Software** assets, you must first choose the **Business function** you are assigning the software asset to. The business function selector is a drop-down menu, from which you can select from the business functions your organisation has created.
 
 From here, you enter the `name` of the software, followed by the `number of licenses` owned as well as the `number of installs` of the software in question.
@@ -36,6 +40,7 @@ After entering the `cost` of the asset, click `confirm` to submit the asset to y
 ![Image here](https://imssystems.tech/assets/images/docs/img.png "Completed Software Asset Form.png")
 
 ### People
+
 For **People** assets, you must first choose the **Business function** you are assigning the person to. The business function selector is a drop-down menu, from which you can select from the business functions your organisation has created.
 
 From here, you enter the `name` of the staff member, follow by their `role`, `responsibilities` and `skills`.
@@ -45,6 +50,7 @@ After entering these details, click `confirm` to submit the asset to your organi
 ![Image here](https://imssystems.tech/assets/images/docs/img.png "Completed People Asset Form.png")
 
 ### Premises
+
 For **Premises** assets, you must first choose the **Business function** you are assigning the building to. The business function selector is a drop-down menu, from which you can select from the business functions your organisation has created.
 
 From here, you enter the `name` of the building, followed by the `address` and `postal code`.
@@ -54,6 +60,7 @@ After entering the `cost` of the asset, click `confirm` to submit the asset to y
 ![Image here](https://imssystems.tech/assets/images/docs/img.png "Completed Premises Asset Form.png")
 
 ### Information
+
 For **Information** assets, you mist first choose the **Business function** you are assigning the Information to. The business function selector is a drop-down menu, from which you can select from the business functions your organisation has created.
 
 From here, you description of the `Information inventory`, for example *Contractual Data* or *Employee Data* etc, followed by the `title` of the information as well as what `format` it is in, for examle *PDF* or *DOCX* are methods in which the above data may be stored.
@@ -65,6 +72,5 @@ After selecting the `owner` of the information, and the `cost` of the asset, cli
 ![Image here](https://imssystems.tech/assets/images/docs/img.png "Completed Information Asset Form.png")
 
 
-[Assets]: /link/to/im/assets "Link to Inventory Management.md/##Assets"
-[Modifying an Asset]: #modifying-an-asset "Link to ####Modifying an Asset"
-[Backup]: link/to/backup/guide "Link to Backup Guide"
+[Assets]: /link/to/AssetActions "Link to Asset and Risk Actions.md/##Assets"
+[Modifying an Asset]: /link/to/AssetActions "Link to Asset and Risk Actions.md/####Modifying an Asset"

@@ -1,16 +1,19 @@
 # General Information
 
 ## New User
+
 Upon being granted access either by iMS or your organisation, you will receive an email containing your login details.
 
 ![Image here](https://imssystems.tech/assets/images/docs/img.png "New User Email.png")
 
 ### Logging In 
+
 You will need to access your organisation's iMS System, you will have received the website address during your onboarding process. From here, login to the website using the login details found in the email. 
 
 ![Image here](https://imssystems.tech/assets/images/docs/img.png "Log In.png")
 
 ### Setting a Password
+
 Upon logging in for the first time, you will be prompted to change your password for security purposes. Your password must contain at least 8 characters.
 
 ![Image here](https://imssystems.tech/assets/images/docs/img.png "First Time Login Change Password.png")
@@ -19,6 +22,7 @@ Take note of this new password, as it will be what you log into the system with 
 If you have forgotten your password, click [here][Forgot Password].
 
 #### Successful Login
+
 If you enter your email and password correctly, then you will see the notice below.
 
 ![Image here](https://imssystems.tech/assets/images/docs/img.png "Log In Successful.png")
@@ -26,6 +30,7 @@ If you enter your email and password correctly, then you will see the notice bel
 After this you will be brought straight to the `Dashboard`.
 
 #### Unsuccessful Login
+
 If you do not enter your Email or Password correctly, then you will see the notice below.
 
 ![Image here](https://imssystems.tech/assets/images/docs/img.png "Log In Failure.png")
@@ -55,6 +60,7 @@ This will take you to a form, which requires you to first enter your current pas
 After typing your new password out, click the `Confirm` button to change your password. 
 
 #### Forgot Password
+
 If you have forgotten your password and need a newly generated password, you click on `Forgot Password?` from your organisation's login screen. Please ensure you are on the correct web address, as you will not be sent a password reset if you are attempting to login to the wrong iMS System.
 
 ![Image here](https://imssystems.tech/assets/images/docs/img.png "Log In.png")

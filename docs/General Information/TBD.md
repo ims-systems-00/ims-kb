@@ -1,16 +1,19 @@
 #To be done:
 
 ## New User.md
+
 + Profile
 
 ## Navigation.md
+
 + everything
 
 # Guides
+
 + Dashboard
 + Our IMS
 + Inventory
-+ Risk Management
++ Risk Management **working on this atm**
 + Incident Management
 + Audits
 + Management Reviews
