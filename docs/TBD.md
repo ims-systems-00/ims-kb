@@ -32,7 +32,7 @@ incident management, actions, expand on mitigated/accepted
 |KPI/Objectives|Add KPI, Business function, Organisation, Actions|
 |Continual Improved|Add new, OFI, Implemented, Actions|
 |Compliance|Actions, Comments + Upload, Score system|
-|Supplier Management|Add supplier, Supplier List, Actions|
+|Supplier Management|Supplier List, Actions|
 |Document Management|Add Documents, Privacy, Sharing, Actions|
 |Task Manager|My tasks, Requests|
 |Calendar|Actions, Add calendar, Automatic|
@@ -53,3 +53,4 @@ incident management, actions, expand on mitigated/accepted
 |**Adding Risks**|General Information/Risk Management/Adding Risks.md|
 |**Add Tasks**|General Information/Task Manager/Add Task.md|
 |**Task Manager Actions**|General Information/Actions.md|
+|**Add Supplier**|General Information/Supplier Management/Add Supplier.md|
