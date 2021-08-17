@@ -2,10 +2,14 @@
 
 ## Doing Right Now
 
-+ Calendar | Add Calendar Event | 14_Calendar/Add_Calendar.md
- done
 Need to add Calendar to /Actions.md
 
+color scheme
++ red = p1 incident
++ blue/azure = Management review
++ green = scheduled audits
++ orange = supplier review
+gray = personal/custom events
 
 ## To be done:
 
@@ -41,7 +45,7 @@ incident management, actions, expand on mitigated/accepted
 |Supplier Management|Supplier List, Actions|
 |Document Management|Add Documents, Privacy, Sharing, Actions|
 |Task Manager|My tasks, Requests|
-|Calendar|Actions, Add calendar, Automatic|
+|Calendar|Actions, Automatic|
 |User Management|User access management, Action, Toolkit|
 |User Management| License, request, actions|
 
@@ -63,4 +67,4 @@ incident management, actions, expand on mitigated/accepted
 |Continual Improvement|**Add OFI**|General Information/Continual Improvement/Add OFI.md|
 |Actions|**Continual Improvement**|General Information/Actions.md|
 |Actions|**Sorting Features**|General Information/Actions.md|
-
+|Calendar|**Add Calendar Event**|14_Calendar/Add_Calendar.md|
