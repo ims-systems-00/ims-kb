@@ -126,8 +126,15 @@ Simply select `Cancel` to stop the deletion process or `Confirm` in order to del
 
 
 
+### Task Manager
 
+#### Modifying a Task
 
+#### Deleting a Task
+
+#### Sharing a Private Task
+
+#### Assigning a Task
 
 
 

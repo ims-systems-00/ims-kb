@@ -6,7 +6,7 @@ Get started by navigating to and clicking on the `Incident Management` button on
 
 Once you have selected this you will be able to raise an incident.
 
-For more information on Incidents click [here][Incidents] or scroll down.
+For more information on Incidents click [here][Incidents].
 
 ## Raising an Incident
 

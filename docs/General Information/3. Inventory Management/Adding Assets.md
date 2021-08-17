@@ -4,7 +4,7 @@
 
 Get started by navigating to and clicking on the `Inventory` button on the `Sidebar`, which is on the left-hand side.
 
-For more information on Assets click [here][Assets] or scroll down.
+For more information on Assets click [here][Assets].
 
 ## Categories
 
