@@ -1,4 +1,4 @@
-#To be done:
+# To be done:
 
 ## New User.md
 
@@ -13,7 +13,7 @@
 + Dashboard
 + Our IMS
 + Inventory
-+ Risk Management **working on this atm**
++ Risk Management
 + Incident Management
 + Audits
 + Management Reviews
@@ -25,3 +25,9 @@
 + Task Manager
 + Calendar
 + User Access
+
+
+
+# Done
+First time **Configuration.md**
+**New User.md** guide
