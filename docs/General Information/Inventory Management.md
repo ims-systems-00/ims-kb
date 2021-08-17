@@ -65,6 +65,6 @@ After selecting the `owner` of the information, and the `cost` of the asset, cli
 ![Image here](https://imssystems.tech/assets/images/docs/img.png "Completed Information Asset Form.png")
 
 
-[Assets]: #assets "Link to ##Assets"
+[Assets]: /link/to/im/assets "Link to Inventory Management.md/##Assets"
 [Modifying an Asset]: #modifying-an-asset "Link to ####Modifying an Asset"
 [Backup]: link/to/backup/guide "Link to Backup Guide"
