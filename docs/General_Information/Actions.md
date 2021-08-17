@@ -18,19 +18,19 @@ Each table allows you to search relevant information to find a match. For exampl
 + Returned Date
 + Business Function
 
-![Hardware Asset Search]("Hardware_Asset_Search")
+![Hardware Asset Search](../../static/img/Doc_Img/General_Information/Actions/Search/Hardware_Asset_Search.png)
 
 #### Sort
 
 Each table also allows you to customise how you wish to sort it. At the moment, you can only sort by A-Z (1-9) and Z-A (9-1) by click the arrow buttons next to the header of each column in the table.
 
-![Sort By]("Hardware_Sort_By")
+![Sort By](../../static/img/Doc_Img/General_Information/Actions/Search/Hardware_Sort_By.png)
 
 #### Number of Results
 
 You can also adjust the number of rows to display at once. The default number of displayed rows is 10, and the maximum is 100.
 
-![Number of Rows]("Number_of_Rows")
+![Number of Rows](../../static/img/Doc_Img/General_Information/Actions/Search/Number_of_Rows.png)
 
 ### Assets
 
@@ -50,7 +50,7 @@ In order to `Delete` an Asset, select the trash can icon under the `Actions` fie
 
 When deleting an Asset, you will first be asked to confirm you really wish to delete the asset. Please be warned that deleted assets cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
 
-![Asset Delete Confirmation](https://imssystems.tech/assets/images/docs/img.png "Asset Delete Confirmation.png")
+![Asset Delete Confirmation](https://imssystems.tech/static/img/Doc_Img/General_Information/Actions/Asset_Actions/Asset_Delete_Confirmation.png)
 
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Asset.
 
