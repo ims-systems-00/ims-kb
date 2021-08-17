@@ -1,5 +1,3 @@
-# TBD
-
 ## Doing Right Now
 
 Need to add Calendar to /Actions.md
