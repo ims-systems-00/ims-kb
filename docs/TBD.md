@@ -2,7 +2,9 @@
 
 ## Doing Right Now
 
-+ 
++ Calendar | Add Calendar Event | 14_Calendar/Add_Calendar.md
+ done
+Need to add Calendar to /Actions.md
 
 
 ## To be done:
@@ -31,9 +33,7 @@ incident management, actions, expand on mitigated/accepted
 | -------- | ------- |
 |Dashboard|Overview, Dashboard report, graphs|
 |Our IMS|Business function, Compliance, System Dates, Incident Resolution, Our IMS|
-|Inventory|Table Sort by, Table Navigation|
-|Risk Management|Table Sort by, Table Navigation|
-|Incident Management|Table sort by, Table navigation, Incident List, Resolved List, Escalated|
+|Incident Management|Incident List, Resolved List, Escalated|
 |Audits| Add Audits, Schedule, Completed, Actions|
 |Management Reviews| Add Review, Schedule, Completed, Actions|
 |KPI/Objectives|Add KPI, Business function, Organisation, Actions|
