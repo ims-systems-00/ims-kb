@@ -64,28 +64,6 @@ After selecting the `owner` of the information, and the `cost` of the asset, cli
 
 ![Image here](https://imssystems.tech/assets/images/docs/img.png "Completed Information Asset Form.png")
 
-## Assets
-
-### Actions
-For each `Asset`, you can `Modify` or `Delete` each entry into the `Inventory` system for each individual category.
-
-![Image here](https://imssystems.tech/assets/images/docs/img.png "Asset Actions (Amend, Delete).png")
-
-#### Modifying an Asset
-In order to modify an asset, select the pencil icon under the `Actions` field.
-
-When modifying an Asset, you will be able to amend or update the fields in question, however you may be limited by your level of access.
-
-*Please note that* `Partner` *business functions can only view Assets, Risks, Suppliers etc that they have been given access to AND are owned by their business function.*
-
-#### Deleting an Asset
-In order to delete an asset, select the trash can icon under the `Actions` field.
-
-When deleting an Asset, you will first be asked to confirm you really wish to delete the asset. Please be warned that deleted assets cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
-
-![Image here](https://imssystems.tech/assets/images/docs/img.png "Asset Delete Confirmation.png")
-
-Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Asset.
 
 [Assets]: #assets "Link to ##Assets"
 [Modifying an Asset]: #modifying-an-asset "Link to ####Modifying an Asset"
