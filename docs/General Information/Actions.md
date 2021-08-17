@@ -94,4 +94,48 @@ When deleting an Incident, you will first be asked to confirm you really wish to
  
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Incident.
 
+### OFI
+
+*Please note that* `Partner` *business functions can only view OFIs that they have been given access to AND are owned by their business function.*
+
+For each `OFI`, you can either `Modify` or `Delete` them, much like with `Assets`, `Risks` and `Incidents`, however you can also `Implement` an OFI from the `Modify` menu.
+
+![Image here](https://imssystems.tech/assets/images/docs/img.png "OFI Actions (Amend, Delete).png")
+
+#### Modifying an OFI
+
+In order to `Amend` an OFI, select the pencil icon under the `Actions` field, when finished click on `Update`.
+
+When modifying an OFI, you may be limited by your level of access.
+
+#### Implementing an OFI
+
+In order to `Implement` an incident, select the pencil icon under the `Actions` field, then click the `Implement` button on the right of the `Update` button.
+
+#### Deleting an OFI
+
+In order to `Delete` an OFI, select the trash can icon under the `Actions` field.
+
+When deleting an OFI, you will first be asked to confirm you really wish to delete the OFI. Please be warned that deleted OFIs cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
+
+![Image here](https://imssystems.tech/assets/images/docs/img.png "OFI Delete Confirmation.png")
+**I havent put the image in upload, due to the OFI popup saying** "This risk will be deleted".
+
+ 
+Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the OFI.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [Backup]: link/to/backup/guide "Link to Backup Guide" **not yet made**
