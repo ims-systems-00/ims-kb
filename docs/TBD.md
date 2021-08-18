@@ -1,36 +1,30 @@
 ## Doing Right Now
 
-Dashboard
-+ overview
-+ dashboard report explanation
-+ graphs explanation and ?
-
-## To be done:
-
-+ Profile
-+ Navigation.md
-+ Dashboard
 + Our IMS
-+ Inventory
-+ Risk Management
-+ Incident Management
-+ Audits
-+ Management Reviews
-+ Continual Improvement
-+ Compliance
-+ Supplier Management
-+ Document Management
-+ Project Management
-+ Task Manager
-+ Calendar
-+ User Access
+1. Business Function
+	1. Creating a BF -> Link to configuration.md
+	2. Explanation of the Access Type
+2. Compliance
+	1. Creating a Compliance Body
+3. System Dates
+	1. How to set a report date
+	2. What the report date does (dashboard)
+	3. Report Intervals
+	4. What report interval does (sends report?)
+4. Incident Resolution
+	1. How to set resolution times
+	2. What this affects
+5. Our IMS
+	1. Business Function
+	2. Editing them
+	3. Compliance Body
+	4. Editing them
 
-incident management, actions, expand on mitigated/accepted
 ## To Be Done
 
 |Subject	 		|Subtopics																	|
 | ----------------- | ------------------------------------------------------------------------- |
-|Dashboard			|Overview, Dashboard report, graphs 										|
+|Dashboard			|Overview 																	|
 |Our IMS			|Business function, Compliance, System Dates, Incident Resolution, Our IMS	|
 |Incident Management|Incident List, Resolved List, Escalated									|
 |Audits				|Add Audits, Schedule, Completed, Actions									|
@@ -47,9 +41,11 @@ incident management, actions, expand on mitigated/accepted
 
 ## Done
 
+### End of 17.08.21
+
 |Subject				| Specific 						| Location	 												|
-| --------------------- | ----------------------------- | --------------------------------------------------------- |
-|Configuration 			|**First time configuration**	|General Information/intro.md 								|
+| :-------------------- | :---------------------------- | :-------------------------------------------------------- |
+|Configuration 			|**First time configuration**	|intro.md 													|
 |User Guide 			|**New User Guide**				|General Information/New User.md  							|
 |Main Menu 				|**Toggle info**				|General Information/Toggles.md 							|
 |Actions 				|**Asset, Risk, Incident**		|General Information/Toggles.md 							|
@@ -62,7 +58,9 @@ incident management, actions, expand on mitigated/accepted
 |Continual Improvement	|**Add OFI**					|General Information/Continual Improvement/Add OFI.md 		|
 |Actions				|**Continual Improvement**		|General Information/Actions.md 							|
 |Actions				|**Sorting Features**			|General Information/Actions.md 							|
-|Calendar				|**Add Calendar Event**			|14_Calendar/Add_Calendar.md 								|
-|Actions				|**Calender Actions**			|General Information/Actions.md 							|
 
-End of 17.08.2021
+### End of 18.08.21
+
+|Calendar				|**Add Calendar Event**			|General Information/Calendar/Add_Calendar.md 				|
+|Actions				|**Calendar Actions**			|General Information/Actions.md 							|
+|Information			|**Converted Excel Sheet**		|info.md 													|
