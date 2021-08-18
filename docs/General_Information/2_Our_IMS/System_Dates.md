@@ -24,3 +24,5 @@ After selecting from the drop-down menu, click on `Confirm` to update your chang
 Report intervals allow you to pick a day for each period where they will be sent an email containing **to be done**
 
 Below the form, you can see a table with all the information about who receives a report, how often and which day of the month. You can also remove a person from receiving a report by clicking on the trash can icon to the right of the day.
+
+[!Report Intervals](Report_Interval.png "Report Interval Form and Table")
