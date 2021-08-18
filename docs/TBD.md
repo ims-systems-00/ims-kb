@@ -5,7 +5,7 @@
 	1. Creating a BF -> Link to configuration.md **done**
 	2. Explanation of the Access Type **done**
 2. Compliance
-	1. Creating a Compliance Body
+	1. Creating a Compliance Body **done, but need to create another one**
 3. System Dates
 	1. How to set a report date
 	2. What the report date does (dashboard)

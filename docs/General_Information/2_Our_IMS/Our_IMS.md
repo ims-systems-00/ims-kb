@@ -35,17 +35,41 @@ Please view the [User Information and Accessibility][Info] for more information.
 
 You can view the steps on creating a Compliance Body [here][Add Compliance Body].
 
-
+Compliance bodies do not have access to all the functions of the iMS System. Please view the [User Information and Accessibility][Info] for more information on what permissions they have, can be given, and cannot be given.
 
 # Our IMS - System Dates
 
+## Setting a Report Date
++ How to set one up
++ What it does
+
+## Report Intervals
++ How to add them
++ What they do
+
 # Our IMS - Incident Resolution
+
+## Settings Resolution Times
++ How to set them up
++ What they do
 
 # Our IMS - Our IMS
 
+## Business Functions
 
+### Job Roles
++ How to add a user
++ granting access
 
+### Premises
++ Form
++ Note it doesnt change assets/premises
 
+## Compliance Bodies
+
+### Auditors
++ How to add a user
++ granting access
 
 
 
