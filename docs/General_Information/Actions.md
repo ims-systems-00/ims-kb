@@ -32,7 +32,7 @@ You can also adjust the number of rows to display at once. The default number of
 
 ![Number of Rows](../../static/img/Doc_Img/General_Information/Actions/Search/Number_of_Rows.png)
 
-### Assets
+### Inventory Management (Assets)
 
 For each `Asset`, you can `Modify` or `Delete` each entry in the `Inventory` system for each individual category.
 
@@ -54,7 +54,7 @@ When deleting an Asset, you will first be asked to confirm you really wish to de
 
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Asset.
 
-### Risks
+### Risk Management (Risks)
 
 *Please note that* `Partner` *business functions can only view Risks that they have been given access to AND are owned by their business function.*
 
@@ -88,7 +88,7 @@ When deleting a Risk, you will first be asked to confirm you really wish to dele
  
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Risk.
 
-### Incidents
+### Incident Management (Incidents)
 
 *Please note that* `Partner` *business functions can only view Risks that they have been given access to AND are owned by their business function.*
 
@@ -122,7 +122,7 @@ When deleting an Incident, you will first be asked to confirm you really wish to
  
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Incident.
 
-### OFI
+### Continual Improvement (OFIs)
 
 *Please note that* `Partner` *business functions can only view OFIs that they have been given access to AND are owned by their business function.*
 
@@ -152,9 +152,7 @@ When deleting an OFI, you will first be asked to confirm you really wish to dele
  
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the OFI.
 
-
-
-### Task Manager
+### Task Manager (Tasks)
 
 *Please note that* `Partner` *business functions can only view Tasks that they have been given access to AND are owned by their business function.*
 
@@ -179,6 +177,35 @@ When deleting a Task, you will first be asked to confirm you really wish to dele
 ![Task Manager Delete Confirmation](https://imssystems.tech/assets/images/docs/img.png "Task Manager Delete Confirmation.png")
  
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Task.
+
+### Calendar (Events)
+
+For each `Event` you can either `Modify` or `Delete` them.
+
+#### Colour Scheme
+
++ <span style="background-color:#fd5d93; color:white">&nbsp;Red </span> = P1 Incident
++ <span style="background-color:#1d8cf8; color:white">&nbsp;Azure </span> = Management Review
++ <span style="background-color:#00bf9a; color:white">&nbsp;Green </span> = Scheduled Audits
++ <span style="background-color:#ff8d72; color:white">&nbsp;Orange </span> = Supplier Review
++ <span style="background-color:#344675; color:white">&nbsp;Grey </span> = Personal/Custom Events
+
+#### Modifying an Event
+
+In order to `Amend` the details of an Event, you must first find the event you wish to change the details of then click on the name of the Event. The event details should popup in a form that can be edited, edit the details you wish to change and click on `Update` to save your changes.
+
+**Please note that if the event is not a personal/custom event that you have created within the Calendar you may not be able to edit certain details.**
+
+![Modify Calendar Event]["Calendar_Modify_Actions.png"]
+
+#### Deleting an Event
+
+In order to `Delete` an Event, you must first find th eevent you wish to delete, then click on the name of the Event. The event details should popup in a form. From here, click on the `Delete` button and the event will be deleted.
+
+**If you cannot find a Delete button, the event you are attempting to delete is not a personal/custom event that you have created.**
+
+
+
 
 
 
