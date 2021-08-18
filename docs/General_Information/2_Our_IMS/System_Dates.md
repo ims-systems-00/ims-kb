@@ -1,11 +1,11 @@
 # Our IMS - System Dates and Report Intervals
 
-## Setting a Report Date
+## Setting a System Date
 
 You first need to navigate to `Our IMS` on the `Sidebar` which is on the left-hand side. From here, you need to switch to the tab called `System Dates`.
 Here, there are two forms. The first form is for System Dates which requires you to pick a `System Start Date` and a `System End Date`. After selecting your dates click on `Confirm` to save your changes.
 
-System Dates allows you to pick a start and end date that the Dashboard should display, which will **to be done**
+System Dates allows you to pick a start and end date that the Dashboard should display and use the data of, this allows you to set goals for your organisation and keep track of your progress throughout the year on the dashboard. Once the date has passed, the data is archived **where?** and a new file is created from which the Dashboard will start off as though a blank sheet.
 
 ![System Dates Form](System_Dates_Form.png "System Dates Form")
 
