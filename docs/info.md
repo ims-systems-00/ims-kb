@@ -167,4 +167,3 @@ th {
 		</tr>
 	</tbody>
 </table>
-

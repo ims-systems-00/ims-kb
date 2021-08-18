@@ -204,12 +204,4 @@ In order to `Delete` an Event, you must first find th eevent you wish to delete,
 
 **If you cannot find a Delete button, the event you are attempting to delete is not a personal/custom event that you have created.**
 
-
-
-
-
-
-
-
-
 [Backup]: link/to/backup/guide "Link to Backup Guide" **not yet made**
