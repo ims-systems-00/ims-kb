@@ -37,7 +37,7 @@ Technical queries and advice. Resolution in 72 hours.
 
 **Please note that the** `is organisational` **checkbox only applies to P1 incidents, as they affect the entire system.**
 
-
+To learn how to make changes to your resolution times, please follow [this guide][Our IMS - Resolution Times]
 
 
 
@@ -46,3 +46,4 @@ Technical queries and advice. Resolution in 72 hours.
 
 [Incidents]: /link/to/Actions "Link to Actions.md/##Incidents"
 [Modifying an Incident]: /link/to/Actions "Link to Actions.md/####Modifying-an-Incident"
+[Our IMS - Resolution Times]: /link/to/Our_IMS/Incident_Resolution.md "Incident Resolution Times"
