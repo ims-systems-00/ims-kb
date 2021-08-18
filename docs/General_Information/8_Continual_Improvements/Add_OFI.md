@@ -19,4 +19,4 @@ Following this, fill the textbox labelled `Opportunity for improvement` with the
 
 ![Image here](https://imssystems.tech/assets/images/docs/img.png "Completed OFI Form.png")
 
-[OFI]: link/to/actions "Actions/#OFI"
+[OFI]: link/to/actions "Actions/###Continual Improvement (OFI)"

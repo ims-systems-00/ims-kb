@@ -2,8 +2,8 @@
 
 + Our IMS
 1. Business Function
-	1. Creating a BF -> Link to configuration.md
-	2. Explanation of the Access Type
+	1. Creating a BF -> Link to configuration.md **done**
+	2. Explanation of the Access Type **done**
 2. Compliance
 	1. Creating a Compliance Body
 3. System Dates
@@ -64,3 +64,4 @@
 |Calendar				|**Add Calendar Event**			|General Information/Calendar/Add_Calendar.md 				|
 |Actions				|**Calendar Actions**			|General Information/Actions.md 							|
 |Information			|**Converted Excel Sheet**		|info.md 													|
+|Dashboard				|**Dashboard information**		|General Information/Dashboard/Dashboard.md 				|
