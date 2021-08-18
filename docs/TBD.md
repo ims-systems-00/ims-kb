@@ -1,18 +1,13 @@
 ## Doing Right Now
 
 + Our IMS
-1. Business Function
-	1. Creating a BF -> Link to configuration.md **done**
-	2. Explanation of the Access Type **done**
-2. Compliance
-	1. Creating a Compliance Body **need to create another one**
 3. System Dates
 	1. How to set a report date
 	2. What the report date does (dashboard)
 	3. Report Intervals
 	4. What report interval does (sends report?)
 4. Incident Resolution
-	1. How to set resolution times
+	1. How to set resolution times **done**
 	2. What this affects
 5. Our IMS
 	1. Business Function
@@ -25,7 +20,7 @@
 |Subject	 		|Subtopics																	|
 | ----------------- | ------------------------------------------------------------------------- |
 |Dashboard			|Overview 																	|
-|Our IMS			|Business function, Compliance, System Dates, Incident Resolution, Our IMS	|
+|Our IMS			|System Dates, Incident Resolution, Our IMS									|
 |Incident Management|Incident List, Resolved List, Escalated									|
 |Audits				|Add Audits, Schedule, Completed, Actions									|
 |Management Reviews	|Add Review, Schedule, Completed, Actions									|
@@ -61,7 +56,13 @@
 
 ### End of 18.08.21
 
+|Subject				| Specific 						| Location	 												|
+| :-------------------- | :---------------------------- | :-------------------------------------------------------- |
 |Calendar				|**Add Calendar Event**			|General Information/Calendar/Add_Calendar.md 				|
 |Actions				|**Calendar Actions**			|General Information/Actions.md 							|
 |Information			|**Converted Excel Sheet**		|info.md 													|
 |Dashboard				|**Dashboard information**		|General Information/Dashboard/Dashboard.md 				|
+|Our IMS				|**Business Function creation** |General Information/Our_IMS/Business_Function.md 			|
+|Our IMS				|**Business Func - Access Type**|General Information/Our_IMS/Business_Function.md 			|
+|Our IMS				|**Creating compliance body**	|General Information/Our_IMS/Create_Compliance_Body.md 		|
+|Our IMS 				|**Incident Resolution Time**	|General Information/Our_IMS/Incident_Resolution.md 		|
