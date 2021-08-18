@@ -52,7 +52,7 @@ Navigate to the `License Management` menu by using the `Sidebar`, scroll down to
 
 Once again, attempt to click on the `key` icon on a user, this time the system should grant them access to the iMS System and send out a Welcome Email with the users' login credentials. 
 
-The credentials in the Email will look like this
+The credentials in the Email might look like this
 Email : <your.name@domain.com>
 Password : `system generated password` ie: (jahd8234bj^&%d)
 
@@ -62,4 +62,4 @@ You are recommended to browse the "General Information" portion of the User Manu
 [iMS]: https://imssystems.tech/ "iMS Homepage"
 [myIMS]: https://my.imssystems.tech/ "Demo iMS"
 [Permissions]: link/to/permissions/page "Link to Permissions Page"
-[Troubleshooting Guide]: link/to/troubleshooting/page "Not yet made"
+[Troubleshooting Guide]: link/to/troubleshooting/page **Not yet made**
