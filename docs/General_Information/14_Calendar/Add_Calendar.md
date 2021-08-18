@@ -18,5 +18,5 @@ Once you are done entering the details, simply click `Create` and the event will
 
 ![Completed Calendar Form](Completed Calendar Form.png)
 
-[Calendar]: /link/to/Actions "Link to Actions.md/##Calendar"
+[Calendar]: /link/to/Actions "Link to Actions.md/###Calendar"
 [Modifying Calendar]: /link/to/Actions "Link to Actions.md/####Modifying-a-Calendar-Event"

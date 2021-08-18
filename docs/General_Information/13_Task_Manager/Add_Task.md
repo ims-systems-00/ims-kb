@@ -16,5 +16,5 @@ You must input a due date for the task - this is the deadline of the task.
 
 ![Completed Task Manager Form](https://imssystems.tech/assets/images/docs/img.png "Completed Task Manager Form")
 
-[Task Manager]: /link/to/Actions "Link to Actions.md/##Task Manager"
+[Task Manager]: /link/to/Actions "Link to Actions.md/###Task Manager"
 [Modifying a Task]: /link/to/Actions "Link to Actions.md/####Modifying-a-Task"
