@@ -56,13 +56,16 @@
 
 ### End of 18.08.21
 
-|Subject				| Specific 						| Location	 												|
-| :-------------------- | :---------------------------- | :-------------------------------------------------------- |
-|Calendar				|**Add Calendar Event**			|General Information/Calendar/Add_Calendar.md 				|
-|Actions				|**Calendar Actions**			|General Information/Actions.md 							|
-|Information			|**Converted Excel Sheet**		|info.md 													|
-|Dashboard				|**Dashboard information**		|General Information/Dashboard/Dashboard.md 				|
-|Our IMS				|**Business Function creation** |General Information/Our_IMS/Business_Function.md 			|
-|Our IMS				|**Business Func - Access Type**|General Information/Our_IMS/Business_Function.md 			|
-|Our IMS				|**Creating compliance body**	|General Information/Our_IMS/Create_Compliance_Body.md 		|
-|Our IMS 				|**Incident Resolution Time**	|General Information/Our_IMS/Incident_Resolution.md 		|
+|Subject				| Specific 							| Location	 												|
+| :-------------------- | :-------------------------------- | :-------------------------------------------------------- |
+|Calendar				|**Add Calendar Event**				|General Information/Calendar/Add_Calendar.md 				|
+|Actions				|**Calendar Actions**				|General Information/Actions.md 							|
+|Information			|**Converted Excel Sheet**			|info.md 													|
+|Dashboard				|**Dashboard information**			|General Information/Dashboard/Dashboard.md 				|
+|Our IMS				|**Business Function creation** 	|General Information/Our_IMS/Business_Function.md 			|
+|Our IMS				|**Business Func - Access Type**	|General Information/Our_IMS/Business_Function.md 			|
+|Our IMS				|**Creating compliance body**		|General Information/Our_IMS/Create_Compliance_Body.md 		|
+|Our IMS 				|**Incident Resolution Time**		|General Information/Our_IMS/Incident_Resolution.md 		|
+|Our IMS 				|**Creating Report Interval** 		|General Information/Our_IMS/System_Dates.md 				|
+|Our IMS				|**Creating System Report**			|General Information/Our_IMS/System_Dates.md 				|
+|Our IMS 				|**Set Incident Resolution Time**	|General Information/Our_IMS/Incident_Resolution.md 		|
