@@ -2,9 +2,9 @@
 
 + Our IMS
 3. System Dates
-	1. How to set a report date
+	1. How to set a report date **done**
 	2. What the report date does (dashboard)
-	3. Report Intervals
+	3. Report Intervals **done**
 	4. What report interval does (sends report?)
 4. Incident Resolution
 	1. How to set resolution times **done**
