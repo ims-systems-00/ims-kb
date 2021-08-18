@@ -4,7 +4,7 @@
 
 Get started by navigating to and clicking on the `Task Manager` button on the `Sidebar`, which is on the left-hand side.
 
-For more information on Task Manager click [here][Task Manager].
+For more information on making changes to your Task Manager click [here][Task Manager].
 
 ### Adding a Task
 

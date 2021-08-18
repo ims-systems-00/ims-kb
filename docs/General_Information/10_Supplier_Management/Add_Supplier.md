@@ -4,7 +4,7 @@
 
 Get started by navigating to and clicking on the `Supplier Management` button on the `Sidebar`, which is on the left-hand side.
 
-For more information on Supplier Management click [here][Supplier Management] or scroll down.
+For more information on making changes to Supplier Management function click [here][Supplier Management].
 
 ### Supplier
 

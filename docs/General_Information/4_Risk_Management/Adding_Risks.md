@@ -4,7 +4,7 @@
 
 Get started by navigating to and clicking on the `Risk Management` button on the `Sidebar`, which is on the left-hand side.
 
-For more information on Risks click [here][Risks].
+For more information on making changes to your Risk Management function click [here][Risks].
 
 ## Categories
 

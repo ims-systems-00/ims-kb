@@ -4,7 +4,7 @@
 
 Get started by navigating to and clicking on the `Continual Improvement` button on the `Sidebar`, which is on the left-hand side.
 
-For more information on OFIs click [here][OFI].
+For more information on making changes to OFIs click [here][OFI].
 
 
 ### OFI

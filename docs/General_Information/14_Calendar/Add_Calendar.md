@@ -4,7 +4,7 @@
 
 Get started by navigating to and clicking on the `Calendar` button at the bottom of the `Sidebar`, which is on the left-hand side.
 
-For more information on the Calendar click [here][Calendar].
+For more information on making changes to the Calendar click [here][Calendar].
 
 ### Adding an Event
 
