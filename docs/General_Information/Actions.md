@@ -122,6 +122,35 @@ When deleting an Incident, you will first be asked to confirm you really wish to
  
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Incident.
 
+### Audits
+
+#### Modifying an Audit
+
+In order to `Amend` an audit, select the clipboard icon under the `Actions` field.
+
+When modifying an Audit, you may be limited by your level of access.
+
+When amending an Audit you can add the following:
++ Non-Conformity
++ Root Cause
++ Risk
++ OFI
+You must add these one at a time by typing them out then clicking the + icon to the right of the textbox.
+
+Use the `Extract Report` tab to send a copy of the Audit Report to an email address.
+
+#### Deleting an Audit
+
+In order to `Delete` an Audit, select the trash can icon under the `Actions` field.
+
+You can delete Audits from the `Schedule` and `Completed` tabs.
+
+When deleting an Audit, you will first be asked to confirm you really wish to delete the incident. Please be warned that deleted incidents cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
+
+![Audit Delete Confirmation](https://imssystems.tech/assets/images/docs/img.png "Audit_Delete_Confirmation.png")
+ 
+Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Incident.
+
 ### Continual Improvement (OFIs)
 
 *Please note that* `Partner` *business functions can only view OFIs that they have been given access to AND are owned by their business function.*
@@ -183,12 +212,13 @@ Simply select `Cancel` to stop the deletion process or `Confirm` in order to del
 For each `Event` you can either `Modify` or `Delete` them.
 
 #### Colour Scheme
-
-+ <span style="background-color:#fd5d93; color:white">&nbsp;Red </span> = P1 Incident
-+ <span style="background-color:#1d8cf8; color:white">&nbsp;Azure </span> = Management Review
-+ <span style="background-color:#00bf9a; color:white">&nbsp;Green </span> = Scheduled Audits
-+ <span style="background-color:#ff8d72; color:white">&nbsp;Orange </span> = Supplier Review
-+ <span style="background-color:#344675; color:white">&nbsp;Grey </span> = Personal/Custom Events
+| Color 																		| Description 			|
+| :---------------------------------------------------------------------------- | :-------------------- |
+|<span style="background-color:#fd5d93; color:white">&nbsp;Red&nbsp;	</span>	| P1 Incident 			|
+|<span style="background-color:#1d8cf8; color:white">&nbsp;Azure&nbsp;	</span>	| Management Review 	|
+|<span style="background-color:#00bf9a; color:white">&nbsp;Green&nbsp;	</span>	| Scheduled Audits		|
+|<span style="background-color:#ff8d72; color:white">&nbsp;Orange&nbsp;	</span>	| Supplier Review		|
+|<span style="background-color:#344675; color:white">&nbsp;Grey&nbsp;	</span>	| Personal/Custom Events|
 
 #### Modifying an Event
 
