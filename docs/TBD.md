@@ -1,7 +1,6 @@
 ## Doing Right Now
 
 + Audits
-1. Add Audits
 2. Schedule
 3. Completed
 4. Actions
@@ -74,3 +73,5 @@
 |Incident Management 	|**Incident List**					|General Information/Incident_Management/Incident_Management.md |
 |Incident Management 	|**Resolved List**					|General Information/Incident_Management/Incident_Management.md |
 |Incident Management 	|**Escalated List**					|General Information/Incident_Management/Incident_Management.md |
+|Audits 				|**Create Internal Audit**			|General Information/Audits/Add_Audit.md 						|
+|Audits 				|**Create External Audit**			|General Information/Audits/Add_Audit.md 						|

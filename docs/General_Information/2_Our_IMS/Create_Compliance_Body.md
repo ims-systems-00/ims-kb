@@ -12,7 +12,7 @@ After clicking the `Our IMS` button, you must now select the `Compliance` tab.
 
 You should now see a form with 3 fields, `Certification Body`, `Standard` and `Responsibility`. After filling in these 3 fields, click on `Confirm` to create your Compliance Body. 
 
-For more information on making changes to your compliance body click [here][Our IMS]
+For more information on Compliance Bodies click [here][Our IMS]
 
 [Info]: link/to/info/md "User Information and Accessibility"
 [Our IMS]: link/to/Our_IMS/Our_IMS.md "Our IMS"
