@@ -2,7 +2,7 @@
 
 + Our IMS
 5. Our IMS
-	1. Premises
+	1. Premises **done**
 
 ## To Be Done
 
@@ -68,6 +68,6 @@
 |Our IMS 				|**Explain Resolution Time**		|General Information/Our_IMS/Incident_Resolution.md 		|
 |Our IMS 				|**Business Function Details** 		|General Information/Our_IMS/Our_IMS.md 					|
 |Our IMS 				|**Job Roles**						|General Information/Our_IMS/Our_IMS.md 					|
-|Our IMS 				|**Premises**						| **NOT DONE YET**											|
+|Our IMS 				|**Premises**						|General Information/Our_IMS/Our_IMS.md						|
 |Our IMS 				|**Compliance Body Details** 		|General Information/Our_IMS/Our_IMS.md 					|
 |Our IMS 				|**Auditors**						|General Information/Our_IMS/Our_IMS.md 					|

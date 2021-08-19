@@ -37,8 +37,13 @@ Upon clicking the pencil icon, you will notice that there are three tabs, namely
 | Working Remote | Tick this box if the User works remotely 				 |
 
 #### Premises **NEEDS TO BE DONE**
-+ Form
-+ Note it doesnt change assets/premises
+
++ This page allows you to assign a Premise to the Business Function
+*Please note, changes to the Premises here does not add the Premises to the Assets of the relevant Business Function*
+
+![Completed Premises Form][Completed_Premises_Form.png "Premises Form"]
+
+After creating a Premise it will be shown on the right-hand side. You can add multiple Premises to a single Business Function and they will be display as a list. You can edit these with the pencil icon and delete them with the trash can icon.
 
 ### Compliance Bodies
 
