@@ -42,5 +42,5 @@ The selection of `Interval` will dictate how many Audits of this type will be ad
 
 ![Completed External Audit Form](https://imssystems.tech/assets/images/docs/img.png "Completed_External_Audit_Form")
 
-[Audits]: link/to/Actions.md "###Audits" **not made**
+[Audits]: link/to/Actions.md "###Audits"
 [Compliance Body]: link/to/Our_IMS/Create_Compliance_Body.md

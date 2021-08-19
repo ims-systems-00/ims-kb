@@ -11,7 +11,7 @@
 |Subject	 			|Subtopics																							|
 | :-------------------- | :------------------------------------------------------------------------------------------------ |
 |Dashboard				|Overview 																							|
-|Management Reviews		|Add Review, Schedule, Completed, Actions															|
+|Management Reviews		|Schedule, Completed, Actions															|
 |KPI/Objectives			|Add KPI, Business function, Organisation, Actions													|
 |Compliance				|Actions, Comments + Upload, Score system															|
 |Supplier Management 	|Supplier List, Actions																				|
@@ -24,7 +24,7 @@
 
 ## Done
 
-### End of 17.08.21
+### 17.08.21
 
 |Subject				| Specific 							| Location	 													|
 | :-------------------- | :-------------------------------- | :------------------------------------------------------------ |
@@ -42,7 +42,7 @@
 |Actions				|**Continual Improvement**			|General Information/Actions.md 								|
 |Actions				|**Sorting Features**				|General Information/Actions.md 								|
 
-### End of 18.08.21
+### 18.08.21
 
 |Subject				| Specific 							| Location	 													|
 | :-------------------- | :-------------------------------- | :------------------------------------------------------------ |
@@ -58,7 +58,7 @@
 |Our IMS				|**Creating System Report**			|General Information/Our_IMS/System_Dates.md 					|
 |Our IMS 				|**Set Incident Resolution Time**	|General Information/Our_IMS/Incident_Resolution.md 			|
 
-### End of 19.08.21
+### 19.08.21
 
 |Subject				| Specific 							| Location	 													|
 | :-------------------- | :-------------------------------- | :------------------------------------------------------------ |
@@ -79,6 +79,6 @@
 |Audits 				|**Completed Audits**				|General Information/Audits/Audit.md 							|
 |Actions 				|**Audit Actions Added**			|General Information/Actions.md 								|
 |Actions 				|**Changed format of color scheme**	|General Information/Actions.md 								|
-
+|Management Reviews		|**Create a Management Review**		|General Information/Management_Reviews/Add_Review.md 			|
 
 
