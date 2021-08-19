@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-### Raising Incident
+### Raising an Incident
 
 View how to raise an incident [here][Raising Incidents]
 

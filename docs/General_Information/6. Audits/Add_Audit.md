@@ -25,6 +25,7 @@ For **Internal** audits, you must first choose a `Title` for the Internal Audit.
 From here, you select the `Auditor` and assign a `Time` and `Date` the Audit will take place. 
 
 After selecting the `Interval` of the audit, click `confirm` to submit the Audit to the **Schedule**.
+The selection of `Interval` will dictate how many Audits of this type will be added to the Schedule.
 
 ![Completed Internal Audit Form](https://imssystems.tech/assets/images/docs/img.png "Completed_Internal_Audit_Form")
 
@@ -37,6 +38,7 @@ For **External** audits, you must first choose a `Title` for the External Audit.
 From here, you select the `Auditor` and assign a `Time` and `Date` the Audit will take place. 
 
 After selecting the `Interval` of the audit, click `confirm` to submit the Audit to the **Schedule**.
+The selection of `Interval` will dictate how many Audits of this type will be added to the Schedule.
 
 ![Completed External Audit Form](https://imssystems.tech/assets/images/docs/img.png "Completed_External_Audit_Form")
 
