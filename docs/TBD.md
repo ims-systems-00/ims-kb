@@ -1,16 +1,16 @@
 ## Doing Right Now
 
-+ Our IMS
-5. Our IMS
-	1. Premises **done**
++ Audits
+1. Add Audits
+2. Schedule
+3. Completed
+4. Actions
 
 ## To Be Done
 
 |Subject	 		|Subtopics																	|
 | ----------------- | ------------------------------------------------------------------------- |
 |Dashboard			|Overview 																	|
-|Our IMS			|Our IMS																	|
-|Incident Management|Incident List, Resolved List, Escalated									|
 |Audits				|Add Audits, Schedule, Completed, Actions									|
 |Management Reviews	|Add Review, Schedule, Completed, Actions									|
 |KPI/Objectives		|Add KPI, Business function, Organisation, Actions							|
@@ -61,13 +61,16 @@
 
 ### End of 19.08.21
 
-|Subject				| Specific 							| Location	 												|
-| :-------------------- | :-------------------------------- | :-------------------------------------------------------- |
-|Our IMS				|**Explain System Report**			|General Information/Our_IMS/System_Dates.md 				|
-|Our IMS 				|**Explain Report Interval** 		|General Information/Our_IMS/System_Dates.md 				|
-|Our IMS 				|**Explain Resolution Time**		|General Information/Our_IMS/Incident_Resolution.md 		|
-|Our IMS 				|**Business Function Details** 		|General Information/Our_IMS/Our_IMS.md 					|
-|Our IMS 				|**Job Roles**						|General Information/Our_IMS/Our_IMS.md 					|
-|Our IMS 				|**Premises**						|General Information/Our_IMS/Our_IMS.md						|
-|Our IMS 				|**Compliance Body Details** 		|General Information/Our_IMS/Our_IMS.md 					|
-|Our IMS 				|**Auditors**						|General Information/Our_IMS/Our_IMS.md 					|
+|Subject				| Specific 							| Location	 													|
+| :-------------------- | :-------------------------------- | :------------------------------------------------------------ |
+|Our IMS				|**Explain System Report**			|General Information/Our_IMS/System_Dates.md 					|
+|Our IMS 				|**Explain Report Interval** 		|General Information/Our_IMS/System_Dates.md 					|
+|Our IMS 				|**Explain Resolution Time**		|General Information/Our_IMS/Incident_Resolution.md 			|
+|Our IMS 				|**Business Function Details** 		|General Information/Our_IMS/Our_IMS.md 						|
+|Our IMS 				|**Job Roles**						|General Information/Our_IMS/Our_IMS.md 						|
+|Our IMS 				|**Premises**						|General Information/Our_IMS/Our_IMS.md							|
+|Our IMS 				|**Compliance Body Details** 		|General Information/Our_IMS/Our_IMS.md 						|
+|Our IMS 				|**Auditors**						|General Information/Our_IMS/Our_IMS.md 						|
+|Incident Management 	|**Incident List**					|General Information/Incident_Management/Incident_Management.md |
+|Incident Management 	|**Resolved List**					|General Information/Incident_Management/Incident_Management.md |
+|Incident Management 	|**Escalated List**					|General Information/Incident_Management/Incident_Management.md |
