@@ -36,7 +36,7 @@ Upon clicking the pencil icon, you will notice that there are three tabs, namely
 | Salary 		 | This is the salary of the User 							 |
 | Working Remote | Tick this box if the User works remotely 				 |
 
-#### Premises **NEEDS TO BE DONE**
+#### Premises
 
 + This page allows you to assign a Premise to the Business Function
 *Please note, changes to the Premises here does not add the Premises to the Assets of the relevant Business Function*
