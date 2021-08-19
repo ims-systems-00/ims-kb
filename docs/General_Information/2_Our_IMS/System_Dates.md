@@ -21,8 +21,8 @@ Here, there are two forms. The second form here is for Report Intervals, which r
 
 After selecting from the drop-down menu, click on `Confirm` to update your changes or `Reset` to clear the fields.
 
-Report intervals allow you to pick a day for each period where they will be sent an email containing **to be done**
+Report intervals allow you to pick a day for each period where they will be sent an email containing the dashboard report. 
 
-Below the form, you can see a table with all the information about who receives a report, how often and which day of the month. You can also remove a person from receiving a report by clicking on the trash can icon to the right of the day.
+Below the form, you can see a table with all the information about who receives a report, how often and which day of the month. You can also remove a person from receiving a report by clicking on the trash can icon to the right of the column that displays the day of the month they receive the report.
 
 [!Report Intervals](Report_Interval.png "Report Interval Form and Table")

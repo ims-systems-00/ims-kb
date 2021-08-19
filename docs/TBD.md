@@ -1,26 +1,15 @@
 ## Doing Right Now
 
 + Our IMS
-3. System Dates
-	1. How to set a report date **done**
-	2. What the report date does (dashboard)
-	3. Report Intervals **done**
-	4. What report interval does (sends report?)
-4. Incident Resolution
-	1. How to set resolution times **done**
-	2. What this affects
 5. Our IMS
-	1. Business Function
-	2. Editing them
-	3. Compliance Body
-	4. Editing them
+	1. Premises
 
 ## To Be Done
 
 |Subject	 		|Subtopics																	|
 | ----------------- | ------------------------------------------------------------------------- |
 |Dashboard			|Overview 																	|
-|Our IMS			|System Dates, Incident Resolution, Our IMS									|
+|Our IMS			|Our IMS																	|
 |Incident Management|Incident List, Resolved List, Escalated									|
 |Audits				|Add Audits, Schedule, Completed, Actions									|
 |Management Reviews	|Add Review, Schedule, Completed, Actions									|
@@ -69,3 +58,16 @@
 |Our IMS 				|**Creating Report Interval** 		|General Information/Our_IMS/System_Dates.md 				|
 |Our IMS				|**Creating System Report**			|General Information/Our_IMS/System_Dates.md 				|
 |Our IMS 				|**Set Incident Resolution Time**	|General Information/Our_IMS/Incident_Resolution.md 		|
+
+### End of 19.08.21
+
+|Subject				| Specific 							| Location	 												|
+| :-------------------- | :-------------------------------- | :-------------------------------------------------------- |
+|Our IMS				|**Explain System Report**			|General Information/Our_IMS/System_Dates.md 				|
+|Our IMS 				|**Explain Report Interval** 		|General Information/Our_IMS/System_Dates.md 				|
+|Our IMS 				|**Explain Resolution Time**		|General Information/Our_IMS/Incident_Resolution.md 		|
+|Our IMS 				|**Business Function Details** 		|General Information/Our_IMS/Our_IMS.md 					|
+|Our IMS 				|**Job Roles**						|General Information/Our_IMS/Our_IMS.md 					|
+|Our IMS 				|**Premises**						| **NOT DONE YET**											|
+|Our IMS 				|**Compliance Body Details** 		|General Information/Our_IMS/Our_IMS.md 					|
+|Our IMS 				|**Auditors**						|General Information/Our_IMS/Our_IMS.md 					|

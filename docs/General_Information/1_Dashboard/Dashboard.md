@@ -32,12 +32,16 @@ The information shown in the Dashboard changes depending on the level of permiss
 
 ### Dashboard Report
 
-The Dashboard Report can be sent to your email in **get back to this** format that is designed to be easily readable.
+The Dashboard Report can be sent to your email in a format that is designed to be easily readable.
 
-You can access this on any page by click this Paper Airplane icon in the top right, to the left of your profile picture. After clicking the button a form will pop up requesting a `Name`, `Email` and an optional `Message`. After clicking `Send` an email will be sent with the Dashboard Report attached to it. You will require relevant software to view the report that is sent out.
+You can access this on any page by click the Paper Airplane icon in the top right, to the left of your profile picture. After clicking the button a form will pop up requesting a `Name`, `Email` and an optional `Message`. After clicking `Send` an email will be sent with the Dashboard Report attached to it. You will require relevant software to view the report that is sent.
 
 ![Dashboard Report Form]("Dashboard_Report_Form.png")
 
 It may take a few seconds for the report to be generated and sent, once the email has been sent you will receive a notification about the status of the delivery. The notification will tell you whether the email was sent successfully or not.
 
 ![Successful Delivery]("Report_Sent")
+
+You can automate the delivery of Dashboard Reports using the `Report Interval` function. You can find more information on this [here][Report Interval]
+
+[Report Interval]: link/to/Our_IMS/System_Dates
