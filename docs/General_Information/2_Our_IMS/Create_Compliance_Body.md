@@ -14,5 +14,5 @@ You should now see a form with 3 fields, `Certification Body`, `Standard` and `R
 
 For more information on Compliance Bodies click [here][Our IMS]
 
-[Info]: link/to/info/md "User Information and Accessibility"
-[Our IMS]: link/to/Our_IMS/Our_IMS.md "Our IMS"
+[Info]: info "User Information and Accessibility"
+[Our IMS]: Our_IMS "Our IMS"
