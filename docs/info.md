@@ -1,4 +1,4 @@
-# User Information and Accessibility
+<!-- # User Information and Accessibility
 
 ## Key
 
@@ -166,4 +166,4 @@ th {
 			<td class="sAdmin">Super Admin</td>
 		</tr>
 	</tbody>
-</table>
+</table> -->

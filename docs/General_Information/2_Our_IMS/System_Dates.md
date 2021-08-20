@@ -7,7 +7,7 @@ Here, there are two forms. The first form is for System Dates which requires you
 
 System Dates allows you to pick a start and end date that the Dashboard should display and use the data of, this allows you to set goals for your organisation and keep track of your progress throughout the year on the dashboard. Once the date has passed, the data is archived **where?** and a new file is created from which the Dashboard will start off as though a blank sheet.
 
-![System Dates Form](System_Dates_Form.png "System Dates Form")
+![System Dates Form](https://imssystems.tech/assets/images/docs/img.png "System Dates Form")
 
 ## Report Intervals
 
