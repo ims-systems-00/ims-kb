@@ -4,7 +4,7 @@
 
 Upon being granted access either by iMS or your organisation, you will receive an email containing your login details.
 
-![New User Email](https://imssystems.tech/assets/images/docs/img.png "New User Email.png")
+![New User Email](/img/hiw1.svg "New User Email.png")
 
 ### Logging In 
 
@@ -63,7 +63,7 @@ After typing your new password out, click the `Confirm` button to change your pa
 
 If you have forgotten your password and need a newly generated password, you click on `Forgot Password?` from your organisation's login screen. Please ensure you are on the correct web address, as you will not be sent a password reset if you are attempting to login to the wrong iMS System.
 
-![Login](https://imssystems.tech/assets/images/docs/img.png "Log In.png")
+![Login](/img/Doc_Img/General_Information/New_User/Log_In.png "Log In.png")
  
 After clicking this you will be prompted to enter your email address.
 

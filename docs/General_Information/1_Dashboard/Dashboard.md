@@ -36,7 +36,7 @@ The Dashboard Report can be sent to your email in a format that is designed to b
 
 You can access this on any page by click the Paper Airplane icon in the top right, to the left of your profile picture. After clicking the button a form will pop up requesting a `Name`, `Email` and an optional `Message`. After clicking `Send` an email will be sent with the Dashboard Report attached to it. You will require relevant software to view the report that is sent.
 
-![Dashboard Report Form](https://imssystems.tech/assets/images/docs/img.png)
+![Dashboard Report Form](/img/hiw1.svg)
 
 It may take a few seconds for the report to be generated and sent, once the email has been sent you will receive a notification about the status of the delivery. The notification will tell you whether the email was sent successfully or not.
 
