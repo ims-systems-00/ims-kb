@@ -4,7 +4,7 @@
 
 Upon being granted access either by iMS or your organisation, you will receive an email containing your login details.
 
-![New user email](../static/img/hiw1.svg "New User Email.png")
+![New user email](https://imssystems.tech/assets/images/docs/img.png "New User Email.png")
 
 ### Logging In 
 
