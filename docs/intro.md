@@ -61,5 +61,5 @@ You are recommended to browse the "General Information" portion of the User Manu
 
 [iMS]: https://imssystems.tech/ "iMS Homepage"
 [myIMS]: https://my.imssystems.tech/ "Demo iMS"
-[Permissions]: link/to/permissions/page "Link to Permissions Page"
-[Troubleshooting Guide]: link/to/troubleshooting/page **Not yet made**
+[Permissions]: ./permission "Link to Permissions Page"
+[Troubleshooting Guide]: ./troubleshooting **Not yet made**

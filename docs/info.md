@@ -1,17 +1,18 @@
-<!-- # User Information and Accessibility
+# User Information and Accessibility
 
 ## Key
 
 |Rights							|Symbol	|
 | ----------------------------- | :---: |
-|Have Access 					|✓		|
-|Access Granted by Super Admin	|(✓)	|
-|Does not Have Access 			|✗		|
+|Have Access 					|   ✓	|
+|Access Granted by Super Admin	|  (✓)	|
+|Does not Have Access 			|   ✗	|
 
 ## Information
 
+<!-- CSS BREAKS HTML
 <style>
-.contents {background-color: #F2F2F2}
+.contents {background-color: #F2F2F2;}
 .sAdmin {background-color: #92D050;}
 .HoS {background-color: #FFC000;}
 .basic {background-color: #BDD7EE;}
@@ -28,6 +29,7 @@ th {
 	text-align: center;
 }
 </style>
+-->
 
 <table>
 	<colgroup>
@@ -166,4 +168,4 @@ th {
 			<td class="sAdmin">Super Admin</td>
 		</tr>
 	</tbody>
-</table> -->
+</table>

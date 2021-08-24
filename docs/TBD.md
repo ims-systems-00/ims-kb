@@ -1,4 +1,9 @@
+# To Be Done
+
 ## Doing Right Now
+
+Risk Management -> Clinical
+Risk Management -> Risk Scoring
 
 + Management Reviews
 1. Add Review **done**
@@ -84,3 +89,7 @@ Note: ISD-836
 |Management Reviews		|**Create a Management Review**		|General Information/Management_Reviews/Add_Review.md 			|
 
 
+### 24.08.21
+
+Fixed errors in links.
+Need to fix images not rendering/loading.
