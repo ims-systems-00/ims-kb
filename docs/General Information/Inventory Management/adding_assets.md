@@ -47,7 +47,6 @@ From here, you enter the `name` of the staff member, follow by their `role`, `re
 
 After entering these details, click `confirm` to submit the asset to your organisation's **People** inventory.
 
-![Image here](/img/DocImg/General Information/Inventory_Managmenet/Completed_People_Asset_Form.png "Completed People Asset Form.png")
 <img src="/img/DocImg/General Information/Inventory_Management/Completed_People_Asset_Form.png" alt="Completed People Asset Form" class="center"/>
 
 ### Premises
