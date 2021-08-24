@@ -42,7 +42,7 @@ th {
 	</colgroup>
 	<thead>
 		<tr>
-			<th>Contents</th>
+			<th>Feature</th>
 			<th>Super Admin</th>
 			<th>Head of Service</th>
 			<th>Basic</th>
