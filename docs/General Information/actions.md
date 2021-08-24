@@ -208,13 +208,13 @@ Simply select `Cancel` to stop the deletion process or `Confirm` in order to del
 For each `Event` you can either `Modify` or `Delete` them.
 
 ### Colour Scheme
-| Color 																							| Description 			|
-| :------------------------------------------------------------------------------------------------ | :-------------------- |
-| <!-- <span style="background-color:#fd5d93; color:white"> -->&nbsp;Red&nbsp;		<!--</span>-->	| P1 Incident 			|
-| <!-- <span style="background-color:#1d8cf8; color:white"> -->&nbsp;Azure&nbsp;	<!--</span>-->	| Management Review 	|
-| <!-- <span style="background-color:#00bf9a; color:white"> -->&nbsp;Green&nbsp;	<!--</span>-->	| Scheduled Audits		|
-| <!-- <span style="background-color:#ff8d72; color:white"> -->&nbsp;Orange&nbsp;	<!--</span>-->	| Supplier Review		|
-| <!-- <span style="background-color:#344675; color:white"> -->&nbsp;Grey&nbsp;		<!--</span>-->	| Personal/Custom Events|
+| Color 										| Description 			|
+| :-------------------------------------------- | :-------------------- |
+| <span class="sp1">&nbsp;Red&nbsp;		</span>	| P1 Incident 			|
+| <span class="sp2">&nbsp;Azure&nbsp;	</span>	| Management Review 	|
+| <span class="sp3">&nbsp;Green&nbsp;	</span>	| Scheduled Audits		|
+| <span class="sp4">&nbsp;Orange&nbsp;	</span>	| Supplier Review		|
+| <span class="sp5">&nbsp;Grey&nbsp;	</span>	| Personal/Custom Events|
 
 ### Modifying an Event
 

@@ -19,3 +19,25 @@
 html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+.contents {background-color: #F2F2F2;}
+.sAdmin {background-color: #92D050;}
+.HoS {background-color: #FFC000;}
+.basic {background-color: #BDD7EE;}
+.auditor {background-color: #DDEBF7;}
+.partner {background-color: #FFE699;}
+
+.sp1	{background-color:#fd5d93; color:white;}
+.sp2 	{background-color:#1d8cf8; color:white;}
+.sp3 	{background-color:#00bf9a; color:white;}
+.sp4 	{background-color:#ff8d72; color:white;}
+.sp5 	{background-color:#344675; color:white;}
+
+table {
+	text-align: center;
+	word-wrap: break-word;
+}
+
+th {
+	text-align: center;
+}
