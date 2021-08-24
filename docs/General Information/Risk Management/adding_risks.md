@@ -68,7 +68,7 @@ After completing the form, click `add` to submit the risk to your organisation's
 
 ### Organisation
 
-For **Organisation** risks, you must first choose the **Business function** you are assigning the organisation risk to. The business function selector is a drop-down menu, from which you can select from the business functions your organisation has created.
+For **Organisation** risks, you must first choose the **Business function** you are assigning the organisational risk to. The business function selector is a drop-down menu, from which you can select from the business functions your organisation has created.
 
 From here, give the `Risk Title` along with the `Description` of the risk. Select the `Risk owner`, which is a team member who is the party responsible for the mitigation or acceptance of the risk. 
 
@@ -76,12 +76,19 @@ Following on, you need to select the `likelihood` and `consequence` of the risk.
 
 After completing the form, click `add` to submit the risk to your organisation's **Organisation** Risk Management System.
 
-![Image here](/img/DocImg/General Information/Risk_Management/Completed_Organisation_Risk_Form.png "Completed Organisation Risk Form")
 <img src="/img/DocImg/General Information/Risk_Management/Completed_Organisation_Risk_Form.png" alt="Completed People Risk Form" class="center"/>
 
 ### Clinical
 
-**This service is still a work in progress**
+For **Clinical** risks, you must first choose the **Business Function** you are assigning the clinical risk to. The business function selector is a drop-down menu from which you can select from the business functions your organisation has created.
+
+From here, assign the risk to an `Asset` and give the risk a `Risk Title` along with the `Description` of the risk. Select the `Risk owner`, the team member who is responsible for the mitigation, acceptance or escalation of the risk.
+
+Next you must select the `likelihood` and `consequence` of the risk. These can be given placeholder values prior to assessing the risk thoroughly, wherever necessary the details of a risk can be amended by [Modifying a Risk][].
+
+After completing the form, click `Add` to submit the risk to your organisation's **Clinical** Risk Management System.
+
+<img src="/img/DocImg/General Information/Risk_Management/Completed_Clinical_Risk_Form.png" alt="Completed Clinical Risk Form" class="center"/>
 
 [Risks]: ../actions "##Risks"
 [Modifying a Risk]: ../actions "####Modifying-a-Risk"
