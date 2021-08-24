@@ -61,15 +61,18 @@ After typing your new password out, click the `Confirm` button to change your pa
 
 If you have forgotten your password and need a newly generated password, you click on `Forgot Password?` from your organisation's login screen. Please ensure you are on the correct web address, as you will not be sent a password reset if you are attempting to login to the wrong iMS System.
 
-![Login](/img/DocImg/General Information/New_User/Log_In.png "Log In")
+<img src="/img/DocImg/General Information/New_User/Log_In.png" alt="Log In" class="center"/>
+
  
 After clicking this you will be prompted to enter your email address.
 
-![Forgot Password](/img/DocImg/General Information/New_User/Forgot_Password.png "Forgot Password")
+<img src="/img/DocImg/General Information/New_User/Forgot_Password.png" alt="Forgot Password" class="center"/>
+
 
 Upon clicking on `Send Verification Email` you will see the following:
 
-![Reset Password Email](/img/DocImg/General Information/New_User/Reset_Password_Email.png "Reset Password Email")
+<img src="/img/DocImg/General Information/New_User/Reset_Password_Email.png" alt="Reset Password Email" class="center"/>
+
 
 Check your inbox for an email that will provide you a link to a password reset form. Complete and turn in the form to reset your password.
 

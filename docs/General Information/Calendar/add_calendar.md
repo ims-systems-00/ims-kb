@@ -16,7 +16,10 @@ You first need to give the event a name in `Event title`, the time the event wil
 
 Once you are done entering the details, simply click `Create` and the event will be added to the Calendar.
 
+You can also [modify][Modifying Calendar] and [delete][Deleting Calendar] events on the calendar.
+
 <img src="/img/DocImg/General Information/Calendar/Completed_Calendar_Form.png" alt="Completed Calendar Form" class="center"/>
 
-[Calendar]: ../actions "###Calendar"
-[Modifying Calendar]: ../actions "####Modifying-a-Calendar-Event"
+[Calendar]: ../actions#calendar-events
+[Modifying Calendar]: ../actions#modifying-an-event
+[Deleting Calendar]: ../actions#deleting-an-event

@@ -74,5 +74,5 @@ After selecting the `owner` of the information, and the `cost` of the asset, cli
 <img src="/img/DocImg/General Information/Inventory_Management/Completed_Information_Asset_Form.png" alt="Completed Information Asset Form" class="center"/>
 
 
-[Assets]: ../actions "###Assets"
-[Modifying an Asset]: ../actions "####Modifying-an-Asset"
+[Assets]: ../actions#inventory-management-assets
+[Modifying an Asset]: ../actions#modifying-an-asset

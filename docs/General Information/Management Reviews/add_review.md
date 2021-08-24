@@ -14,4 +14,4 @@ Click on `Confirm` to add the meeting to the schedule. Note that the system will
 
 
 
-**not done yet** -> [Management Review]: ../actions "###Management Review"
+**not done yet** -> [Management Review]: ../actions#management-reviews

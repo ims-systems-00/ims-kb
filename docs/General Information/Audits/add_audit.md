@@ -42,5 +42,5 @@ The selection of `Interval` will dictate how many Audits of this type will be ad
 
 <img src="/img/DocImg/General Information/Audits/Completed_External_Audit_Form.png" alt="Completed External Audit Form" class="center"/>
 
-[Audits]: ../actions "###Audits"
+[Audits]: ../actions#audits
 [Compliance Body]: ../Our%20IMS/create_compliance_body

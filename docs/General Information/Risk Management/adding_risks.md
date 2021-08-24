@@ -90,5 +90,5 @@ After completing the form, click `Add` to submit the risk to your organisation's
 
 <img src="/img/DocImg/General Information/Risk_Management/Completed_Clinical_Risk_Form.png" alt="Completed Clinical Risk Form" class="center"/>
 
-[Risks]: ../actions "##Risks"
-[Modifying a Risk]: ../actions "####Modifying-a-Risk"
+[Risks]: ../actions#risk-management-risks
+[Modifying a Risk]: ../actions#modifying-a-risk

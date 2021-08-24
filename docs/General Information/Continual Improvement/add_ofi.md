@@ -19,4 +19,4 @@ Following this, fill the textbox labelled `Opportunity for improvement` with the
 
 <img src="/img/DocImg/General Information/Continual_Improvement/Completed_OFI_Form.png" alt="Completed Internal OFI Form" class="center"/>
 
-[OFI]: ../actions "###Continual Improvement (OFI)"
+[OFI]: ../actions#continual-improvement-ofis

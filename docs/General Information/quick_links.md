@@ -36,7 +36,7 @@ Note that there is an up to 5 minute delay between when information is uploaded 
 [How to modify and delete Assets within the Inventory System][Asset Actions]
 
 [Inventory Management]: ./Inventory%20Management/adding_assets
-[Asset Actions]: ./actions "###Assets"
+[Asset Actions]: ./actions#inventory-management-assets
 
 ### Risk Management
 
@@ -47,7 +47,7 @@ Note that there is an up to 5 minute delay between when information is uploaded 
 [How is the Risk Score System Calculated][Risk Scoring] **not made**
 
 [Risk Management]: ./Risk%20Management/adding_risks
-[Risk Actions]: ./actions "###Risks"
+[Risk Actions]: ./actions#risk-management-risks
 [Risk Scoring]: ./Risk%20Management/risk_scoring
 
 ### Incident Management
@@ -57,7 +57,7 @@ Note that there is an up to 5 minute delay between when information is uploaded 
 [How to modify and delete Incidents within the Incident Management System][Incident Action]
 
 [Incident Management]: ./Incident%20Management/raising_incidents
-[Incident Actions]: ./actions "###Incidents"
+[Incident Actions]: ./actions##incident-management-incidents
 
 ### Audits
 
@@ -66,7 +66,7 @@ Note that there is an up to 5 minute delay between when information is uploaded 
 [How to modify and delete an Audit][Audit Action]
 
 [Add Audit]: ./Audits/add_audit
-[Audit Actions]: ./actions "###Audits"
+[Audit Actions]: ./actions#audits
 
 ### Management Reviews
 
@@ -81,7 +81,7 @@ Note that there is an up to 5 minute delay between when information is uploaded 
 [How to modify and delete OFIs within the Continual Improvement System][OFI Action]
 
 [OFI]: ./Continual%20Improvement/add_ofi
-[OFI Action]: ./actions "###OFI"
+[OFI Action]: ./actions#continual-improvement-ofis
 
 ### Compliance
 
@@ -111,7 +111,7 @@ Link to guide, **feature itself is WIP**
 [How to modify and delete Tasks within the Task Manager][Task Manager Actions]
 
 [Task Manager]: ./Task%20Manager/add_task
-[Task Manager Action]: ./actions "###Tasks"
+[Task Manager Action]: ./actions#task-manager-tasks
 
 ### Calendar
 
@@ -120,7 +120,7 @@ Link to guide, **feature itself is WIP**
 [How to modify and delete Events within the Calendar][Calendar Actions]
 
 [Calendar]: ./Calendar/add_calendar
-[Calendar Actions]: ./actions "###Calendar"
+[Calendar Actions]: ./actions#calendar-events
 
 ### User Access
 
@@ -132,7 +132,7 @@ Link to guide, **not made**
 
 ![Send Report Information][Send Report]
 
-[Send Report]: ./Dashboard/dashboard "###dashboard-report"
+[Send Report]: ./Dashboard/dashboard#dashboard-report
 
 ### Notifications
 

@@ -26,5 +26,5 @@ From here you need to click on the green tick under the **Actions** tab, the pop
 
 In this tab you can access the details and, when finished, mark the task as complete
 
-[Task Manager]: ../actions "###Task Manager"
-[Modifying a Task]: ../actions "####Modifying-a-Task"
+[Task Manager]: ../actions#task-manager-tasks
+[Modifying a Task]: ../actions#modifying-a-task
