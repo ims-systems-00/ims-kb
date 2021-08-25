@@ -18,7 +18,7 @@ Premises Asset Form
 |Subject	 			|Subtopics																							|
 | :-------------------- | :------------------------------------------------------------------------------------------------ |
 |Dashboard				|Overview 																							|
-|Management Reviews		|Schedule, Completed, Actions															|
+|Management Reviews		|Schedule, Completed, Actions																		|
 |KPI/Objectives			|Add KPI, Business function, Organisation, Actions													|
 |Compliance				|Actions, Comments + Upload, Score system															|
 |Supplier Management 	|Supplier List, Actions																				|
