@@ -14,7 +14,6 @@ Premises Asset Form pic
 |Subject	 			|Subtopics									|
 |:----------------------|:------------------------------------------|
 |Dashboard				|Overview 									|
-|Management Reviews		|Actions									|
 |Compliance				|Actions, Comments + Upload, Score system	|
 |Supplier Management 	|Supplier List, Actions						|
 |Document Management 	|Add Documents, Privacy, Sharing, Actions	|
