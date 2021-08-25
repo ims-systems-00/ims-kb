@@ -4,7 +4,7 @@
 
 Get started by navigating to and clicking on the `Management Review` button on the `Sidebar`, which is on the left-hand side, then click on `Schedule`.
 
-For more information on making modifications or amendments to your Management Reviews click [here][Management Review]. **not yet made**
+For more information on making modifications or amendments to your Management Reviews click [here][Management Review].
 
 ### Creating a Management Review
 

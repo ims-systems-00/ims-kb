@@ -163,6 +163,36 @@ When deleting an Audit, you will first be asked to confirm you really wish to de
  
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Incident.
 
+## Management Reviews
+
+### Schedule
+
+For each scheduled `Mangement Review` you can either `Modify` or `Delete` them.
+
+#### Modifying a Management Review
+
+In order to `Amend` a Review, select the pencil icon under the `Actions` field, when finished click on `Update`.
+
+To move a Management Review into the **Completed** tab simply click on the `Complete` button when amending it.
+
+#### Deleting a Management Review
+
+In order to `Delete` a Management Review, select the trash can icon under the `Actions` field.
+
+When deleting a Review, you will first be asked to confirm you really wish to delete it. Please be warned that deleted Reviews cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
+
+### KPIs
+
+#### Modifying a KPI
+
+In order to `Amend` a KPI, simply edit the textbox it is displayed in. If this is not possible, create a new KPI with the amended details and delete the old one.
+
+#### Deleting a KPI
+
+In order to `Delete` a KPI, simply select the **-** icon to the right of the textbox.
+
+When deleting a KPI, there is no confirmation asking if you really wish to delete it. Please be warned that deleted KPIs cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
+
 ## Continual Improvement (OFIs)
 
 *Please note that* `Partner` *business functions can only view OFIs that they have been given access to AND are owned by their business function.*

@@ -95,3 +95,5 @@ Premises Asset Form
 |Management Reviews 	|**Schedule** 						|General Information/Management Reviews/management_review.md 	|
 |Management Reviews 	|**KPI/Objectives** 				|General Information/Management Reviews/management_review.md 	|
 |Management Reviews 	|**Create KPIs**					|General Information/Managemnet Reviews/add_kpi.md 				|
+|Actions 				|**Review Actions**					|General Information/actions.md 								|
+|Actions 				|**KPI Actions** 					|General Information/actions.md 								|
