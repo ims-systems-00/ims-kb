@@ -1,4 +1,4 @@
-# Calendar Colour Scheme
+# Colour Scheme
 
 ## Colour Scheme
 
