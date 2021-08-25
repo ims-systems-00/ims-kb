@@ -91,12 +91,9 @@ Premises Asset Form
 
 ### 24.08.21
 
-Fixed errors in links.
-
-Fixed images not rendering/loading.
-
-Fixed action page not loading
-
-Fixed hyperlinks not working
-
-Added headers to relevant hyperlinks
++ Fixed errors in links.
++ Fixed images not rendering/loading.
++ Fixed action page not loading
++ Fixed hyperlinks not working
++ Added headers to relevant hyperlinks
++ Fixed header links not correctly directing to relevant headers within pages

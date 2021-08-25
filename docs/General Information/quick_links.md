@@ -57,7 +57,7 @@ Note that there is an up to 5 minute delay between when information is uploaded 
 [How to modify and delete Incidents within the Incident Management System][Incident Action]
 
 [Incident Management]: ./Incident%20Management/raising_incidents
-[Incident Actions]: ./actions##incident-management-incidents
+[Incident Action]: ./actions#incident-management-incidents
 
 ### Audits
 
@@ -66,7 +66,7 @@ Note that there is an up to 5 minute delay between when information is uploaded 
 [How to modify and delete an Audit][Audit Action]
 
 [Add Audit]: ./Audits/add_audit
-[Audit Actions]: ./actions#audits
+[Audit Action]: ./actions#audits
 
 ### Management Reviews
 
@@ -91,10 +91,10 @@ Link to guide, **not made**
 
 [How to add Supplier to the Supplier Management System][Supplier]
 
-[How to modify and delete Suppliers within the Supplier Management System][Supplier Action]
+[How to modify and delete Suppliers within the Supplier Management System][Supplier Action] **not made**
 
 [Supplier]: ./Supplier%20Management/add_supplier
-[Supplier Action]: ./actions "###Suppliers" **not made**
+[Supplier Action]: ./actions#Suppliers "###Suppliers" 
 
 ### Document Management
 
@@ -111,7 +111,7 @@ Link to guide, **feature itself is WIP**
 [How to modify and delete Tasks within the Task Manager][Task Manager Actions]
 
 [Task Manager]: ./Task%20Manager/add_task
-[Task Manager Action]: ./actions#task-manager-tasks
+[Task Manager Actions]: ./actions#task-manager-tasks
 
 ### Calendar
 
@@ -137,6 +137,7 @@ Link to guide, **not made**
 ### Notifications
 
 **not made**
+
 `Notifications`
 + assigned risks
 + escalated risks
@@ -148,6 +149,9 @@ Link to guide, **not made**
 ### Account
 
 **not made**
+
 `profile` 
+
 `change password` link to #forgot-password
+
 `log out` link to #log-out

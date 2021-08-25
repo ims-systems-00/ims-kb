@@ -18,11 +18,13 @@ Each table allows you to search relevant information to find a match. For exampl
 
 <img src="/img/DocImg/General Information/Actions/Search/Hardware_Asset_Search.png" alt="Hardware Asset Search" class="center"/>
 
+
 ### Sort
 
 Each table also allows you to customise how you wish to sort it. At the moment, you can only sort by A-Z (1-9) and Z-A (9-1) by click the arrow buttons next to the header of each column in the table.
 
 <img src="/img/DocImg/General Information/Actions/Search/Hardware_Sort_By.png" alt="Sort By" class="center"/>
+
 
 ### Number of Results
 
@@ -30,11 +32,13 @@ You can also adjust the number of rows to display at once. The default number of
 
 <img src="/img/DocImg/General Information/Actions/Search/Number_of_Rows.png" alt="Number of Rows" class="center"/>
 
+
 ## Inventory Management (Assets)
 
 For each `Asset`, you can `Modify` or `Delete` each entry in the `Inventory` system for each individual category.
 
 <img src="/img/DocImg/General Information/Actions/Asset_Actions/Asset_Actions_Amend_Delete.png" alt="Asset - Amend/Delete" class="center"/>
+
 
 ### Modifying an Asset
 
@@ -50,6 +54,7 @@ When deleting an Asset, you will first be asked to confirm you really wish to de
 
 <img src="/img/DocImg/General Information/Actions/Asset_Actions/Asset_Delete_Confirmation.png" alt="Asset - Delete Confirmation" class="center"/>
 
+
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Asset.
 
 ## Risk Management (Risks)
@@ -59,6 +64,7 @@ Simply select `Cancel` to stop the deletion process or `Confirm` in order to del
 For each `Risk`, you can either `Modify`, `Escalate` or `Delete` them, much like with `Assets`.
 
 <img src="/img/DocImg/General Information/Actions/Risk_Actions/Risk_Actions_Amend_Escalate_Delete.png" alt="Risk - Amend/Escalate/Delete" class="center"/>
+
 
 ### Modifying a Risk
 
@@ -72,9 +78,11 @@ When escalating a Risk, you will be first asked to confirm escalation of the Ris
 
 <img src="/img/DocImg/General Information/Actions/Risk_Actions/Risk_Escalation_Confirmation.png" alt="Risk - Escalation Confirmation" class="center"/>
 
+
 Simply select `Cancel` to stop the escalation process or `Confirm` in order to escalate the Risk. Once escalated it will appear under the `Escalated` tab in the relevant category.
 
 <img src="/img/DocImg/General Information/Actions/Risk_Actions/Risk_Escalation_Location.png" alt="Risk - Escalation Location" class="center"/>
+
  
 ### Deleting a Risk
 
@@ -83,6 +91,7 @@ In order to `Delete` a Risk, select the trash can icon under the `Actions` field
 When deleting a Risk, you will first be asked to confirm you really wish to delete the risk. Please be warned that deleted risks cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
 
 <img src="/img/DocImg/General Information/Actions/Risk_Actions/Risk_Delete_Confirmation.png" alt="Risk - Delete Confirmation" class="center"/>
+
  
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Risk.
 
@@ -93,6 +102,7 @@ Simply select `Cancel` to stop the deletion process or `Confirm` in order to del
 For each `Incident`, you can either `Modify`, `Escalate` or `Delete` them, much like with `Assets` and `Risks`.
 
 <img src="/img/DocImg/General Information/Actions/Incident_Actions/Incident_Actions_Amend_Escalate_Delete.png" alt="Incident - Amend/Escalate/Delete" class="center"/>
+
 
 ### Modifying an Incident
 
@@ -106,9 +116,11 @@ When escalating an Incident, you will be first asked to confirm escalation of th
 
 <img src="/img/DocImg/General Information/Actions/Incident_Actions/Incident_Escalation_Confirmation.png" alt="Incident - Escalation Confirmation" class="center"/>
 
+
 Simply select `Cancel` to stop the escalation process or `Confirm` in order to escalate the Incident. Once escalated it will appear under the `Escalated` tab in the relevant category.
 
 <img src="/img/DocImg/General Information/Actions/Incident_Actions/Incident_Escalation_Location.png" alt="Incident - Escalation Location" class="center"/>
+
 
 ### Deleting an Incident
 
@@ -117,6 +129,7 @@ In order to `Delete` an Incident, select the trash can icon under the `Actions` 
 When deleting an Incident, you will first be asked to confirm you really wish to delete the incident. Please be warned that deleted incidents cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
 
 <img src="/img/DocImg/General Information/Actions/Incident_Actions/Inicdent_Delete_Confirmation.png" alt="Incident - Delete Confirmation" class="center"/>
+
  
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Incident.
 
@@ -146,6 +159,7 @@ You can delete Audits from the `Schedule` and `Completed` tabs.
 When deleting an Audit, you will first be asked to confirm you really wish to delete the incident. Please be warned that deleted incidents cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
 
 <img src="/img/DocImg/General Information/Actions/Audit_Actions/Audit_Delete_Confirmation.png" alt="Audit - Delete Confirmation" class="center"/>
+
  
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Incident.
 
@@ -156,6 +170,7 @@ Simply select `Cancel` to stop the deletion process or `Confirm` in order to del
 For each `OFI`, you can either `Modify` or `Delete` them, much like with `Assets`, `Risks` and `Incidents`, however you can also `Implement` an OFI from the `Modify` menu.
 
 <img src="/img/DocImg/General Information/Actions/OFI_Actions/OFI_Actions_Amend_Delete.png" alt="OFI - Amend/Delete" class="center"/>
+
 
 ### Modifying an OFI
 
@@ -175,6 +190,7 @@ When deleting an OFI, you will first be asked to confirm you really wish to dele
 
 <img src="/img/DocImg/General Information/Actions/OFI_Actions/OFI_Delete_Confirmation.png" alt="OFI - Delete Confirmation" class="center"/>
 
+
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the OFI.
 
 ## Task Manager (Tasks)
@@ -184,6 +200,7 @@ Simply select `Cancel` to stop the deletion process or `Confirm` in order to del
 For each `Task`, you can either `Modify` or `Delete` them, much like with `Assets`, `Risks` and `Incidents`, however you can also `Assign` a Task to a user either from the `Modify` menu or during creation of the task itself..
 
 <img src="/img/DocImg/General Information/Actions/Task_Manager_Actions/Task_Manager_Actions_Amend_Delete.png" alt="Task Manager - Amend/Delete" class="center"/>
+
 
 ### Modifying a Task
 
@@ -200,6 +217,7 @@ In order to `Delete` a Task, select the trash can icon under the `Actions` field
 When deleting a Task, you will first be asked to confirm you really wish to delete the OFI. Please be warned that deleted Tasks cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
 
 <img src="/img/DocImg/General Information/Actions/Task_Manager_Actions/Task_Manager_Delete_Confirmation.png" alt="Task Manager - Delete Confirmation" class="center"/>
+
  
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Task.
 
@@ -223,6 +241,7 @@ In order to `Amend` the details of an Event, you must first find the event you w
 **Please note that if the event is not a personal/custom event that you have created within the Calendar you may not be able to edit certain details.**
 
 <img src="/img/DocImg/General Information/Actions/Calendar_Actions/Calendar_Modify_Actions.png" alt="Calendar - Modify" class="center"/>
+
 
 ### Deleting an Event
 

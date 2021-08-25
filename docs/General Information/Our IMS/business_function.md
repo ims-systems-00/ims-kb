@@ -29,5 +29,5 @@ A Partner Organisation on the other hand is for outside parties that need access
 
 Please view the [User Information and Accessibility][Info] for more information.
 
-[First Time Configuration]: ../../intro "First Time Configuration"
+[First Time Configuration]: ../../intro#create-a-business-function "First Time Configuration"
 [Info]: ../../info "User Information and Accessibility"

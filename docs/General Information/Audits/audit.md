@@ -6,7 +6,7 @@
 
 #### Creating an Internal Audit
 
-View how to create an internal audit [here][Add Audit]
+View how to create an internal audit [here][Add In Audit]
 
 #### Schedule
 
@@ -42,7 +42,7 @@ Clicking on the pencil icon will allow you to view more information related to t
 
 #### Creating an External Audit
 
-View how to create an external audit [here][Add Audit]
+View how to create an external audit [here][Add Ex Audit]
 
 #### Schedule
 
@@ -74,4 +74,5 @@ Clicking on the pencil icon will allow you to view more information related to t
 | Time 					 | This is the time the External Audit has taken place						|
 | Actions 				 | These are the actions you can take - View Audit & Delete					|
 
-[Add Audit]: ./add_audit
+[Add In Audit]: ./add_audit#internal-audit
+[Add Ex Audit]: ./add_audit#external-audit
