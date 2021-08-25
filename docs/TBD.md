@@ -97,3 +97,9 @@ Premises Asset Form
 + Fixed hyperlinks not working
 + Added headers to relevant hyperlinks
 + Fixed header links not correctly directing to relevant headers within pages
+
+### 25.08.21
+
++ Fixed images being in line with text
++ Fixed dead links not leading anywhere
++ Added links to quick links that are more efficient
