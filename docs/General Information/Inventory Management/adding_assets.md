@@ -59,8 +59,6 @@ After entering the `cost` of the asset, click `confirm` to submit the asset to y
 
 <img src="/img/DocImg/General Information/Inventory_Management/Completed_Premises_Asset_Form.png" alt="Completed Premises Asset Form" class="center"/>
 
- **NEED TO MAKE**
-
 ### Information
 
 For **Information** assets, you mist first choose the **Business function** you are assigning the Information to. The business function selector is a drop-down menu, from which you can select from the business functions your organisation has created.
