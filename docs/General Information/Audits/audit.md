@@ -1,14 +1,12 @@
 # Audits
 
-## Getting Started
+## Internal Audits
 
-### Internal Audits
-
-#### Creating an Internal Audit
+### Creating an Internal Audit
 
 View how to create an internal audit [here][Add In Audit]
 
-#### Schedule
+### Schedule
 
 This page shows a list of Internal Audits that have not been completed.
 
@@ -23,7 +21,7 @@ Clicking on the pencil icon will allow you to view more information related to t
 | Time 					 | This is the time the Internal Audit will take place						|
 | Actions 				 | These are the actions you can take - View Audit & Delete					|
 
-#### Completed
+### Completed
 
 This page shows a list of Internal Audits that have been completed.
 
@@ -38,13 +36,13 @@ Clicking on the pencil icon will allow you to view more information related to t
 | Time 					 | This is the time the Internal Audit has taken place						|
 | Actions 				 | These are the actions you can take - View Audit & Delete					|
 
-### External Audits
+## External Audits
 
-#### Creating an External Audit
+### Creating an External Audit
 
 View how to create an external audit [here][Add Ex Audit]
 
-#### Schedule
+### Schedule
 
 This page shows a list of External Audits that have not been completed.
 
@@ -59,7 +57,7 @@ Clicking on the pencil icon will allow you to view more information related to t
 | Time 					 | This is the time the External Audit will take place						|
 | Actions 				 | These are the actions you can take - View Audit & Delete					|
 
-#### Completed
+### Completed
 
 This page shows a list of External Audits that have been completed.
 
