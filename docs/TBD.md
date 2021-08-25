@@ -7,8 +7,6 @@ Risk Management -> Risk Scoring
 Premises Asset Form
 
 + Management Reviews
-2. Schedule
-3. Completed
 4. Actions
 
 ## To Be Done
@@ -17,8 +15,7 @@ Premises Asset Form
 |Subject	 			|Subtopics																							|
 | :-------------------- | :------------------------------------------------------------------------------------------------ |
 |Dashboard				|Overview 																							|
-|Management Reviews		|Schedule, Completed, Actions																		|
-|KPI/Objectives			|Add KPI, Business function, Organisation, Actions													|
+|Management Reviews		|Actions																							|
 |Compliance				|Actions, Comments + Upload, Score system															|
 |Supplier Management 	|Supplier List, Actions																				|
 |Document Management 	|Add Documents, Privacy, Sharing, Actions															|
