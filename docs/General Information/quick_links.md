@@ -147,11 +147,16 @@ Link to guide, **not made**
 + supplier management
 
 ### Account
+ 
+[Profile][] **not made**
 
-**not made**
+[Change Password][]
 
-`profile` 
+[Forgot Password][]
 
-`change password` link to #forgot-password
+[Log Out][]
 
-`log out` link to #log-out
+[Change Password]: ./new_user#changing-your-password "New User Change Password"
+[Forgot Password]: ./new_user#forgot-password
+[Log Out]: ./new_user#logging-out "New User Log Out"
+[Profile]: ./new_user#profile
