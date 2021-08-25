@@ -92,3 +92,9 @@ Premises Asset Form
 + Fixed images being in line with text
 + Fixed dead links not leading anywhere
 + Added links to quick links that are more efficient
+
+|Subject				| Specific 							| Location	 													|
+| :-------------------- | :-------------------------------- | :------------------------------------------------------------ |
+|Management Reviews 	|**Schedule** 						|General Information/Management Reviews/management_review.md 	|
+|Management Reviews 	|**KPI/Objectives** 				|General Information/Management Reviews/management_review.md 	|
+|Management Reviews 	|**Create KPIs**					|General Information/Managemnet Reviews/add_kpi.md 				|
