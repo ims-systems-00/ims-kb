@@ -38,7 +38,7 @@ This could be caused by a number of reasons.
 + No license assigned by Admin
 + An issue with the server configuration
 
-If there is an issue regarding your password, you could try [resetting your password][Forgot Password]. If you are a system administrator, please take a look at the [Troubleshooting Guide][], or contact a member of the iMS Team.
+If there is an issue regarding your password, you could try [resetting your password][Forgot Password]. If you are a system administrator, please take a look at the [Troubleshooting Guide][] **Not yet made**, or contact a member of the iMS Team.
 
 ### Logging Out
 
@@ -85,4 +85,4 @@ Check your inbox for an email that will provide you a link to a password reset f
 
 
 [Forgot Password]: #forgot-password "#Forgot-Password"
-[Troubleshooting Guide]: ../../troubleshooting **Not yet made**
+[Troubleshooting Guide]: ../../troubleshooting 

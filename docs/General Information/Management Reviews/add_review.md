@@ -4,7 +4,7 @@
 
 Get started by navigating to and clicking on the `Management Review` button on the `Sidebar`, which is on the left-hand side, then click on `Schedule`.
 
-For more information on making modifications or amendments to your Management Reviews click [here][Management Review].
+For more information on making modifications or amendments to your Management Reviews click [here][Management Review]. **not yet made**
 
 ### Creating a Management Review
 
@@ -12,6 +12,4 @@ After navigating to the `Add Review` tab in the `Schedule` section of `Managemen
 
 Click on `Confirm` to add the meeting to the schedule. Note that the system will automatically create multiple management reviews to the schedule depending on your selection for `Interval`.
 
-
-
-**not done yet** -> [Management Review]: ../actions#management-reviews
+[Management Review]: ../actions#management-reviews
