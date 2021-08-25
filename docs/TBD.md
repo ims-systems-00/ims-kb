@@ -12,17 +12,17 @@ Premises Asset Form
 ## To Be Done
 
 
-|Subject	 			|Subtopics																							|
-| :-------------------- | :------------------------------------------------------------------------------------------------ |
-|Dashboard				|Overview 																							|
-|Management Reviews		|Actions																							|
-|Compliance				|Actions, Comments + Upload, Score system															|
-|Supplier Management 	|Supplier List, Actions																				|
-|Document Management 	|Add Documents, Privacy, Sharing, Actions															|
-|Task Manager			|My tasks, Requests																					|
-|Calendar 				|Actions, Automatic																					|
-|User Management		|User access management, Action, Toolkit															|
-|User Management		|License, request, actions																			|
+|Subject	 			|Subtopics									|
+|:----------------------|:------------------------------------------|
+|Dashboard				|Overview 									|
+|Management Reviews		|Actions									|
+|Compliance				|Actions, Comments + Upload, Score system	|
+|Supplier Management 	|Supplier List, Actions						|
+|Document Management 	|Add Documents, Privacy, Sharing, Actions	|
+|Task Manager			|My tasks, Requests							|
+|Calendar 				|Actions, Automatic							|
+|User Management		|User access management, Action, Toolkit	|
+|User Management		|License, request, actions					|
 
 
 ## Done
@@ -30,7 +30,7 @@ Premises Asset Form
 ### 17.08.21
 
 |Subject				| Specific 							| Location	 													|
-| :-------------------- | :-------------------------------- | :------------------------------------------------------------ |
+|:----------------------|:----------------------------------|:--------------------------------------------------------------|
 |Configuration 			|**First time configuration**		|intro.md 														|
 |User Guide 			|**New User Guide**					|General Information/New User.md  								|
 |Main Menu 				|**Toggle info**					|General Information/Toggles.md 								|

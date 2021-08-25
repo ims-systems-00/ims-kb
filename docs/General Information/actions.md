@@ -225,15 +225,6 @@ Simply select `Cancel` to stop the deletion process or `Confirm` in order to del
 
 For each `Event` you can either `Modify` or `Delete` them.
 
-### Colour Scheme
-| Color 																							| Description 			|
-| :------------------------------------------------------------------------------------------------ | :-------------------- |
-| <!-- <span style="background-color:#fd5d93; color:white"> -->&nbsp;Red&nbsp;		<!--</span>-->	| P1 Incident 			|
-| <!-- <span style="background-color:#1d8cf8; color:white"> -->&nbsp;Azure&nbsp;	<!--</span>-->	| Management Review 	|
-| <!-- <span style="background-color:#00bf9a; color:white"> -->&nbsp;Green&nbsp;	<!--</span>-->	| Scheduled Audits		|
-| <!-- <span style="background-color:#ff8d72; color:white"> -->&nbsp;Orange&nbsp;	<!--</span>-->	| Supplier Review		|
-| <!-- <span style="background-color:#344675; color:white"> -->&nbsp;Grey&nbsp;		<!--</span>-->	| Personal/Custom Events|
-
 ### Modifying an Event
 
 In order to `Amend` the details of an Event, you must first find the event you wish to change the details of then click on the name of the Event. The event details should popup in a form that can be edited, edit the details you wish to change and click on `Update` to save your changes.

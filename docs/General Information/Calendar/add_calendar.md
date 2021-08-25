@@ -20,6 +20,7 @@ You can also [modify][Modifying Calendar] and [delete][Deleting Calendar] events
 
 <img src="/img/DocImg/General Information/Calendar/Completed_Calendar_Form.png" alt="Completed Calendar Form" class="center"/>
 
+
 [Calendar]: ../actions#calendar-events
 [Modifying Calendar]: ../actions#modifying-an-event
 [Deleting Calendar]: ../actions#deleting-an-event
