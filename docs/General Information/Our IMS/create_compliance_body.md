@@ -1,4 +1,4 @@
-# Our IMS - Compliance
+# Compliance
 
 ## Creating a Compliance Body
 

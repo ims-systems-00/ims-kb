@@ -1,4 +1,4 @@
-# Inventory Management - Adding Assets
+# Adding Assets
 
 ## Getting Started
 

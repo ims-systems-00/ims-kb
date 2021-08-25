@@ -1,4 +1,4 @@
-# Management Reviews - Creating a Management Review
+# Creating a Management Review
 
 ## Getting Started
 

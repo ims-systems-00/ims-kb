@@ -1,4 +1,4 @@
-# Our IMS - System Dates and Report Intervals
+# System Dates and Report Intervals
 
 ## Setting a System Date
 

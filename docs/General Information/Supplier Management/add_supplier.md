@@ -1,4 +1,4 @@
-# Supplier Management - Adding a Supplier
+# Adding a Supplier
 
 ## Getting Started
 

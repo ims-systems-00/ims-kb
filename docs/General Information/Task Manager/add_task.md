@@ -1,4 +1,4 @@
-# Task Manager - Add Task
+# Add Tasks
 
 ## Getting Started
 

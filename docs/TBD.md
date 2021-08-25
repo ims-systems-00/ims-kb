@@ -7,7 +7,6 @@ Risk Management -> Risk Scoring
 Premises Asset Form
 
 + Management Reviews
-1. Add Review **done**
 2. Schedule
 3. Completed
 4. Actions

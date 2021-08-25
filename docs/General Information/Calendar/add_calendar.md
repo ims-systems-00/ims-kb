@@ -1,4 +1,4 @@
-# Calendar - Add an Event/Agenda
+# Add an Event/Agenda
 
 ## Getting Started
 

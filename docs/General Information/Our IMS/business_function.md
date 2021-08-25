@@ -1,4 +1,4 @@
-# Our IMS - Business Function
+# Business Function
 
 ## Creating a Business Function
 
