@@ -50,7 +50,7 @@ When modifying an Asset, you may be limited by your level of access.
 
 In order to `Delete` an Asset, select the trash can icon under the `Actions` field.
 
-When deleting an Asset, you will first be asked to confirm you really wish to delete the asset. Please be warned that deleted assets cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
+When deleting an Asset, you will first be asked to confirm you really wish to delete the asset. Please be warned that deleted assets cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
 
 <img src="/img/DocImg/General Information/Actions/Asset_Actions/Asset_Delete_Confirmation.png" alt="Asset - Delete Confirmation" class="center"/>
 
@@ -88,7 +88,7 @@ Simply select `Cancel` to stop the escalation process or `Confirm` in order to e
 
 In order to `Delete` a Risk, select the trash can icon under the `Actions` field.
 
-When deleting a Risk, you will first be asked to confirm you really wish to delete the risk. Please be warned that deleted risks cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
+When deleting a Risk, you will first be asked to confirm you really wish to delete the risk. Please be warned that deleted risks cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
 
 <img src="/img/DocImg/General Information/Actions/Risk_Actions/Risk_Delete_Confirmation.png" alt="Risk - Delete Confirmation" class="center"/>
 
@@ -126,7 +126,7 @@ Simply select `Cancel` to stop the escalation process or `Confirm` in order to e
 
 In order to `Delete` an Incident, select the trash can icon under the `Actions` field.
 
-When deleting an Incident, you will first be asked to confirm you really wish to delete the incident. Please be warned that deleted incidents cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
+When deleting an Incident, you will first be asked to confirm you really wish to delete the incident. Please be warned that deleted incidents cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
 
 <img src="/img/DocImg/General Information/Actions/Incident_Actions/Inicdent_Delete_Confirmation.png" alt="Incident - Delete Confirmation" class="center"/>
 
@@ -156,7 +156,7 @@ In order to `Delete` an Audit, select the trash can icon under the `Actions` fie
 
 You can delete Audits from the `Schedule` and `Completed` tabs.
 
-When deleting an Audit, you will first be asked to confirm you really wish to delete the incident. Please be warned that deleted incidents cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
+When deleting an Audit, you will first be asked to confirm you really wish to delete the incident. Please be warned that deleted incidents cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
 
 <img src="/img/DocImg/General Information/Actions/Audit_Actions/Audit_Delete_Confirmation.png" alt="Audit - Delete Confirmation" class="center"/>
 
@@ -186,7 +186,7 @@ In order to `Implement` an incident, select the pencil icon under the `Actions` 
 
 In order to `Delete` an OFI, select the trash can icon under the `Actions` field.
 
-When deleting an OFI, you will first be asked to confirm you really wish to delete the OFI. Please be warned that deleted OFIs cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
+When deleting an OFI, you will first be asked to confirm you really wish to delete the OFI. Please be warned that deleted OFIs cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
 
 <img src="/img/DocImg/General Information/Actions/OFI_Actions/OFI_Delete_Confirmation.png" alt="OFI - Delete Confirmation" class="center"/>
 
@@ -214,7 +214,7 @@ When modifying a Task, you may be limited by your level of access.
 
 In order to `Delete` a Task, select the trash can icon under the `Actions` field.
 
-When deleting a Task, you will first be asked to confirm you really wish to delete the OFI. Please be warned that deleted Tasks cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
+When deleting a Task, you will first be asked to confirm you really wish to delete the OFI. Please be warned that deleted Tasks cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
 
 <img src="/img/DocImg/General Information/Actions/Task_Manager_Actions/Task_Manager_Delete_Confirmation.png" alt="Task Manager - Delete Confirmation" class="center"/>
 
@@ -249,4 +249,4 @@ In order to `Delete` an Event, you must first find th eevent you wish to delete,
 
 **If you cannot find a Delete button, the event you are attempting to delete is not a personal/custom event that you have created.**
 
-[Backup]: ./backup "Link to Backup Guide" **not yet made**
+[Backup]: ./backup "Link to Backup Guide" 
