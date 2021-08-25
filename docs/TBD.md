@@ -48,11 +48,6 @@ Premises Asset Form
 |Continual Improvement	|**Add OFI**						|General Information/Continual Improvement/Add OFI.md 			|
 |Actions				|**Continual Improvement**			|General Information/Actions.md 								|
 |Actions				|**Sorting Features**				|General Information/Actions.md 								|
-
-### 18.08.21
-
-|Subject				| Specific 							| Location	 													|
-| :-------------------- | :-------------------------------- | :------------------------------------------------------------ |
 |Calendar				|**Add Calendar Event**				|General Information/Calendar/Add_Calendar.md 					|
 |Actions				|**Calendar Actions**				|General Information/Actions.md 								|
 |Information			|**Converted Excel Sheet**			|info.md 														|
@@ -64,11 +59,6 @@ Premises Asset Form
 |Our IMS 				|**Creating Report Interval** 		|General Information/Our_IMS/System_Dates.md 					|
 |Our IMS				|**Creating System Report**			|General Information/Our_IMS/System_Dates.md 					|
 |Our IMS 				|**Set Incident Resolution Time**	|General Information/Our_IMS/Incident_Resolution.md 			|
-
-### 19.08.21
-
-|Subject				| Specific 							| Location	 													|
-| :-------------------- | :-------------------------------- | :------------------------------------------------------------ |
 |Our IMS				|**Explain System Report**			|General Information/Our_IMS/System_Dates.md 					|
 |Our IMS 				|**Explain Report Interval** 		|General Information/Our_IMS/System_Dates.md 					|
 |Our IMS 				|**Explain Resolution Time**		|General Information/Our_IMS/Incident_Resolution.md 			|
