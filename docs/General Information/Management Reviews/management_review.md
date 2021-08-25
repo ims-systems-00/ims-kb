@@ -41,5 +41,5 @@ On clicking the Business Function for which you wish to view the KPIs of, you wi
 
 This page allows you to view KPIs linked to the Organisation as a whole. All users can view the KPIs linked to the Organisation.
 
-[Add Review]: ./add_review.md
-[Add KPI]: ./add_kpi.md
+[Add Review]: ./add_review
+[Add KPI]: ./add_kpi
