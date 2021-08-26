@@ -26,8 +26,8 @@ module.exports = {
           position: 'left',
         },
         {
-          to: '/blog', 
-          label: 'Tutorial', 
+          to: '/blog',
+          label: 'Tutorial',
           position: 'left'
         },
       ],
