@@ -57,11 +57,12 @@ Email : <your.name@domain.com>
 Password : `system generated password` ie: (jahd8234bj^&%d)
 
 
-You are recommended to browse the "General Information" portion of the User Manual if this is your first time using the iMS System.
+You are recommended to browse the "[General Information][]" portion of the User Manual if this is your first time using the iMS System.
 
 [iMS]: https://imssystems.tech/ "iMS Homepage"
 [myIMS]: https://my.imssystems.tech/ "Demo iMS"
 [Permissions]: ./permission "Link to Permissions Page"
+[General Information]: ./General%20Information/quick_links
 
 **Not yet made troubleshooting guide**
 

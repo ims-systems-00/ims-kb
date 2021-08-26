@@ -82,3 +82,4 @@
 |Risk Management 		|**Risk Scoring Chart**				|General Information > risk_scoring 							 |
 |Risk Management 		|**Risk Scoring Explanation**		|General Information > risk_scoring								 |
 |Risk Management 		|**Risk Scoring Examples**			|General Information > risk_scoring 							 |
+
