@@ -1,6 +1,6 @@
 # Risk Scoring
 
-## What is the Scoring System
+## The Scoring System
 
 | Likelihood	|  				| 			|	Impact		|			|					|
 |---------------|---------------|-----------|---------------|-----------|-------------------|
