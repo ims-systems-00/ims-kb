@@ -4,10 +4,6 @@
 
 Risk Management -> Risk Scoring
 
-Premises Asset Form pic
-
-
-
 ## To Be Done
 
 
