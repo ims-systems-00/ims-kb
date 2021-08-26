@@ -1,4 +1,4 @@
-# Adding a Supplier
+# Adding Suppliers
 
 ## Getting Started
 

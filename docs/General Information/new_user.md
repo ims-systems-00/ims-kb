@@ -85,4 +85,4 @@ Check your inbox for an email that will provide you a link to a password reset f
 
 
 [Forgot Password]: #forgot-password "#Forgot-Password"
-[Troubleshooting Guide]: ../../troubleshooting 
+[Troubleshooting Guide]: ../intro 
