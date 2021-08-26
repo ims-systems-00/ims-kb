@@ -2,7 +2,7 @@
 
 ## Doing Right Now
 
-Risk Management -> Risk Scoring
+
 
 ## To Be Done
 
@@ -91,3 +91,8 @@ Risk Management -> Risk Scoring
 |Management Reviews 	|**Create KPIs**					|General Information/Managemnet Reviews/add_kpi.md 				|
 |Actions 				|**Added Review Actions**			|General Information/actions.md 								|
 |Actions 				|**Added KPI Actions** 				|General Information/actions.md 								|
+
+### 26.08.21
+
++ Finised risk scoring chart
++ risk scoring explanations and examples
