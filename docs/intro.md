@@ -63,6 +63,6 @@ You are recommended to browse the "General Information" portion of the User Manu
 [myIMS]: https://my.imssystems.tech/ "Demo iMS"
 [Permissions]: ./permission "Link to Permissions Page"
 
-**Not yet made**
+**Not yet made troubleshooting guide**
 
 [Troubleshooting Guide]: ./intro
