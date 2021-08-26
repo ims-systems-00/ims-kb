@@ -1,4 +1,4 @@
-# Raise Incidents
+# Raising Incidents
 
 ## Getting Started
 

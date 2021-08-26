@@ -1,4 +1,4 @@
-# Add Tasks
+# Adding Tasks
 
 ## Getting Started
 
