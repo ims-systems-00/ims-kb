@@ -1,4 +1,4 @@
-# Our IMS - Compliance
+# Compliance
 
 ## Creating a Compliance Body
 
@@ -15,4 +15,4 @@ You should now see a form with 3 fields, `Certification Body`, `Standard` and `R
 For more information on Compliance Bodies click [here][Our IMS]
 
 [Info]: ../../info "User Information and Accessibility"
-[Our IMS]: ./our_ims "Our IMS"
+[Our IMS]: ./our_ims#compliance-bodies "Our IMS"

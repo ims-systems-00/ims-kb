@@ -44,4 +44,4 @@ It may take a few seconds for the report to be generated and sent, once the emai
 
 You can automate the delivery of Dashboard Reports using the `Report Interval` function. You can find more information on this [here][Report Interval]
 
-[Report Interval]: ../Our%20IMS/system_dates
+[Report Interval]: ../Our%20IMS/system_dates#report-intervals

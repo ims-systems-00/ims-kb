@@ -1,4 +1,4 @@
-# Task Manager - Add Task
+# Add Tasks
 
 ## Getting Started
 
@@ -15,8 +15,6 @@ After doing so, you must name the `Task` and give it a `Description`. Next, you 
 You must input a due date for the task - this is the deadline of the task.
 
 <img src="/img/DocImg/General Information/Task_Manager/Completed_Task_Manager_Form.png" alt="Completed Task Manager Form" class="center"/>
-
-![Completed Task Manager Form](/img/DocImg/General Information/Task_Manager/Completed_Task_Manager_Form.png "Completed Task Manager Form")
 
 ### Accepting a Task
 

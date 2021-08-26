@@ -1,4 +1,4 @@
-# Audits - Creating an Audit
+# Creating an Audit
 
 ## Getting Started
 
