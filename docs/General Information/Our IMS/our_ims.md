@@ -1,4 +1,4 @@
-# Our IMS - Our IMS
+# Our IMS
 
 ## Getting Started
 

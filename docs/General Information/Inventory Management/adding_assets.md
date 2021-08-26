@@ -1,4 +1,4 @@
-# Inventory Management - Adding Assets
+# Adding Assets
 
 ## Getting Started
 
@@ -58,8 +58,6 @@ From here, you enter the `name` of the building, followed by the `address` and `
 After entering the `cost` of the asset, click `confirm` to submit the asset to your organisation's **Premises** inventory.
 
 <img src="/img/DocImg/General Information/Inventory_Management/Completed_Premises_Asset_Form.png" alt="Completed Premises Asset Form" class="center"/>
-
- **NEED TO MAKE**
 
 ### Information
 

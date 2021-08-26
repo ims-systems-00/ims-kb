@@ -1,4 +1,4 @@
-# Risk Management - Adding Risks
+# Adding Risks
 
 ## Getting Started
 

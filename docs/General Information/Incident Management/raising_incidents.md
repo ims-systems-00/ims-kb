@@ -1,4 +1,4 @@
-# Incident Management - Raise Incident
+# Raising Incidents
 
 ## Getting Started
 

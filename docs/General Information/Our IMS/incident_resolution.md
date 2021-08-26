@@ -1,4 +1,4 @@
-# Our IMS - Incident Resolution
+# Incident Resolution
 
 ## Setting Resolution Times
 

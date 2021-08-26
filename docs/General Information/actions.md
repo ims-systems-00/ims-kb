@@ -18,11 +18,13 @@ Each table allows you to search relevant information to find a match. For exampl
 
 <img src="/img/DocImg/General Information/Actions/Search/Hardware_Asset_Search.png" alt="Hardware Asset Search" class="center"/>
 
+
 ### Sort
 
 Each table also allows you to customise how you wish to sort it. At the moment, you can only sort by A-Z (1-9) and Z-A (9-1) by click the arrow buttons next to the header of each column in the table.
 
 <img src="/img/DocImg/General Information/Actions/Search/Hardware_Sort_By.png" alt="Sort By" class="center"/>
+
 
 ### Number of Results
 
@@ -30,11 +32,13 @@ You can also adjust the number of rows to display at once. The default number of
 
 <img src="/img/DocImg/General Information/Actions/Search/Number_of_Rows.png" alt="Number of Rows" class="center"/>
 
+
 ## Inventory Management (Assets)
 
 For each `Asset`, you can `Modify` or `Delete` each entry in the `Inventory` system for each individual category.
 
 <img src="/img/DocImg/General Information/Actions/Asset_Actions/Asset_Actions_Amend_Delete.png" alt="Asset - Amend/Delete" class="center"/>
+
 
 ### Modifying an Asset
 
@@ -46,9 +50,10 @@ When modifying an Asset, you may be limited by your level of access.
 
 In order to `Delete` an Asset, select the trash can icon under the `Actions` field.
 
-When deleting an Asset, you will first be asked to confirm you really wish to delete the asset. Please be warned that deleted assets cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
+When deleting an Asset, you will first be asked to confirm you really wish to delete the asset. Please be warned that deleted assets cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
 
 <img src="/img/DocImg/General Information/Actions/Asset_Actions/Asset_Delete_Confirmation.png" alt="Asset - Delete Confirmation" class="center"/>
+
 
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Asset.
 
@@ -59,6 +64,7 @@ Simply select `Cancel` to stop the deletion process or `Confirm` in order to del
 For each `Risk`, you can either `Modify`, `Escalate` or `Delete` them, much like with `Assets`.
 
 <img src="/img/DocImg/General Information/Actions/Risk_Actions/Risk_Actions_Amend_Escalate_Delete.png" alt="Risk - Amend/Escalate/Delete" class="center"/>
+
 
 ### Modifying a Risk
 
@@ -72,17 +78,20 @@ When escalating a Risk, you will be first asked to confirm escalation of the Ris
 
 <img src="/img/DocImg/General Information/Actions/Risk_Actions/Risk_Escalation_Confirmation.png" alt="Risk - Escalation Confirmation" class="center"/>
 
+
 Simply select `Cancel` to stop the escalation process or `Confirm` in order to escalate the Risk. Once escalated it will appear under the `Escalated` tab in the relevant category.
 
 <img src="/img/DocImg/General Information/Actions/Risk_Actions/Risk_Escalation_Location.png" alt="Risk - Escalation Location" class="center"/>
+
  
 ### Deleting a Risk
 
 In order to `Delete` a Risk, select the trash can icon under the `Actions` field.
 
-When deleting a Risk, you will first be asked to confirm you really wish to delete the risk. Please be warned that deleted risks cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
+When deleting a Risk, you will first be asked to confirm you really wish to delete the risk. Please be warned that deleted risks cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
 
 <img src="/img/DocImg/General Information/Actions/Risk_Actions/Risk_Delete_Confirmation.png" alt="Risk - Delete Confirmation" class="center"/>
+
  
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Risk.
 
@@ -93,6 +102,7 @@ Simply select `Cancel` to stop the deletion process or `Confirm` in order to del
 For each `Incident`, you can either `Modify`, `Escalate` or `Delete` them, much like with `Assets` and `Risks`.
 
 <img src="/img/DocImg/General Information/Actions/Incident_Actions/Incident_Actions_Amend_Escalate_Delete.png" alt="Incident - Amend/Escalate/Delete" class="center"/>
+
 
 ### Modifying an Incident
 
@@ -106,17 +116,20 @@ When escalating an Incident, you will be first asked to confirm escalation of th
 
 <img src="/img/DocImg/General Information/Actions/Incident_Actions/Incident_Escalation_Confirmation.png" alt="Incident - Escalation Confirmation" class="center"/>
 
+
 Simply select `Cancel` to stop the escalation process or `Confirm` in order to escalate the Incident. Once escalated it will appear under the `Escalated` tab in the relevant category.
 
 <img src="/img/DocImg/General Information/Actions/Incident_Actions/Incident_Escalation_Location.png" alt="Incident - Escalation Location" class="center"/>
+
 
 ### Deleting an Incident
 
 In order to `Delete` an Incident, select the trash can icon under the `Actions` field.
 
-When deleting an Incident, you will first be asked to confirm you really wish to delete the incident. Please be warned that deleted incidents cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
+When deleting an Incident, you will first be asked to confirm you really wish to delete the incident. Please be warned that deleted incidents cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
 
 <img src="/img/DocImg/General Information/Actions/Incident_Actions/Inicdent_Delete_Confirmation.png" alt="Incident - Delete Confirmation" class="center"/>
+
  
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Incident.
 
@@ -143,11 +156,42 @@ In order to `Delete` an Audit, select the trash can icon under the `Actions` fie
 
 You can delete Audits from the `Schedule` and `Completed` tabs.
 
-When deleting an Audit, you will first be asked to confirm you really wish to delete the incident. Please be warned that deleted incidents cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
+When deleting an Audit, you will first be asked to confirm you really wish to delete the incident. Please be warned that deleted incidents cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
 
 <img src="/img/DocImg/General Information/Actions/Audit_Actions/Audit_Delete_Confirmation.png" alt="Audit - Delete Confirmation" class="center"/>
+
  
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Incident.
+
+## Management Reviews
+
+### Schedule
+
+For each scheduled `Mangement Review` you can either `Modify` or `Delete` them.
+
+#### Modifying a Management Review
+
+In order to `Amend` a Review, select the pencil icon under the `Actions` field, when finished click on `Update`.
+
+To move a Management Review into the **Completed** tab simply click on the `Complete` button when amending it.
+
+#### Deleting a Management Review
+
+In order to `Delete` a Management Review, select the trash can icon under the `Actions` field.
+
+When deleting a Review, you will first be asked to confirm you really wish to delete it. Please be warned that deleted Reviews cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
+
+### KPIs
+
+#### Modifying a KPI
+
+In order to `Amend` a KPI, simply edit the textbox it is displayed in. If this is not possible, create a new KPI with the amended details and delete the old one.
+
+#### Deleting a KPI
+
+In order to `Delete` a KPI, simply select the **-** icon to the right of the textbox.
+
+When deleting a KPI, there is no confirmation asking if you really wish to delete it. Please be warned that deleted KPIs cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
 
 ## Continual Improvement (OFIs)
 
@@ -156,6 +200,7 @@ Simply select `Cancel` to stop the deletion process or `Confirm` in order to del
 For each `OFI`, you can either `Modify` or `Delete` them, much like with `Assets`, `Risks` and `Incidents`, however you can also `Implement` an OFI from the `Modify` menu.
 
 <img src="/img/DocImg/General Information/Actions/OFI_Actions/OFI_Actions_Amend_Delete.png" alt="OFI - Amend/Delete" class="center"/>
+
 
 ### Modifying an OFI
 
@@ -171,9 +216,10 @@ In order to `Implement` an incident, select the pencil icon under the `Actions` 
 
 In order to `Delete` an OFI, select the trash can icon under the `Actions` field.
 
-When deleting an OFI, you will first be asked to confirm you really wish to delete the OFI. Please be warned that deleted OFIs cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
+When deleting an OFI, you will first be asked to confirm you really wish to delete the OFI. Please be warned that deleted OFIs cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
 
 <img src="/img/DocImg/General Information/Actions/OFI_Actions/OFI_Delete_Confirmation.png" alt="OFI - Delete Confirmation" class="center"/>
+
 
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the OFI.
 
@@ -184,6 +230,7 @@ Simply select `Cancel` to stop the deletion process or `Confirm` in order to del
 For each `Task`, you can either `Modify` or `Delete` them, much like with `Assets`, `Risks` and `Incidents`, however you can also `Assign` a Task to a user either from the `Modify` menu or during creation of the task itself..
 
 <img src="/img/DocImg/General Information/Actions/Task_Manager_Actions/Task_Manager_Actions_Amend_Delete.png" alt="Task Manager - Amend/Delete" class="center"/>
+
 
 ### Modifying a Task
 
@@ -197,24 +244,16 @@ When modifying a Task, you may be limited by your level of access.
 
 In order to `Delete` a Task, select the trash can icon under the `Actions` field.
 
-When deleting a Task, you will first be asked to confirm you really wish to delete the OFI. Please be warned that deleted Tasks cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] to safely store information in case of an accident.
+When deleting a Task, you will first be asked to confirm you really wish to delete the OFI. Please be warned that deleted Tasks cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
 
 <img src="/img/DocImg/General Information/Actions/Task_Manager_Actions/Task_Manager_Delete_Confirmation.png" alt="Task Manager - Delete Confirmation" class="center"/>
+
  
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Task.
 
 ## Calendar (Events)
 
 For each `Event` you can either `Modify` or `Delete` them.
-
-### Colour Scheme
-| Color 																							| Description 			|
-| :------------------------------------------------------------------------------------------------ | :-------------------- |
-| <!-- <span style="background-color:#fd5d93; color:white"> -->&nbsp;Red&nbsp;		<!--</span>-->	| P1 Incident 			|
-| <!-- <span style="background-color:#1d8cf8; color:white"> -->&nbsp;Azure&nbsp;	<!--</span>-->	| Management Review 	|
-| <!-- <span style="background-color:#00bf9a; color:white"> -->&nbsp;Green&nbsp;	<!--</span>-->	| Scheduled Audits		|
-| <!-- <span style="background-color:#ff8d72; color:white"> -->&nbsp;Orange&nbsp;	<!--</span>-->	| Supplier Review		|
-| <!-- <span style="background-color:#344675; color:white"> -->&nbsp;Grey&nbsp;		<!--</span>-->	| Personal/Custom Events|
 
 ### Modifying an Event
 
@@ -224,10 +263,11 @@ In order to `Amend` the details of an Event, you must first find the event you w
 
 <img src="/img/DocImg/General Information/Actions/Calendar_Actions/Calendar_Modify_Actions.png" alt="Calendar - Modify" class="center"/>
 
+
 ### Deleting an Event
 
 In order to `Delete` an Event, you must first find th eevent you wish to delete, then click on the name of the Event. The event details should popup in a form. From here, click on the `Delete` button and the event will be deleted.
 
 **If you cannot find a Delete button, the event you are attempting to delete is not a personal/custom event that you have created.**
 
-[Backup]: ./backup "Link to Backup Guide" **not yet made**
+[Backup]: ./actions "Link to Backup Guide" 

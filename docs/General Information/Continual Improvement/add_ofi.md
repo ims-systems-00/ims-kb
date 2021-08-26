@@ -1,4 +1,4 @@
-# Continual Improvement - Adding OFIs
+# Adding OFIs
 
 ## Getting Started
 

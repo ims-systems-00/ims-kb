@@ -1,4 +1,4 @@
-# Calendar - Add an Event/Agenda
+# Adding Events/Agendas
 
 ## Getting Started
 
@@ -19,6 +19,7 @@ Once you are done entering the details, simply click `Create` and the event will
 You can also [modify][Modifying Calendar] and [delete][Deleting Calendar] events on the calendar.
 
 <img src="/img/DocImg/General Information/Calendar/Completed_Calendar_Form.png" alt="Completed Calendar Form" class="center"/>
+
 
 [Calendar]: ../actions#calendar-events
 [Modifying Calendar]: ../actions#modifying-an-event
