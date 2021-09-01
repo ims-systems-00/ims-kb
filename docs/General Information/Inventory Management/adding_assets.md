@@ -8,7 +8,7 @@ For more information on making modifications or amendments to your Inventory Man
 
 ## Categories
 
-After clicking the `Inventory` button, you must now select which category you are wanting to add an asset to, or view the inventory of.
+After clicking the `Inventory` button, you must now select which category you are wanting to add an asset to or view the inventory of.
 
 The following categories are available.
 + Hardware
@@ -43,7 +43,7 @@ After entering the `cost` of the asset, click `confirm` to submit the asset to y
 
 For **People** assets, you must first choose the **Business function** you are assigning the person to. The business function selector is a drop-down menu, from which you can select from the business functions your organisation has created.
 
-From here, you enter the `name` of the staff member, follow by their `role`, `responsibilities` and `skills`.
+From here, you enter the `name` of the staff member, followed by their `role`, `responsibilities` and `skills`.
 
 After entering these details, click `confirm` to submit the asset to your organisation's **People** inventory.
 
@@ -61,9 +61,9 @@ After entering the `cost` of the asset, click `confirm` to submit the asset to y
 
 ### Information
 
-For **Information** assets, you mist first choose the **Business function** you are assigning the Information to. The business function selector is a drop-down menu, from which you can select from the business functions your organisation has created.
+For **Information** assets, you must first choose the **Business function** you are assigning the Information to. The business function selector is a drop-down menu, from which you can select from the business functions your organisation has created.
 
-From here, you description of the `Information inventory`, for example *Contractual Data* or *Employee Data* etc, followed by the `title` of the information as well as what `format` it is in, for examle *PDF* or *DOCX* are methods in which the above data may be stored.
+From here, your description of the `Information inventory`, for example, *Contractual Data* or *Employee Data*, etc, followed by the `title` of the information as well as what `format` it is in, for example, *PDF* or *DOCX* are methods in which the above data may be stored.
 
 Following this, you enter the `storage location` and a `link` to the information.
 

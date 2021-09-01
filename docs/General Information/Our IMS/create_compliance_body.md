@@ -10,7 +10,7 @@ Get started by navigating to and clicking on the `Our IMS` button on the `Sideba
 
 After clicking the `Our IMS` button, you must now select the `Compliance` tab.
 
-You should now see a form with 3 fields, `Certification Body`, `Standard` and `Responsibility`. After filling in these 3 fields, click on `Confirm` to create your Compliance Body. 
+You should now see a form with 3 fields, `Certification Body`, `Standard`, and `Responsibility`. After filling in these 3 fields, click on `Confirm` to create your Compliance Body. 
 
 For more information on Compliance Bodies click [here][Our IMS]
 

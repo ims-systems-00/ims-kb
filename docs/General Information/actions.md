@@ -4,7 +4,7 @@
 
 ## Tables
 
-When browsing a set of data presented on a table, there are a number of ways to search, sort and present the information you are looking at.
+When browsing a set of data presented on a table, there are a number of ways to search, sort, and present the information you are looking at.
 
 ### Search
 
@@ -21,7 +21,7 @@ Each table allows you to search relevant information to find a match. For exampl
 
 ### Sort
 
-Each table also allows you to customise how you wish to sort it. At the moment, you can only sort by A-Z (1-9) and Z-A (9-1) by click the arrow buttons next to the header of each column in the table.
+Each table also allows you to customise how you wish to sort it. At the moment, you can only sort by A-Z (1-9) and Z-A (9-1) by clicking the arrow buttons next to the header of each column in the table.
 
 <img src="/img/DocImg/General Information/Actions/Search/Hardware_Sort_By.png" alt="Sort By" class="center"/>
 
@@ -74,7 +74,7 @@ When modifying a Risk, you may be limited by your level of access.
 
 ### Escalating a Risk
 
-When escalating a Risk, you will be first asked to confirm escalation of the Risk. Note that escalating a Risk will notify the Head of Service and Superadmin accounts of the risk that was escalated, as well as the `owner` of the risk.
+When escalating a Risk, you will be first asked to confirm the escalation of the Risk. Note that escalating a Risk will notify the Head of Service and Superadmin accounts of the risk that was escalated, as well as the `owner` of the risk.
 
 <img src="/img/DocImg/General Information/Actions/Risk_Actions/Risk_Escalation_Confirmation.png" alt="Risk - Escalation Confirmation" class="center"/>
 
@@ -112,7 +112,7 @@ When modifying an Incident, you may be limited by your level of access.
 
 ### Escalating an Incident
 
-When escalating an Incident, you will be first asked to confirm escalation of the Incident. Note that escalating an Incident will notify the Head of Service and Superadmin accounts of the incident that was escalated, as well as the `owner` of the incident.
+When escalating an Incident, you will be first asked to confirm the escalation of the Incident. Note that escalating an Incident will notify the Head of Service and Superadmin accounts of the incident that was escalated, as well as the `owner` of the incident.
 
 <img src="/img/DocImg/General Information/Actions/Incident_Actions/Incident_Escalation_Confirmation.png" alt="Incident - Escalation Confirmation" class="center"/>
 
@@ -167,7 +167,7 @@ Simply select `Cancel` to stop the deletion process or `Confirm` in order to del
 
 ### Schedule
 
-For each scheduled `Mangement Review` you can either `Modify` or `Delete` them.
+For each scheduled `Management Review` you can either `Modify` or `Delete` them.
 
 #### Modifying a Management Review
 
@@ -197,7 +197,7 @@ When deleting a KPI, there is no confirmation asking if you really wish to delet
 
 *Please note that* `Partner` *business functions can only view OFIs that they have been given access to AND are owned by their business function.*
 
-For each `OFI`, you can either `Modify` or `Delete` them, much like with `Assets`, `Risks` and `Incidents`, however you can also `Implement` an OFI from the `Modify` menu.
+For each `OFI`, you can either `Modify` or `Delete` them, much like with `Assets`, `Risks` and `Incidents`, however, you can also `Implement` an OFI from the `Modify` menu.
 
 <img src="/img/DocImg/General Information/Actions/OFI_Actions/OFI_Actions_Amend_Delete.png" alt="OFI - Amend/Delete" class="center"/>
 
@@ -227,7 +227,7 @@ Simply select `Cancel` to stop the deletion process or `Confirm` in order to del
 
 *Please note that* `Partner` *business functions can only view Tasks that they have been given access to AND are owned by their business function.*
 
-For each `Task`, you can either `Modify` or `Delete` them, much like with `Assets`, `Risks` and `Incidents`, however you can also `Assign` a Task to a user either from the `Modify` menu or during creation of the task itself..
+For each `Task`, you can either `Modify` or `Delete` them, much like with `Assets`, `Risks` and `Incidents`, however you can also `Assign` a Task to a user either from the `Modify` menu or during the creation of the task itself.
 
 <img src="/img/DocImg/General Information/Actions/Task_Manager_Actions/Task_Manager_Actions_Amend_Delete.png" alt="Task Manager - Amend/Delete" class="center"/>
 
@@ -257,7 +257,7 @@ For each `Event` you can either `Modify` or `Delete` them.
 
 ### Modifying an Event
 
-In order to `Amend` the details of an Event, you must first find the event you wish to change the details of then click on the name of the Event. The event details should popup in a form that can be edited, edit the details you wish to change and click on `Update` to save your changes.
+In order to `Amend` the details of an Event, you must first find the event you wish to change the details of then click on the name of the Event. The event details should popup in a form that can be edited, edit the details you wish to change, and click on `Update` to save your changes.
 
 **Please note that if the event is not a personal/custom event that you have created within the Calendar you may not be able to edit certain details.**
 
@@ -266,7 +266,7 @@ In order to `Amend` the details of an Event, you must first find the event you w
 
 ### Deleting an Event
 
-In order to `Delete` an Event, you must first find th eevent you wish to delete, then click on the name of the Event. The event details should popup in a form. From here, click on the `Delete` button and the event will be deleted.
+In order to `Delete` an Event, you must first find the event you wish to delete, then click on the name of the Event. The event details should pop up in a form. From here, click on the `Delete` button and the event will be deleted.
 
 **If you cannot find a Delete button, the event you are attempting to delete is not a personal/custom event that you have created.**
 

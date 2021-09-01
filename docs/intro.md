@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Let's configure iMS. This should take less than **15 minutes**
 
-More information about the UI, navigating it, and the numerous buttons can be found in the `General Information` portion of the User Manual. However, it is recommended to complete the Configuration at least once prior to moving on.
+More information about the UI, navigating it, and the numerous buttons can be found in the `General Information` portion of the User Manual. However, it is recommended to complete the Configuration at least once before moving on.
 
 ## Getting Started
 
@@ -16,9 +16,9 @@ First, you need to access your organisation's iMS by visiting the appropriate su
 
 ## Create a business function
 
-Login to the system using your **superadmin** login details and navigate to `Our iMS` from the `Sidebar` which is on the left side of the screen.
+Log in to the system using your **superadmin** login details and navigate to `Our iMS` from the `Sidebar` which is on the left side of the screen.
 
-After navigating to `Our iMS`, you will find 5 tabs on the screen there. On `Business Function` create your first business function with information appropriate to the function you are creating. A business function is effectively one of the departments within your organisation who would need access to the iMS System.
+After navigating to `Our iMS`, you will find 5 tabs on the screen there. On `Business Function` create your first business function with information appropriate to the function you are creating. A business function is effectively one of the departments within your organisation that would need access to the iMS System.
 
 Once you have successfully created your first business function, proceed to the next step.
 
@@ -36,13 +36,13 @@ Navigate to the `Job roles` tab. Here you can add users by filling the form on t
 To grant access to a user, click on the `key` icon of the user you want to grant access to from the user panel on the right side of the `Job Roles` tab.
 
 If the user cannot be granted access, you will get one of the following errors
-> Server error occurred, operation failed.
+> Server error occurred, the operation failed.
 
 > User could not be granted access
 
-This could be a result of either the organisation as a whole, or only that specific business function not possessing enough `Basic User Licenses`. The number of **Basic User Licenses** your organisation possesses will be related to the service you purchased.
+This could be a result of either the organisation as a whole or only that specific business function not possessing enough `Basic User Licenses`. The number of **Basic User Licenses** your organisation possesses will be related to the service you purchased.
 
-If this is your first time setting up iMS, continue following this guide, otherwise if this occurs in the future please visit the [Troubleshooting Guide][].
+If this is your first time setting up iMS, continue following this guide, otherwise, if this occurs in the future please visit the [Troubleshooting Guide][].
 
 ## License management
 

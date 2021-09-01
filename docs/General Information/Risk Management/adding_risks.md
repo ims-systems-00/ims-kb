@@ -8,7 +8,7 @@ For more information on making changes to your Risk Management function click [h
 
 ## Categories
 
-After clicking the `Risk Management` button, you must now select which category you are wanting to add a risk to, or view the risks of.
+After clicking the `Risk Management` button, you must now select which category you are wanting to add a risk to or view the risks of.
 
 The following categories are available.
 + Hardware
@@ -82,9 +82,9 @@ After completing the form, click `add` to submit the risk to your organisation's
 
 For **Clinical** risks, you must first choose the **Business Function** you are assigning the clinical risk to. The business function selector is a drop-down menu from which you can select from the business functions your organisation has created.
 
-From here, assign the risk to an `Asset` and give the risk a `Risk Title` along with the `Description` of the risk. Select the `Risk owner`, the team member who is responsible for the mitigation, acceptance or escalation of the risk.
+From here, assign the risk to an `Asset` and give the risk a `Risk Title` along with the `Description` of the risk. Select the `Risk owner`, the team member who is responsible for the mitigation, acceptance, or escalation of the risk.
 
-Next you must select the `likelihood` and `consequence` of the risk. These can be given placeholder values prior to assessing the risk thoroughly, wherever necessary the details of a risk can be amended by [Modifying a Risk][].
+Next, you must select the `likelihood` and `consequence` of the risk. These can be given placeholder values prior to assessing the risk thoroughly, wherever necessary the details of a risk can be amended by [Modifying a Risk][].
 
 After completing the form, click `Add` to submit the risk to your organisation's **Clinical** Risk Management System.
 

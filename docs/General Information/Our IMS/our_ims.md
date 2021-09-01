@@ -2,11 +2,11 @@
 
 ## Getting Started
 
-To make any changes to your **Business Functions** and **Compliance Bodies**, you must first navigate to the `Our IMS` page using the `Sidebar` on the left hand side. Next click on the `Our ims` tab to view your existing Business Functions and Compliance Bodies.
+To make any changes to your **Business Functions** and **Compliance Bodies**, you must first navigate to the `Our IMS` page using the `Sidebar` on the left-hand side. Next click on the `Our ims` tab to view your existing Business Functions and Compliance Bodies.
 
 ### Business Functions
 
-On the left hand side, you can see the Title and Descriptions of the various Business Functions your organisation has created within the iMS System. To view more information about the Business Functions, click on the pencil icon to the right of the description. This is also where you can edit the exisiting details of the Business Function.
+On the left-hand side, you can see the Title and Descriptions of the various Business Functions your organisation has created within the iMS System. To view more information about the Business Functions, click on the pencil icon to the right of the description. This is also where you can edit the existing details of the Business Function.
 
 *Please note, some roles may have limited access*
 
@@ -31,7 +31,7 @@ Upon clicking the pencil icon, you will notice that there are three tabs, namely
 | Type 			 | Information 												 |
 | :------------- | :-------------------------------------------------------- |
 | User Name 	 | This is the name of the User you are creating or editing  |
-| Email 		 | This is the email the User logs into the system using 	 |
+| Email 		 | This is the email the User logs in to the system using 	 |
 | Role 			 | This is the role of the User within the Business Function |
 | Salary 		 | This is the salary of the User 							 |
 | Working Remote | Tick this box if the User works remotely 				 |
@@ -43,11 +43,11 @@ Upon clicking the pencil icon, you will notice that there are three tabs, namely
 
 <img src="/img/DocImg/General Information/Our_IMS/Completed_Premises_Form.png" alt="Premises Form" class="center"/>
 
-After creating a Premise it will be shown on the right-hand side. You can add multiple Premises to a single Business Function and they will be display as a list. You can edit these with the pencil icon and delete them with the trash can icon.
+After creating a Premise it will be shown on the right-hand side. You can add multiple Premises to a single Business Function and they will be displayed as a list. You can edit these with the pencil icon and delete them with the trash can icon.
 
 ### Compliance Bodies
 
-On the right hand side, you can see the Title and Descriptions of the various Compliance Bodies your organisation has created within the iMS System. To view more information about the Compliance Bodies, click on the pencil icon to the right of the description. This is also where you can edit the exisiting details of the Compliance Body.
+On the right-hand side, you can see the Title and Descriptions of the various Compliance Bodies your organisation has created within the iMS System. To view more information about the Compliance Bodies, click on the pencil icon to the right of the description. This is also where you can edit the existing details of the Compliance Body.
 
 *Please note, some roles may have limited access*
 

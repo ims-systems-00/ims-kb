@@ -2,7 +2,7 @@
 
 ## Setting Resolution Times
 
-To make any changes to your incident resolution times, you must first click on `Our IMS` from the `Sidebar` on the left hand side.
+To make any changes to your incident resolution times, you must first click on `Our IMS` from the `Sidebar` on the left-hand side.
 
 Next, click on the `Incident Resolution` tab to find the form that allows you to make adjustments to the recommended incident resolution times.
 

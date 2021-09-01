@@ -6,7 +6,7 @@ Upon being granted access either by iMS or your organisation, you will receive a
 
 ## Logging In 
 
-You will need to access your organisation's iMS System, you will have received the website address during your onboarding process. From here, login to the website using the login details found in the email. 
+You will need to access your organisation's iMS System, you will have received the website address during your onboarding process. From here, log in to the website using the login details found in the email. 
 
 <img src="/img/DocImg/General Information/New_User/Log_In.png" alt="Log In" class="center"/>
 
@@ -25,7 +25,7 @@ If you enter your email and password correctly, then you will see the notice bel
 
 <img src="/img/DocImg/General Information/New_User/Log_In_Successful.png" alt="Log In Successful" class="center"/>
  
-After this you will be brought straight to the `Dashboard`.
+After this, you will be brought straight to the `Dashboard`.
 
 ### Unsuccessful Login
 
@@ -59,7 +59,7 @@ After typing your new password out, click the `Confirm` button to change your pa
 
 ### Forgot Password
 
-If you have forgotten your password and need a newly generated password, you click on `Forgot Password?` from your organisation's login screen. Please ensure you are on the correct web address, as you will not be sent a password reset if you are attempting to login to the wrong iMS System.
+If you have forgotten your password and need a newly generated password, you click on `Forgot Password?` from your organisation's login screen. Please ensure you are on the correct web address, as you will not be sent a password reset if you are attempting to log in to the wrong iMS System.
 
 <img src="/img/DocImg/General Information/New_User/Log_In.png" alt="Log In" class="center"/>
 
