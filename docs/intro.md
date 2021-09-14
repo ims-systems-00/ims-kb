@@ -14,7 +14,7 @@ To get started, we will begin by **creating your organisation** with the appropr
 
 First, you need to access your organisation's iMS by visiting the appropriate subdomain within [yourdomain.imssystems.tech][iMS]. As an example, the demo version of iMS is hosted on [my.imssystems.tech][myIMS].
 
-## Create a business function
+## Create a Business Unit
 
 Log in to the system using your **superadmin** login details and navigate to `Our iMS` from the `Sidebar` which is on the left side of the screen.
 
@@ -32,28 +32,50 @@ For now, you can either choose between one of the two premade policies or create
 
 Once you have successfully created your first business function, proceed to the next step.
 
-## Add job roles to the team
+## Create a User
 
-Navigate back to the `Our iMS` tab, here you'll see all your business functions listed in the left pane. Click on the pencil icon next to your first business function and you will now be able to see your business function details (note that the pencil icon is the button used to edit details).
+Navigate back to the `Sidebar`, under `Our IMS` click on `Users`. 
 
-Navigate to the `Job roles` tab. Here you can add users by filling the form on the left. Once you have added one or more members you will need to grant them access to features relevant to their role.
+From here, click on the `Create user` tab.
 
-## Granting access to users
+Here you can add users by filling the form. Once you have added one or more members you will need to grant them access to Business Units relevant to their role.
 
-To grant access to a user, click on the `key` icon of the user you want to grant access to from the user panel on the right side of the `Job Roles` tab.
+## Add a User to a Business Unit
 
-If the user cannot be granted access, you will get one of the following errors
+Navigate back to the `Sidebar`, under `Our IMS` click on `Business Units`.
+
+From here, click on the pencil icon to the right of the Business Unit you created earlier.
+
+Navigate to the `Add members` tab and use the two drop down menus to first select the user you created and the role you want to assign them within the Business Unit.
+
+After adding the user to your Business Unit, navigate to the `Members` tab.
+
+To grant access to a user, click on the green `key` icon of the user you want to grant access to.
+
+**If the user cannot be added to a Business Unit, you will get one of the following errors**
 > Server error occurred, the operation failed.
+
+> This license is unavailable for this group
 
 > User could not be granted access
 
-This could be a result of either the organisation as a whole or only that specific business function not possessing enough `Basic User Licenses`. The number of **Basic User Licenses** your organisation possesses will be related to the service you purchased.
+This could be a result of either the organisation as a whole or only that specific Business Unit not possessing enough `Basic User Licenses`. The number of **Basic User Licenses** your organisation possesses will be related to the service you purchased.
 
 If this is your first time setting up iMS, continue following this guide, otherwise, if this occurs in the future please visit the [Troubleshooting Guide][].
 
 ## License management
 
-Navigate to the `License Management` menu by using the `Sidebar`, scroll down to the bottom and click `User Access`, then click `License Management`. Here you'll find a table with your allocated licenses, and underneath that is a list of business functions that your organisation has created. Currently, you should only have one business function. From here, assign the appropriate number of `Basic` licenses to the business function and return to your `Job Roles` tab using the `Our iMS` button in the sidebar.
+Navigate to the `Sidebar`, under `Our IMS` click on `License Management`. 
+
+From here, find the Business Unit you create and click on the pencil icon to the right of it.
+
+Navigate to the `Manage licenses` tab.
+
+The table titled **Remaining licenses** is the total number of licenses remaining for your organisation as a whole.
+
+Add a single license relevant to the job role you wish to give to your first user, this will be either HoS (*head of service*) or Basic User.
+
+Once you have assigned the relevant license to the Business Unit, return to the Business Unit and add the user once again.
 
 ## Access granted
 
