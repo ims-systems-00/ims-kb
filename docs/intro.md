@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Configuration
 
-Let's configure iMS. This should take less than **15 minutes**
+Let's configure iMS. This should take less than **10 minutes**
 
 More information about the UI, navigating it, and the numerous buttons can be found in the `General Information` portion of the User Manual. However, it is recommended to complete the Configuration at least once before moving on.
 
@@ -18,12 +18,19 @@ First, you need to access your organisation's iMS by visiting the appropriate su
 
 Log in to the system using your **superadmin** login details and navigate to `Our iMS` from the `Sidebar` which is on the left side of the screen.
 
-After navigating to `Our iMS`, you will find 5 tabs on the screen there. On `Business Function` create your first business function with information appropriate to the function you are creating. A business function is effectively one of the departments within your organisation that would need access to the iMS System.
+After clicking on `Our iMS`, you will find 5 buttons on the drop-down that opens there. Click on `Business Units` then navigate to the `Create a function` tab to create your first business function. 
+
+Here you will find two drop-down menus - the first being `Access type` and the second is `Access policy`. 
+
+**Access Type** defines the type of business function you are creating, of which there are `Internal` and `External` types. 
+
+**Access Policy** allows you to pick what features the business function is granted access to.
+
+For now, you can either choose between one of the two premade policies or create your own
+- iMS Business Function
+- iMS Compliance Body
 
 Once you have successfully created your first business function, proceed to the next step.
-
-Keep in mind that the `Head of Service` will be sent an email with their login details, please use a real email address. 
-They will automatically be granted access to the iMS System and their actions will be logged under their name. Please visit the [Permissions][] page for more information about the difference between a `Superadmin` and `HoS`. *HoS here means Head of Service*
 
 ## Add job roles to the team
 

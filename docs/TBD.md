@@ -1,7 +1,7 @@
 # To Be Done
 
 ## Doing Right Now
-
+First time config
 
 
 ## To Be Done
