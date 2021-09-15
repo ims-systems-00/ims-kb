@@ -3,9 +3,7 @@
 ## Doing Right Now
 First time config
 
-
 ## To Be Done
-
 
 |Subject	 			|Subtopics									|
 |:----------------------|:------------------------------------------|
@@ -70,16 +68,11 @@ First time config
 |Management Reviews 	|**Create KPIs**					|General Information > Managemnet Reviews > add_kpi 			 |
 |Actions 				|**Added Review Actions**			|General Information > actions 									 |
 |Actions 				|**Added KPI Actions** 				|General Information > actions 									 |
-
-
-### 26.08.21
-
-+ Finised risk scoring chart
-+ risk scoring explanations and examples
-
-|Subject				| Specific 							| Location	 													 |
-|:----------------------|:----------------------------------|:---------------------------------------------------------------|
 |Risk Management 		|**Risk Scoring Chart**				|General Information > risk_scoring 							 |
 |Risk Management 		|**Risk Scoring Explanation**		|General Information > risk_scoring								 |
 |Risk Management 		|**Risk Scoring Examples**			|General Information > risk_scoring 							 |
 
+
+
++ Finised risk scoring chart
++ risk scoring explanations and examples

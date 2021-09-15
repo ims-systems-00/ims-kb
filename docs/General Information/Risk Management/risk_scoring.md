@@ -34,8 +34,8 @@
 
 | Risk Rating	| Net Risk Assessment	| Risk Response	|
 |:-------------:|:---------------------:|:-------------:|
-| High		| 15 - 25	| Unacceptable level of risk exposure which requires action to be taken urgently. |
-| Medium	| 9 - 14	| Acceptable level of risk, but one which requires action and active monitoring to ensure risk exposure is reduced. |
-| Low 		| 1 - 8		| Acceptable level of risk based on the operation of normal controls. In some cases, it may be acceptable for no mitigating action to be taken. |
+| High		| 16 - 25	| Unacceptable level of risk exposure which requires action to be taken urgently. |
+| Medium	| 10 - 15	| Acceptable level of risk, but one which requires action and active monitoring to ensure risk exposure is reduced. |
+| Low 		| 1 - 9		| Acceptable level of risk based on the operation of normal controls. In some cases, it may be acceptable for no mitigating action to be taken. |
 
 
