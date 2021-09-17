@@ -11,13 +11,13 @@ For more information on making changes to OFIs click [here][OFI].
 
 An OFI is an opportunity for improvement - whether this is for the department or a specific employee.
 
-To add an OFI, you must first choose the **Business function** you believe has an opportunity to improve. 
+To add an OFI, you must first choose the **Business Unit** you believe has an opportunity to improve. 
 
-*The business function selector is a drop-down menu, from which you can select from the business functions your organisation has created.*
+*The Business Unit selector is a drop-down menu, from which you can select from the Business Units your organisation has created.*
 
 The next thing to do is give the OFI a `Title` then fill the textbox labeled `Opportunity for improvement` with the description of the opportunity.
 
-After that, decide on who to assign the OFI to. *This is a drop-down menu that contains the names of users assigned to the business function you selected in the previous option.*
+After that, decide on who to assign the OFI to. *This is a drop-down menu that contains the names of Users assigned to the Business Units you selected previously.*
 
 Following this, fill the `Cost` with an estimated cost, if any.
 

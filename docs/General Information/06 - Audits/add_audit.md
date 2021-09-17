@@ -20,7 +20,7 @@ The following categories are available.
 
 You must first choose the `Business Unit` that will be Audited followed by the `Compliance Body` that will be performing the Audit. Next you must give a `Title` for the Internal Audit. Then pick the `Auditor`, this will be a drop-down menu that you can select Users from the Compliance Body. 
 
-*The business function and compliance body selector is a drop-down menu, from which you can select from the business functions and compliance bodies your organisation has created.*
+*The Business Unit and Compliance Body selector is a drop-down menu, from which you can select from the Business Units and Compliance Bodies your organisation has created.*
 
 Next, you assign a `Date` and `Time` the Audit will take place. 
 
