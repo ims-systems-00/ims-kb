@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Business Unit
 
 ## Creating a Business Unit
