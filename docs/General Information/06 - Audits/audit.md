@@ -1,76 +1,43 @@
 # Audits
 
-## Internal Audits
+## Audits
 
-### Creating an Internal Audit
+### Add Audit
 
-View how to create an internal audit [here][Add In Audit]
+View how to create an audit [here][Add Audit]
 
 ### Schedule
 
-This page shows a list of Internal Audits that have not been completed.
+This page shows a list of Audits that have not been completed.
 
-Clicking on the pencil icon will allow you to view more information related to the Audit.
+Clicking on the clipboard icon will allow you to view more information related to the Audit.
+
+After clicking on the clipboard icon, you will first see the `Details` tab which shows a summary of the information related to the audit - see the table below.
 
 | Type 					 | Information 																|
 | :--------------------- | :----------------------------------------------------------------------- |
-| Business Function 	 | This is the Business Function that will be audited 						|
-| Title 				 | This is the name of the Internal Audit that will be taking place 		|
-| Compliance Body 		 | This is the Compliance Body that will perform the Internal Audit 		|
-| Date 					 | This is the date the Internal Audit will take place						|
-| Time 					 | This is the time the Internal Audit will take place						|
-| Actions 				 | These are the actions you can take - View Audit & Delete					|
+| Business Function/Group| This is the Business Function that will be audited 						|
+| Auditor 				 | This is the name of the Auditor that will be performing the Audit		|
+| Date Scheduled 		 | This is the date the Audit will take place								|
+| Date Completed		 | This is the time the Audit took place, it should be empty.				|
+| Findings 				 | These are the findings that were reported during the audit, it should be empty.|
+| Download Documents	 | These are the documents that were uploaded during the audit 				|
+| Compliance Function 	 | This is the Compliance Body performing the Audit 						|
 
 ### Completed
 
 This page shows a list of Internal Audits that have been completed.
 
-Clicking on the pencil icon will allow you to view more information related to the Audit.
+Clicking on the clipboard icon will allow you to view more information related to the Audit.
 
 | Type 					 | Information 																|
 | :--------------------- | :----------------------------------------------------------------------- |
-| Business Function 	 | This is the Business Function that has been audited 						|
-| Title 				 | This is the name of the Internal Audit that has taken place				|
-| Compliance Body 		 | This is the Compliance Body that has performed the Internal Audit		|
-| Date 					 | This is the date the Internal Audit has taken place						|
-| Time 					 | This is the time the Internal Audit has taken place						|
-| Actions 				 | These are the actions you can take - View Audit & Delete					|
+| Business Function/Group| This is the Business Function that will be audited 						|
+| Auditor 				 | This is the name of the Auditor that will be performing the Audit		|
+| Date Scheduled 		 | This is the date the Audit will take place								|
+| Date Completed		 | This is the time the Audit took place, it should be empty.				|
+| Findings 				 | These are the findings that were reported during the audit. 				|
+| Download Documents	 | These are the documents that were uploaded during the audit 				|
+| Compliance Function 	 | This is the Compliance Body performing the Audit 						|
 
-## External Audits
-
-### Creating an External Audit
-
-View how to create an external audit [here][Add Ex Audit]
-
-### Schedule
-
-This page shows a list of External Audits that have not been completed.
-
-Clicking on the pencil icon will allow you to view more information related to the Audit.
-
-| Type 					 | Information 																|
-| :--------------------- | :----------------------------------------------------------------------- |
-| Business Function 	 | This is the Business Function that will be audited 						|
-| Title 				 | This is the name of the External Audit that will be taking place 		|
-| Compliance Body 		 | This is the Compliance Body that will perform the External Audit 		|
-| Date 					 | This is the date the External Audit will take place						|
-| Time 					 | This is the time the External Audit will take place						|
-| Actions 				 | These are the actions you can take - View Audit & Delete					|
-
-### Completed
-
-This page shows a list of External Audits that have been completed.
-
-Clicking on the pencil icon will allow you to view more information related to the Audit.
-
-| Type 					 | Information 																|
-| :--------------------- | :----------------------------------------------------------------------- |
-| Business Function 	 | This is the Business Function that has been audited 						|
-| Title 				 | This is the name of the External Audit that has taken place				|
-| Compliance Body 		 | This is the Compliance Body that has performed the External Audit		|
-| Date 					 | This is the date the External Audit has taken place						|
-| Time 					 | This is the time the External Audit has taken place						|
-| Actions 				 | These are the actions you can take - View Audit & Delete					|
-
-[Add In Audit]: ./add_audit#internal-audit
-[Add Ex Audit]: ./add_audit#external-audit
+[Add Audit]: ./add_audit#creating-an-audit

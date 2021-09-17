@@ -14,33 +14,18 @@ The following categories are available.
 + Internal - These are Audits performed in-house
 + External - These are Audits performed by Compliance Bodies
 
-*Note that internal Audits still require you to create a Compliance Body through which the Audits will be done, more information about creating Compliance Bodies can be found [here][Compliance Body]*
+*Note that Internal/External Audits still require you to create a Business Unit through which the Audits will be done*
 
-### Internal Audit
+### Creating an Audit
 
-For **Internal** audits, you must first choose a `Title` for the Internal Audit. Then pick the `Business Function` that will be audited. Next, you must choose the `Compliance Body` that will be performing the Audit. 
+You must first choose the `Business Unit` that will be Audited followed by the `Compliance Body` that will be performing the Audit. Next you must give a `Title` for the Internal Audit. Then pick the `Auditor`, this will be a drop-down menu that you can select Users from the Compliance Body. 
 
 *The business function and compliance body selector is a drop-down menu, from which you can select from the business functions and compliance bodies your organisation has created.*
 
-From here, you select the `Auditor` and assign a `Time` and `Date` the Audit will take place. 
+Next, you assign a `Date` and `Time` the Audit will take place. 
 
 After selecting the `Interval` of the audit, click `confirm` to submit the Audit to the **Schedule**.
-The selection of `Interval` will dictate how many Audits of this type will be added to the Schedule.
 
 <img src="/img/DocImg/General Information/Audits/Completed_Internal_Audit_Form.png" alt="Completed Internal Audit Form" class="center"/>
 
-### External Audit
-
-For **External** audits, you must first choose a `Title` for the External Audit. Then pick the `Business Function` that will be audited. Next, you must choose the `Compliance Body` that will be performing the Audit. 
-
-*The business function and compliance body selector is a drop-down menu, from which you can select from the business functions and compliance bodies your organisation has created.*
-
-From here, you select the `Auditor` and assign a `Time` and `Date` the Audit will take place. 
-
-After selecting the `Interval` of the audit, click `confirm` to submit the Audit to the **Schedule**.
-The selection of `Interval` will dictate how many Audits of this type will be added to the Schedule.
-
-<img src="/img/DocImg/General Information/Audits/Completed_External_Audit_Form.png" alt="Completed External Audit Form" class="center"/>
-
 [Audits]: ../actions#audits
-[Compliance Body]: ../Our%20IMS/create_compliance_body
