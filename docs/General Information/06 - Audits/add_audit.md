@@ -26,6 +26,6 @@ Next, you assign a `Date` and `Time` the Audit will take place.
 
 After selecting the `Interval` of the audit, click `confirm` to submit the Audit to the **Schedule**.
 
-<img src="/img/DocImg/General Information/Audits/Completed_Internal_Audit_Form.png" alt="Completed Internal Audit Form" class="center"/>
+<img src="/img/DocImg/General Information/Audits/Completed_Audit_Form.png" alt="Completed Audit Form" class="center"/>
 
 [Audits]: ../actions#audits
