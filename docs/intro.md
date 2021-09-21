@@ -50,18 +50,13 @@ Navigate to the `Add members` tab and use the two drop down menus to first selec
 
 After adding the user to your Business Unit, navigate to the `Members` tab.
 
-To grant access to a user, click on the green `key` icon of the user you want to grant access to.
-
 **If the user cannot be added to a Business Unit, you will get one of the following errors**
-> Server error occurred, the operation failed.
 
 > This license is unavailable for this group
 
-> User could not be granted access
-
 This could be a result of either the organisation as a whole or only that specific Business Unit not possessing enough `Basic User Licenses`. The number of **Basic User Licenses** your organisation possesses will be related to the service you purchased.
 
-If this is your first time setting up iMS, continue following this guide, otherwise, if this occurs in the future please visit the [Troubleshooting Guide][].
+If this is your first time setting up iMS, continue following this guide, otherwise, if this occurs in the future please visit the [FAQ][].
 
 ## License management
 
@@ -79,12 +74,11 @@ Once you have assigned the relevant license to the Business Unit, return to the 
 
 ## Access granted
 
-Once again, attempt to click on the `key` icon on a user, this time the system should grant them access to the iMS System and send out a Welcome Email with the users' login credentials. 
+Navigate to the `Members` tab and click on the green `key` icon next to the user's name.
 
-The credentials in the Email might look like this
-Email : <your.name@domain.com>
-Password : `system generated password` ie: (jahd8234bj^&%d)
+**If there is no green key to the right of the user's name, the user needs to verify their email address.**
 
+After confirming the pop-up, the user will receive an email with confirmation that they have been granted access to the system.
 
 You are recommended to browse the "[General Information][]" portion of the User Manual if this is your first time using the iMS System.
 
@@ -92,7 +86,4 @@ You are recommended to browse the "[General Information][]" portion of the User 
 [myIMS]: https://my.imssystems.tech/ "Demo iMS"
 [Permissions]: ./permission "Link to Permissions Page"
 [General Information]: ./General%20Information/quick_links
-
-**Not yet made troubleshooting guide**
-
-[Troubleshooting Guide]: ./intro
+[FAQ]: ./faq
