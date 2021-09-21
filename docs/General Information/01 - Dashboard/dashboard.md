@@ -34,7 +34,7 @@ The information shown in the Dashboard changes depending on the level of permiss
 
 The Dashboard Report can be sent to your email in a format that is designed to be easily readable.
 
-You can access this on any page by click the Paper Airplane icon in the top right, to the left of your profile picture. After clicking the button a form will pop up requesting a `Name`, `Email`, and an optional `Message`. After clicking `Send` an email will be sent with the Dashboard Report attached to it. You will require relevant software to view the report that is sent.
+You can access this on any page by clicking the Paper Airplane icon in the top right, to the left of the notification bell. After clicking the button a form will pop up requesting a `Name`, `Email`, and an optional `Message`. After clicking `Send` an email will be sent with the Dashboard Report attached to it. You will require relevant software to view the report that is sent.
 
 <img src="/img/DocImg/General Information/Dashboard/Dashboard_Report_Form.png" alt="Dashboard Report Form" class="center" />
 
