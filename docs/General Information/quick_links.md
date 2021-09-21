@@ -53,7 +53,7 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 
 [How to modify and delete Risks within the Risk Management System][Risk Actions]
 
-[How is the Risk Score System Calculated][Risk Scoring] **not made**
+[How is the Risk Score System Calculated][Risk Scoring]
 
 [Risk Management]: ./Risk%20Management/adding_risks
 [Risk Actions]: ./actions#risk-management-risks
