@@ -12,7 +12,7 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 
 ### Our IMS
 
-[Business Function Tab Information][Our IMS - Business Function]
+[Business Unit Information][Our IMS - Business Function]
 
 [Creating a Compliance Body][Our IMS - Compliance Body]
 
@@ -22,10 +22,10 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 
 [Our IMS Tab Information][Our IMS - Our IMS]
 
-[Our IMS - Business Function]: ./Our%20IMS/business_function
+[Our IMS - Business Function]: ./Our%20IMS/business_units
 [Our IMS - Compliance Body]: ./Our%20IMS/create_compliance_body
 [Our IMS - Incident Resolution]: ./Our%20IMS/incident_resolution
-[Our IMS - System Dates]: ./Our%20IMS/system_dates
+[Our IMS - System Dates]: ./Our%20IMS/system_defaults#Setting-a-System-Date
 [Our IMS - Our IMS]: ./Our%20IMS/our_ims
 > Space reserved for upcoming submenus
 
