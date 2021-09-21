@@ -12,21 +12,30 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 
 ### Our IMS
 
-[Business Unit Information][Our IMS - Business Function]
+[Business Unit Information][Our IMS - Business Unit]
 
-[Creating a Compliance Body][Our IMS - Compliance Body]
+[Users][Our IMS - Users]
 
-[Incident Resolution Tab Information][Our IMS - Incident Resolution]
+[Access Policies][Our IMS - Access Policies]
 
-[System Dates Tab Information][Our IMS - System Dates]
+[Business Premises][Our IMS - Business Premises]
 
-[Our IMS Tab Information][Our IMS - Our IMS]
+[License Management][Our IMS - License Management]
 
-[Our IMS - Business Function]: ./Our%20IMS/business_units
-[Our IMS - Compliance Body]: ./Our%20IMS/create_compliance_body
-[Our IMS - Incident Resolution]: ./Our%20IMS/incident_resolution
-[Our IMS - System Dates]: ./Our%20IMS/system_defaults#Setting-a-System-Date
-[Our IMS - Our IMS]: ./Our%20IMS/our_ims
+[System Defaults][Our IMS - System Defaults]
+
+[Toolkit][Our IMS - Toolkit]
+
+[Our IMS - Business Unit]: ./Our%20IMS/business_units
+[Our IMS - Users]: ./Our%20IMS/users
+[Our IMS - Access Policies]: ./Our%20IMS/access_policies
+[Our IMS - Business Premises]: ./Our%20IMS/business_premises
+[Our IMS - License Management]: ./Our%20IMS/license_management
+[Our IMS - System Defaults]: ./Our%20IMS/system_defaults
+
+*toolkit not made yet*
+
+[Our IMS - Toolkit]: ../faq
 > Space reserved for upcoming submenus
 
 ### Inventory
