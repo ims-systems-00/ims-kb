@@ -4,7 +4,7 @@
 
 ### Dashboard
 
-![Dashboard Information][Dashboard]
+[Dashboard Information][Dashboard]
 
 [Dashboard]: ./Dashboard/dashboard
 
