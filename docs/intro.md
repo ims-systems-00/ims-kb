@@ -53,11 +53,8 @@ After adding the user to your Business Unit, navigate to the `Members` tab.
 To grant access to a user, click on the green `key` icon of the user you want to grant access to.
 
 **If the user cannot be added to a Business Unit, you will get one of the following errors**
-> Server error occurred, the operation failed.
 
 > This license is unavailable for this group
-
-> User could not be granted access
 
 This could be a result of either the organisation as a whole or only that specific Business Unit not possessing enough `Basic User Licenses`. The number of **Basic User Licenses** your organisation possesses will be related to the service you purchased.
 
