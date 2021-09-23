@@ -43,8 +43,6 @@ Technical queries and advice. Resolution in 72 hours.
 
 To learn how to make changes to your Incident Resolution times, please follow [this guide][Our IMS - Resolution Times]
 
-
-
 [Incidents]: ../actions#incident-management-incidents
 [Modifying an Incident]: ../actions#modifying-an-incident
-[Our IMS - Resolution Times]: ../Our%20IMS/incident_resolution "Incident Resolution Times"
+[Our IMS - Resolution Times]: ../Our%20IMS/system_defaults#incident-resolution "Incident Resolution Times"

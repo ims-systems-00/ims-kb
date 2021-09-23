@@ -45,10 +45,5 @@ sidebar_position: 4
 
 Take a look at the priority breakdown example given [here][Priority].
 
-## 
 
-
-
-
-
-[Priority]: ./Incident%20Management/raising_incidents#raising-an-incident
+[Priority]: ./General%20Information/Incident%20Management/raising_incidents#raising-an-incident
