@@ -39,7 +39,7 @@ P4 = Priority 4 Escalation
 Technical queries and advice. Resolution in 72 hours.
 ```
 
-**Please note that the** `Organisational` **type only applies to P1 incidents, as they affect the entire system.**
+**Please note that the** `Organisational` **type usually only applies to P1 incidents, as they affect the entire system.**
 
 To learn how to make changes to your Incident Resolution times, please follow [this guide][Our IMS - Resolution Times]
 
