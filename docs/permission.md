@@ -19,11 +19,11 @@ Permissions in different modules of the system are described below
 
 ### Our iMS  
 
-#### Business functions
+#### Business Units
 - [X] Read
 - [X] Write 
 - [X] Delete
-#### Compliance functions
+#### Compliance Bodies
 - [X] Read
 - [X] Write 
 - [X] Delete
@@ -130,9 +130,9 @@ Permissions in different modules of the system are described below
 
 Permissions in different modules of the system are described below
 
-> These permissions are **business function level** permissions. Users with this permissions scope are having the visibility of all data of the business functions that they are connected to. 
+> These permissions are **business unit level** permissions. Users with this permissions scope are having the visibility of all data of the business units that they are connected to. 
 
-### Business function Dashboard  
+### Business Unit Dashboard  
 
 - [X] Read
 - [X] Write 
@@ -140,11 +140,11 @@ Permissions in different modules of the system are described below
 
 ### Our iMS  
 
-#### Business functions
+#### Business Units
 - [X] Read
 - [ ] Write 
 - [ ] Delete
-#### Compliance functions
+#### Compliance Bodies
 - [ ] Read
 - [ ] Write 
 - [ ] Delete
@@ -251,9 +251,9 @@ Permissions in different modules of the system are described below
 
 Permissions in different modules of the system are described below
 
-> These permissions are **business function level** permissions. Users with this permissions scope are having the visibility of all data of the business functions that they are connected to. 
+> These permissions are **business unit level** permissions. Users with this permissions scope are having the visibility of all data of the business units that they are connected to. 
 
-### Business function Dashboard  
+### Business Unit Dashboard  
 
 - [X] Read
 - [X] Write 
@@ -261,11 +261,11 @@ Permissions in different modules of the system are described below
 
 ### Our iMS  
 
-#### Business functions
+#### Business Units
 - [X] Read
 - [ ] Write 
 - [ ] Delete
-#### Compliance functions
+#### Compliance Bodies
 - [ ] Read
 - [ ] Write 
 - [ ] Delete
@@ -372,9 +372,9 @@ Permissions in different modules of the system are described below
 
 Permissions in different modules of the system are described below
 
-> These permissions are **organisational level** permissions. Users with this permissions scope are having the visibility of all data of the business functions that they are connected to. 
+> These permissions are **organisational level** permissions. Users with this permissions scope are having the visibility of all data of the business units that they are connected to. 
 
-### Business function Dashboard  
+### Business Unit Dashboard  
 
 - [X] Read
 - [X] Write 
@@ -382,11 +382,11 @@ Permissions in different modules of the system are described below
 
 ### Our iMS  
 
-#### Business functions
+#### Business Units
 - [X] Read
 - [ ] Write 
 - [ ] Delete
-#### Compliance functions
+#### Compliance Bodies
 - [X] Read
 - [ ] Write 
 - [ ] Delete
@@ -493,9 +493,9 @@ Permissions in different modules of the system are described below
 
 Permissions in different modules of the system are described below
 
-> These permissions are **organisational level** permissions. Users with this permissions scope are having the visibility of all data of the business functions that they are connected to. 
+> These permissions are **organisational level** permissions. Users with this permissions scope are having the visibility of all data of the business units that they are connected to. 
 
-### Business function Dashboard  
+### Business Unit Dashboard  
 
 - [ ] Read
 - [ ] Write 
@@ -503,11 +503,11 @@ Permissions in different modules of the system are described below
 
 ### Our iMS  
 
-#### Business functions
+#### Business Units
 - [ ] Read
 - [ ] Write 
 - [ ] Delete
-#### Compliance functions
+#### Compliance Bodies
 - [ ] Read
 - [ ] Write 
 - [ ] Delete

@@ -18,19 +18,19 @@ First, you need to access your organisation's iMS by visiting the appropriate su
 
 Log in to the system using your **superadmin** login details and navigate to `Our iMS` from the `Sidebar` which is on the left side of the screen.
 
-After clicking on `Our iMS`, you will find 5 buttons on the drop-down that opens there. Click on `Business Units` then navigate to the `Create a function` tab to create your first business function. 
+After clicking on `Our iMS`, you will find 5 buttons on the drop-down that opens there. Click on `Business Units` then navigate to the `Create a function` tab to create your first business unit. 
 
 Here you will find two drop-down menus - the first being `Access type` and the second is `Access policy`. 
 
-**Access Type** defines the type of business function you are creating, of which there are `Internal` and `External` types. 
+**Access Type** defines the type of business unit you are creating, of which there are `Internal` and `External` types. 
 
-**Access Policy** allows you to pick what features the business function is granted access to.
+**Access Policy** allows you to pick what features the business unit is granted access to.
 
 For now, you can either choose between one of the two premade policies or create your own
-- iMS Business Function
+- iMS Business Unit
 - iMS Compliance Body
 
-Once you have successfully created your first business function, proceed to the next step.
+Once you have successfully created your first business unit, proceed to the next step.
 
 ## Create a User
 

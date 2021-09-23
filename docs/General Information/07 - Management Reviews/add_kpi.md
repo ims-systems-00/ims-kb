@@ -8,7 +8,7 @@ For more information on making modifications or amendments to your KPIs click [h
 
 ### Adding KPIs
 
-After navigating to the `Add KPI` tab in the `KPI/Objectives` section of `Management Review`, you must first select the `Business Function` for which the KPI will be assigned to. **Organisational** KPIs are for all Business Functions, whereas specific Business Functions can also be selected.
+After navigating to the `Add KPI` tab in the `KPI/Objectives` section of `Management Review`, you must first select the `Business Unit` for which the KPI will be assigned to. **Organisational** KPIs are for all Business Functions, whereas specific Business Functions can also be selected.
 
 Next, type the details of the KPI into the textbox labeled `Add new`, and once done click on the **+** icon to the right of the textbox.
 
