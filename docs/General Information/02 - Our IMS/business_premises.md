@@ -7,6 +7,7 @@ sidebar_position: 4
 ## Create Premise
 
 + This page allows you to assign a Premise to a Business Unit
+
 *Please note, changes to the Premises here does not add the Premises to the Assets of the relevant Business Unit*
 
 <img src="/img/DocImg/General Information/Our_IMS/Completed_Premises_Form.png" alt="Premises Form" class="center"/>
