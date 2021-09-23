@@ -9,8 +9,8 @@ sidebar_position: 3
 + Inventory Management
 + Risk Management
 + Incident Management
-+ Audits
-+ Management Review
++ ~~Audits~~
++ ~~Management Review~~
 + KPI/Objectives
 + Continual Improvement
 + Supplier Management
