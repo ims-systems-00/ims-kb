@@ -41,4 +41,9 @@ sidebar_position: 4
 	- You can switch between light and dark mode
 	- You can adjust the colour of the sidebar
 
-## 
+## What do P1 P2 P3 P4 mean?
+
+Take a look at the priority breakdown example given [here][Priority].
+
+
+[Priority]: ./General%20Information/Incident%20Management/raising_incidents#raising-an-incident

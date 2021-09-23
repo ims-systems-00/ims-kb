@@ -8,7 +8,7 @@ For more information on making changes to the Calendar click [here][Calendar].
 
 ### Adding an Event
 
-To add an Event to the `Calendar`, you first need to pick a date to add an event/agenda to. Once you have found the date you wish to add an even to, click on the day and a form should pop up.
+To add an Event to the `Calendar`, you first need to pick a date to add an event/agenda to. Once you have found the date you wish to add an event to, click on the day and a form should pop up.
 
 You first need to give the event a name in `Event title`, the time the event will `Start` and `End`, as well as a `Description` that fits the event.
 

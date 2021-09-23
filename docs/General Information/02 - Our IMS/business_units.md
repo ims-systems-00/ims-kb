@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Business Unit
+# Business Units
 
 ## Creating a Business Unit
 
@@ -20,29 +20,9 @@ External Functions on the other hand are for outside parties that need access to
 
 ## Access Policy
 
-`Access Policies` allow you to limit the features users within the Business Unit have the ability to access. Currently, you are able to limit access to the following modules:
+`Access Policies` allow you to limit the features users within the Business Unit have the ability to access.
 
-+ Inventory Management
-+ Risk Management
-+ Incident Management
-+ Audits
-+ Management Review
-+ KPI/Objectives
-+ Continual Improvement
-+ Supplier Management
-+ Document Management
-+ Task Manager
-+ Calendar
-+ Project Management
+You can view more information about Access Policies [here][Access Policies].
 
-You have the ability to choose between giving the user the following permission for each module:
-
-+ Read
-+ Write (Create)
-+ Delete
-+ Full Access (all of the above)
-
-Please view the [User Information and Accessibility][Info] for more information.
-
+[Access Policies]: ./access_policies
 [First Time Configuration]: ../../intro#create-a-business-function "First Time Configuration"
-[Info]: ../../info "User Information and Accessibility"
