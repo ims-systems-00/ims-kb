@@ -15,7 +15,7 @@ Clicking on the pencil icon will allow you to view more information related to t
 | Type 					 | Information 																|
 | :--------------------- | :----------------------------------------------------------------------- |
 | Reference 			 | This is the unique identifier for the incident 							|
-| Business Function/Group| This is the business function the incident is related to, or raised by 	|
+| Business Unit 		 | This is the business unit the incident is related to, or raised by 		|
 | Title 				 | This is the name of the incident 										|
 | Method of Notification | This is how the incident was learned of 									|
 | Resolution 			 | This is how the incident was resolved, it should be empty unless resolved|

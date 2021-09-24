@@ -19,7 +19,7 @@ The following categories are available.
 
 ### Hardware
 
-For **Hardware** assets, you must first choose the **Business function** you are assigning the hardware asset to. The business function selector is a drop-down menu, from which you can select from the business functions your organisation has created.
+For **Hardware** assets, you must first choose the **Business Unit** you are assigning the hardware asset to. The business unit selector is a drop-down menu, from which you can select from the business functions your organisation has created.
 
 From here, you enter the `name` and `tag` of the asset followed by the team member who is the `owner` of it. Following on, you need to enter the date the asset was `assigned` to the team member - this can be a date in the past or the future.
 
@@ -31,7 +31,7 @@ After entering the `cost` of the asset, click `confirm` to submit the asset to y
 
 ### Software
 
-For **Software** assets, you must first choose the **Business function** you are assigning the software asset to. The business function selector is a drop-down menu, from which you can select from the business functions your organisation has created.
+For **Software** assets, you must first choose the **Business Unit** you are assigning the software asset to. The business unit selector is a drop-down menu, from which you can select from the business functions your organisation has created.
 
 From here, you enter the `name` of the software, followed by the `number of licenses` owned as well as the `number of installs` of the software in question.
 
@@ -41,7 +41,7 @@ After entering the `cost` of the asset, click `confirm` to submit the asset to y
 
 ### People
 
-For **People** assets, you must first choose the **Business function** you are assigning the person to. The business function selector is a drop-down menu, from which you can select from the business functions your organisation has created.
+For **People** assets, you must first choose the **Business Unit** you are assigning the person to. The business unit selector is a drop-down menu, from which you can select from the business functions your organisation has created.
 
 From here, you enter the `name` of the staff member, followed by their `role`, `responsibilities` and `skills`.
 
@@ -51,7 +51,7 @@ After entering these details, click `confirm` to submit the asset to your organi
 
 ### Premises
 
-For **Premises** assets, you must first choose the **Business function** you are assigning the building to. The business function selector is a drop-down menu, from which you can select from the business functions your organisation has created.
+For **Premises** assets, you must first choose the **Business Unit** you are assigning the building to. The business unit selector is a drop-down menu, from which you can select from the business functions your organisation has created.
 
 From here, you enter the `name` of the building, followed by the `address` and `postal code`.
 
@@ -61,7 +61,7 @@ After entering the `cost` of the asset, click `confirm` to submit the asset to y
 
 ### Information
 
-For **Information** assets, you must first choose the **Business function** you are assigning the Information to. The business function selector is a drop-down menu, from which you can select from the business functions your organisation has created.
+For **Information** assets, you must first choose the **Business Unit** you are assigning the Information to. The business unit selector is a drop-down menu, from which you can select from the business functions your organisation has created.
 
 From here, your description of the `Information inventory`, for example, *Contractual Data* or *Employee Data*, etc, followed by the `title` of the information as well as what `format` it is in, for example, *PDF* or *DOCX* are methods in which the above data may be stored.
 

@@ -8,7 +8,7 @@ For more information on making changes to your Task Manager click [here][Task Ma
 
 ### Adding a Task
 
-To begin, ensure you are on the tab named `Add task`, then you must choose the **Business function** you are assigning the Task to. The business function selector is a drop-down menu, from which you can select from the business functions your organisation has created.
+To begin, ensure you are on the tab named `Add task`, then you must choose the **Business Unit** you are assigning the Task to. The business unit selector is a drop-down menu, from which you can select from the business functions your organisation has created.
 
 After doing so, you must name the `Task` and give it a `Description`. Next, you need to assign the task to a member of staff - this can be left as **Unassigned**.
 

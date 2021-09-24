@@ -1,6 +1,6 @@
 # Actions
 
-*Please note that* `Partner` *business functions can only view Assets that they have been given access to AND are owned by their business function.*
+*Please note that* `Partner` *business unit can only view Assets that they have been given access to AND are owned by their business unit.*
 
 ## Tables
 
@@ -14,7 +14,7 @@ Each table allows you to search relevant information to find a match. For exampl
 + Asset Owner
 + Assigned Date
 + Returned Date
-+ Business Function
++ Business Unit
 
 <img src="/img/DocImg/General Information/Actions/Search/Hardware_Asset_Search.png" alt="Hardware Asset Search" class="center"/>
 
@@ -59,7 +59,7 @@ Simply select `Cancel` to stop the deletion process or `Confirm` in order to del
 
 ## Risk Management (Risks)
 
-*Please note that* `Partner` *business functions can only view Risks that they have been given access to AND are owned by their business function.*
+*Please note that* `Partner` *business units can only view Risks that they have been given access to AND are owned by their business unit.*
 
 For each `Risk`, you can either `Modify`, `Escalate` or `Delete` them, much like with `Assets`.
 
@@ -97,7 +97,7 @@ Simply select `Cancel` to stop the deletion process or `Confirm` in order to del
 
 ## Incident Management (Incidents)
 
-*Please note that* `Partner` *business functions can only view Risks that they have been given access to AND are owned by their business function.*
+*Please note that* `Partner` *business units can only view Risks that they have been given access to AND are owned by their business unit.*
 
 For each `Incident`, you can either `Modify`, `Escalate` or `Delete` them, much like with `Assets` and `Risks`.
 
@@ -195,7 +195,7 @@ When deleting a KPI, there is no confirmation asking if you really wish to delet
 
 ## Continual Improvement (OFIs)
 
-*Please note that* `Partner` *business functions can only view OFIs that they have been given access to AND are owned by their business function.*
+*Please note that* `Partner` *business units can only view OFIs that they have been given access to AND are owned by their business unit.*
 
 For each `OFI`, you can either `Modify` or `Delete` them, much like with `Assets`, `Risks` and `Incidents`, however, you can also `Implement` an OFI from the `Modify` menu.
 
@@ -225,7 +225,7 @@ Simply select `Cancel` to stop the deletion process or `Confirm` in order to del
 
 ## Task Manager (Tasks)
 
-*Please note that* `Partner` *business functions can only view Tasks that they have been given access to AND are owned by their business function.*
+*Please note that* `Partner` *business units can only view Tasks that they have been given access to AND are owned by their business unit.*
 
 For each `Task`, you can either `Modify` or `Delete` them, much like with `Assets`, `Risks` and `Incidents`, however you can also `Assign` a Task to a user either from the `Modify` menu or during the creation of the task itself.
 
