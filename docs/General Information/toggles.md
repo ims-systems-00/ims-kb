@@ -1,3 +1,7 @@
+---
+sidebar_position: 4
+---
+
 # Toggles
 
 There are a few things that can be toggled on/off and will last until the session is reset. A session can be reset by either
