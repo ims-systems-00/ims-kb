@@ -10,13 +10,13 @@ sidebar_position: 5
 
 This page shows two tables,
 
-### Licenses Allocated
+| Licenses Allocated |
+| :----------------- |
+| This is the number of Licenses allocated to your organisation by iMS. |
 
-This is the number of Licenses allocated to your organisation by iMS.
-
-### Licenses Assigned
-
-This is the number of Licenses assigned to various Business Units within your organisation.
+| Licenses Assigned |
+| :---------------- |
+| This is the number of Licenses assigned to various Business Units within your organisation. |
 
 ## Internal / External
 
