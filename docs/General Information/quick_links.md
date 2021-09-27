@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 22
 ---
 
 # Quick Links
@@ -37,7 +37,6 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 [Our IMS - License Management]: ./Our%20IMS/license_management
 [Our IMS - System Defaults]: ./Our%20IMS/system_defaults
 [Our IMS - Toolkit]: ./Our%20IMS/toolkit
-> Space reserved for upcoming submenus
 
 ### Inventory
 
@@ -95,24 +94,28 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 
 ### Compliance
 
-Link to guide, **not made**
+**WIP**
 
 ### Supplier Management
 
 [How to add Supplier to the Supplier Management System][Supplier]
 
-[How to modify and delete Suppliers within the Supplier Management System][Supplier Action] **not made**
+[How to modify and delete Suppliers within the Supplier Management System][Supplier Action] **not yet made**
 
 [Supplier]: ./Supplier%20Management/add_supplier
 [Supplier Action]: ./actions#Suppliers "###Suppliers" 
 
 ### Document Management
 
-Link to guide, **not made**
+**WIP**
+
+[How to add Documents to the Document Manager][Upload]
+
+[Upload]: ./Document%20Management/upload
 
 ### Project Management
 
-Link to guide, **feature itself is WIP**
+**Feature is WIP**
 
 ### Task Manager
 
@@ -134,31 +137,51 @@ Link to guide, **feature itself is WIP**
 
 ### User Access
 
-Link to guide, **not made**
+**WIP**
 
-## Other places (need to come up with a better name)
+## Others
 
 ### Send Report
 
-![Send Report Information][Send Report]
+[Send Report Information][Send Report]
 
 [Send Report]: ./Dashboard/dashboard#dashboard-report
 
 ### Notifications
 
-**not made**
+**WIP**
 
-`Notifications`
-+ assigned risks
-+ escalated risks
-+ assigned tasks
-+ audit schedules
-+ management reviews
-+ supplier management
+You receive notifications for the following:
+
++ **Risk Management**
+	+ Assigned risks
+	+ Escalated risks
+
+
++ **Incident Management**
+	+ Escalated incidents
+
+
++ **Audits**
+	+ Scheduled Audits
+
+
++ **Management Reviews**
+	+ Required attendance
+
+
++ **Supplier Management**
+	+ Management Reviews
+	+ Incidents
+
+
++ **Task Manager**
+	+ Assigned tasks
+
 
 ### Account
  
-[Profile][] **not made**
+[Profile][] **WIP**
 
 [Change Password][]
 
