@@ -155,40 +155,49 @@ You receive notifications for the following:
 
 + **Risk Management**
 	+ When a risk owner is assigned, the risk owner gets a notification
-	+ When a risk is escalated, super admin and head of service get a notification (Popup)
+	+ When a risk is escalated, Super Admin and Head of Service get a notification (Popup)
 
 
 + **Incident Management**
-	+ When an incident is escalated, super admin and head of service get a notification (Popup)
+	+ When an incident is escalated, Super Admin and Head of Service get a notification (Popup)
 
 
 + **Audits**
-	+ When an audit is scheduled, super admin and head of service get a notification (Popup)
+	+ When an audit is scheduled, Super Admin and Head of Service get a notification (Popup)
 
 
 + **Management Reviews**
-	+ When a management review is scheduled, super admin gets a notification
-	+ When a KPI is added the head of service gets a notification that a new KPI has been assigned to their business unit
+	+ When a management review is scheduled, Super Admin gets a notification
+	+ When a KPI is added the Head of Service gets a notification that a new KPI has been assigned to their business unit
 	+ All the attendees in a management review get a notification
 
 
 + **Continual Improvement**
 	+ When a CI owner is assigned, the CI owner gets a notification
-	+ If an OFI is implemented, Head of Service gets a notification
+	+ If an OFI is implemented, the Head of Service gets a notification
 
 
 + **Supplier Management**
-	+ When a supplier is compliant, super admin and Head of Service get a notification
-	+ When a P1 incident is added to supplier incidents, Head of Service gets a notification
+	+ When a supplier is compliant, Super Admin and Head of Service get a notification
+	+ When a P1 incident is added to supplier incidents, the Head of Service gets a notification
 
 
 + **Document Management**
 	+ When a document is assigned an owner, the document owner received a notification
 	+ When a document version is updated, all the relevant users receive a notification
 
-+ **Task Manager**
-	+ Assigned tasks
 
++ **Task Manager**
+	+ When a user is assigned a task, the user gets a notification (Popup)
+	+ When a task is accepted, the assignor receives a notification 
+	+ When a task is declined, the assignor receives a notification
+	+ When a task is marked as completed, the assignor receives a notification
+
+
++ **License Management**
+	+ When a License Request is made, Super Admin receives a notification
+	+ When a License Request is granted the requestor receives a notification
+	+ When a License Request is declined the requestor receives a notification
 
 ### Account
  
