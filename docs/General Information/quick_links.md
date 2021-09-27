@@ -10,7 +10,7 @@ sidebar_position: 22
 
 [Dashboard Information][Dashboard]
 
-[Dashboard]: ./Dashboard/dashboard
+[Dashboard]: ./dashboard
 
 Note that there is an up to 5-minute delay between when information is uploaded and the dashboard reflecting changes.
 
@@ -145,7 +145,7 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 
 [Send Report Information][Send Report]
 
-[Send Report]: ./Dashboard/dashboard#dashboard-report
+[Send Report]: ./dashboard#dashboard-report
 
 ### Notifications
 
@@ -154,26 +154,37 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 You receive notifications for the following:
 
 + **Risk Management**
-	+ Assigned risks
-	+ Escalated risks
+	+ When a risk owner is assigned, the risk owner gets a notification
+	+ When a risk is escalated, super admin and head of service get a notification (Popup)
 
 
 + **Incident Management**
-	+ Escalated incidents
+	+ When an incident is escalated, super admin and head of service get a notification (Popup)
 
 
 + **Audits**
-	+ Scheduled Audits
+	+ When an audit is scheduled, super admin and head of service get a notification (Popup)
 
 
 + **Management Reviews**
-	+ Required attendance
+	+ When a management review is scheduled, super admin gets a notification
+	+ When a KPI is added the head of service gets a notification that a new KPI has been assigned to their business unit
+	+ All the attendees in a management review get a notification
+
+
++ **Continual Improvement**
+	+ When a CI owner is assigned, the CI owner gets a notification
+	+ If an OFI is implemented, Head of Service gets a notification
 
 
 + **Supplier Management**
-	+ Management Reviews
-	+ Incidents
+	+ When a supplier is compliant, super admin and Head of Service get a notification
+	+ When a P1 incident is added to supplier incidents, Head of Service gets a notification
 
+
++ **Document Management**
+	+ When a document is assigned an owner, the document owner received a notification
+	+ When a document version is updated, all the relevant users receive a notification
 
 + **Task Manager**
 	+ Assigned tasks
