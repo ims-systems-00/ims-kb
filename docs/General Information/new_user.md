@@ -1,3 +1,7 @@
+---
+sidebar_position: 21
+---
+
 # New User
 
 Upon being granted access either by iMS or your organisation, you will receive an email containing your login details.

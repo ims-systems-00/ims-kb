@@ -1,3 +1,7 @@
+---
+sidebar_position: 23
+---
+
 # Actions
 
 *Please note that* `Partner` *business unit can only view Assets that they have been given access to AND are owned by their business unit.*
