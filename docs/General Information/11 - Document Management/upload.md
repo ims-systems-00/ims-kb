@@ -6,7 +6,7 @@ Get started by navigating to and clicking on the `Document Management` button on
 
 Once you have selected this you will be able to uploading a document using the `Add document` tab.
 
-For more information on making amendments or modifications to your Document click [here][Documents].
+For more information on making amendments or modifications to your Document click [here][Documents]. *not made yet*
 
 ## Uploading a Document
 
@@ -33,3 +33,6 @@ This is the Owner of the file.
 
 
 After filling the form, click on the button `Select`, and select the file you are trying to upload. Once the file has been selected, click on the button with an up arrow to upload the file to the server. Once the upload is completed, click on `Confirm`.
+
+
+[Incidents]: ../actions 'not done yet'
