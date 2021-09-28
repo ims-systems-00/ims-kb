@@ -4,8 +4,6 @@ sidebar_position: 2
 
 # Users
 
-**WIP**
-
 ## Creating a User
 
 To create a user, go to the `Create user` tab and fill in the form. 
@@ -18,7 +16,7 @@ User Type:
 
 In order to grant access to a User after creation, simply assign them to a Business Unit and click the green `key` icon to grant access.
 
-*Note, to add a User to a Business Unit they must verify their email address*
+**Note: to add a User to a Business Unit they must verify their email address**
 
 ## Deleting a User
 
