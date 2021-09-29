@@ -151,7 +151,7 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 
 [What do I receive notification for?][Notifs]
 
-[Notifs]: ./notifications.md
+[Notifs]: ./notifications
 
 ### Account
  
