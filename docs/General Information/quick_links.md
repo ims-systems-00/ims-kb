@@ -1,5 +1,5 @@
 ---
-sidebar_position: 22
+sidebar_position: 23
 ---
 
 # Quick Links
@@ -149,7 +149,7 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 
 ### Notifications
 
-[What do I receive notification for?][Notifs]
+[What do I receive notifications for?][Notifs]
 
 [Notifs]: ./notifications
 
