@@ -16,7 +16,5 @@ You must input a due date for the task - this is the deadline of the task.
 
 <img src="/img/DocImg/General Information/Task_Manager/Completed_Task_Manager_Form.png" alt="Completed Task Manager Form" class="center"/>
 
-
-
 [Task Manager]: ../actions#task-manager-tasks
 [Modifying a Task]: ../actions#modifying-a-task
