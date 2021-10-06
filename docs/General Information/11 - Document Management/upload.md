@@ -4,7 +4,7 @@
 
 Get started by navigating to and clicking on the `Document Management` button on the `Sidebar`, which is on the left-hand side.
 
-Once you have selected this you will be able to uploading a document using the `Add document` tab.
+Once you have selected this you will be able to upload a document using the `Add document` tab.
 
 For more information on making amendments or modifications to your Document click [here][Documents]. **not yet made**
 
@@ -17,7 +17,7 @@ You must first fill the form.
 Select the privacy type you want your document to possess:
 
 + Private
-	+ A private document can only be viewed by yourself and whoever you choose to share it with
+	+ A private document can only be viewed by yourself and whomever you choose to share it with
 + Business Unit
 	+ The document will only be visible to the Business Unit you are in (or uploading it in)
 + Organisational

@@ -16,7 +16,7 @@ You receive notifications for the following:
 ## Incident Management
 
 - [x] When an incident is escalated, Super Admin and Head of Service get a notification (Popup)
-- [ ] Any P1 inicident is raised, the Head of Service gets a notification 
+- [ ] Any P1 incident is raised, the Head of Service gets a notification 
 - [ ] When an incident is resolved, the user who escalated the incident gets a notification.
 
 
@@ -29,7 +29,7 @@ You receive notifications for the following:
 ## Management Reviews
 
 - [x] When a management review is scheduled, Super Admin gets a notification
-- [x] When a KPI is added the Head of Service gets a notification that a new KPI has been assigned to their business unit
+- [x] When a KPI is added, the Head of Service gets a notification that a new KPI has been assigned to their business unit
 - [x] All the attendees in a management review get a notification
 
 

@@ -33,7 +33,7 @@ View how to add KPIs [here][Add KPI]
 
 ### Business Unit
 
-This page allows you to view KPIs linked to business functions. Basic and HoS Users can only view KPIs related to their own Business Unit, and the drop-down menu will reflect only one option.
+This page allows you to view KPIs linked to business functions. Basic and HoS Users can only view KPIs related to their Business Unit, and the drop-down menu will reflect only one option.
 
 On clicking the Business Unit for which you wish to view the KPIs, you will see a list of all the KPIs of that Business Unit.
 

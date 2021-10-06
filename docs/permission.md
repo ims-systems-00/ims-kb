@@ -3,13 +3,14 @@ sidebar_position: 3
 ---
 
 # Roles & Permissions
-iMS Systems has 5 major roles in the system and thier permissions vary according to their roles.
+
+iMS Systems have 5 major roles in the system, and their permissions vary according to their roles.
 
 ## Role-[super] (Super user)
 
 Permissions in different modules of the system are described below
 
-> These permissions are **organosational level** permissions. Users with this permissions scope are having the visibility of all data of the organisation that were added to the system in a system dates.
+> These permissions are **organisational level** permissions. Users with this permission are having the visibility of all data of the organisation that were added to the system on a system date.
 
 ### Dashboard  
 
@@ -20,30 +21,43 @@ Permissions in different modules of the system are described below
 ### Our iMS  
 
 #### Business Units
+
 - [X] Read
 - [X] Write 
 - [X] Delete
+
 #### Compliance Bodies
+
 - [X] Read
 - [X] Write 
 - [X] Delete
+
 #### System dates
+
 - [X] Read
 - [X] Write 
 - [X] Delete
+
 #### Report intervals
+
 - [X] Read
 - [X] Write 
 - [X] Delete
+
 #### Jobroles
+
 - [X] Read
 - [X] Write 
 - [X] Delete
+
 #### Premises
+
 - [X] Read
 - [X] Write 
 - [X] Delete
+
 #### Auditors
+
 - [X] Read
 - [X] Write 
 - [X] Delete
@@ -126,11 +140,11 @@ Permissions in different modules of the system are described below
 - [X] Write 
 - [X] Delete
 
-## Role-[hos] (Head of service or admin user)
+## Role-[hos] (Head of Service or admin user)
 
 Permissions in different modules of the system are described below
 
-> These permissions are **business unit level** permissions. Users with this permissions scope are having the visibility of all data of the business units that they are connected to. 
+> These permissions are **business unit level** permissions. Users with this permission are having the visibility of all data of the business units that they are connected to. 
 
 ### Business Unit Dashboard  
 
@@ -141,30 +155,43 @@ Permissions in different modules of the system are described below
 ### Our iMS  
 
 #### Business Units
+
 - [X] Read
 - [ ] Write 
 - [ ] Delete
+
 #### Compliance Bodies
+
 - [ ] Read
 - [ ] Write 
 - [ ] Delete
+
 #### System dates
+
 - [ ] Read
 - [ ] Write 
 - [ ] Delete
+
 #### Report intervals
+
 - [ ] Read
 - [ ] Write 
 - [ ] Delete
+
 #### Jobroles
+
 - [X] Read
 - [X] Write 
 - [X] Delete
+
 #### Premises
+
 - [X] Read
 - [X] Write 
 - [X] Delete
+
 #### Auditors
+
 - [ ] Read
 - [ ] Write 
 - [ ] Delete
@@ -251,7 +278,7 @@ Permissions in different modules of the system are described below
 
 Permissions in different modules of the system are described below
 
-> These permissions are **business unit level** permissions. Users with this permissions scope are having the visibility of all data of the business units that they are connected to. 
+> These permissions are **business unit level** permissions. Users with this permission are having the visibility of all data of the business units that they are connected to. 
 
 ### Business Unit Dashboard  
 
@@ -262,30 +289,43 @@ Permissions in different modules of the system are described below
 ### Our iMS  
 
 #### Business Units
+
 - [X] Read
 - [ ] Write 
 - [ ] Delete
+
 #### Compliance Bodies
+
 - [ ] Read
 - [ ] Write 
 - [ ] Delete
+
 #### System dates
+
 - [ ] Read
 - [ ] Write 
 - [ ] Delete
+
 #### Report intervals
+
 - [ ] Read
 - [ ] Write 
 - [ ] Delete
+
 #### Jobroles
+
 - [X] Read
 - [ ] Write 
 - [ ] Delete
+
 #### Premises
+
 - [X] Read
 - [ ] Write 
 - [ ] Delete
+
 #### Auditors
+
 - [ ] Read
 - [ ] Write 
 - [ ] Delete
@@ -372,7 +412,7 @@ Permissions in different modules of the system are described below
 
 Permissions in different modules of the system are described below
 
-> These permissions are **organisational level** permissions. Users with this permissions scope are having the visibility of all data of the business units that they are connected to. 
+> These permissions are **organisational level** permissions. Users with this permission are having the visibility of all data of the business units that they are connected to. 
 
 ### Business Unit Dashboard  
 
@@ -383,30 +423,43 @@ Permissions in different modules of the system are described below
 ### Our iMS  
 
 #### Business Units
+
 - [X] Read
 - [ ] Write 
 - [ ] Delete
+
 #### Compliance Bodies
+
 - [X] Read
 - [ ] Write 
 - [ ] Delete
+
 #### System dates
+
 - [X] Read
 - [ ] Write 
 - [ ] Delete
+
 #### Report intervals
+
 - [X] Read
 - [ ] Write 
 - [ ] Delete
+
 #### Jobroles
+
 - [X] Read
 - [ ] Write 
 - [ ] Delete
+
 #### Premises
+
 - [X] Read
 - [ ] Write 
 - [ ] Delete
+
 #### Auditors
+
 - [X] Read
 - [ ] Write 
 - [ ] Delete
@@ -493,7 +546,7 @@ Permissions in different modules of the system are described below
 
 Permissions in different modules of the system are described below
 
-> These permissions are **organisational level** permissions. Users with this permissions scope are having the visibility of all data of the business units that they are connected to. 
+> These permissions are **organisational level** permissions. Users with this permission are having the visibility of all data of the business units that they are connected to. 
 
 ### Business Unit Dashboard  
 
@@ -504,30 +557,43 @@ Permissions in different modules of the system are described below
 ### Our iMS  
 
 #### Business Units
+
 - [ ] Read
 - [ ] Write 
 - [ ] Delete
+
 #### Compliance Bodies
+
 - [ ] Read
 - [ ] Write 
 - [ ] Delete
+
 #### System dates
+
 - [ ] Read
 - [ ] Write 
 - [ ] Delete
+
 #### Report intervals
+
 - [ ] Read
 - [ ] Write 
 - [ ] Delete
+
 #### Jobroles
+
 - [ ] Read
 - [ ] Write 
 - [ ] Delete
+
 #### Premises
+
 - [ ] Read
 - [ ] Write 
 - [ ] Delete
+
 #### Auditors
+
 - [ ] Read
 - [ ] Write 
 - [ ] Delete

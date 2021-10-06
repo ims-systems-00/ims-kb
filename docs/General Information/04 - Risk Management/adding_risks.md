@@ -20,11 +20,11 @@ The following categories are available.
 
 ### Hardware
 
-For **Hardware** risks, you must first choose the **Business Unit** you are assigning the hardware risk to. The business unit selector is a drop-down menu, from which you can select from the business functions your organisation has created.
+For **Hardware** risks, you must first choose the **Business Unit** you are assigning the hardware risk to. The business unit selector is a drop-down menu, from which you can select the business functions your organisation has created.
 
 From here, you select the `Asset` the risk is linked to (optional), followed by the `Risk Title` along with the `Description` of the risk. Select the `Risk owner`, which is a team member who is the party responsible for the mitigation or acceptance of the risk. 
 
-Following on, you need to select the `likelihood` and `consequence` of the risk. These can be given a placeholder value prior to assessing the risk thoroughly, when necessary these can be given true values by [Modifying a Risk][].
+Following on, you need to select the `likelihood` and `consequence` of the risk. These can be given a placeholder value before assessing the risk thoroughly, when necessary these can be given true values by [Modifying a Risk][].
 
 After completing the form, click `add` to submit the risk to your organisation's **Hardware** Risk Management System.
 
@@ -32,11 +32,11 @@ After completing the form, click `add` to submit the risk to your organisation's
 
 ### Software
 
-For **Software** risks, you must first choose the **Business Unit** you are assigning the software risk to. The business unit selector is a drop-down menu, from which you can select from the business functions your organisation has created.
+For **Software** risks, you must first choose the **Business Unit** you are assigning the software risk to. The business unit selector is a drop-down menu, from which you can select the business functions your organisation has created.
 
 From here, you select the `Asset` the risk is linked to (optional), followed by the `Risk Title` along with the `Description` of the risk. Select the `Risk owner`, which is a team member who is the party responsible for the mitigation or acceptance of the risk. 
 
-Following on, you need to select the `likelihood` and `consequence` of the risk. These can be given a placeholder value prior to assessing the risk thoroughly, when necessary these can be given true values by [Modifying a Risk][].
+Following on, you need to select the `likelihood` and `consequence` of the risk. These can be given a placeholder value before assessing the risk thoroughly, when necessary these can be given true values by [Modifying a Risk][].
 
 After completing the form, click `add` to submit the risk to your organisation's **Software** Risk Management System.
 
@@ -44,11 +44,11 @@ After completing the form, click `add` to submit the risk to your organisation's
 
 ### People
 
-For **People** risks, you must first choose the **Business Unit** you are assigning the people risk to. The business unit selector is a drop-down menu, from which you can select from the business functions your organisation has created.
+For **People** risks, you must first choose the **Business Unit** you are assigning the people risk to. The business unit selector is a drop-down menu, from which you can select the business functions your organisation has created.
 
 From here, you select the `Asset` the risk is linked to (optional), followed by the `Risk Title` along with the `Description` of the risk. Select the `Risk owner`, which is a team member who is the party responsible for the mitigation or acceptance of the risk. 
 
-Following on, you need to select the `likelihood` and `consequence` of the risk. These can be given a placeholder value prior to assessing the risk thoroughly, when necessary these can be given true values by [Modifying a Risk][].
+Following on, you need to select the `likelihood` and `consequence` of the risk. These can be given a placeholder value before assessing the risk thoroughly, when necessary these can be given true values by [Modifying a Risk][].
 
 After completing the form, click `add` to submit the risk to your organisation's **People** Risk Management System.
 
@@ -56,11 +56,11 @@ After completing the form, click `add` to submit the risk to your organisation's
 
 ### Premises
 
-For **Premises** risks, you must first choose the **Business Unit** you are assigning the premises risk to. The business unit selector is a drop-down menu, from which you can select from the business functions your organisation has created.
+For **Premises** risks, you must first choose the **Business Unit** you are assigning the premises risk to. The business unit selector is a drop-down menu, from which you can select the business functions your organisation has created.
 
 From here, you select the `Asset` the risk is linked to (optional), followed by the `Risk Title` along with the `Description` of the risk. Select the `Risk owner`, which is a team member who is the party responsible for the mitigation or acceptance of the risk. 
 
-Following on, you need to select the `likelihood` and `consequence` of the risk. These can be given a placeholder value prior to assessing the risk thoroughly, when necessary these can be given true values by [Modifying a Risk][].
+Following on, you need to select the `likelihood` and `consequence` of the risk. These can be given a placeholder value before assessing the risk thoroughly, when necessary these can be given true values by [Modifying a Risk][].
 
 After completing the form, click `add` to submit the risk to your organisation's **Premises** Risk Management System.
 
@@ -68,11 +68,11 @@ After completing the form, click `add` to submit the risk to your organisation's
 
 ### Organisation
 
-For **Organisation** risks, you must first choose the **Business Unit** you are assigning the organisational risk to. The business unit selector is a drop-down menu, from which you can select from the business functions your organisation has created.
+For **Organisation** risks, you must first choose the **Business Unit** you are assigning the organisational risk to. The business unit selector is a drop-down menu, from which you can select the business functions your organisation has created.
 
 From here, give the `Risk Title` along with the `Description` of the risk. Select the `Risk owner`, which is a team member who is the party responsible for the mitigation or acceptance of the risk. 
 
-Following on, you need to select the `likelihood` and `consequence` of the risk. These can be given a placeholder value prior to assessing the risk thoroughly, when necessary these can be given true values by [Modifying a Risk][].
+Following on, you need to select the `likelihood` and `consequence` of the risk. These can be given a placeholder value before assessing the risk thoroughly, when necessary these can be given true values by [Modifying a Risk][].
 
 After completing the form, click `add` to submit the risk to your organisation's **Organisation** Risk Management System.
 
@@ -84,7 +84,7 @@ For **Clinical** risks, you must first choose the **Business Unit** you are assi
 
 From here, assign the risk to an `Asset` and give the risk a `Risk Title` along with the `Description` of the risk. Select the `Risk owner`, the team member who is responsible for the mitigation, acceptance, or escalation of the risk.
 
-Next, you must select the `likelihood` and `consequence` of the risk. These can be given placeholder values prior to assessing the risk thoroughly, wherever necessary the details of a risk can be amended by [Modifying a Risk][].
+Next, you must select the `likelihood` and `consequence` of the risk. These can be given placeholder values before assessing the risk thoroughly, wherever necessary the details of a risk can be amended by [Modifying a Risk][].
 
 After completing the form, click `Add` to submit the risk to your organisation's **Clinical** Risk Management System.
 

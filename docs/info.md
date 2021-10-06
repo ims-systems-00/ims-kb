@@ -22,15 +22,13 @@ sidebar_position: 2
 .basic {background-color: #BDD7EE;}
 .auditor {background-color: #DDEBF7;}
 .partner {background-color: #FFE699;}
-
 table {
 	width: 80%;
 	text-align: center;
 	word-wrap: break-word;
 }
-
 th {
-	text-align: center;
+text-align: center;
 }
 </style>
 -->
@@ -57,11 +55,11 @@ th {
 	<tbody>
 		<tr>
 			<th>Description</th>
-			<td>This User is the person who looks after all system management; manages the access and level of responsibility of all users on iMS Systems. They also manage user access to Business Functions and site features. They have full visibility of the Dashboard as well as the organisational status. Furthermore, they are authorized to organise management reviews. All Organisational and Priority 1 issues are escalated to this user</td>
+			<td>This User is the person who looks after all system management; manages the access and level of responsibility of all users on iMS Systems. They also manage user access to Business Functions and site features. They have full visibility of the Dashboard and the organisational status. They may organise management reviews. All Organisational and Priority 1 issues are escalated to this user</td>
 			<td>This User can add people to Business Functions, manage users and revoke access. They can also manage and navigate all business management functions through the Dashboard they head</td>
-			<td>This User has access to Business Functions and features assigned to their account. They can add and edit data. They only have visibility of the Dashboard which concerns their Business Unit</td>
-			<td>This User has Read-Only access for External use. Auditors can add or amend audits carried out within the business. They can add risks, actions, and OFI's. They also have visibility of the organisational Dashboard. Their Read-Only access lasts for a maximum of 5 Days, which can be extended upon request</td>
-			<td>These Units have Read/Write access to the system granted by their Super Admin. They have use of Business Functions granted to them as well as Dashboard visibility for each of the functions they are responsible for</td>
+			<td>This User has access to Business Functions and features assigned to their account. They can add and edit data. They only have visibility of the Dashboard, which concerns their Business Unit</td>
+			<td>This User has Read-Only access for External use. Auditors can add or amend audits carried out within the business. They can add risks, actions, and OFIs. They also have visibility of the organisational dashboard. Their Read-Only access lasts for a maximum of 5 Days, which can be extended upon request</td>
+			<td>These Units have Read/Write access to the system granted by their Super Admin. They have use of Business Functions granted to them as well as Dashboard visibility for each of the functions they handle</td>
 		</tr>
 		<tr>
 			<th>Dashboard</th>
