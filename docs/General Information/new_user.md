@@ -78,7 +78,7 @@ Upon clicking on `Send Verification Email` you will see the following:
 <img src="/img/DocImg/General Information/New_User/Reset_Password_Email.png" alt="Reset Password Email" class="center"/>
 
 
-Check your inbox for an email that will provide you a link to a password reset form. Complete and turn in the form to reset your password.
+Check your inbox for an email that will provide you with a link to a password reset form. Complete and turn in the form to reset your password.
 
 ## Profile
 

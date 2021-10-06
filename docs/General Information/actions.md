@@ -1,5 +1,5 @@
 ---
-sidebar_position: 23
+sidebar_position: 24
 ---
 
 # Actions
@@ -248,7 +248,7 @@ When modifying a Task, you may be limited by your level of access.
 
 In order to `Delete` a Task, select the trash can icon under the `Actions` field.
 
-When deleting a Task, you will first be asked to confirm you really wish to delete the OFI. Please be warned that deleted Tasks cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
+When deleting a task, you will first be asked to confirm you really wish to delete the OFI. Please be warned that deleted Tasks cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
 
 <img src="/img/DocImg/General Information/Actions/Task_Manager_Actions/Task_Manager_Delete_Confirmation.png" alt="Task Manager - Delete Confirmation" class="center"/>
 
@@ -261,7 +261,7 @@ For each `Event` you can either `Modify` or `Delete` them.
 
 ### Modifying an Event
 
-In order to `Amend` the details of an Event, you must first find the event you wish to change the details of then click on the name of the Event. The event details should popup in a form that can be edited, edit the details you wish to change, and click on `Update` to save your changes.
+In order to `Amend` the details of an event, you must first find the event you wish to change the details of then click on the name of the Event. The event details should popup in a form that can be edited, edit the details you wish to change, and click on `Update` to save your changes.
 
 **Please note that if the event is not a personal/custom event that you have created within the Calendar you may not be able to edit certain details.**
 

@@ -12,7 +12,7 @@ The Dashboard is also the first screen you see upon logging in to your iMS accou
 
 ### Graphs
 
-The information shown in the Dashboard changes depending on the level of permission granted to a specific user. For instance, a Superadmin will have access to the information of the entire organisation and will see under `Business Unit` the number of business unit that are created within the organisation. On the other hand, a Head of Service user will only see the name of the business unit they are in charge of in the same place.
+The information shown on the Dashboard changes depending on the level of permission granted to a specific user. For instance, a Superadmin will have access to the information of the entire organisation and will see under `Business Unit` the number of Business Units that are created within the organisation. On the other hand, a Head of Service user will only see the name of the business unit they are in charge of in the same place.
 
 + Superadmins
 

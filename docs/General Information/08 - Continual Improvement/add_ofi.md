@@ -15,9 +15,9 @@ To add an OFI, you must first choose the **Business Unit** you believe has an op
 
 *The Business Unit selector is a drop-down menu, from which you can select from the Business Units your organisation has created.*
 
-The next thing to do is give the OFI a `Title` then fill the textbox labeled `Opportunity for improvement` with the description of the opportunity.
+The next thing to do is give the OFI a `Title` then fill the textbox labelled `Opportunity for improvement` with the description of the opportunity.
 
-After that, decide on who to assign the OFI to. *This is a drop-down menu that contains the names of Users assigned to the Business Units you selected previously.*
+After that, decide on whom to assign the OFI to. *This is a drop-down menu that contains the names of Users assigned to the Business Units you selected previously.*
 
 Following this, fill the `Cost` with an estimated cost, if any.
 

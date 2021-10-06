@@ -22,15 +22,13 @@ sidebar_position: 2
 .basic {background-color: #BDD7EE;}
 .auditor {background-color: #DDEBF7;}
 .partner {background-color: #FFE699;}
-
 table {
 	width: 80%;
 	text-align: center;
 	word-wrap: break-word;
 }
-
 th {
-	text-align: center;
+text-align: center;
 }
 </style>
 -->
@@ -46,22 +44,22 @@ th {
 	</colgroup>
 	<thead>
 		<tr>
-			<th>Feature</th>
+			<th>Contents</th>
 			<th>Super Admin</th>
 			<th>Head of Service</th>
 			<th>Basic</th>
 			<th>Auditor (Read Only)</th>
-			<th>IMS Partner</th>
+			<th>External Business Units</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<th>Description</th>
-			<td>This User is the person who looks after all system management; manages the access and level of responsibility of all users on iMS Systems. They also manage user access to Business Functions and site features. They have full visibility of the Dashboard as well as the organisational status. Furthermore, they are authorized to organise management reviews. All Organisational and Priority 1 issues are escalated to this user</td>
+			<td>This User is the person who looks after all system management; manages the access and level of responsibility of all users on iMS Systems. They also manage user access to Business Functions and site features. They have full visibility of the Dashboard and the organisational status. They may organise management reviews. All Organisational and Priority 1 issues are escalated to this user</td>
 			<td>This User can add people to Business Functions, manage users and revoke access. They can also manage and navigate all business management functions through the Dashboard they head</td>
-			<td>This User has access to Business Functions and features assigned to their account. They can add and edit data. They only have visibility of the Dashboard which concerns their Business Unit</td>
-			<td>This User has Read-Only access for External use. Auditors can add or amend audits carried out within the business. They can add risks, actions, and OFI's. They also have visibility of the organisational Dashboard. Their Read-Only access lasts for a maximum of 5 Days, which can be extended upon request</td>
-			<td>This User has Read/Write access to the system granted by their Super Admin. They have use of Business Functions granted to them as well as Dashboard visibility for each of the functions they are responsible for</td>
+			<td>This User has access to Business Functions and features assigned to their account. They can add and edit data. They only have visibility of the Dashboard, which concerns their Business Unit</td>
+			<td>This User has Read-Only access for External use. Auditors can add or amend audits carried out within the business. They can add risks, actions, and OFIs. They also have visibility of the organisational dashboard. Their Read-Only access lasts for a maximum of 5 Days, which can be extended upon request</td>
+			<td>These Units have Read/Write access to the system granted by their Super Admin. They have use of Business Functions granted to them as well as Dashboard visibility for each of the functions they handle</td>
 		</tr>
 		<tr>
 			<th>Dashboard</th>
@@ -69,35 +67,35 @@ th {
 		</tr>
 		<tr>
 			<th>Our IMS (Edit)</th>
-			<td>✓</td><td>✓</td><td>✗</td><td>✗</td><td>✗</td>
+			<td>✓</td><td>✗</td><td>✗</td><td>✗</td><td>✗</td>
 		</tr>
 		<tr>
 			<th>Our IMS (Read Only)</th>
-			<td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>✗</td>
+			<td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>(✓)</td>
 		</tr>
 		<tr>
-			<th>Our IMS Business Unit</th>
+			<th>Our IMS Users (Adding Users)</th>
+			<td>✓</td><td>✓</td><td>✗</td><td>✗</td><td>(✓)</td>
+		</tr>
+		<tr>
+			<th>Our IMS Users (Granting Access)</th>
 			<td>✓</td><td>✗</td><td>✗</td><td>✗</td><td>✗</td>
 		</tr>
 		<tr>
-			<th>Our IMS Compliance Functions</th>
+			<th>Our IMS Access Policies</th>
 			<td>✓</td><td>✗</td><td>✗</td><td>✗</td><td>✗</td>
 		</tr>
 		<tr>
-			<th>Our IMS System Dates</th>
-			<td>✓</td><td>✗</td><td>✗</td><td>✗</td><td>✗</td>
+			<th>Our IMS Business Premises</th>
+			<td>✓</td><td>✓</td><td>✓</td><td>✗</td><td>(✓)</td>
 		</tr>
 		<tr>
-			<th>Our IMS Report Intervals</th>
-			<td>✓</td><td>✗</td><td>✗</td><td>✗</td><td>✗</td>
-		</tr>
-		<tr>
-			<th>Our IMS Job Roles</th>
+			<th>Our IMS Licence Management</th>
 			<td>✓</td><td>✓</td><td>✗</td><td>✗</td><td>✗</td>
 		</tr>
 		<tr>
-			<th>Our IMS Premises</th>
-			<td>✓</td><td>✓</td><td>✗</td><td>✗</td><td>✗</td>
+			<th>Our IMS System Default</th>
+			<td>✓</td><td>✗</td><td>✗</td><td>✗</td><td>✗</td>
 		</tr>
 		<tr>
 			<th>Inventory Management</th>
@@ -112,23 +110,39 @@ th {
 			<td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>(✓)</td>
 		</tr>
 		<tr>
-			<th>Continual Management</th>
+			<th>Internal Audits</th>
+			<td>✓</td><td>(✓)</td><td>✗</td><td>✓</td><td>(✓)</td>
+		</tr>
+		<tr>
+			<th>External Audits</th>
+			<td>✓</td><td>(✓)</td><td>✗</td><td>✓</td><td>(✓)</td>
+		</tr>
+		<tr>
+			<th>Management Review</th>
 			<td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>(✓)</td>
 		</tr>
 		<tr>
-			<th>Objectives and KPIs</th>
-			<td>✓</td><td>✓</td><td>✗</td><td>✓</td><td>✗</td>
+			<th>KPI and Objectives</th>
+			<td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>(✓)</td>
+		</tr>
+		<tr>
+			<th>Continual Improvement</th>
+			<td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>(✓)</td>
+		</tr>
+		<tr>
+			<th>Compliance</th>
+			<td>✓</td><td>(✓)</td><td>✗</td><td>✓</td><td>(✓)</td>
 		</tr>
 		<tr>
 			<th>Supplier Management</th>
 			<td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>(✓)</td>
 		</tr>
 		<tr>
-			<th>Document Management</th>
-			<td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>(✓)</td>
+			<th>Compliance</th>
+			<td>✓</td><td>(✓)</td><td>✗</td><td>✓</td><td>(✓)</td>
 		</tr>
 		<tr>
-			<th>Project Management</th>
+			<th>Document Management</th>
 			<td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>(✓)</td>
 		</tr>
 		<tr>
@@ -138,30 +152,6 @@ th {
 		<tr>
 			<th>Calendar</th>
 			<td>✓</td><td>✓</td><td>✓</td><td>✓</td><td>(✓)</td>
-		</tr>
-		<tr>
-			<th>Compliance</th>
-			<td>✓</td><td>(✓)</td><td>✗</td><td>✓</td><td>(✓)</td>
-		</tr>
-		<tr>
-			<th>External Audits</th>
-			<td>✓</td><td>✗</td><td>✗</td><td>✓</td><td>(✓)</td>
-		</tr>
-		<tr>
-			<th>Internal Audits (Edit)</th>
-			<td>✓</td><td>✗</td><td>✗</td><td>✓</td><td>(✓)</td>
-		</tr>
-		<tr>
-			<th>Management Review</th>
-			<td>✓</td><td>✗</td><td>✗</td><td>✓</td><td>(✓)</td>
-		</tr>
-		<tr>
-			<th>User Access</th>
-			<td>✓</td><td>✗</td><td>✗</td><td>✗</td><td>✗</td>
-		</tr>
-		<tr>
-			<th>License Management</th>
-			<td>✓</td><td>✗</td><td>✗</td><td>✗</td><td>✗</td>
 		</tr>
 		<tr>
 			<th>Direct Report</th>

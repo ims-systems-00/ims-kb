@@ -4,10 +4,10 @@ sidebar_position: 4
 
 # Frequently Asked Questions
 
-## I can't login
+## I can't log in
 
 - Make sure you are correctly copying the password, sometimes you can copy a space by mistake
-- Make sure you are on the correct web address ex. **my**.imssystems.tech instead of **staging**.imssystems.tech
+- Make sure you are at the correct web address ex. **my**.imssystems.tech instead of **staging**.imssystems.tech
 - Click forgot password, enter your email - try to login with the new password
 
 ## How do I change my password?
@@ -23,7 +23,7 @@ sidebar_position: 4
 - Check that you are on the correct web address **my**.imssystems.tech instead of **staging**.imssystems.tech
 - Check that you typed your email correctly
 - Check your spam/junk inboxes in your email
-- Is your account granted access to the system? Check with your system's superadmin or head of service
+- Is your account granted access to the system? Check with your system's Super Admin or Head of Service
 
 ## The dashboard isn't updating
 
