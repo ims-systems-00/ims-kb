@@ -25,12 +25,18 @@ Select the privacy type you want your document to possess:
 
 #### Business Unit (optional)
 
-If you pick `Private`, this part of the form will be visible. This is the Business Unit you are uploading the file to.
+*If you pick `Private`, this part of the form will not be visible.*
+
+This is the Business Unit you are uploading the file to.
 
 #### Owner
 
 This is the Owner of the file.
 
+#### Classification
+
+| Classification | Description |
+| :------------- | :---------- |
 
 
 

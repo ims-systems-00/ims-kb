@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # Accepting a Task
 
 When you are assigned a task through the Task Manager, you receive the task in your `Requests` tab.
