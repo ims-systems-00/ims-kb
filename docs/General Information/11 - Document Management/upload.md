@@ -37,8 +37,10 @@ This is the Owner of the file.
 
 | Classification | Description |
 | :------------- | :---------- |
-
-
+| Public  		 | - |
+| Private 		 | - |
+| Confidential 	 | - |
+| Restricted 	 | - |
 
 After filling the form, click on the button `Select`, and select the file you are trying to upload. Once the file has been selected, click on the button with an up arrow to upload the file to the server. Once the upload is completed, click on `Confirm`.
 
