@@ -2,15 +2,17 @@
 sidebar_position: 1
 ---
 
-# Adding Assets
+# Inventory Management
 
-## Getting Started
+## Adding Assets
+
+### Getting Started
 
 Get started by navigating to and clicking on the `Inventory` button on the `Sidebar`, which is on the left-hand side.
 
-For more information on making modifications or amendments to your Inventory Management function click [here][Assets].
+For more information on making modifications or amendments to your assets click [here][Assets].
 
-## Categories
+### Categories
 
 After clicking the `Inventory` button, you must now select which category you are wanting to add an asset to or view the inventory of.
 
@@ -21,7 +23,7 @@ The following categories are available.
 + Premises
 + Information
 
-### Hardware
+#### Hardware
 
 For **Hardware** assets, you must first choose the **Business Unit** you are assigning the hardware asset to. The business unit selector is a drop-down menu, from which you can select the business functions your organisation has created.
 
@@ -33,7 +35,7 @@ After entering the `cost` of the asset, click `confirm` to submit the asset to y
 
 <img src="/img/DocImg/General Information/Inventory_Management/Completed_Hardware_Asset_Form.png" alt="Completed Hardware Asset Form" class="center"/>
 
-### Software
+#### Software
 
 For **Software** assets, you must first choose the **Business Unit** you are assigning the software asset to. The business unit selector is a drop-down menu, from which you can select the business functions your organisation has created.
 
@@ -43,7 +45,7 @@ After entering the `cost` of the asset, click `confirm` to submit the asset to y
 
 <img src="/img/DocImg/General Information/Inventory_Management/Completed_Software_Asset_Form.png" alt="Completed Software Asset Form" class="center"/>
 
-### People
+#### People
 
 For **People** assets, you must first choose the **Business Unit** you are assigning the person to. The business unit selector is a drop-down menu, from which you can select the business functions your organisation has created.
 
@@ -53,7 +55,7 @@ After entering these details, click `confirm` to submit the asset to your organi
 
 <img src="/img/DocImg/General Information/Inventory_Management/Completed_People_Asset_Form.png" alt="Completed People Asset Form" class="center"/>
 
-### Premises
+#### Premises
 
 For **Premises** assets, you must first choose the **Business Unit** you are assigning the building to. The business unit selector is a drop-down menu, from which you can select the business functions your organisation has created.
 
@@ -63,7 +65,7 @@ After entering the `cost` of the asset, click `confirm` to submit the asset to y
 
 <img src="/img/DocImg/General Information/Inventory_Management/Completed_Premises_Asset_Form.png" alt="Completed Premises Asset Form" class="center"/>
 
-### Information
+#### Information
 
 For **Information** assets, you must first choose the **Business Unit** you are assigning the Information to. The business unit selector is a drop-down menu, from which you can select the business functions your organisation has created.
 
@@ -76,5 +78,28 @@ After selecting the `owner` of the information, and the `cost` of the asset, cli
 <img src="/img/DocImg/General Information/Inventory_Management/Completed_Information_Asset_Form.png" alt="Completed Information Asset Form" class="center"/>
 
 
-[Assets]: ../actions#inventory-management-assets
-[Modifying an Asset]: ../actions#modifying-an-asset
+### Managing Assets
+
+For each `Asset`, you can `Modify` or `Delete` each entry in the `Inventory` system for each individual category.
+
+<img src="/img/DocImg/General Information/Actions/Asset_Actions/Asset_Actions_Amend_Delete.png" alt="Asset - Amend/Delete" class="center"/>
+
+
+#### Modifying an Asset
+
+In order to `Amend` an asset, select the pencil icon under the `Actions` field.
+
+When modifying an Asset, you may be limited by your level of access.
+
+#### Deleting an Asset
+
+In order to `Delete` an Asset, select the trash can icon under the `Actions` field.
+
+When deleting an Asset, you will first be asked to confirm you really wish to delete the asset. Please be warned that deleted assets cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
+
+<img src="/img/DocImg/General Information/Actions/Asset_Actions/Asset_Delete_Confirmation.png" alt="Asset - Delete Confirmation" class="center"/>
+
+Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Asset.
+
+[Assets]: #managing-assets
+[Modifying an Asset]: #modifying-an-asset

@@ -12,7 +12,7 @@ Once you have selected this you will be able to raise an incident.
 
 For more information on making amendments or modifications to your Incidents click [here][Incidents].
 
-## Raising an Incident
+### Raising an Incident
 
 Navigate to the `Raise Incident` tab.
 
@@ -47,6 +47,43 @@ Technical queries and advice. Resolution in 72 hours.
 
 To learn how to make changes to your Incident Resolution times, please follow [this guide][Our IMS - Resolution Times]
 
-[Incidents]: ../actions#incident-management-incidents
-[Modifying an Incident]: ../actions#modifying-an-incident
+## Managing Incidents
+
+*Please note that* `Partner` *business units can only view Risks that they have been given access to AND are owned by their business unit.*
+
+For each `Incident`, you can either `Modify`, `Escalate` or `Delete` them, much like with `Assets` and `Risks`.
+
+<img src="/img/DocImg/General Information/Actions/Incident_Actions/Incident_Actions_Amend_Escalate_Delete.png" alt="Incident - Amend/Escalate/Delete" class="center"/>
+
+
+### Modifying an Incident
+
+In order to `Amend` an incident, select the pencil icon under the `Actions` field.
+
+When modifying an Incident, you may be limited by your level of access.
+
+### Escalating an Incident
+
+When escalating an Incident, you will be first asked to confirm the escalation of the Incident. Note that escalating an Incident will notify the Head of Service and Superadmin accounts of the incident that was escalated, as well as the `owner` of the incident.
+
+<img src="/img/DocImg/General Information/Actions/Incident_Actions/Incident_Escalation_Confirmation.png" alt="Incident - Escalation Confirmation" class="center"/>
+
+
+Simply select `Cancel` to stop the escalation process or `Confirm` in order to escalate the Incident. Once escalated it will appear under the `Escalated` tab in the relevant category.
+
+<img src="/img/DocImg/General Information/Actions/Incident_Actions/Incident_Escalation_Location.png" alt="Incident - Escalation Location" class="center"/>
+
+
+### Deleting an Incident
+
+In order to `Delete` an Incident, select the trash can icon under the `Actions` field.
+
+When deleting an Incident, you will first be asked to confirm you really wish to delete the incident. Please be warned that deleted incidents cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
+
+<img src="/img/DocImg/General Information/Actions/Incident_Actions/Inicdent_Delete_Confirmation.png" alt="Incident - Delete Confirmation" class="center"/>
+
+ 
+Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Incident.
+
+[Incidents]: #managing-incidents
 [Our IMS - Resolution Times]: ../Our%20IMS/system_defaults#incident-resolution "Incident Resolution Times"
