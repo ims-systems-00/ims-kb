@@ -14,6 +14,8 @@ You will need to access your organisation's iMS System, you will have received t
 
 <img src="/img/DocImg/General Information/New_User/Log_In.png" alt="Log In" class="center"/>
 
+<iframe width="640" height="480" src="https://www.youtube.com/embed/XjXiV300PNo?list=PLZbPtKnZa7PjntG5ikAj5YQUXzvaExmfE" title="YT Login" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+
 ## Setting a Password
 
 Upon logging in for the first time, you will be prompted to change your password for security purposes. Your password must contain at least 8 characters.

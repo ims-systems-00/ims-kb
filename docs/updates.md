@@ -16,7 +16,7 @@ TL;DR
 
 If you can be bothered to read though, here's all the changes.
 
-#### CQC - New Module
+#### CQC
 - CQC added
 
 #### Sidebar
