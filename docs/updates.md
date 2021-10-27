@@ -1,3 +1,6 @@
+---
+sidebar_position: 0
+---
 # Patch Notes
 
 ## Patch Notes v2.0
@@ -8,6 +11,7 @@ TL;DR
 - New icons for the sidebar and graphs for the dashboard!
 - Profile Pics - You can add 'em...
 
+<br/>
 
 If you can be bothered to read though, here's all the changes.
 

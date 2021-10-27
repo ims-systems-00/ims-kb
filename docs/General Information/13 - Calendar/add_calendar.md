@@ -25,6 +25,25 @@ You can also [modify][Modifying Calendar] and [delete][Deleting Calendar] events
 <img src="/img/DocImg/General Information/Calendar/Completed_Calendar_Form.png" alt="Completed Calendar Form" class="center"/>
 
 
-[Calendar]: ../actions#calendar-events
-[Modifying Calendar]: ../actions#modifying-an-event
-[Deleting Calendar]: ../actions#deleting-an-event
+## Managing Calendar Events
+
+For each `Event` you can either `Modify` or `Delete` them.
+
+### Modifying an Event
+
+In order to `Amend` the details of an event, you must first find the event you wish to change the details of then click on the name of the Event. The event details should popup in a form that can be edited, edit the details you wish to change, and click on `Update` to save your changes.
+
+**Please note that if the event is not a personal/custom event that you have created within the Calendar you may not be able to edit certain details.**
+
+<img src="/img/DocImg/General Information/Actions/Calendar_Actions/Calendar_Modify_Actions.png" alt="Calendar - Modify" class="center"/>
+
+
+### Deleting an Event
+
+In order to `Delete` an Event, you must first find the event you wish to delete, then click on the name of the Event. The event details should pop up in a form. From here, click on the `Delete` button and the event will be deleted.
+
+**If you cannot find a Delete button, the event you are attempting to delete is not a personal/custom event that you have created.**
+
+[Calendar]: #managing-calendar-events
+[Modifying Calendar]: #modifying-an-event
+[Deleting Calendar]: #deleting-an-event

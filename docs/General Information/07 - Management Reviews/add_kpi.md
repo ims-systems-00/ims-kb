@@ -16,4 +16,16 @@ After navigating to the `Add KPI` tab, you must first select whether the KPI wil
 
 After that, type the details of the KPI into the textbox labelled `KPI/Objectives`, and once done click on the **Create** button.
 
-[KPI Action]: ../actions#kpis
+## Managing KPIs
+
+### Modifying a KPI
+
+In order to `Amend` a KPI, simply edit the textbox it is displayed in. If this is not possible, create a new KPI with the amended details and delete the old one.
+
+### Deleting a KPI
+
+In order to `Delete` a KPI, simply select the **-** icon to the right of the textbox.
+
+When deleting a KPI, there is no confirmation asking if you really wish to delete it. Please be warned that deleted KPIs cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
+
+[KPI Action]: #managing-kpis

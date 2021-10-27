@@ -16,4 +16,21 @@ After navigating to the `Add Review` tab in the `Schedule` section of `Managemen
 
 Click on `Confirm` to add the meeting to the schedule. Note that the system will automatically create multiple management reviews to the schedule depending on your selection for `Interval`.
 
-[Management Review]: ../actions#management-reviews
+## Managing Reviews
+
+For each scheduled `Management Review` you can either `Modify` or `Delete` them.
+
+### Modifying a Management Review
+
+In order to `Amend` a Review, select the pencil icon under the `Actions` field, when finished click on `Update`.
+
+To move a Management Review into the **Completed** tab simply click on the `Complete` button when amending it.
+
+### Deleting a Management Review
+
+In order to `Delete` a Management Review, select the trash can icon under the `Actions` field.
+
+When deleting a Review, you will first be asked to confirm you really wish to delete it. Please be warned that deleted Reviews cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
+
+
+[Management Review]: #managing-reviews
