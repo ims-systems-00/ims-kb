@@ -10,10 +10,14 @@ TL;DR
 - Some sweet QoL changes site-wide
 - New icons for the sidebar and graphs for the dashboard!
 - Profile Pics - You can add 'em...
+- Brand new CQC Module!!
 
 <br/>
 
 If you can be bothered to read though, here's all the changes.
+
+#### CQC - New Module
+- CQC added
 
 #### Sidebar
 - Amazing new icons for:
