@@ -36,7 +36,7 @@ If you can be bothered to read, here's all the changes:
 	- Business Units: You can now adjust the level of access to specific modules, including read/write limitations. Do this using the new Access Policies
 - Users
 	- *MOVED*: From "User Access" - Users to "Our IMS" - Users. This includes the granting of Toolkit access.
-	- **NEW**: Email verification is now in place, users must verify their email before they can be granted access by an admin!
+	- **NEW**: Email verification is now in place; users must verify their email before they can be granted access by an admin!
 - **NEW**: Access Policies
 	- You can now create and customise Access Policies, which allows admins to have full control over what Business Units can access, and what they can do with what they are given access to!
 - Licence Management
