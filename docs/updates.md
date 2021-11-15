@@ -6,17 +6,18 @@ sidebar_position: 0
 ## Patch Notes v2.0
 
 TL;DR
-- Massive rework to Our IMS - only relevant if you're an Admin or Head of Service
+- Massive rework to Our IMS - most only relevant if you're an Admin or Head of Service
 - Some sweet QoL changes site-wide
 - New icons for the sidebar and graphs for the dashboard!
 - Profile Pics - You can add 'em...
-- Brand new CQC Module!!
+- Brand new module - CQC!
+- New security features
 
 <br/>
 
-If you can be bothered to read though, here's all the changes.
+If you can be bothered to read, here's all the changes:
 
-#### CQC - New Module
+#### CQC
 - CQC added
 
 #### Sidebar
@@ -35,7 +36,7 @@ If you can be bothered to read though, here's all the changes.
 	- Business Units: You can now adjust the level of access to specific modules, including read/write limitations. Do this using the new Access Policies
 - Users
 	- *MOVED*: From "User Access" - Users to "Our IMS" - Users. This includes the granting of Toolkit access.
-	- **NEW**: Email verification is now in place, users must verify their email before they can be granted access by an admin!
+	- **NEW**: Email verification is now in place; users must verify their email before they can be granted access by an admin!
 - **NEW**: Access Policies
 	- You can now create and customise Access Policies, which allows admins to have full control over what Business Units can access, and what they can do with what they are given access to!
 - Licence Management
@@ -56,18 +57,19 @@ If you can be bothered to read though, here's all the changes.
 
 #### Dashboard
 - **NEW**: "Total Assets" graph
+- **NEW**: CQC Overview has been added
 - Previously, the "Asset Finance" chart did not correctly reflect changes... oops!
 
 #### Inventory Management
 - No changes :(
 
 #### Risk Management
-- **NEW**: colour-coding based on risk score
+- **NEW**: Colour-coding based on risk score
 - **NEW**: You can now modify which Business Unit owns a risk
 - **NEW**: Now tracks previous risk scores, feel free to change them up!
 
 #### Incident Management
-- **NEW**: colour-coding based on priority level
+- **NEW**: Colour-coding based on priority level
 
 #### Audits
 - **NEW**: Added a new field to the creation form, "Focus Area"
@@ -76,7 +78,7 @@ If you can be bothered to read though, here's all the changes.
 
 #### Management Reviews
 - **NEW**: Schedule - You can now directly add Attendees during the review creation process
-- **NEW**: Schedule - You can now modify the interval a review takes place at
+- **NEW**: Schedule - You can now modify the interval between reviews
 - Schedule - Attendee selection has been simplified
 - KPI - Adjusted layout and styling to be more user-friendly
 
@@ -103,5 +105,6 @@ If you can be bothered to read though, here's all the changes.
 - Admins can no longer snoop on your personal events!
 
 #### Profile
-- **NEW**: You can now upload your own wacky profile pictures!
+- **NEW**: You can now upload your own "very" professional profile pictures!
 - Fixed the ability to change your name and bio
+- You can't look at other peoples salaries... unless you're the admin
