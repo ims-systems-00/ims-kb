@@ -10,6 +10,8 @@ Get started by navigating to and clicking on the `Dashboard` button at the top o
 
 The Dashboard is also the first screen you see upon logging in to your iMS account.
 
+<iframe width="640" height="480" src="https://www.youtube.com/embed/jeH5I4ArZuE" title="Graphs and Reports" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Graphs
 
 The information shown on the Dashboard changes depending on the level of permission granted to a specific user. For instance, a Superadmin will have access to the information of the entire organisation and will see under `Business Unit` the number of Business Units that are created within the organisation. On the other hand, a Head of Service user will only see the name of the business unit they are in charge of in the same place.

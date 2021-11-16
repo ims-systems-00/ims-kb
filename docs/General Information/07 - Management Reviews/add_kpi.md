@@ -4,6 +4,8 @@ sidebar_position: 2
 
 # Adding KPIs
 
+<iframe width="640" height="480" src="https://www.youtube.com/embed/cTmImEwYhiA" title="Create a KPI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Getting Started
 
 Get started by navigating to and clicking on the `Management Review` button on the `Sidebar`, which is on the left-hand side, then click on `KPI/Objectives`.
@@ -17,6 +19,8 @@ After navigating to the `Add KPI` tab, you must first select whether the KPI wil
 After that, type the details of the KPI into the textbox labelled `KPI/Objectives`, and once done click on the **Create** button.
 
 ## Managing KPIs
+
+<iframe width="640" height="480" src="https://www.youtube.com/embed/m_QCyX-ki60" title="Managing KPIs" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Modifying a KPI
 

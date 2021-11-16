@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Adding Events/Agendas
 
+<iframe width="640" height="480" src="https://www.youtube.com/embed/fG7_u26XdcY" title="Add Event" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Getting Started
 
 Get started by navigating to and clicking on the `Calendar` button at the bottom of the `Sidebar`, which is on the left-hand side.

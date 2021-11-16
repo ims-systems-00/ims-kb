@@ -4,12 +4,13 @@ sidebar_position: 1
 
 # Adding OFIs
 
+<iframe width="640" height="480" src="https://www.youtube.com/embed/DLD4zWvj7H8" title="Create an OFI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Getting Started
 
 Get started by navigating to and clicking on the `Continual Improvement` button on the `Sidebar`, which is on the left-hand side.
 
 For more information on making changes to OFIs click [here][OFI].
-
 
 ### OFI
 
@@ -29,6 +30,8 @@ Following this, fill the `Cost` with an estimated cost, if any.
 
 
 ## Managing OFIs
+
+<iframe width="640" height="480" src="https://www.youtube.com/embed/0PPfVZIx8X8" title="Manage an OFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Please note that* `Partner` *business units can only view OFIs that they have been given access to AND are owned by their business unit.*
 

@@ -13,3 +13,5 @@ sidebar_position: 4
 <img src="/img/DocImg/General Information/Our_IMS/Completed_Premises_Form.png" alt="Premises Form" class="center"/>
 
 After creating a Premise it will be shown on the `Premises` tab. You can add multiple Premises to a single Business Unit and they will be displayed as a list. You can edit these with the pencil icon and delete them with the trash can icon.
+
+<iframe width="640" height="480" src="https://www.youtube.com/embed/QqtuLeDvs08" title="Business Premises" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
