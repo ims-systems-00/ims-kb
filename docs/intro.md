@@ -88,15 +88,16 @@ Navigate to the `Members` tab and click on the green `key` icon next to the user
 
 After confirming the pop-up, the user will receive an email with confirmation that they have been granted access to the system.
 
-You are recommended to browse the “[General Information][]” portion of the User Manual if this is your first time using the iMS System.
+You are recommended to browse the [General Information][] portion of the User Manual if this is your first time using the iMS System.
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/Ri_E6YoOUIk" title="Granting Access" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[iMS]: https://imssystems.tech/ “iMS Homepage”
 
-[myIMS]: https://my.imssystems.tech/ “Demo iMS”
+[iMS]: https://imssystems.tech/ "iMS Homepage"
 
-[Permissions]: ./permission “Link to Permissions Page”
+[myIMS]: https://my.imssystems.tech/ "Demo iMS"
+
+[Permissions]: ./permission "Link to Permissions Page"
 
 [General Information]: ./General%20Information/quick_links
 

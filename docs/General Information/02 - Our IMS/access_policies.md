@@ -4,6 +4,8 @@ sidebar_position: 3
 
 # Access Policies
 
+<iframe width="640" height="480" src="https://www.youtube.com/embed/kU6EgrtGF4o" title="Access Policies" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
  Currently, you are able to limit access to the following modules:
 
 + Inventory Management
@@ -25,5 +27,3 @@ You have the ability to choose between giving the user the following permission 
 + Write (Create)
 + Delete
 + Full Access (all of the above)
-
-<iframe width="640" height="480" src="https://www.youtube.com/embed/kU6EgrtGF4o" title="Access Policies" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
