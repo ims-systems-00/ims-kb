@@ -36,7 +36,6 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 [Our IMS - Business Premises]: ./Our%20IMS/business_premises
 [Our IMS - License Management]: ./Our%20IMS/license_management
 [Our IMS - System Defaults]: ./Our%20IMS/system_defaults
-[Our IMS - Toolkit]: ./Our%20IMS/toolkit
 
 ### Inventory
 
