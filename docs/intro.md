@@ -34,6 +34,8 @@ For now, you can either choose between one of the two pre-made policies or creat
 
 Once you have successfully created your first business unit, proceed to the next step.
 
+<iframe width="640" height="480" src="https://www.youtube.com/embed/xwpq1vcmwdM" title="Create a Business Unit" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Create a User
 
 Navigate back to the `Sidebar`, under `Our IMS` click on `Users`. 
@@ -41,6 +43,8 @@ Navigate back to the `Sidebar`, under `Our IMS` click on `Users`.
 From here, click on the `Create user` tab.
 
 Here you can add users by filling the form. Once you have added one or more members you will need to grant them access to Business Units relevant to their role.
+
+<iframe width="640" height="480" src="https://www.youtube.com/embed/1_CD3Yjf54Q" title="Create a User" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Add a User to a Business Unit
 
@@ -74,6 +78,8 @@ Add a single license relevant to the job role you wish to give to your first use
 
 Once you have assigned the relevant license to the Business Unit, return to the Business Unit and add the user once again.
 
+<iframe width="640" height="480" src="https://www.youtube.com/embed/bUqIAA3B9e8" title="Licence Management" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Access granted
 
 Navigate to the `Members` tab and click on the green `key` icon next to the user’s name.
@@ -82,13 +88,16 @@ Navigate to the `Members` tab and click on the green `key` icon next to the user
 
 After confirming the pop-up, the user will receive an email with confirmation that they have been granted access to the system.
 
-You are recommended to browse the “[General Information][]” portion of the User Manual if this is your first time using the iMS System.
+You are recommended to browse the [General Information][] portion of the User Manual if this is your first time using the iMS System.
 
-[iMS]: https://imssystems.tech/ “iMS Homepage”
+<iframe width="640" height="480" src="https://www.youtube.com/embed/Ri_E6YoOUIk" title="Granting Access" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[myIMS]: https://my.imssystems.tech/ “Demo iMS”
 
-[Permissions]: ./permission “Link to Permissions Page”
+[iMS]: https://imssystems.tech/ "iMS Homepage"
+
+[myIMS]: https://my.imssystems.tech/ "Demo iMS"
+
+[Permissions]: ./permission "Link to Permissions Page"
 
 [General Information]: ./General%20Information/quick_links
 

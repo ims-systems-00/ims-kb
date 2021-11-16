@@ -5,6 +5,8 @@ sidebar_position: 1
 
 # Adding an Audit
 
+<iframe width="640" height="480" src="https://www.youtube.com/embed/zYtDtPpwymk" title="Create an Audit" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Getting Started
 
 Get started by navigating to and clicking on the `Audits` button on the `Sidebar`, which is on the left-hand side.
@@ -36,6 +38,8 @@ After selecting the `Interval` of the audit, click `confirm` to submit the Audit
 
 ## Managing Audits
 
+<iframe width="640" height="480" src="https://www.youtube.com/embed/5kVcpmluiwE" title="Amend and Complete an Audit" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Modifying an Audit
 
 In order to `Amend` an audit, select the clipboard icon under the `Actions` field.
@@ -50,6 +54,8 @@ When amending an Audit you can add the following:
 You must add these one at a time by typing them out then clicking the + icon to the right of the textbox.
 
 Use the `Extract Report` tab to send a copy of the Audit Report to an email address.
+
+<iframe width="640" height="480" src="https://www.youtube.com/embed/SYiG7sLpZmk" title="Extract Report" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Deleting an Audit
 

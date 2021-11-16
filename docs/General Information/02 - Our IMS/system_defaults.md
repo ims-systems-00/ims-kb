@@ -6,6 +6,8 @@ sidebar_position: 6
 
 ## Setting a System Date
 
+<iframe width="640" height="480" src="https://www.youtube.com/embed/bSxk1oSpvQ4" title="System Dates" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 You first need to navigate to `Our IMS` on the `Sidebar` which is on the left-hand side. From here, you need to click on the button called `System Defaults`.
 Here, there are three tabs. The first tab is for System Dates which requires you to pick a `System Start Date` and a `System End Date`. After selecting your dates click on `Confirm` to save your changes.
 
@@ -14,6 +16,8 @@ System Dates allows you to pick a start and end date that the Dashboard should d
 <img src="/img/DocImg/General Information/Our_IMS/System_Dates_Form.png" alt="System Dates Form" class="center"/>
 
 ## Report Intervals
+
+<iframe width="640" height="480" src="https://www.youtube.com/embed/RQwprG_GWEc" title="Report Intervals" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You first need to navigate to `Our IMS` on the `Sidebar` which is on the left-hand side then click on `System Defaults`. 
 From here, you need to switch to the tab called `Report Intervals`.
@@ -34,6 +38,8 @@ Below the form, you can see a table with all the information about who receives 
 
 ## Incident Resolution
 
+<iframe width="640" height="480" src="https://www.youtube.com/embed/T--l_ZFhrIo" title="Incident Resolution" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 To make any changes to your incident resolution times, you must first click on `Our IMS` from the `Sidebar` on the left-hand side.
 
 Next, click on the `System Default` button then in the `Incident Resolution` tab to find the form that allows you to make adjustments to the recommended incident resolution times.
@@ -48,3 +54,7 @@ From here, you can adjust the number of hours of each incident priority.
 | Priority 4 Escalation | Technical queries and advice. Resolution in 72 hours.								|
 
 The incident resolution time affects the relevant graphs on the Dashboard, as the Dashboard will reflect incidents being handled on time.
+
+## Push Notifications
+
+<iframe width="640" height="480" src="https://www.youtube.com/embed/7jHjXot1PeE" title="Push Notifications" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -4,6 +4,8 @@ sidebar_position: 4
 
 # Business Premises
 
+<iframe width="640" height="480" src="https://www.youtube.com/embed/QqtuLeDvs08" title="Business Premises" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Create Premise
 
 + This page allows you to assign a Premise to a Business Unit

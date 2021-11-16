@@ -47,4 +47,4 @@ The `User Manual` button will take you to [this][User Manual] page, which is whe
 The `iMS System` button will take you to [this][iMS Systems] page. This is the homepage of the iMS System website, where more information about our services can be found.
 
 [User Manual]: https://docs.imssystems.tech/ "Documentation Website"
-[iMS System]: https://imssystems.tech/ "IMS Systems Homepage"
+[iMS Systems]: https://imssystems.tech/ "IMS Systems Homepage"

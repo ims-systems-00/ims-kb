@@ -6,6 +6,8 @@ sidebar_position: 1
 
 ## Adding Assets
 
+<iframe width="640" height="480" src="https://www.youtube.com/embed/H3HB-WriW80" title="Inventory Management" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Getting Started
 
 Get started by navigating to and clicking on the `Inventory` button on the `Sidebar`, which is on the left-hand side.

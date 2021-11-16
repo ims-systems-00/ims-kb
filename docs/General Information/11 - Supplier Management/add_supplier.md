@@ -4,11 +4,13 @@ sidebar_position: 1
 
 # Adding Suppliers
 
+<iframe width="640" height="480" src="https://www.youtube.com/embed/-JDVNWi1mZE" title="Creating a Supplier" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Getting Started
 
 Get started by navigating to and clicking on the `Supplier Management` button on the `Sidebar`, which is on the left-hand side.
 
-For more information on making changes to the Supplier Management function click [here][Supplier Management]. **not yet made**
+For more information on making changes to the Supplier Management function click [here][Supplier Management].
 
 ### Supplier
 
@@ -18,7 +20,7 @@ After this, you must provide the name of an `Account Manager`, the `Account Numb
 
 Next, enter the `Service Provision` the supplier provides, as well as the `Contract Start Date`. 
 
-The following are optional data that can be added or [edited in][Modifying a Supplier] **not yet made** at a later date. 
+The following are optional data that can be added or [edited in][Supplier Management] at a later date. 
 
 + Contract End Date
 + Review Date
@@ -27,6 +29,9 @@ Once you are done, click `Create` to add the Supplier.
 
 <img src="/img/DocImg/General Information/Supplier_Management/Completed_Supplier_Manager_Form.png" alt="Completed Supplier Form" class="center"/>
 
+## Modifying a Supplier
 
-[Supplier Management]: ../actions#supplier-management
-[Modifying a Supplier]: ../actions#modifying-a-supplier
+<iframe width="640" height="480" src="https://www.youtube.com/embed/iqw0Gr1M6WI" title="Managing Suppliers" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+[Supplier Management]: #modifying-a-supplier

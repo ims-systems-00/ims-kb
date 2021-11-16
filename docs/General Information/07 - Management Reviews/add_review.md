@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Creating a Management Review
 
+<iframe width="640" height="480" src="https://www.youtube.com/embed/VmozSeOhI9I" title="Create a Review" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Getting Started
 
 Get started by navigating to and clicking on the `Management Review` button on the `Sidebar`, which is on the left-hand side, then click on `Schedule`.
@@ -19,6 +21,8 @@ Click on `Confirm` to add the meeting to the schedule. Note that the system will
 ## Managing Reviews
 
 For each scheduled `Management Review` you can either `Modify` or `Delete` them.
+
+<iframe width="640" height="480" src="https://www.youtube.com/embed/66hl3gs7Kfo" title="Managing a Review" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Modifying a Management Review
 

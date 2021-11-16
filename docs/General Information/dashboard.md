@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Dashboard
 
+<iframe width="640" height="480" src="https://www.youtube.com/embed/jeH5I4ArZuE" title="Graphs and Reports" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Getting Started
 
 Get started by navigating to and clicking on the `Dashboard` button at the top of the `Sidebar`, which is on the left-hand side.
