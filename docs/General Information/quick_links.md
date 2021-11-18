@@ -44,7 +44,7 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 [How to modify and delete Assets within the Inventory System][Asset Actions]
 
 [Inventory Management]: ./Inventory%20Management/adding_assets
-[Asset Actions]: ./actions#inventory-management-assets
+[Asset Actions]: ./Inventory%20Management/adding_assets#managing-assets
 
 ### Risk Management
 
@@ -55,7 +55,7 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 [How is the Risk Score System Calculated][Risk Scoring]
 
 [Risk Management]: ./Risk%20Management/adding_risks
-[Risk Actions]: ./actions#risk-management-risks
+[Risk Actions]: ./Risk%20Management/adding_risks#managing-risks
 [Risk Scoring]: ./Risk%20Management/risk_scoring
 
 ### Incident Management
@@ -65,7 +65,7 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 [How to modify and delete Incidents within the Incident Management System][Incident Action]
 
 [Incident Management]: ./Incident%20Management/raising_incidents
-[Incident Action]: ./actions#incident-management-incidents
+[Incident Action]: ./Incident%20Management/raising_incidents#managing-incidents
 
 ### Audits
 
@@ -74,13 +74,16 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 [How to modify and delete an Audit][Audit Action]
 
 [Add Audit]: ./Audits/add_audit
-[Audit Action]: ./actions#audits
+[Audit Action]: ./Audits/add_audit#managing-audits
 
 ### Management Reviews
 
 [How to create and schedule a management review][Add Management Review]
 
+[How to modify and delete Management Reviews][Management Actions]
+
 [Add Management Review]: ./Management%20Reviews/add_review
+[Management Actions]: ./Management%20Reviews/add_review#managing-reviews
 
 ### Continual Improvement
 
@@ -89,7 +92,7 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 [How to modify and delete OFIs within the Continual Improvement System][OFI Action]
 
 [OFI]: ./Continual%20Improvement/add_ofi
-[OFI Action]: ./actions#continual-improvement-ofis
+[OFI Action]: ./Continual%20Improvement/add_ofi#managing-ofis
 
 ### Compliance
 
@@ -99,10 +102,10 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 
 [How to add Supplier to the Supplier Management System][Supplier]
 
-[How to modify and delete Suppliers within the Supplier Management System][Supplier Action] **not yet made**
+[How to modify and delete Suppliers within the Supplier Management System][Supplier Action]
 
 [Supplier]: ./Supplier%20Management/add_supplier
-[Supplier Action]: ./actions#Suppliers "###Suppliers" 
+[Supplier Action]: ./Supplier%20Management/add_supplier#modifying-a-supplier
 
 ### Document Management
 
@@ -123,7 +126,7 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 [How to modify and delete Tasks within the Task Manager][Task Manager Actions]
 
 [Task Manager]: ./Task%20Manager/add_task
-[Task Manager Actions]: ./actions#task-manager-tasks
+[Task Manager Actions]: ./Task%20Manager/add_task#managing-tasks
 
 ### Calendar
 
@@ -132,7 +135,7 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 [How to modify and delete Events within the Calendar][Calendar Actions]
 
 [Calendar]: ./Calendar/add_calendar
-[Calendar Actions]: ./actions#calendar-events
+[Calendar Actions]: ./Calendar/add_calendar#managing-calendar-events
 
 ### User Access
 
