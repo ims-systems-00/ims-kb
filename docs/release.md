@@ -14,7 +14,7 @@ Not to be confused with [patch notes][updates].
 
 [IMS-620](https://imssystems.atlassian.net/browse/IMS-620) Inventory - Cannot delete assets you created \(basic user\)
 
-[IMS-614](https://imssystems.atlassian.net/browse/IMS-614) Task Manager - replace pen icon with Eye icon consistent to other modules
+[IMS-614](https://imssystems.atlassian.net/browse/IMS-614) **Task Manager - replace pen icon with Eye icon consistent to other modules**
 
 [IMS-530](https://imssystems.atlassian.net/browse/IMS-530) Message says "This Asset will be deleted"
 
@@ -22,19 +22,19 @@ Not to be confused with [patch notes][updates].
 
 [IMS-497](https://imssystems.atlassian.net/browse/IMS-497) CQC - Data checks message
 
-[IMS-432](https://imssystems.atlassian.net/browse/IMS-432) Communicate - add record/history of communication sent
+[IMS-432](https://imssystems.atlassian.net/browse/IMS-432) **Communicate - add record/history of communication sent**
 
-[IMS-350](https://imssystems.atlassian.net/browse/IMS-350) Permission Configs for Users
+[IMS-350](https://imssystems.atlassian.net/browse/IMS-350) **Permission Configs for Users**
 
 [IMS-329](https://imssystems.atlassian.net/browse/IMS-329) Pressing the Full Sidebar button on Top Left does not Change Gear On/Off Switch
 
 [IMS-266](https://imssystems.atlassian.net/browse/IMS-266) Daily system testing staging
 
-[IMS-119](https://imssystems.atlassian.net/browse/IMS-119) selecting dark mode actually goes to light and vice versa
+[IMS-119](https://imssystems.atlassian.net/browse/IMS-119) **selecting dark mode actually goes to light and vice versa**
 
 ### Task
 
-[IMS-635](https://imssystems.atlassian.net/browse/IMS-635) Management Reviews - Cannot delete created reviews after refreshing page
+[IMS-635](https://imssystems.atlassian.net/browse/IMS-635) **Management Reviews - Cannot delete created reviews after refreshing page**
 
 [IMS-634](https://imssystems.atlassian.net/browse/IMS-634) Supplier Management - Uploading files does not change supplier compliance
 
@@ -42,9 +42,9 @@ Not to be confused with [patch notes][updates].
 
 [IMS-594](https://imssystems.atlassian.net/browse/IMS-594) Password reset button
 
-[IMS-593](https://imssystems.atlassian.net/browse/IMS-593) Password Reset Email - Button has wrong link
+[IMS-593](https://imssystems.atlassian.net/browse/IMS-593) **Password Reset Email - Button has wrong link**
 
-[IMS-585](https://imssystems.atlassian.net/browse/IMS-585) login page bg image change and credentials section redesign
+[IMS-585](https://imssystems.atlassian.net/browse/IMS-585) **login page bg image change and credentials section redesign**
 
 [IMS-580](https://imssystems.atlassian.net/browse/IMS-580) Compliance Toolkits - Cannot add comments and single upload
 
@@ -54,25 +54,27 @@ Not to be confused with [patch notes][updates].
 
 [IMS-488](https://imssystems.atlassian.net/browse/IMS-488) CQC -> Safeguarding - Can Amend Closed Safeguards
 
-[IMS-485](https://imssystems.atlassian.net/browse/IMS-485) Profile - Clicking Update Wipes Out User Level and Salary Details
+[IMS-485](https://imssystems.atlassian.net/browse/IMS-485) **Profile - Clicking Update Wipes Out User Level and Salary Details**
 
 [IMS-471](https://imssystems.atlassian.net/browse/IMS-471) Project Management - Add Name field Visible \+ Error Message in Green
 
 [IMS-453](https://imssystems.atlassian.net/browse/IMS-453) Bug - Sidebar - Sidebar focus after profile view
 
-[IMS-410](https://imssystems.atlassian.net/browse/IMS-410) Our IMS -> Users - Cannot modify the Salary of Users after Creation
+[IMS-450](https://imssystems.atlassian.net/browse/IMS-450) Task Manager - Ability to Upload Documents
+
+[IMS-410](https://imssystems.atlassian.net/browse/IMS-410) **Our IMS -> Users - Cannot modify the Salary of Users after Creation**
 
 [IMS-206](https://imssystems.atlassian.net/browse/IMS-206) TEST
 
 [IMS-196](https://imssystems.atlassian.net/browse/IMS-196) Notifications - Mitigated / Accepted Risks should return a notification to the original risk owner
 
-[IMS-185](https://imssystems.atlassian.net/browse/IMS-185) Review Date needs to be added to the document management table
+[IMS-185](https://imssystems.atlassian.net/browse/IMS-185) **Review Date needs to be added to the document management table**
 
-[IMS-175](https://imssystems.atlassian.net/browse/IMS-175) mass upload of documents
+[IMS-175](https://imssystems.atlassian.net/browse/IMS-175) **mass upload of documents**
 
 [IMS-165](https://imssystems.atlassian.net/browse/IMS-165) Premises requires double entry and no visibility in dashboard
 
-[IMS-151](https://imssystems.atlassian.net/browse/IMS-151) Modal implementation
+[IMS-151](https://imssystems.atlassian.net/browse/IMS-151) **Modal implementation**
 
 [IMS-147](https://imssystems.atlassian.net/browse/IMS-147) critical data deletion is not traced in the resources
 
@@ -86,17 +88,17 @@ Not to be confused with [patch notes][updates].
 
 [IMS-579](https://imssystems.atlassian.net/browse/IMS-579) Wording change in complaint form of CQC
 
-[IMS-567](https://imssystems.atlassian.net/browse/IMS-567) license details to show in business units
+[IMS-567](https://imssystems.atlassian.net/browse/IMS-567) **license details to show in business units**
 
 [IMS-566](https://imssystems.atlassian.net/browse/IMS-566) Supplier Management -> Incidents - Spelling/Grammar
 
-[IMS-563](https://imssystems.atlassian.net/browse/IMS-563) Users - Add last logged in
+[IMS-563](https://imssystems.atlassian.net/browse/IMS-563) **Users - Add last logged in**
 
 [IMS-562](https://imssystems.atlassian.net/browse/IMS-562) Users - Grant access button has been moved
 
 [IMS-561](https://imssystems.atlassian.net/browse/IMS-561) Inconsistencies with Incident Management CSV
 
-[IMS-551](https://imssystems.atlassian.net/browse/IMS-551) replace all document upload with the drop zone feature \(frontend\)
+[IMS-551](https://imssystems.atlassian.net/browse/IMS-551) **replace all document upload with the drop zone feature** \(frontend\)
 
 [IMS-550](https://imssystems.atlassian.net/browse/IMS-550) replace all document upload with the drop zone feature \(api\)
 
@@ -126,9 +128,7 @@ Not to be confused with [patch notes][updates].
 
 [IMS-446](https://imssystems.atlassian.net/browse/IMS-446) Calendar - Title not Fully Visible
 
-[IMS-419](https://imssystems.atlassian.net/browse/IMS-419) Task Manager - Declining Task says it will be Deleted
-
-[IMS-415](https://imssystems.atlassian.net/browse/IMS-415) Our IMS -> Licence Management -> Request Licences - Can make a request with 0 of all Licences and no Toolkits - Just a message
+[IMS-419](https://imssystems.atlassian.net/browse/IMS-419) **Task Manager - Declining Task says it will be Deleted**
 
 [IMS-414](https://imssystems.atlassian.net/browse/IMS-414) Our IMS -> Licence Management -> Request Licences - Need to Make all Descriptions/Titles Consistent
 
@@ -150,47 +150,43 @@ Not to be confused with [patch notes][updates].
 
 [IMS-324](https://imssystems.atlassian.net/browse/IMS-324) Management review notification narrative should look up again
 
-[IMS-323](https://imssystems.atlassian.net/browse/IMS-323) Deleting a comment in OFI also hides the previous comment edit & delete
+[IMS-323](https://imssystems.atlassian.net/browse/IMS-323) **Deleting a comment in OFI also hides the previous comment edit & delete**
 
 [IMS-322](https://imssystems.atlassian.net/browse/IMS-322) Management Review Dates \+ Notification incorrect
 
-[IMS-315](https://imssystems.atlassian.net/browse/IMS-315) Task Manager - Read only access before accepting a task
-
-[IMS-312](https://imssystems.atlassian.net/browse/IMS-312) Options Menu - Ability to close menu by clicking elsewhere
+[IMS-315](https://imssystems.atlassian.net/browse/IMS-315) **Task Manager - Read only access before accepting a task**
 
 [IMS-304](https://imssystems.atlassian.net/browse/IMS-304) Audit attachments \(send in email-audit report\)
 
-[IMS-252](https://imssystems.atlassian.net/browse/IMS-252) Task Manager - Pressing "Update" Gives Pop-Up and Goes to "Requests"
+[IMS-252](https://imssystems.atlassian.net/browse/IMS-252) **Task Manager - Pressing "Update" Gives Pop-Up and Goes to "Requests"**
 
-[IMS-183](https://imssystems.atlassian.net/browse/IMS-183) Make Nav-Links the same colour as the Sidebar Wrapper
+[IMS-162](https://imssystems.atlassian.net/browse/IMS-162) **update of the task detail actually changes task acceptance state to pending which is a bug**
 
-[IMS-162](https://imssystems.atlassian.net/browse/IMS-162) update of the task detail actually changes task acceptance state to pending which is a bug
+[IMS-159](https://imssystems.atlassian.net/browse/IMS-159) **Access control should be narrowed down to user level**
 
-[IMS-159](https://imssystems.atlassian.net/browse/IMS-159) Access control should be narrowed down to user level
+[IMS-157](https://imssystems.atlassian.net/browse/IMS-157) **popups run into infinite loop occasionally**
 
-[IMS-157](https://imssystems.atlassian.net/browse/IMS-157) popups run into infinite loop occasionally
-
-[IMS-148](https://imssystems.atlassian.net/browse/IMS-148) Only users that created a data have the ability to delete
+[IMS-148](https://imssystems.atlassian.net/browse/IMS-148) **Only users that created data should have the ability to delete**
 
 [IMS-138](https://imssystems.atlassian.net/browse/IMS-138) NOTIFICATION SYSTEM - Listing notification cases
 
-[IMS-136](https://imssystems.atlassian.net/browse/IMS-136) Calendar queries needs to be specfic to user even if its super admin.
+[IMS-136](https://imssystems.atlassian.net/browse/IMS-136) **Calendar queries needs to be specfic to user even if its super admin.**
 
-[IMS-135](https://imssystems.atlassian.net/browse/IMS-135) Ability to upload documents in all modules \(incident , ci and risk management task manager \)
+[IMS-135](https://imssystems.atlassian.net/browse/IMS-135) **Ability to upload documents in all modules \(incident , ci and risk management task manager \)**
 
 [IMS-133](https://imssystems.atlassian.net/browse/IMS-133) when an incident is updated it sends notification to the person who raised
 
-[IMS-121](https://imssystems.atlassian.net/browse/IMS-121) Task Manager - tasks to be visible in Calendar
+[IMS-121](https://imssystems.atlassian.net/browse/IMS-121) **Task Manager - tasks to be visible in Calendar**
 
 [IMS-100](https://imssystems.atlassian.net/browse/IMS-100) Auto schedule audit both internal and external
 
-[IMS-95](https://imssystems.atlassian.net/browse/IMS-95) light mode and Dark mode Toggle
+[IMS-95](https://imssystems.atlassian.net/browse/IMS-95) **light mode and Dark mode Toggle**
 
 # Release notes - imssystems - Version Sprint 9
 
 ### Subtask
 
-[IMS-504](https://imssystems.atlassian.net/browse/IMS-504) cqc report doese not have full data
+[IMS-504](https://imssystems.atlassian.net/browse/IMS-504) cqc report does not have full data
 
 [IMS-494](https://imssystems.atlassian.net/browse/IMS-494) CQC -> Safeguarding - Can instantly close a Safeguard from the Add menu
 
@@ -204,7 +200,7 @@ Not to be confused with [patch notes][updates].
 
 [IMS-477](https://imssystems.atlassian.net/browse/IMS-477) terminology changes by nuraz
 
-[IMS-476](https://imssystems.atlassian.net/browse/IMS-476) Dashboard analytics does not update when deleting data
+[IMS-476](https://imssystems.atlassian.net/browse/IMS-476) **Dashboard analytics does not update when deleting data**
 
 [IMS-475](https://imssystems.atlassian.net/browse/IMS-475) CQC -> Communicate - Should the notifications be linking to dashboard?
 
@@ -222,7 +218,7 @@ Not to be confused with [patch notes][updates].
 
 [IMS-455](https://imssystems.atlassian.net/browse/IMS-455) complaint attachment
 
-[IMS-454](https://imssystems.atlassian.net/browse/IMS-454) CQC analytics for the over view dashbaord
+[IMS-454](https://imssystems.atlassian.net/browse/IMS-454) **CQC analytics for the over view dashbaord**
 
 [IMS-452](https://imssystems.atlassian.net/browse/IMS-452) CQC - Spelling/Grammar
 
@@ -246,17 +242,17 @@ Not to be confused with [patch notes][updates].
 
 [IMS-428](https://imssystems.atlassian.net/browse/IMS-428) CQC - Reports Spelling Fix
 
-[IMS-425](https://imssystems.atlassian.net/browse/IMS-425) significant event front end
+[IMS-425](https://imssystems.atlassian.net/browse/IMS-425) **significant event front end**
 
-[IMS-424](https://imssystems.atlassian.net/browse/IMS-424) safe guarding frontend
+[IMS-424](https://imssystems.atlassian.net/browse/IMS-424) **safe guarding frontend**
 
 [IMS-423](https://imssystems.atlassian.net/browse/IMS-423) Email field in the compliant form needed
 
-[IMS-418](https://imssystems.atlassian.net/browse/IMS-418) CQC mini dashboard data model and api
+[IMS-418](https://imssystems.atlassian.net/browse/IMS-418) **CQC mini dashboard data model and api**
 
-[IMS-417](https://imssystems.atlassian.net/browse/IMS-417) CQC reporting and report history API, frontend
+[IMS-417](https://imssystems.atlassian.net/browse/IMS-417) **CQC reporting and report history API, frontend**
 
-[IMS-408](https://imssystems.atlassian.net/browse/IMS-408) complete complain module frontend
+[IMS-408](https://imssystems.atlassian.net/browse/IMS-408) **complete complain module frontend**
 
 [IMS-405](https://imssystems.atlassian.net/browse/IMS-405) safeguarding API and data modeling
 
@@ -264,11 +260,11 @@ Not to be confused with [patch notes][updates].
 
 [IMS-388](https://imssystems.atlassian.net/browse/IMS-388) whistle blow API and data model structure
 
-[IMS-387](https://imssystems.atlassian.net/browse/IMS-387) Building complaint form in the front end
+[IMS-387](https://imssystems.atlassian.net/browse/IMS-387) **Building complaint form in the front end**
 
 [IMS-386](https://imssystems.atlassian.net/browse/IMS-386) build CQC details api
 
-[IMS-385](https://imssystems.atlassian.net/browse/IMS-385) build and grant tool an organisation
+[IMS-385](https://imssystems.atlassian.net/browse/IMS-385) build and grant tool for an organisation
 
 [IMS-382](https://imssystems.atlassian.net/browse/IMS-382) build ratings data model
 
@@ -276,7 +272,7 @@ Not to be confused with [patch notes][updates].
 
 [IMS-376](https://imssystems.atlassian.net/browse/IMS-376) Structure the data model and api for Compliant form And the tool
 
-[IMS-371](https://imssystems.atlassian.net/browse/IMS-371) Toolkit - Different UI implementation
+[IMS-371](https://imssystems.atlassian.net/browse/IMS-371) **Toolkit - Different UI implementation**
 
 [IMS-370](https://imssystems.atlassian.net/browse/IMS-370) Multiple Comments \+ Evidence in CQC Audits
 
@@ -288,15 +284,15 @@ Not to be confused with [patch notes][updates].
 
 [IMS-378](https://imssystems.atlassian.net/browse/IMS-378) System Defaults - Spelling/grammar
 
-[IMS-375](https://imssystems.atlassian.net/browse/IMS-375) Remove excess padding on most webpages
+[IMS-375](https://imssystems.atlassian.net/browse/IMS-375) **Remove excess padding on most webpages**
 
-[IMS-373](https://imssystems.atlassian.net/browse/IMS-373) Dashboard - Compliance - ISO20000 not visible
+[IMS-373](https://imssystems.atlassian.net/browse/IMS-373) **Dashboard - Compliance - ISO20000 not visible**
 
 [IMS-351](https://imssystems.atlassian.net/browse/IMS-351) Remove "!!!" from Error 404 message
 
-[IMS-348](https://imssystems.atlassian.net/browse/IMS-348) Requested task need a view of detail before accepting the task
+[IMS-348](https://imssystems.atlassian.net/browse/IMS-348) **Requested task need a view of detail before accepting the task**
 
-[IMS-347](https://imssystems.atlassian.net/browse/IMS-347) Error handler component to prevent the app from crashing
+[IMS-347](https://imssystems.atlassian.net/browse/IMS-347) **Error handler component to prevent the app from crashing**
 
 [IMS-338](https://imssystems.atlassian.net/browse/IMS-338) Next Button removes Data from the List
 
@@ -310,21 +306,21 @@ Not to be confused with [patch notes][updates].
 
 [IMS-326](https://imssystems.atlassian.net/browse/IMS-326) Adding Monthly Interval to Reviews
 
-[IMS-299](https://imssystems.atlassian.net/browse/IMS-299) Spacing around the site
+[IMS-299](https://imssystems.atlassian.net/browse/IMS-299) **Spacing around the site**
 
 ### Task
 
 [IMS-308](https://imssystems.atlassian.net/browse/IMS-308) KPI/Objectives - Add reference IDs
 
-[IMS-305](https://imssystems.atlassian.net/browse/IMS-305) Access policy permission visibility needed for the normal users
+[IMS-305](https://imssystems.atlassian.net/browse/IMS-305) **Access policy permission visibility needed for the normal users**
 
-[IMS-188](https://imssystems.atlassian.net/browse/IMS-188) License Management - Request License
+[IMS-188](https://imssystems.atlassian.net/browse/IMS-188) **License Management - Request License**
 
 [IMS-187](https://imssystems.atlassian.net/browse/IMS-187) Task Manager Assignee Acceptance Incorrect
 
 [IMS-182](https://imssystems.atlassian.net/browse/IMS-182) Staging Test
 
-[IMS-172](https://imssystems.atlassian.net/browse/IMS-172) Cannot see who you are sharing a private document with after selecting from the drop down menu.
+[IMS-172](https://imssystems.atlassian.net/browse/IMS-172) **Cannot see who you are sharing a private document with after selecting from the drop down menu.**
 
 [IMS-166](https://imssystems.atlassian.net/browse/IMS-166) "Our IMS" table does not distinguish between internal and external business functions.
 
@@ -336,7 +332,7 @@ Not to be confused with [patch notes][updates].
 
 ### Subtask
 
-[IMS-320](https://imssystems.atlassian.net/browse/IMS-320) p1-p4 incident color incident management
+[IMS-320](https://imssystems.atlassian.net/browse/IMS-320) **p1-p4 incident color incident management**
 
 [IMS-317](https://imssystems.atlassian.net/browse/IMS-317) No ID Reference for Supplier KPIs
 
@@ -348,9 +344,9 @@ Not to be confused with [patch notes][updates].
 
 [IMS-310](https://imssystems.atlassian.net/browse/IMS-310) HoS can see other Business Units' Information Assets in Staging
 
-[IMS-306](https://imssystems.atlassian.net/browse/IMS-306) Auditors cannot schedule audits
+[IMS-306](https://imssystems.atlassian.net/browse/IMS-306) **Auditors cannot schedule audits**
 
-[IMS-303](https://imssystems.atlassian.net/browse/IMS-303) Document Management - Version numbers are applied in the wrong order
+[IMS-303](https://imssystems.atlassian.net/browse/IMS-303) **Document Management - Version numbers are applied in the wrong order**
 
 [IMS-302](https://imssystems.atlassian.net/browse/IMS-302) Supplier - Details does not display KPIs
 
@@ -376,7 +372,7 @@ Not to be confused with [patch notes][updates].
 
 [IMS-284](https://imssystems.atlassian.net/browse/IMS-284) Downloaded CSV file header contains "mathod" which should be "method".
 
-[IMS-283](https://imssystems.atlassian.net/browse/IMS-283) Colour Coding for tables depending on status
+[IMS-283](https://imssystems.atlassian.net/browse/IMS-283) **Colour Coding for tables depending on status**
 
 [IMS-282](https://imssystems.atlassian.net/browse/IMS-282) Our IMS - Replace Compliance Function with Compliance Body
 
@@ -388,7 +384,7 @@ Not to be confused with [patch notes][updates].
 
 [IMS-278](https://imssystems.atlassian.net/browse/IMS-278) Business Units - Operating location cannot be changed
 
-[IMS-277](https://imssystems.atlassian.net/browse/IMS-277) Number of staff can go into negative numbers
+[IMS-277](https://imssystems.atlassian.net/browse/IMS-277) **Number of staff can go into negative numbers**
 
 [IMS-276](https://imssystems.atlassian.net/browse/IMS-276) Users, delete user - wrong warning message
 
@@ -410,7 +406,7 @@ Not to be confused with [patch notes][updates].
 
 [IMS-265](https://imssystems.atlassian.net/browse/IMS-265) MANAGEMENT REVIEW - SYSTEM USERS
 
-[IMS-264](https://imssystems.atlassian.net/browse/IMS-264) Push notification \(manual sending\)
+[IMS-264](https://imssystems.atlassian.net/browse/IMS-264) **Push notification \(manual sending\)**
 
 [IMS-262](https://imssystems.atlassian.net/browse/IMS-262) V2 SIGN UP FLOW
 
@@ -426,13 +422,13 @@ Not to be confused with [patch notes][updates].
 
 [IMS-72](https://imssystems.atlassian.net/browse/IMS-72) Service worker needs to register for push notification
 
-[IMS-71](https://imssystems.atlassian.net/browse/IMS-71) notifications will be real time
+[IMS-71](https://imssystems.atlassian.net/browse/IMS-71) **notifications will be real time**
 
-[IMS-70](https://imssystems.atlassian.net/browse/IMS-70) Unread notifications notifications should be highlighted
+[IMS-70](https://imssystems.atlassian.net/browse/IMS-70) **Unread notifications notifications should be highlighted**
 
 [IMS-69](https://imssystems.atlassian.net/browse/IMS-69) Some notifications will also trigger the SMTP server
 
-[IMS-68](https://imssystems.atlassian.net/browse/IMS-68) Notifications needs to send the user to relevant page in the frontend
+[IMS-68](https://imssystems.atlassian.net/browse/IMS-68) **Notifications needs to send the user to relevant page in the frontend**
 
 [IMS-20](https://imssystems.atlassian.net/browse/IMS-20) Send auto generated csv report to email
 
@@ -452,7 +448,7 @@ Not to be confused with [patch notes][updates].
 
 [IMS-198](https://imssystems.atlassian.net/browse/IMS-198) Supplier Management - Supplier Name Required
 
-[IMS-197](https://imssystems.atlassian.net/browse/IMS-197) Task manager other users can delete comments
+[IMS-197](https://imssystems.atlassian.net/browse/IMS-197) **Task manager other users can delete comments**
 
 [IMS-194](https://imssystems.atlassian.net/browse/IMS-194) Inventory Management - Confirm Button
 
@@ -460,19 +456,19 @@ Not to be confused with [patch notes][updates].
 
 [IMS-184](https://imssystems.atlassian.net/browse/IMS-184) Task Manager Undefined
 
-[IMS-180](https://imssystems.atlassian.net/browse/IMS-180) Task Manager - Requests - Accept
+[IMS-180](https://imssystems.atlassian.net/browse/IMS-180) **Task Manager - Requests - Accept**
 
 [IMS-178](https://imssystems.atlassian.net/browse/IMS-178) Inventory -> Information, link leads to Assets tab where other Inventory links lead to Add Asset tab
 
-[IMS-177](https://imssystems.atlassian.net/browse/IMS-177) You can make costs a negative number
+[IMS-177](https://imssystems.atlassian.net/browse/IMS-177) **You can make costs a negative number**
 
 [IMS-174](https://imssystems.atlassian.net/browse/IMS-174) Sidebar
 
-[IMS-170](https://imssystems.atlassian.net/browse/IMS-170) Audit details do not save upon pressing update.
+[IMS-170](https://imssystems.atlassian.net/browse/IMS-170) **Audit details do not save upon pressing update.**
 
-[IMS-158](https://imssystems.atlassian.net/browse/IMS-158) Resource attachments must be removable
+[IMS-158](https://imssystems.atlassian.net/browse/IMS-158) **Resource attachments must be removable**
 
-[IMS-156](https://imssystems.atlassian.net/browse/IMS-156) Document classification for document manager
+[IMS-156](https://imssystems.atlassian.net/browse/IMS-156) **Document classification for document manager**
 
 [IMS-155](https://imssystems.atlassian.net/browse/IMS-155) put flyer image in the login page an try a better design layout and BM Trada logo
 
@@ -482,11 +478,11 @@ Not to be confused with [patch notes][updates].
 
 [IMS-146](https://imssystems.atlassian.net/browse/IMS-146) need date and time stamp on task manager details page for comments
 
-[IMS-145](https://imssystems.atlassian.net/browse/IMS-145) cip needs action taker name and date
+[IMS-145](https://imssystems.atlassian.net/browse/IMS-145) **cip needs action taker name and date**
 
-[IMS-144](https://imssystems.atlassian.net/browse/IMS-144) complete date and created date in task detail
+[IMS-144](https://imssystems.atlassian.net/browse/IMS-144) **complete date and created date in task detail**
 
-[IMS-139](https://imssystems.atlassian.net/browse/IMS-139) ISO20000 compliance standard
+[IMS-139](https://imssystems.atlassian.net/browse/IMS-139) **ISO20000 compliance standard**
 
 [IMS-134](https://imssystems.atlassian.net/browse/IMS-134) Risk csv needs mitigation,description,acceptance rational, incident management full detail in csv
 
@@ -500,11 +496,11 @@ Not to be confused with [patch notes][updates].
 
 [IMS-114](https://imssystems.atlassian.net/browse/IMS-114) send email report - not working for Internal/external audits and dashboard in Sandbox/Staging
 
-[IMS-106](https://imssystems.atlassian.net/browse/IMS-106) new role in the system \(partner-organization\)
+[IMS-106](https://imssystems.atlassian.net/browse/IMS-106) **new role in the system \(partner-organization\)**
 
 [IMS-101](https://imssystems.atlassian.net/browse/IMS-101) user permission architecture discussion
 
-[IMS-98](https://imssystems.atlassian.net/browse/IMS-98) Risk management scoring history in the detail
+[IMS-98](https://imssystems.atlassian.net/browse/IMS-98) **Risk management scoring history in the detail**
 
 [IMS-96](https://imssystems.atlassian.net/browse/IMS-96) Colour in the Users section where you add compliance needs looking at in dark mode you can see the words, in the alternative mode you can not.
 
@@ -514,13 +510,13 @@ Not to be confused with [patch notes][updates].
 
 [IMS-78](https://imssystems.atlassian.net/browse/IMS-78) recheck domain configuration
 
-[IMS-77](https://imssystems.atlassian.net/browse/IMS-77) Security feature documents ,
+[IMS-77](https://imssystems.atlassian.net/browse/IMS-77) Security feature documents
 
 [IMS-66](https://imssystems.atlassian.net/browse/IMS-66) Profile \(About Me\) - description not saving
 
 [IMS-65](https://imssystems.atlassian.net/browse/IMS-65) Dashboard report visuals pdf
 
-[IMS-60](https://imssystems.atlassian.net/browse/IMS-60) Allow multiple HoS licenses in large organizations
+[IMS-60](https://imssystems.atlassian.net/browse/IMS-60) **Allow multiple HoS licenses in large organizations**
 
 [IMS-47](https://imssystems.atlassian.net/browse/IMS-47) Document management needs to have the latest document's uploader as the user reference
 
@@ -534,9 +530,9 @@ Not to be confused with [patch notes][updates].
 
 [IMS-260](https://imssystems.atlassian.net/browse/IMS-260) Org documents are not allowed in partner
 
-[IMS-259](https://imssystems.atlassian.net/browse/IMS-259) Shared documents are not allowed to be shared by others
+[IMS-259](https://imssystems.atlassian.net/browse/IMS-259) **Shared documents are not allowed to be shared by others**
 
-[IMS-258](https://imssystems.atlassian.net/browse/IMS-258) Management review org dropdown will not allow allow business unit
+[IMS-258](https://imssystems.atlassian.net/browse/IMS-258) Management review org dropdown will not allow business unit
 
 [IMS-257](https://imssystems.atlassian.net/browse/IMS-257) Supplier incident resolved list
 
@@ -556,13 +552,13 @@ Not to be confused with [patch notes][updates].
 
 [IMS-247](https://imssystems.atlassian.net/browse/IMS-247) Internal Audits - KPI not appearing on form
 
-[IMS-245](https://imssystems.atlassian.net/browse/IMS-245) Management Review, KPI/Objective - Edit \+ Delete Restricted to User who Created it
+[IMS-245](https://imssystems.atlassian.net/browse/IMS-245) **Management Review, KPI/Objective - Edit \+ Delete Restricted to User who Created it**
 
 [IMS-244](https://imssystems.atlassian.net/browse/IMS-244) Incident Management - Order of Details
 
 [IMS-243](https://imssystems.atlassian.net/browse/IMS-243) Management Reviews - KPI/Objectives Grey Text not Correct
 
-[IMS-241](https://imssystems.atlassian.net/browse/IMS-241) Continual Improvement - Add Ofi
+[IMS-241](https://imssystems.atlassian.net/browse/IMS-241) **Continual Improvement - Add Ofi**
 
 [IMS-239](https://imssystems.atlassian.net/browse/IMS-239) Our IMS, Access Policies - Misspelling
 
@@ -600,7 +596,7 @@ Not to be confused with [patch notes][updates].
 
 [IMS-221](https://imssystems.atlassian.net/browse/IMS-221) Supplier Management -> Details. Capitalisation
 
-[IMS-220](https://imssystems.atlassian.net/browse/IMS-220) 	• Continual Improvement - Still mentions "CPI" should change to "OFI" to match with the other Tabs? -> Being Fixed now
+[IMS-220](https://imssystems.atlassian.net/browse/IMS-220) 	• Continual Improvement - Still mentions "CPI" should change to "OFI" to match with the other Tabs?
 
 [IMS-219](https://imssystems.atlassian.net/browse/IMS-219) Continual Improvement -  Update button not properly capitalised Known Issue since 08/09
 
