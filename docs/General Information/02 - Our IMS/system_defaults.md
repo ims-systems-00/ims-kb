@@ -58,3 +58,5 @@ The incident resolution time affects the relevant graphs on the Dashboard, as th
 ## Push Notifications
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/7jHjXot1PeE" title="Push Notifications" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The history of previously-sent push notifications is also saved below the form.
