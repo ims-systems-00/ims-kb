@@ -27,6 +27,8 @@ Select the privacy type you want your document to possess:
 + Organisational
 	+ This document will be visible to the entire organisation
 
+**External functions cannot view Organisational documents.**
+
 #### Business Unit (optional)
 
 *If you pick `Private`, this part of the form will not be visible.*
@@ -37,7 +39,7 @@ This is the Business Unit you are uploading the file to.
 
 This is the Owner of the file.
 
-#### Classification
+#### Classifications
 
 | Classification | Description |
 | :------------- | :---------- |
