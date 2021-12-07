@@ -4,20 +4,20 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Introduce iMS systems',
+    title: 'Introduce iMS Systems',
     Svg: require('../../static/img/hiw1.svg').default,
     description: (
       <>
-        Centalise your business operations, legal and regulatory requirements in one system.
+        Centralise your business operations, legal and regulatory requirements on one system
       </>
     ),
   },
   {
-    title: 'Use as a business operations tool',
+    title: 'Use as a Business Operations tool',
     Svg: require('../../static/img/hiw2.svg').default,
     description: (
       <>
-        Use system on a day to day basis managing your assets, risks, incidents, 
+        Use the system on a day to day basis managing your assets, risks, incidents, 
         suppliers and documentations to improve your business operations and reduce
         time and effort preparing for audits
       </>
@@ -28,7 +28,7 @@ const FeatureList = [
     Svg: require('../../static/img/hiw3.svg').default,
     description: (
       <>
-        Introduce new ISO standards using our tool kits which are embedded in our system
+        Introduce new ISO standards using our toolkit modules, which are embedded in our system
       </>
     ),
   },
@@ -38,7 +38,7 @@ const FeatureList = [
     description: (
       <>
         Conduct internal audits to ensure controls and processes are working. 
-        Indentifying internal risks and opportunities for improvement.
+        Identifying internal risks and opportunities for improvement.
       </>
     ),
   },
