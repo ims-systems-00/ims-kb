@@ -24,9 +24,6 @@ You must first choose the **Business Unit** you are assigning the incident to.
 
 After this you must enter the `Title` you want to give the incident, followed by a `Description` of the event. `Method of notification` is how you were made aware of the incident, this could be an email that was sent to your department.
 
->“Hello Stanley! I am relaying to you the description of an incident that occurred at our workplace today. This may be worth entering into our Incident Management System. Hopefully, you receive this!
--	Employee 427 via AOL Messenger”
-
 Finally, enter a description of the `Affected service` and assign the incident a `Priority` level.
 
 An example of the priority levels that could be in place are as follows, **these are only examples and may not be the policy your organisation follows.**
