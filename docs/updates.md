@@ -3,7 +3,20 @@ sidebar_position: 0
 ---
 # Patch Notes
 
-## Patch Notes v2.0 (Latest)
+## Patch Notes v2.1.3
+
+#### Incident Management
+- You can now assign an incident to a user
+- A comment section has been added to track updates from multiple users
+
+#### Calendar
+- A major bug fix linked to a few modules
+- Event details now update when the original event is updated
+
+#### Task Manager
+- You can now reassign a declined task
+
+## Patch Notes v2.0
 
 TL;DR
 - Rework to most of the site to implement modals, now you don't need to click `Back to list` and wait a few seconds every time you want to make a change
