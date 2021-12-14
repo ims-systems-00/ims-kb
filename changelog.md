@@ -1,16 +1,16 @@
 # v2.1.3 ( 14 December 2021)
-## Added
+## __Added__
 ### Incident managment
-- Assign the incident to an owner feature added. Owner can only be assigned once and can never be amended.(Pop up notification available)
+- Assign the incident to an owner feature added. The owner can only be assigned once and can never be amended. (Pop up notification available)
 - Comment section created.
-### Email service 
-- Service changed from Microsoft smpt to sendgrid api.
-### System Infrusture
-- Database collection renaming and synchronization in all the three environment.
-- Deployment pipeline infrusture shifted to github actions from aws in the backend.
-## Changed
-###  Calendar
-- Faulty query for event attendees as been fixed.
-- Update of system event realted information automatically updates in calendar.
+### System Infrastructure
+- Database collection renaming and synchronization in all three environments.
+- Deployment pipeline infrastructure shifted to GitHub actions from AWS in the backend.
+## __Changed__
+### Calendar
+- The faulty query for event attendees has been fixed.
+- Calendar events now update when original event’s (task, incident, etc) details are updated
 ### Task manager
 - Fixed Task reassign feature and working properly.
+### Email service
+- Service changed from Microsoft SMPT to SendGrid API.
