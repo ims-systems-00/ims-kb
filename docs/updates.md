@@ -6,7 +6,7 @@ sidebar_position: 0
 ## Patch Notes v2.1.3
 
 #### Incident Management
-- You can now assign an incident to a user
+- You can now assign an incident to a user - The owner can only be assigned once and can never be amended
 - A comment section has been added to track updates from multiple users
 
 #### Calendar
