@@ -1,3 +1,9 @@
+# v2.1.4 ( 17 December 2021)
+## Changed
+### Comment sections
+- Latest comments are at the top.
+### Force reload 
+- Table doen't refresh on update accross the system. (issue fixed)
 # v2.1.3 ( 14 December 2021)
 ## Added
 ### Incident managment
