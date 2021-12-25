@@ -1,3 +1,11 @@
+# v2.1.5 ( 27 December 2021)
+## Changed
+### Comment sections
+- Comments thread design initialized. Text colors updated.
+## Added
+### Development library 
+- new scss designs created. `card-timeline` class avaiable, new button mixin class avaible `btn-text`.
+- use `card-timeline` only of there is a activity thread sections in the system and `btn-text` helps to render only text-based buttons.
 # v2.1.4 ( 17 December 2021)
 ## Changed
 ### Comment sections
