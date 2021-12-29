@@ -1,3 +1,14 @@
+# v2.2.1 ( 31 December 2021)
+## Changed
+### Comment sections
+- Comments thread design finalized. Text colors updated.
+- Comments database migrated to activity database. So we can implement timeline feature in future.
+## Added
+### Activity api
+- Activity api is avaible, able to handle activities quite in a performant way. Will act as a centralized service for all the moudles.
+## Removed
+### Comments API
+- Comments api has been removed for all the modules.
 # v2.1.5 ( 27 December 2021)
 ## Changed
 ### Comment sections
