@@ -1,3 +1,11 @@
+# v2.3.1 ( 31 December 2021)
+## Changed
+### Compliance service
+- ['Breaking'] New Data strucure update in all the tools.
+- ['Breaking] Evidence APIs and data structure updated.
+## Removed
+### Compliance service
+- ['Breaking] Current Comments API has been removed for all the iso modules and new comments api is recomended to be used from now on.
 # v2.2.1 ( 31 December 2021)
 ## Changed
 ### Comment sections
