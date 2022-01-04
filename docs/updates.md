@@ -3,11 +3,40 @@ sidebar_position: 0
 ---
 # Patch Notes
 
-## Patch Notes v2.1.3
+## v2.2.1
+
+### Changed
+
+#### Comment sections
+- Comments thread design finalized
+
+## v2.1.5
+
+### Changed
+
+#### Comment sections
+- Comments thread design initialized
+- Text colours updated
+
+## v2.1.4
+
+### Changed
+
+#### Comment sections
+- Latest comments now display from the top
+
+#### Force reload 
+- Tables now refresh on update across the system
+
+## v2.1.3
+
+### Added
 
 #### Incident Management
-- You can now assign an incident to a user
-- A comment section has been added to track updates from multiple users
+- **NEW**:You can now assign an incident to a user - The owner can only be assigned once and can never be amended
+- **NEW**:A comment section has been added to track updates from multiple users
+
+### Changed
 
 #### Calendar
 - A major bug fix linked to a few modules
@@ -16,7 +45,7 @@ sidebar_position: 0
 #### Task Manager
 - You can now reassign a declined task
 
-## Patch Notes v2.0
+## v2.0
 
 TL;DR
 - Rework to most of the site to implement modals, now you don't need to click `Back to list` and wait a few seconds every time you want to make a change
