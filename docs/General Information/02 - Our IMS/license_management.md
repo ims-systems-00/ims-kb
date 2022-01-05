@@ -4,11 +4,9 @@ sidebar_position: 5
 
 # License Management
 
-**WIP**
-
 ## Organisation Overview
 
-This page shows two tables,
+This page shows three tables,
 
 | Licenses Allocated |
 | :----------------- |

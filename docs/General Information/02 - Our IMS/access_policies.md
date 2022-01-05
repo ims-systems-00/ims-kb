@@ -18,7 +18,6 @@ sidebar_position: 3
 + Document Management
 + Task Manager
 + Calendar
-+ CQC
 
 You have the ability to choose between giving the user the following permission for each module:
 
@@ -26,3 +25,5 @@ You have the ability to choose between giving the user the following permission 
 + Write (Create)
 + Delete
 + Full Access (all of the above)
+
+**Certain actions, such as Escalating or Mitigating risks and incidents require Full Access.**

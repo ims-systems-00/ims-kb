@@ -2,16 +2,16 @@
 sidebar_position: 6
 ---
 
-# System Default
+# System Defaults
 
 ## Setting a System Date
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/bSxk1oSpvQ4" title="System Dates" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You first need to navigate to `Our IMS` on the `Sidebar` which is on the left-hand side. From here, you need to click on the button called `System Defaults`.
-Here, there are three tabs. The first tab is for System Dates which requires you to pick a `System Start Date` and a `System End Date`. After selecting your dates click on `Confirm` to save your changes.
+Here, there are four tabs. The first tab is for System Dates which requires you to pick a `System Start Date` and a `System End Date`. After selecting your dates click on `Confirm` to save your changes.
 
-System Dates allows you to pick a start and end date that the Dashboard should display and use the data of, this allows you to set goals for your organisation and keep track of your progress throughout the year on the dashboard. Once the date has passed, the data is hidden from the dashboard and will not be shown on it.
+System Dates allow you to pick a start and end date that the Dashboard will display and use the data of, this allows you to set goals for your organisation and keep track of your progress throughout the year on the dashboard. Once the date has passed, the data is hidden from the dashboard and will not be shown on it.
 
 <img src="/img/DocImg/General Information/Our_IMS/System_Dates_Form.png" alt="System Dates Form" class="center"/>
 
@@ -28,7 +28,7 @@ Report Intervals requires you to enter a `Name` and `Email` for the person recei
 + Half-Yearly
 + Yearly
 
-After selecting from the drop-down menu, click on `Confirm` to update your changes or `Reset` to clear the fields.
+After selecting from the drop-down menu, click on `Create` to update your changes or `Reset` to clear the fields.
 
 Report intervals allow you to pick a day for each period where they will be sent an email containing the dashboard report. 
 
@@ -46,6 +46,8 @@ Next, click on the `System Default` button then in the `Incident Resolution` tab
 
 From here, you can adjust the number of hours of each incident priority.
 
+Below is an example of how the resolution times may be set, refer to your organisation's policies for your own incident resolution times.
+
 | Priority 				| Example 																			|
 | :-------------------- | :-------------------------------------------------------------------------------- |
 | Priority 1 Escalation | Major System defects and crash. Resolution in 6 hours. 							|
@@ -59,4 +61,14 @@ The incident resolution time affects the relevant graphs on the Dashboard, as th
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/7jHjXot1PeE" title="Push Notifications" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+You first need to navigate to `Our IMS` on the `Sidebar` which is on the left-hand side then click on `System Defaults`. 
+From here, you need to switch to the tab called `Push notification`.
+Push Notifications requires you to enter a `Message` and select the `Audience` that will receive the notification.
+
+Push notifications allow you to send a notification to either:
++ All users
++ All Head of Service users
+
 The history of previously-sent push notifications is also saved below the form.
+
+<img src="/img/DocImg/General Information/Our_IMS/Push_Notification_Form.png" alt="Push Notification Form and Table" class="center"/>
