@@ -1,4 +1,4 @@
-# v2.3.1 ( 31 December 2021)
+# v2.3.1 ( 10 January 2022)
 ## Changed
 ### Compliance service
 - ['Breaking'] New Data strucure update in all the tools.
