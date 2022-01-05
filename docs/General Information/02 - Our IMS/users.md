@@ -24,4 +24,4 @@ In order to grant access to a User after creation, simply assign them to a Busin
 
 To delete a User, you must first revoke their access to the System, remove them from the Business Units they are in then click the trash can icon next to their name in the `Users` tab.
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/MSQSJ2FoXkA" title="Deleting a User" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/MSQSJ2FoXkA" title="Deleting a User" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>

@@ -59,7 +59,7 @@ The incident resolution time affects the relevant graphs on the Dashboard, as th
 
 ## Push Notifications
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/7jHjXot1PeE" title="Push Notifications" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/7jHjXot1PeE" title="Push Notifications" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
 
 You first need to navigate to `Our IMS` on the `Sidebar` which is on the left-hand side then click on `System Defaults`. 
 From here, you need to switch to the tab called `Push notification`.

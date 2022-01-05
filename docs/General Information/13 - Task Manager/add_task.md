@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Adding Tasks
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/97bW_oLa_V8" title="Create a Task" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/97bW_oLa_V8" title="Create a Task" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
 
 ## Getting Started
 
