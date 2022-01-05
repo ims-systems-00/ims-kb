@@ -45,6 +45,8 @@ From here, you enter the `name` of the software, followed by the `number of lice
 
 After entering the `cost` of the asset, click `confirm` to submit the asset to your organisation's **Software** inventory.
 
+You can also upload documentation if necessary.
+
 <img src="/img/DocImg/General Information/Inventory_Management/Completed_Software_Asset_Form.png" alt="Completed Software Asset Form" class="center"/>
 
 #### People
@@ -89,7 +91,7 @@ For each `Asset`, you can `Modify` or `Delete` each entry in the `Inventory` sys
 
 #### Modifying an Asset
 
-In order to `Amend` an asset, select the pencil icon under the `Actions` field.
+In order to `Amend` an asset, select the eye icon under the `Actions` field.
 
 When modifying an Asset, you may be limited by your level of access.
 
