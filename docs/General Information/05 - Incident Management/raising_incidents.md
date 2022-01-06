@@ -59,13 +59,13 @@ For each `Incident`, you can either `Modify`, `Escalate` or `Delete` them, much 
 
 ### Modifying an Incident
 
-In order to `Amend` an incident, select the pencil icon under the `Actions` field.
+In order to `Amend` an incident, select the eye icon under the `Actions` field.
 
 When modifying an Incident, you may be limited by your level of access.
 
 ### Escalating an Incident
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/hB1IjyBRal8" title="Escalate an Incident" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/hB1IjyBRal8" title="Escalate an Incident" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 
 When escalating an Incident, you will be first asked to confirm the escalation of the Incident. Note that escalating an Incident will notify the Head of Service and Superadmin accounts of the incident that was escalated, as well as the `owner` of the incident.
 

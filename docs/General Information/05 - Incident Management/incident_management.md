@@ -10,7 +10,7 @@ View how to raise an incident [here][Raising Incidents]
 
 This page shows a list of incidents that have not been resolved nor escalated.
 
-Clicking on the pencil icon will allow you to view more information related to the incident.
+Clicking on the eye icon will allow you to view more information related to the incident.
 
 | Type 					 | Information 																|
 | :--------------------- | :----------------------------------------------------------------------- |
@@ -29,14 +29,14 @@ Clicking on the pencil icon will allow you to view more information related to t
 
 ### Resolved List
 
-This page shows a list of incidents that have been resolved. Take care to not delete the incidents in this list, as they serve as valuable information to Auditors.
+This page shows a list of incidents that have been resolved.
 
-Clicking on the pencil icon will allow you to view more information related to the incident - this includes the date of resolution, who resolved the incident, and the method of resolution. Take care to not delete the incidents in this list, as they serve as valuable information to Auditors.
+Clicking on the eye icon will allow you to view more information related to the incident - this includes the date of resolution, who resolved the incident, and the method of resolution. Take care to not delete the incidents in this list, as they serve as valuable information to Auditors.
 
 ### Escalated
 
 This page shows a list of incidents that have been escalated. 
 
-Clicking on the pencil icon will allow you to view more information related to the incident - this includes the date of escalation and who escalated the incident.
+Clicking on the eye icon will allow you to view more information related to the incident - this includes the date of escalation and who escalated the incident.
 
 [Raising Incidents]: ./raising_incidents
