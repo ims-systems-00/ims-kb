@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Upload Files
 
+<iframe width="640" height="480" src="https://www.youtube.com/embed/xeUIEsBrNPo" title="Uploading Files" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+
 ## Getting Started
 
 Get started by navigating to and clicking on the `Document Management` button on the `Sidebar`, which is on the left-hand side.
@@ -14,7 +16,7 @@ For more information on making amendments or modifications to your Document clic
 
 ## Uploading a Document
 
-You must first fill the form.
+You must first fill the form:
 
 #### Privacy
 
@@ -48,7 +50,7 @@ This is the Owner of the file.
 | Confidential 	 | - |
 | Restricted 	 | - |
 
-After filling the form, click on the button `Select`, and select the file you are trying to upload. Once the file has been selected, click on the button with an up arrow to upload the file to the server. Once the upload is completed, click on `Confirm`.
+After filling the form, click on the bordered box `Select`, and select the file you are trying to upload. Once the upload is completed, click on `Upload document`.
 
 
 [Documents]: ../actions 'not done yet'

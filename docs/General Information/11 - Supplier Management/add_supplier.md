@@ -14,9 +14,9 @@ For more information on making changes to the Supplier Management function click
 
 ### Supplier
 
-You must first provide a `Supplier Name`, after which choose the **Business Unit** you are assigning the Supplier to. The business unit selector is a drop-down menu, from which you can select the business functions your organisation has created.
+You must first choose the **Business Unit** you are assigning the Supplier to, after which provide a `Supplier Name`.
 
-After this, you must provide the name of an `Account Manager`, the `Account Number` and an `Email` or another form of contact.
+After this, you must provide the name of an `Account Manager`, the `Account Number` and an `Email`.
 
 Next, enter the `Service Provision` the supplier provides, as well as the `Contract Start Date`. 
 
@@ -24,6 +24,9 @@ The following are optional data that can be added or [edited in][Supplier Manage
 
 + Contract End Date
 + Review Date
++ SLA files
++ Contract files
++ Onboarding files
 
 Once you are done, click `Create` to add the Supplier.
 
