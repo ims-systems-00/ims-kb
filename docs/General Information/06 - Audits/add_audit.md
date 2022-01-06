@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Adding an Audit
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/zYtDtPpwymk" title="Create an Audit" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/zYtDtPpwymk" title="Create an Audit" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
 
 ## Getting Started
 
@@ -38,7 +38,7 @@ After selecting the `Interval` of the audit, click `confirm` to submit the Audit
 
 ## Managing Audits
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/5kVcpmluiwE" title="Amend and Complete an Audit" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/5kVcpmluiwE" title="Amend and Complete an Audit" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 
 ### Modifying an Audit
 
@@ -49,25 +49,25 @@ When modifying an Audit, you may be limited by your level of access.
 When amending an Audit you can add the following:
 + Non-Conformity
 + Root Cause
-+ Risk
-+ OFI
-You must add these one at a time by typing them out then clicking the + icon to the right of the textbox.
++ Risks
++ OFIs
+You must add these one at a time by typing them out then clicking the `Add` button underneath the textbox.
 
-Use the `Extract Report` tab to send a copy of the Audit Report to an email address.
+Use the `Extract Report` tab to send a copy of the Audit Report to an email in PDF format.
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/SYiG7sLpZmk" title="Extract Report" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/SYiG7sLpZmk" title="Extract Report" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 
 ### Deleting an Audit
 
 In order to `Delete` an Audit, select the trash can icon under the `Actions` field.
 
-You can delete Audits from the `Schedule` and `Completed` tabs.
+You can delete only Audits from the `Schedule` tab.
 
 When deleting an Audit, you will first be asked to confirm you really wish to delete the incident. Please be warned that deleted incidents cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
 
 <img src="/img/DocImg/General Information/Actions/Audit_Actions/Audit_Delete_Confirmation.png" alt="Audit - Delete Confirmation" class="center"/>
 
- 
+
 Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Incident.
 
 [Audits]: #managing-audits

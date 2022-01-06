@@ -10,17 +10,17 @@ Please view the first time configuration guide [here][First Time Configuration] 
 
 ## Access Type
 
-There are two types of Business Functions.
+There are two types of Business Units.
 + Internal Function
 + External Function
 
 Internal Functions are effectively departments within the same company - for example when making the HR Department you would pick `Internal Function` as the Access Type as it would be the policy put in place for internal users. 
 
-External Functions on the other hand are for outside parties that need access to the iMS System. 
+External Functions on the other hand are for outside parties that need access to the iMS System, such as Compliance Bodies that would audit your Organisation.
 
 ## Access Policy
 
-`Access Policies` allow you to limit the features users within the Business Unit can access.
+`Access Policies` allow you to limit the features users within the Business Unit have access to.
 
 You can view more information about Access Policies [here][Access Policies].
 

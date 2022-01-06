@@ -9,11 +9,11 @@ sidebar_position: 3
 
 Navigate to the `Add complaint` tab, select the relevant Business Unit.
 
-Enter the name, `Address`, `Telephone number`, `Email`, and `Preferred communication method` of the Complainant.
+1. Enter the name, `Address`, `Telephone number`, `Email`, and `Preferred communication method` of the Complainant.
 
-Select the `Date` of the Incident and the `Name` of the employee related to the complaint.
+2. Select the `Date` of the Incident and the `Name` of the employee related to the complaint.
 
-Enter the `Type of service` related to the Complaint as well as the `Details` of the complaint.
+3. Enter the `Type of service` related to the Complaint as well as the `Details` of the complaint.
 
 Click `Confirm` to finish raising a Complaint.
 
@@ -21,9 +21,9 @@ Click `Confirm` to finish raising a Complaint.
 
 Navigate to the `Complaints` tab and click on the pencil icon next to the relevant Complaint.
 
-Select the `Amend` tab and modify the fields of the form if required.
+1. Select the `Amend` tab and modify the fields of the form if required.
 
-To upload a document, drag and drop the document into the attachment field **or** click in the attachment field, navigate to the document(s) and select them.
+2. To upload a document, drag and drop the document into the attachment field **or** click in the attachment field, navigate to the document(s) and select them.
 
 Once you are done, click `Update` to finish the process of amending a Complaint.
 

@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Dashboard
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/jeH5I4ArZuE" title="Graphs and Reports" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/jeH5I4ArZuE" title="Graphs and Reports" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 
 ## Getting Started
 
@@ -16,25 +16,25 @@ The Dashboard is also the first screen you see upon logging in to your iMS accou
 
 The information shown on the Dashboard changes depending on the level of permission granted to a specific user. For instance, a Superadmin will have access to the information of the entire organisation and will see under `Business Unit` the number of Business Units that are created within the organisation. On the other hand, a Head of Service user will only see the name of the business unit they are in charge of in the same place.
 
-+ Superadmins
+Superadmin:
 
->This User has full visibility of the Dashboard as well as the organisational status
++ This user has full visibility of the Dashboard as well as the organisational status
 
-+ Head of Service 
+Head of Service 
 
->This User can view all information of the Business Unit they manage.
++ This user can view all information of the Business Unit they manage.
 
-+ Basic User
+Basic User
 
->This User only has visibility of that which concerns their Business Unit.
++ This user only has visibility of that which concerns their Business Unit.
 
-+ Auditors
+Auditors
 
->This User has visibility of the Organisational Dashboard - all Business Units.
++ This user has visibility of the Organisational Dashboard - all Business Units.
 
-+ IMS Partner
+IMS Partner
 
->This User only has visibility of the functions for which they are responsible, these responsibilities can be assigned in the related Business Unit.
++ This user only has visibility of the functions for which they are responsible, these responsibilities can be assigned in the related Business Unit.
 
 ### Dashboard Report
 

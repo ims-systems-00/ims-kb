@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Adding OFIs
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/DLD4zWvj7H8" title="Create an OFI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/DLD4zWvj7H8" title="Create an OFI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
 
 ## Getting Started
 
@@ -14,26 +14,28 @@ For more information on making changes to OFIs click [here][OFI].
 
 ### OFI
 
-An OFI is an opportunity for improvement - whether this is for the department or a specific employee.
+An OFI is an Opportunity For Improvement - this can be for the Business Unit or a specific User.
 
-To add an OFI, you must first choose the **Business Unit** you believe has an opportunity to improve. 
+To add an OFI, you must first navigate to the `Add new` tab, then choose the **Business Unit** you believe has an opportunity to improve, or the Business Unit that the User is in.
 
-*The Business Unit selector is a drop-down menu, from which you can select from the Business Units your organisation has created.*
+*The Business Unit selector is a drop-down menu, from which you can select from the Business Units your organisation has created and that you have visibility of.*
 
 The next thing to do is give the OFI a `Title` then fill the textbox labelled `Opportunity for improvement` with the description of the opportunity.
 
-After that, decide on whom to assign the OFI to. *This is a drop-down menu that contains the names of Users assigned to the Business Units you selected previously.*
+After that, decide on whom to assign the OFI to. *This is a drop-down menu that contains the names of Users assigned to the Business Unit you selected previously.*
 
 Following this, fill the `Cost` with an estimated cost, if any.
+
+You can then upload any attachements that may be necessary.
 
 <img src="/img/DocImg/General Information/Continual_Improvement/Completed_OFI_Form_new.png" alt="Completed Internal OFI Form" class="center"/>
 
 
 ## Managing OFIs
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/0PPfVZIx8X8" title="Manage an OFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/0PPfVZIx8X8" title="Manage an OFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 
-*Please note that* `Partner` *business units can only view OFIs that they have been given access to AND are owned by their business unit.*
+*Please note that* `Partner` *business units can only view OFIs if they have been given access to the Continual Improvement module AND the OFIs are owned by their Business Unit or a Business Unit they have visibility of.*
 
 For each `OFI`, you can either `Modify` or `Delete` them, much like with `Assets`, `Risks` and `Incidents`, however, you can also `Implement` an OFI from the `Modify` menu.
 
@@ -42,17 +44,17 @@ For each `OFI`, you can either `Modify` or `Delete` them, much like with `Assets
 
 ### Modifying an OFI
 
-In order to `Amend` an OFI, select the pencil icon under the `Actions` field, when finished click on `Update`.
+In order to `Amend` an OFI, select the eye icon under the `Actions` field, and then navigate to the `Amend` tab. When finished making changes make sure click on `Update` at the bottom of the page, above `Actions`.
 
 When modifying an OFI, you may be limited by your level of access.
 
 ### Implementing an OFI
 
-In order to `Implement` an incident, select the pencil icon under the `Actions` field, then click the `Implement` button on the right of the `Update` button.
+In order to `Implement` an incident, select the eye icon under the `Actions` field, navigate to the `Amend` tab, then click the `Implement` button on the right of the `Update` button.
 
 ### Deleting an OFI
 
-In order to `Delete` an OFI, select the trash can icon under the `Actions` field.
+In order to `Delete` an OFI, click on the trash can icon under the `Actions` field.
 
 When deleting an OFI, you will first be asked to confirm you really wish to delete the OFI. Please be warned that deleted OFIs cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
 

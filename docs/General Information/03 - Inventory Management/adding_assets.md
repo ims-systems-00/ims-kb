@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Adding Assets
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/H3HB-WriW80" title="Inventory Management" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/H3HB-WriW80" title="Inventory Management" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
 
 ### Getting Started
 
@@ -44,6 +44,8 @@ For **Software** assets, you must first choose the **Business Unit** you are ass
 From here, you enter the `name` of the software, followed by the `number of licenses` owned as well as the `number of installs` of the software in question.
 
 After entering the `cost` of the asset, click `confirm` to submit the asset to your organisation's **Software** inventory.
+
+You can also upload documentation if necessary.
 
 <img src="/img/DocImg/General Information/Inventory_Management/Completed_Software_Asset_Form.png" alt="Completed Software Asset Form" class="center"/>
 
@@ -89,7 +91,7 @@ For each `Asset`, you can `Modify` or `Delete` each entry in the `Inventory` sys
 
 #### Modifying an Asset
 
-In order to `Amend` an asset, select the pencil icon under the `Actions` field.
+In order to `Amend` an asset, select the eye icon under the `Actions` field.
 
 When modifying an Asset, you may be limited by your level of access.
 

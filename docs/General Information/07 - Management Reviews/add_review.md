@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Creating a Management Review
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/VmozSeOhI9I" title="Create a Review" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/VmozSeOhI9I" title="Create a Review" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 
 ## Getting Started
 
@@ -14,7 +14,14 @@ For more information on making modifications or amendments to your Management Re
 
 ### Creating a Management Review
 
-After navigating to the `Add Review` tab in the `Schedule` section of `Management Review`, you must first give the `Meeting Title` which is the name of the meeting. Next, pick a `date` to schedule the meeting for. Lastly, pick an `Interval` for how often the review should recur.
+After navigating to the `Add Review` tab in the `Schedule` section of `Management Review`, you can first select the `Attendees` for the meeting, then give the `Title` which is the name of the meeting. Then, pick a `date` to schedule the meeting for. Lastly, pick an `Interval` for how often the review should recur.
+
+You can then upload the `Agenda` and `Minutes`.
+
+The following are optional, and can be [amended][] later.
++ Attendees
++ Agenda
++ Minutes
 
 Click on `Confirm` to add the meeting to the schedule. Note that the system will automatically create multiple management reviews to the schedule depending on your selection for `Interval`.
 
@@ -22,11 +29,11 @@ Click on `Confirm` to add the meeting to the schedule. Note that the system will
 
 For each scheduled `Management Review` you can either `Modify` or `Delete` them.
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/66hl3gs7Kfo" title="Managing a Review" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/66hl3gs7Kfo" title="Managing a Review" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 
 ### Modifying a Management Review
 
-In order to `Amend` a Review, select the pencil icon under the `Actions` field, when finished click on `Update`.
+In order to `Amend` a Review, select the eye icon under the `Actions` field, then navigate to the `Amend` tab. When finished making changes make sure click on `Update` at the bottom of the page.
 
 To move a Management Review into the **Completed** tab simply click on the `Complete` button when amending it.
 
@@ -38,3 +45,4 @@ When deleting a Review, you will first be asked to confirm you really wish to de
 
 
 [Management Review]: #managing-reviews
+[amended]: #modifying-a-management-review
