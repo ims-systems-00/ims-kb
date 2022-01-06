@@ -24,11 +24,11 @@ After that, type the details of the KPI into the textbox labelled `KPI/Objective
 
 ### Modifying a KPI
 
-In order to `Amend` a KPI, simply edit the textbox it is displayed in. If this is not possible, create a new KPI with the amended details and delete the old one.
+In order to `Amend` a KPI, simply click on the pencil icon to the right of the text box, then edit the text. You can only amend KPIs that you created.
 
 ### Deleting a KPI
 
-In order to `Delete` a KPI, simply select the **-** icon to the right of the textbox.
+In order to `Delete` a KPI, simply select the trash can icon to the right of the textbox. You can only delete KPIs that you created.
 
 When deleting a KPI, there is no confirmation asking if you really wish to delete it. Please be warned that deleted KPIs cannot be easily retrieved and due care is required. Ensure to make regular [backups][Backup] **not yet made** to safely store information in case of an accident.
 
