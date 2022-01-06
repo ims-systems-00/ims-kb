@@ -10,4 +10,4 @@ From here you need to click on the green tick under the **Actions** tab, the pop
 
 In this tab you can access the details and, when finished, mark the task as complete.
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/-EjgxuYAj2A" title="Requests" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/-EjgxuYAj2A" title="Requests" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>

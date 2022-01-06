@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Adding Risks
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/kDHE4KFP6bo" title="Adding a Risk" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/kDHE4KFP6bo" title="Adding a Risk" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 
 ### Getting Started
 

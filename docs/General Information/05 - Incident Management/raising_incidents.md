@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Raising Incidents
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/wbh1e1riYrE" title="Raising an Incident" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/wbh1e1riYrE" title="Raising an Incident" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 
 ## Getting Started
 
@@ -48,7 +48,7 @@ To learn how to make changes to your Incident Resolution times, please follow [t
 
 ## Managing Incidents
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/KHJtiiJk4bg" title="Amend and Resolve an Incident" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/KHJtiiJk4bg" title="Amend and Resolve an Incident" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 
 *Please note that* `Partner` *business units can only view Risks that they have been given access to AND are owned by their business unit.*
 

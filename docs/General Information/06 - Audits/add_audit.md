@@ -38,7 +38,7 @@ After selecting the `Interval` of the audit, click `confirm` to submit the Audit
 
 ## Managing Audits
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/5kVcpmluiwE" title="Amend and Complete an Audit" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/5kVcpmluiwE" title="Amend and Complete an Audit" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 
 ### Modifying an Audit
 
@@ -55,7 +55,7 @@ You must add these one at a time by typing them out then clicking the + icon to 
 
 Use the `Extract Report` tab to send a copy of the Audit Report to an email address.
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/SYiG7sLpZmk" title="Extract Report" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/SYiG7sLpZmk" title="Extract Report" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 
 ### Deleting an Audit
 
