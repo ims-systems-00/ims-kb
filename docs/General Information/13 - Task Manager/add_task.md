@@ -10,13 +10,13 @@ sidebar_position: 1
 
 Get started by navigating to and clicking on the `Task Manager` button on the `Sidebar`, which is on the left-hand side.
 
-For more information on making changes to your Task Manager click [here][Task Manager].
+For more information on making changes to your Tasks click [here][Task Manager].
 
 ### Adding a Task
 
-To begin, ensure you are on the tab named `Add task`, then you must choose the **Business Unit** you are assigning the Task to. The business unit selector is a drop-down menu, from which you can select the business functions your organisation has created.
+To begin, ensure you are on the tab named `Add task`, then choose the **Business Unit** you are assigning the Task to. *The Business Unit selector is a drop-down menu, from which you can select the Business Units your Organisation has created and you have visibility of.*
 
-After doing so, you must name the `Task` and give it a `Description`. Next, you need to assign the task to a member of staff - this can be left as **Unassigned**.
+After doing so, you must name the `Task` and give it a `Description`. Next, you need to assign the task to a member of staff - this can be left **Unassigned**.
 
 You must input a due date for the task - this is the deadline of the task.
 
@@ -34,7 +34,7 @@ For each `Task`, you can either `Modify` or `Delete` them, much like with `Asset
 
 ### Modifying a Task
 
-In order to `Amend` a Task, select the pencil icon under the `Actions` field and navigate to the tab named `Amend task`. When finished, to save your changes click on `Update`.
+In order to `Amend` a Task, select the eye icon under the `Actions` field and navigate to the tab named `Amend task`. When finished, to save your changes click on `Update`.
 
 If you wish to mark a task as *completed* click on the `Complete` button instead of `Update`.
 
