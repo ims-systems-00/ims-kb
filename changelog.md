@@ -1,4 +1,4 @@
-# v2.3.1 ( 10 January 2022 )
+# v2.3.1 ( 17 January 2022 )
 ## Changed
 ### Compliance service
 - ['Breaking'] New Data strucure update in all the tools.
@@ -6,7 +6,7 @@
 ## Removed
 ### Compliance service
 - ['Breaking'] Current Comments API has been removed for all the iso modules and new comments api is recomended to be used from now on.
-# v2.2.1 ( 31 December 2021)
+# v2.2.1 ( 31 December 2021 )
 ## Changed
 ### Comment sections
 - Comments thread design finalized. Text colors updated.
