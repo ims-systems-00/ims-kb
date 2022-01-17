@@ -1,11 +1,12 @@
 # v2.3.1 ( 19 January 2022)
 ## Added
--Comment section in risk management section
+- Comment section in risk management section
 ### Tables
 - New filter feature introduced across the system.
 - New pagination mechanism introduced across the system.
 ## Changed
 - compliance default tab is shifted to overview
+- KPI delete button alert added.
 ### Compliance service
 - ['Breaking'] New Data structure update in all the tools.
 - ['Breaking] Evidence APIs and data structure updated.
@@ -15,7 +16,7 @@
 - ['Breaking] Current Comments API has been removed for all the iso modules and new comments api is recomended to be used from now on.
 - Tab views in all the modules is replaced with filter feature.
 ## Fixed 
-- Task manager assign o feature not working.
+- Task manager assign user feature not working.
 - Task manager complete doesn't auto refresh the page
 - Incident management attachment does not update problem fixed.
 - Default filter should be opened data in all modules problem fixed.
