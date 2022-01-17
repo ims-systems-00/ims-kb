@@ -1,12 +1,12 @@
 # v2.3.1 ( 19 January 2022)
 ## Added
 - Comment section in risk management section
+- KPI delete button alert added.
 ### Tables
 - New filter feature introduced across the system.
 - New pagination mechanism introduced across the system.
 ## Changed
 - compliance default tab is shifted to overview
-- KPI delete button alert added.
 ### Compliance service
 - ['Breaking'] New Data structure update in all the tools.
 - ['Breaking] Evidence APIs and data structure updated.
@@ -18,11 +18,11 @@
 ## Fixed 
 - Task manager assign user feature not working.
 - Task manager complete doesn't auto refresh the page
-- Incident management attachment does not update, problem fixed.
-- Default filter should be opened data in all modules problem fixed.
+- Incident management attachment does not update.
+- Default filter should be opened data in all modules.
 - Email should be having user name in additional message.
 - Attachment mutation problem in risk management, ci, task manager, incident management.
-- Kpi objective amendment not working problem fixed
+- Kpi objective amendment not working.
 # v2.2.1 ( 31 December 2021)
 ## Changed
 ### Comment sections
