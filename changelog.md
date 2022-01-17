@@ -23,6 +23,7 @@
 - Email should be having user name in additional message.
 - Attachment mutation problem in risk management, ci, task manager, incident management.
 - Kpi objective amendment not working.
+- Compliance percentage not updating properly in ISO 27002 and DSPT.
 # v2.2.1 ( 31 December 2021)
 ## Changed
 ### Comment sections
