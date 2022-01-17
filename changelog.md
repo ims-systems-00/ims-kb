@@ -1,11 +1,24 @@
-# v2.3.1 ( 4 December 2021)
+# v2.3.1 ( 19 January 2022)
+## Added
+-Comment section in risk management section
+### Tables
+- New filter feature introduced across the system.
+- New pagination mechanism introduced across the system.
 ## Changed
 ### Compliance service
-- ['Breaking'] New Data strucure update in all the tools.
+- ['Breaking'] New Data structure update in all the tools.
 - ['Breaking] Evidence APIs and data structure updated.
 ## Removed
 ### Compliance service
 - ['Breaking] Current Comments API has been removed for all the iso modules and new comments api is recomended to be used from now on.
+- Tab views in all the modules is replaced with filter feature.
+## Fixed 
+- Task manager assign o feature not working.
+- Incident management attachment does not update problem fixed.
+- Default filter should be opened data in all modules problem fixed.
+- Email should be having user name in additional message.
+- Attachment mutation problem in risk management, ci, task manager, incident management.
+- Kpi objective amendment not working problem fixed
 # v2.2.1 ( 31 December 2021)
 ## Changed
 ### Comment sections
