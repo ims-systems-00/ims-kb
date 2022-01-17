@@ -18,7 +18,7 @@
 ## Fixed 
 - Task manager assign user feature not working.
 - Task manager complete doesn't auto refresh the page
-- Incident management attachment does not update problem fixed.
+- Incident management attachment does not update, problem fixed.
 - Default filter should be opened data in all modules problem fixed.
 - Email should be having user name in additional message.
 - Attachment mutation problem in risk management, ci, task manager, incident management.
