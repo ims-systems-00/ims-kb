@@ -1,6 +1,6 @@
 # v2.3.1 ( 19 January 2022)
 ## Added
--Comment section in risk management section
+- Comment section in risk management section
 ### Tables
 - New filter feature introduced across the system.
 - New pagination mechanism introduced across the system.
