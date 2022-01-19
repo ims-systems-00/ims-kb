@@ -2,9 +2,19 @@
 ## Added
 ### Management Review
 - Added scheduled time
-
-
-
+## Changed
+### Compliance Toolkit
+- Select control and implement control feature implemented in ISO 20000, ISO 27001, ISO 9001, ISO 45001 
+## Fixed 
+### CQC
+- CQC KLOE table doesn't update real time
+### Incident Management
+- Incident form update button doesn't change with check mark status
+### Risk Management
+- Risk form update button doesn't change with check mark status
+### Task Manager
+- Notification doesn't redirect to the detail page
+- Accept task not handled properly
 # v2.3.1 ( 18 January 2022)
 ## Added
 - Comment section in risk management section
