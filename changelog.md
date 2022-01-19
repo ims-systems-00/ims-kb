@@ -5,6 +5,8 @@
 ## Changed
 ### Compliance Toolkit
 - Select control and implement control feature implemented in ISO 20000, ISO 27001, ISO 9001, ISO 45001 
+### Color of the compliance pie chart
+- Non compliant color have been changed to amber
 ## Fixed 
 ### CQC
 - CQC KLOE table doesn't update real time
@@ -12,6 +14,14 @@
 - Incident form update button doesn't change with check mark status
 ### Risk Management
 - Risk form update button doesn't change with check mark status
+### Complaints
+- Complaints form update button doesn't change with check mark status
+### Significant Events
+- Significant Events form update button doesn't change with check mark status
+### Safeguardings
+- Safeguardings form update button doesn't change with check mark status
+### Whistleblowing
+- Whistleblowing form update button doesn't change with check mark status
 ### Task Manager
 - Notification doesn't redirect to the detail page
 - Accept task not handled properly
