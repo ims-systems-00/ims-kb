@@ -1,4 +1,11 @@
-# v2.3.1 ( 19 January 2022)
+# v2.3.2 ( 19 January 2022)
+## Added
+### Management Review
+- Added scheduled time
+
+
+
+# v2.3.1 ( 18 January 2022)
 ## Added
 - Comment section in risk management section
 - KPI delete button alert added.
