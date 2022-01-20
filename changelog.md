@@ -2,6 +2,8 @@
 ## Added
 ### Management Review
 - Added scheduled time
+### Compliance Toolkit
+- Last updated by and date in toolkit table and detail page. 
 ## Changed
 ### Compliance Toolkit
 - Select control and implement control feature implemented in ISO 20000, ISO 27001, ISO 9001, ISO 45001 
