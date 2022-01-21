@@ -1,5 +1,8 @@
-# v2.3.2 ( 19 January 2022)
+# V2.3.2 ( 19 January 2022)
 ## Added
+### Risk management  
+- Risk mangement mitgated event notification added for users of the particualr unit and super admin.
+- Incident managmeent resolved event notification added for super admin.
 ### Management Review
 - Added scheduled time
 ### Compliance Toolkit
@@ -9,7 +12,6 @@
 ## Changed
 ### Compliance Toolkit
 - Select control and implement control feature implemented in ISO 20000, ISO 27001, ISO 9001, ISO 45001 
-### Color of the compliance pie chart
 - Non compliant color have been changed to amber
 ## Fixed 
 ### CQC
@@ -29,7 +31,7 @@
 ### Task Manager
 - Notification doesn't redirect to the detail page
 - Accept task not handled properly
-# v2.3.1 ( 18 January 2022)
+# V2.3.1 ( 18 January 2022)
 ## Added
 - Comment section in risk management section
 - KPI delete button alert added.
@@ -55,7 +57,7 @@
 - Attachment mutation problem in risk management, ci, task manager, incident management.
 - Kpi objective amendment not working.
 - Compliance percentage not updating properly in ISO 27002 and DSPT.
-# v2.2.1 ( 31 December 2021)
+# V2.2.1 ( 31 December 2021)
 ## Changed
 ### Comment sections
 - Comments thread design finalized. Text colors updated.
@@ -66,7 +68,7 @@
 ## Removed
 ### Comments API
 - Comments api has been removed for all the modules.
-# v2.1.5 ( 27 December 2021)
+# V2.1.5 ( 27 December 2021)
 ## Changed
 ### Comment sections
 - Comments thread design initialized. Text colors updated.
@@ -74,13 +76,13 @@
 ### Development library 
 - new scss designs created. `card-timeline` class avaiable, new button mixin class avaible `btn-text`.
 - use `card-timeline` only of there is a activity thread sections in the system and `btn-text` helps to render only text-based buttons.
-# v2.1.4 ( 17 December 2021)
+# V2.1.4 ( 17 December 2021)
 ## Changed
 ### Comment sections
 - Latest comments are at the top.
 ### Force reload 
 - Table doen't refresh on update accross the system. (issue fixed)
-# v2.1.3 ( 14 December 2021)
+# V2.1.3 ( 14 December 2021)
 ## Added
 ### Incident managment
 - Assign the incident to an owner feature added. Owner can only be assigned once and can never be amended.(Pop up notification available)
