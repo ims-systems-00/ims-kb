@@ -1,3 +1,10 @@
+# V2.3.3 (26 January 2022)
+## Added
+### Document management 
+- Shared with notifications has been integrated 
+## Fixed
+### Document management 
+- Version detail showing reverse order.
 # V2.3.2 ( 19 January 2022)
 ## Added
 ### Risk management  
