@@ -2,15 +2,9 @@
 ## Added
 ### Document management 
 - Shared with notifications has been integrated 
-### System defaults
-- Issue date and scheduled date has been added in report interval
-- Push notification is expandable to get the full view
 ## Fixed
 ### Document management 
 - Version detail showing reverse order.
-- Share with form not populating all the users
-### Task manager
-- Requested task needs to accept again
 # V2.3.2 ( 19 January 2022)
 ## Added
 ### Risk management  
