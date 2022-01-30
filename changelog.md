@@ -11,6 +11,15 @@
 - Share with form not populating all the users
 ### Task manager
 - Requested task needs to accept again
+### Our iMS
+- Business unit user table pagination need to click twice
+### Date picker
+- Invisible years and months of date select
+### Calendar 
+- Agenda title left aligned
+### Dashboard
+- Scrolling lags at the dashboard
+
 # V2.3.2 ( 19 January 2022)
 ## Added
 ### Risk management  
