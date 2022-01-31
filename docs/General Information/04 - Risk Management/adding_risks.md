@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Adding Risks
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/kDHE4KFP6bo" title="Adding a Risk" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/5_YyahR-a3c" title="Adding a Risk" alt="04-01 - Risk Management - Adding a Risk (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 
 ### Getting Started
 
@@ -109,7 +109,7 @@ For each `Risk`, you can either `Modify`, `Escalate` or `Delete` them, much like
 
 ### Modifying a Risk
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/1kd6CTw39ig" title="Mitigating a Risk" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/rv-TctklEAY" title="Mitigating a Risk" alt="04-03 - Risk Management - Mitigating a Risk (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In order to `Amend` a risk, select the pencil icon under the `Actions` field.
 
@@ -117,7 +117,7 @@ When modifying a Risk, you may be limited by your level of access.
 
 ### Escalating a Risk
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/jm9RJaepyic" title="Escalating a Risk" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/anTc2aHOAEg" title="Escalating a Risk" alt="04-02 - Risk Management - Escalating a Risk (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 When escalating a Risk, you will be first asked to confirm the escalation of the Risk. Note that escalating a Risk will notify the Head of Service and Superadmin accounts of the risk that was escalated, as well as the `owner` of the risk.
 

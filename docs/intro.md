@@ -34,7 +34,7 @@ For now, you can either choose between one of the two pre-made policies or creat
 
 Once you have successfully created your first business unit, proceed to the next step.
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/xwpq1vcmwdM" title="Create a Business Unit" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/YVZ3wjvnY8k" title="Create a Business Unit" alt="00-01 - Create a Business Unit (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 
 ## Create a User
 
@@ -44,7 +44,7 @@ From here, click on the `Create user` tab.
 
 Here you can add users by filling the form. Once you have added one or more members you will need to grant them access to Business Units relevant to their role.
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/1_CD3Yjf54Q" title="Create a User" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/fnt-q_nJgDo" title="Create a User" alt="00-02 - Create a User (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 
 ## Add a User to a Business Unit
 
@@ -78,7 +78,7 @@ Add a single license relevant to the job role you wish to give to your first use
 
 Once you have assigned the relevant license to the Business Unit, return to the Business Unit and add the user once again.
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/bUqIAA3B9e8" title="Licence Management" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/IZC7ZxBwVns" title="Licence Management" alt="00-03 - Licence Management (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 
 ## Access granted
 
@@ -90,7 +90,7 @@ After confirming the pop-up, the user will receive an email with confirmation th
 
 You are recommended to browse the [General Information][] portion of the User Manual if this is your first time using the iMS System.
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/Ri_E6YoOUIk" title="Granting Access" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/agSZPfqCPLk" title="Granting Access" alt="00-04 - Grant Access (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 
 
 [iMS]: https://imssystems.tech/ "iMS Homepage"

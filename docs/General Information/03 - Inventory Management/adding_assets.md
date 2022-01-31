@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Adding Assets
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/H3HB-WriW80" title="Inventory Management" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/HzL1dcRxmt8" title="Inventory Management" alt="03-00 - Inventory Management (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
 
 ### Getting Started
 

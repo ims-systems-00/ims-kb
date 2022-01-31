@@ -15,8 +15,9 @@ module.exports = {
   themeConfig: {
     navbar: {
       logo: {
-        alt: 'ims systems',
-        src: 'img/logo.svg',
+        alt: 'iMS Systems',
+        src: 'img/iMS_Light_Mode.svg',
+        srcDark: 'img/iMS_Dark_Mode.svg',
       },
       items: [
         {
