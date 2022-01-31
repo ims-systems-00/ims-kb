@@ -2,7 +2,7 @@
 sidebar_position: 24
 ---
 
-# How to find specific data
+# How to find specific data [OUTDATED]
 
 *Please note that* `Partner` *business unit can only view Assets that they have been given access to AND/OR are owned by their business unit.*
 

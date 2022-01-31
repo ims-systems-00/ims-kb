@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Adding an Audit
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/zYtDtPpwymk" title="Create an Audit" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/FnYaMpZ-z8E" title="Create an Audit" alt="06-00 - Audits - Create an Audit (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
 
 ## Getting Started
 
@@ -38,7 +38,7 @@ After selecting the `Interval` of the audit, click `confirm` to submit the Audit
 
 ## Managing Audits
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/5kVcpmluiwE" title="Amend and Complete an Audit" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/2Q6LhVZNmGs" title="Amend and Complete an Audit" alt="06-01 - Audits - Amend and Complete an Audit (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 
 ### Modifying an Audit
 
@@ -55,7 +55,7 @@ You must add these one at a time by typing them out then clicking the `Add` butt
 
 Use the `Extract Report` tab to send a copy of the Audit Report to an email in PDF format.
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/SYiG7sLpZmk" title="Extract Report" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/m3clG4lSCcs" title="Extract Report" alt="06-02 - Audits - Extract Report (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
 
 ### Deleting an Audit
 
