@@ -1,3 +1,15 @@
+# V2.4.1 (-)
+## Added
+### CRM
+- CRM System introduced experimental release
+### Features
+- Customers List
+- Incident tracking
+- Invoices
+- Contacts
+## Changed
+### Admin theme
+- Default theme has been set to red and mode is white.
 # V2.3.3 (27 January 2022)
 ## Added
 ### Document management 
