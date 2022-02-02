@@ -102,6 +102,10 @@ sidebar_position: 4
 
 - Amend software asset, details tab
 
+### Do I need to list all the people in my business as People Assets?
+
+- Yes.
+
 ##	Risk Management
 
 ###	How do I emphasise important/significant risks?
@@ -132,7 +136,11 @@ sidebar_position: 4
 
 ### What do P1 P2 P3 P4 mean?
 
-Take a look at the priority breakdown **example** given [here][Priority].
+- Take a look at the priority breakdown **example** given [here][Priority].
+
+### How do I see all my resolved incidents?
+
+- Use the filter in the top left to switch to the resolved incidents filter.
 
 ##	Audits
 
