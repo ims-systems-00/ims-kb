@@ -10,4 +10,4 @@ From here you need to click on the green tick under the **Actions** tab, the pop
 
 In this tab you can access the details, add comments and track progress and when finished, click `Complete` mark the task as complete.
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/fIhgbrx_dF4" title="Requests" alt="13-02 - Task Manager - Requests (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/fIhgbrx_dF4" title="Requests" alt="13-02 - Task Manager - Requests (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>

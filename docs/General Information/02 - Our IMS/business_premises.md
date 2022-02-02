@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Business Premises
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/XMw0WQnBadQ" title="Business Premises" alt="02-03 - Business Premises (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/XMw0WQnBadQ" title="Business Premises" alt="02-03 - Business Premises (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Create Premise
 

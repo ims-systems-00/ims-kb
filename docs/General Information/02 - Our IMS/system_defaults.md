@@ -6,7 +6,7 @@ sidebar_position: 6
 
 ## Setting a System Date
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/bf9WOf-kE64" title="System Dates" alt="02-06 - System Defaults 01 - System Dates (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/bf9WOf-kE64" title="System Dates" alt="02-06 - System Defaults 01 - System Dates (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 You first need to navigate to `Our IMS` on the `Sidebar` which is on the left-hand side. From here, you need to click on the button called `System Defaults`.
 Here, there are four tabs. The first tab is for System Dates which requires you to pick a `System Start Date` and a `System End Date`. After selecting your dates click on `Confirm` to save your changes.
@@ -17,7 +17,7 @@ System Dates allow you to pick a start and end date that the Dashboard will disp
 
 ## Report Intervals
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/fqTOKEUn26k" title="Report Intervals" alt="02-06 - Systems Defaults 02 - Report Intervals (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/fqTOKEUn26k" title="Report Intervals" alt="02-06 - Systems Defaults 02 - Report Intervals (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 You first need to navigate to `Our IMS` on the `Sidebar` which is on the left-hand side then click on `System Defaults`. 
 From here, you need to switch to the tab called `Report Intervals`.
@@ -38,7 +38,7 @@ Below the form, you can see a table with all the information about who receives 
 
 ## Incident Resolution
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/0D8njF5Ik00" title="Incident Resolution" alt="02-06 - System Defaults 03 - Incident Resolution Times (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/0D8njF5Ik00" title="Incident Resolution" alt="02-06 - System Defaults 03 - Incident Resolution Times (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 To make any changes to your incident resolution times, you must first click on `Our IMS` from the `Sidebar` on the left-hand side.
 
@@ -59,7 +59,7 @@ The incident resolution time affects the relevant graphs on the Dashboard, as th
 
 ## Push Notifications
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/szvB-p9Ivog" title="Push Notifications" alt="02-06 System Defaults 04 - Push Notifications (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/szvB-p9Ivog" title="Push Notifications" alt="02-06 System Defaults 04 - Push Notifications (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 You first need to navigate to `Our IMS` on the `Sidebar` which is on the left-hand side then click on `System Defaults`. 
 From here, you need to switch to the tab called `Push notification`.

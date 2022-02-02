@@ -2,7 +2,7 @@
 sidebar_position: 23
 ---
 
-# Quick Links
+# Quick Links [OUTDATED]
 
 ## Sidebar
 

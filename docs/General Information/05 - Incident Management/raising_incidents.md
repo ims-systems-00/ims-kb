@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Raising Incidents
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/k8IXz5Wfegk" title="Raising an Incident" alt="05-01 - Incident Management - Raising an Incident (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/k8IXz5Wfegk" title="Raising an Incident" alt="05-01 - Incident Management - Raising an Incident (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Getting Started
 
@@ -48,7 +48,7 @@ To learn how to make changes to your Incident Resolution times, please follow [t
 
 ## Managing Incidents
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/ilSDQSAn2Po" title="Amend and Resolve an Incident" alt="05-03 - Incident Management - Amending and Resolving an Incident (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/ilSDQSAn2Po" title="Amend and Resolve an Incident" alt="05-03 - Incident Management - Amending and Resolving an Incident (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 *Please note that* `Partner` *business units can only view Risks that they have been given access to AND are owned by their business unit.*
 
@@ -65,7 +65,7 @@ When modifying an Incident, you may be limited by your level of access.
 
 ### Escalating an Incident
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/C6y-bvXl1HA" title="Escalate an Incident" alt="05-02 - Incident Management - Escalating an Incident (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/C6y-bvXl1HA" title="Escalate an Incident" alt="05-02 - Incident Management - Escalating an Incident (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 When escalating an Incident, you will be first asked to confirm the escalation of the Incident. Note that escalating an Incident will notify the Head of Service and Superadmin accounts of the incident that was escalated, as well as the `owner` of the incident.
 

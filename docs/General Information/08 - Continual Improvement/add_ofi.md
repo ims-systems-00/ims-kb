@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Adding OFIs
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/zstGZxqPVHU" title="Create an OFI" alt="08-01 - Continual Improvement - Create an OFI (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/zstGZxqPVHU" title="Create an OFI" alt="08-01 - Continual Improvement - Create an OFI (Video)" frameborder="0" allow="fullscreen"></iframe>
 
 ## Getting Started
 
@@ -33,7 +33,7 @@ You can then upload any attachements that may be necessary.
 
 ## Managing OFIs
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/oVMRC-HqOV0" title="Manage an OFI" alt="08-02 - Continual Improvement - Manage OFIs (Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/oVMRC-HqOV0" title="Manage an OFI" alt="08-02 - Continual Improvement - Manage OFIs (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 *Please note that* `Partner` *business units can only view OFIs if they have been given access to the Continual Improvement module AND the OFIs are owned by their Business Unit or a Business Unit they have visibility of.*
 
