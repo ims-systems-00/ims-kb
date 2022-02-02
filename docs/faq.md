@@ -100,7 +100,7 @@ sidebar_position: 4
 
 ###	How do I check how many software licences we have available?
 
-???
+- Amend software asset, details tab
 
 ##	Risk Management
 
@@ -110,7 +110,7 @@ sidebar_position: 4
 
 ###	How do I see the lifecycle of a risk?
 
-???
+- Amend risk, details tab
 
 ##	Incident Management
 
@@ -120,15 +120,15 @@ sidebar_position: 4
 
 ###	How do I see the lifecycle of an incident?
 
-???
+- Amend incident, details tab
 
 ###	How do I add more details of steps being taken in regards to incidents?
 
-???
+- Amend incident, comments
 
 ###	How do I show that an incident is no longer an issue?
 
-???
+- Amend incident, resolve
 
 ### What do P1 P2 P3 P4 mean?
 
@@ -144,19 +144,19 @@ Take a look at the priority breakdown **example** given [here][Priority].
 
 ###	How do I organise meetings?
 
-???
+- Schedule a management review
 
 ###	How do I notify people of an upcoming meeting?
 
-???
+- Add attendees to management review
 
 ###	How do I share the meeting agenda or minutes with those who attended the meeting?
 
-???
+- Add document to management review
 
 ###	How do I know my teams' goals?
 
-???
+- Check business unit KPIs
 
 ###	How do I know my organisations' goals?
 
@@ -198,15 +198,15 @@ Take a look at the priority breakdown **example** given [here][Priority].
 
 ###	How do I view an overview of a particular standard?
 
-???
+- Overview page in the toolkit
 
 ###	How do I prove that we are compliant with a clause?
 
-???
+- select and implement a clause
 
 ###	How do I mention any improvements we are making in relation to a clause?
 
-???
+- add comment to a clause
 
 ##	Supplier Management
 

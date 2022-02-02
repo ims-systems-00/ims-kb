@@ -14,7 +14,7 @@ You will need to access your organisation's iMS System, you will have received t
 
 <img src="/img/DocImg/General Information/New_User/Log_In.png" alt="Log In" class="center"/>
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/Jaz9u9NxEaQ" title="YT Login" alt="00 - Login (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/Jaz9u9NxEaQ" title="YT Login" alt="00 - Login (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Setting a Password
 

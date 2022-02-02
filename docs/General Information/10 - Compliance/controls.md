@@ -15,7 +15,7 @@ Get started by navigating to the relevant toolkit using the sidebar that you wan
 
 ## Making Changes to a Control
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/-Itpgol3b3U" title="Compliance Controls" alt="10-01 - Compliance - Controls (Video)" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/-Itpgol3b3U" title="Compliance Controls" alt="10-01 - Compliance - Controls (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 After navigating to the compliance toolkit, you will see the [Overview][]. From here, click on the tab at the top which will have the name of the toolkit.
 
