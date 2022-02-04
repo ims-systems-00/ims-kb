@@ -10,6 +10,10 @@
 ## Changed
 ### Admin theme
 - Default theme has been set to red and mode is white.
+### Date format
+- 24 Hour date format accross the system introduced
+### Dashboard
+- Greetings introdced in dashboard in place of integrated managment system.
 ## Fixed
 ### Buttons
 - Updated buttons doesn't remain diabled when the data is being processed.
