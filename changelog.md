@@ -2,14 +2,30 @@
 ## Added
 ### CRM
 - CRM System introduced experimental release
-### Features
+#### Features
 - Customers List
 - Incident tracking
 - Invoices
 - Contacts
-## Changed
-### Profile picture upload
-- Profile picture upload is stand alone in the system and extracted out from the form
+## Profile
+- New Profile picture upload has been moved to avatar section.
+## 
+### Document managment 
+- Modified date are inline with the version info in detail page.
+### License management
+- License allocation in business unit is not available anymore.
+- Request license feature is now avaiable for only super admin.
+- Request includes only number of business units, number of users and the toolkits.
+- No grant license feature is avaiable in client end from the request table.
+  >**All the licenses are managed from iMS Systems end.** 
+- `Manage licenses` section for super admin only has toolkit license management.
+- Anyone having a super admin or hos access can create user anytime as long as licenses are availabale in the organisation.
+- A license is utilized when a user is created.
+  >**Not when a new role is added in a function.** 
+- A license is freed when a user is deleted or removed from the system.
+  >**Not when the role is deleted from a function.** 
+- Organisational overview table has been changed and relavent information are rearranged.
+- Business units table indicates how many roles are being utilized in each function. But doesn't change the roles. These roles do not have any relationship with with licenses. These are just static information.
 ### Admin theme
 - Default theme has been set to red and mode is white.
 ### Date format
