@@ -14,9 +14,8 @@
 - Modified date are inline with the version info in detail page.
 ### License management
 - License allocation in business unit is not available anymore.
-- Request license feature is now available for only super admin.
-- Request includes only number of business units, number of users and the toolkit.
-- No grant license feature is available in client end from the request table.
+- Request includes only number of business units, number of users and the toolkits.
+- No grant license feature is avaiable in client end from the request table.
   >**All the licenses are managed from iMS Systems end.** 
 - `Manage licenses` section for super admin only has toolkit license management.
 - Anyone having a super admin or hos access can create user anytime as long as licenses are available in the organisation.
