@@ -25,6 +25,8 @@
   >**Not when the role is deleted from a function.** 
 - Organisational overview table has been changed and relevant information are rearranged.
 - Business units table indicates how many roles are being utilized in each function. But doesn't change the roles. These roles do not have any relationship with with licenses. These are just static information.
+### Table
+- Column sesizing feature available. Tables can be expanded in horizontal direction.
 ### Admin theme
 - Default theme has been set to red and mode is white.
 ### Date format
