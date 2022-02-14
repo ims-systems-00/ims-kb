@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Adding Tasks
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/r3lhX3h3Cys" title="Create a Task" alt="13-01 - Task Managemenr - Create a Task (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<iframe width="426" height="240" src="https://www.youtube.com/embed/r3lhX3h3Cys" title="Create a Task" alt="13-01 - Task Managemenr - Create a Task (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Getting Started
 

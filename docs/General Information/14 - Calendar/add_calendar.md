@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Adding Events/Agendas
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/hnLlclDmJ0o" title="Add Event" alt="14-01 - Calendar - Add Event (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<iframe width="426" height="240" src="https://www.youtube.com/embed/hnLlclDmJ0o" title="Add Event" alt="14-01 - Calendar - Add Event (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Getting Started
 

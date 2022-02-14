@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Dashboard
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/9nhEHg23Fqk" title="Graphs and Reports" alt="01-01 - Dashboard (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<iframe width="426" height="240" src="https://www.youtube.com/embed/9nhEHg23Fqk" title="Graphs and Reports" alt="01-01 - Dashboard (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Getting Started
 

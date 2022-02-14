@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Upload Files
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/RCgonvLYdHw" title="Uploading Files" alt="12-01 - Document Management - Upload Documents (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<iframe width="426" height="240" src="https://www.youtube.com/embed/RCgonvLYdHw" title="Uploading Files" alt="12-01 - Document Management - Upload Documents (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Getting Started
 

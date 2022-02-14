@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Adding KPIs
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/mvycNHbVDxY" title="Create a KPI" alt="07-02 - Management Reviews - Add KPI (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<iframe width="426" height="240" src="https://www.youtube.com/embed/mvycNHbVDxY" title="Create a KPI" alt="07-02 - Management Reviews - Add KPI (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Getting Started
 
@@ -20,7 +20,7 @@ After that, type the details of the KPI into the textbox labelled `KPI/Objective
 
 ## Managing KPIs
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/yMqZu3WK4r4" title="Managing KPIs" alt="07-04 - KPI - Amend, Delete (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<iframe width="426" height="240" src="https://www.youtube.com/embed/yMqZu3WK4r4" title="Managing KPIs" alt="07-04 - KPI - Amend, Delete (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ### Modifying a KPI
 
