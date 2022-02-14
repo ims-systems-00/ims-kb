@@ -1,8 +1,5 @@
 # V2.4.1 ( 14 February 2022 )
 ## Added
-### Toolkit
-- BS 9997 compliance toolkit is available in system
-- Summary of each compliance tool is introduced to the system
 ### CRM
 - CRM System has been introduced.
 #### Features
@@ -19,7 +16,7 @@
 ### License management
 - License allocation in business unit is not available anymore.
 - Request includes only number of business units, number of users and the toolkits.
-- No grant license feature is available in client end from the request table.
+- No grant license feature is avaiable in client end from the request table.
   >**All the licenses are managed from iMS Systems end.** 
 - `Manage licenses` section for super admin only has toolkit license management.
 - Anyone having a super admin or hos access can create user anytime as long as licenses are available in the organisation.
@@ -30,18 +27,20 @@
 - Organisational overview table has been changed and relevant information are rearranged.
 - Business units table indicates how many roles are being utilized in each function. But doesn't change the roles. These roles do not have any relationship with with licenses. These are just static information.
 ### Table
-- Column resizing feature available. Tables can be expanded in horizontal direction.
+- Column sesizing feature available. Tables can be expanded in horizontal direction.
 ### Admin theme
 - Default theme has been set to red and mode is white.
 ### Date format
 - 24 Hour date format across the system introduced
 ### Dashboard
 - Greetings introduced in dashboard in place of integrated management system.
-- Analytics changed finance and users duplication in business unit has been fixed.
-  >**First business unit is prioritized and considered as the primary business unit.** 
+- Analutics changed finnance and users duplication in business unit has been fixed.
+  >**First business unit is priotized and considered as the primary business unit.** 
 ## Fixed
 ### Buttons
 - Updated buttons doesn't remain disabled when the data is being processed.
+### Task manager
+- Assigned date issue fixed.
 # V2.3.3 (27 January 2022)
 ## Added
 ### Document management 
