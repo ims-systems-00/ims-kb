@@ -4,50 +4,47 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Introduce iMS Systems',
+    title: 'Introduce iMS',
     Svg: require('../../static/img/hiw1.svg').default,
     description: (
       <>
-        Centralise your business operations, legal and regulatory requirements on one system
+        Centralise your business operations, legal and regulatory requirements all in one system
       </>
     ),
   },
   {
-    title: 'Use as a Business Operations tool',
+    title: 'Business Operations Tool',
     Svg: require('../../static/img/hiw2.svg').default,
     description: (
       <>
-        Use the system on a day to day basis managing your assets, risks, incidents, 
-        suppliers and documentations to improve your business operations and reduce
-        time and effort preparing for audits
+        Use the system on a day to day basis. Manage your assets, risks, incidents, suppliers and documentation to improve your business operations and reduce costs preparing for audits
       </>
     ),
   },
   {
-    title: 'Introduce or manage compliance',
+    title: 'Manage Compliance',
     Svg: require('../../static/img/hiw3.svg').default,
     description: (
       <>
-        Introduce new ISO standards using our toolkit modules, which are embedded in our system
+        Introduce new ISO standards to your organisation using our Toolkit Modules.
       </>
     ),
   },
   {
-    title: 'Internal audits',
+    title: 'Internal Audits',
     Svg: require('../../static/img/hiw4.svg').default,
     description: (
       <>
-        Conduct internal audits to ensure controls and processes are working. 
-        Identifying internal risks and opportunities for improvement.
+        Conduct Internal Audits to ensure controls and processes are working. Identify Risks and Opportunities For Improvement.
       </>
     ),
   },
   {
-    title: 'External audits',
+    title: 'External Audits',
     Svg: require('../../static/img/hiw5.svg').default,
     description: (
       <>
-        Grant secure access to certification bodies to conduct and co-ordinate your certification audits.
+        Grant access to Certification Bodies, allow them to conduct and coordinate your Certification Audits.
       </>
     ),
   },
