@@ -1,15 +1,16 @@
-# V2.4.1 (-)
+# V2.4.1 ( 14 February 2022 )
 ## Added
 ### CRM
-- CRM System introduced experimental release
+- CRM System has been introduced.
 #### Features
-- Customers List
-- Incident tracking
-- Invoices
-- Contacts
+- Customers Listing
+- Customer Incident management.
+- Send Invoices
 ## Profile
 - New Profile picture upload has been moved to avatar section.
-## 
+## Changed
+### Supplier management 
+- Managing supplier incidents is upgraded, comments and filters has been added.
 ### Document management 
 - Modified date are inline with the version info in detail page.
 ### License management
@@ -33,6 +34,8 @@
 - 24 Hour date format across the system introduced
 ### Dashboard
 - Greetings introduced in dashboard in place of integrated management system.
+- Analutics changed finnance and users duplication in business unit has been fixed.
+  >**First business unit is priotized and considered as the primary business unit.** 
 ## Fixed
 ### Buttons
 - Updated buttons doesn't remain disabled when the data is being processed.
