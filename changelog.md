@@ -1,5 +1,7 @@
 # V2.4.2 ( - )
-
+### Table
+- Search bars have been added.
+  >**Searches are working for basic fields like reference title desciption name email etc.** 
 # V2.4.1 ( 14 February 2022 )
 ## Added
 ### Toolkit
