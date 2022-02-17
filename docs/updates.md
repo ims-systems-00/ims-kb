@@ -3,6 +3,96 @@ sidebar_position: 0
 ---
 # Patch Notes
 
+## v2.4.1
+
+### Added
+
+- Toolkit
+    - BS9997 toolkit has been added to the system
+    - `Overview` tab has been added to each toolkit, showing a brief summary of progress
+
+### Changed
+
+- Profile Picture
+    - Profile Picture upload has been moved to the avatar section
+- Supplier Management
+    - Comments and Filters have been added to Suppliers
+- Licence Management
+    - Licence Management, allocation and revoking of licences has been reworked. Basic Users and Heads of Service are now combined into User Licences, and User Licences are expended once per user, as opposed to previous once per user per business unit
+- Tables
+    - Columns can now be resized. Currently does not save across pages and reloads.
+- Date format
+    - 24-hour date format has been implemented across the system
+- Dashboard
+    - Greetings have been added and tailored to individual users in the dashboard.
+
+### Fixed
+
+- Buttons
+    - Update buttons are now disabled when data is being processed.
+
+## v2.3.3
+
+### Added
+
+- System defaults
+    - **NEW:** `Issue date` and `Scheduled date` have been added to Reports Intervals
+    - `Push notifications` are now expandable to allow users to get a full view of the text
+
+### Fixed
+
+- Document management
+    - Version numbers were previously showing in reverse order.
+    - `Share with` form was not showing all users
+- Task manager
+	- `Requested` task needed to be accepted again after updating task details
+- Date picker
+	- Year and Month selectors were shown as invisible
+- Calendar
+	- `Agenda` text has been aligned to the left
+- Dashboard
+	- Scrolling at the top of the dashboard caused latency
+
+## v2.3.2
+
+### Added
+
+- Risk Management - event notification added for users of the Business Unit and for Super Admin when risks are mitigated.
+- Incident Management - event notification added for Super Admin when incidents are resolved.
+- Management Review
+	- **NEW:** Added `Scheduled time` to table	
+- Compliance Table
+	- Colour-coding implemented in compliance tables
+	- **NEW:** `Last Updated By` and `Last Updated Date` added in toolkit table and details tab.
+
+### Fixed
+
+- CQC
+	- KLOE table previously didn't update in real-time
+- Task Manager
+	- Notifications previously didn’t redirect to the detail page
+
+## v2.3.1
+
+### Added
+
+- **NEW:** Comment section added in Risk Management section
+- KPI - deleting now lets you confirm your choice
+- Tables
+	- **NEW:** Filter feature introduced.
+	- **NEW:** Pagination feature introduced.
+
+### Removed
+
+- Compliance service
+	- Tabbed view in all modules has been replaced with the filter feature.
+
+### Fixed
+
+- Task Manager: Some tasks could not be assigned.
+- Incident Management: Attachments would not update, this has been fixed
+- KPI: Objectives can now be amended again
+
 ## v2.2.1
 
 ### Changed
