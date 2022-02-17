@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Adding Suppliers
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/Vq6wZU29mqo" title="Creating a Supplier" alt="11-01 - Supplier Management - Add Supplier (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<iframe width="426" height="240" src="https://www.youtube.com/embed/Vq6wZU29mqo" title="Creating a Supplier" alt="11-01 - Supplier Management - Add Supplier (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Getting Started
 
@@ -34,7 +34,7 @@ Once you are done, click `Create` to add the Supplier.
 
 ## Modifying a Supplier
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/m8UgQGGE7dI" title="Managing Suppliers" alt="11-02 - Supplier Management - Manage Suppliers (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<iframe width="426" height="240" src="https://www.youtube.com/embed/m8UgQGGE7dI" title="Managing Suppliers" alt="11-02 - Supplier Management - Manage Suppliers (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 
 [Supplier Management]: #modifying-a-supplier

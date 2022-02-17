@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Adding Risks
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/5_YyahR-a3c" title="Adding a Risk" alt="04-01 - Risk Management - Adding a Risk (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<iframe width="426" height="240" src="https://www.youtube.com/embed/5_YyahR-a3c" title="Adding a Risk" alt="04-01 - Risk Management - Adding a Risk (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ### Getting Started
 
@@ -109,7 +109,7 @@ For each `Risk`, you can either `Modify`, `Escalate` or `Delete` them, much like
 
 ### Modifying a Risk
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/rv-TctklEAY" title="Mitigating a Risk" alt="04-03 - Risk Management - Mitigating a Risk (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<iframe width="426" height="240" src="https://www.youtube.com/embed/rv-TctklEAY" title="Mitigating a Risk" alt="04-03 - Risk Management - Mitigating a Risk (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 In order to `Amend` a risk, select the pencil icon under the `Actions` field.
 

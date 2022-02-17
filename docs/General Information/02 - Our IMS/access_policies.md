@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Access Policies
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/8w_M5F7kIME" title="Access Policies" alt="02-02 - Access Policies (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<iframe width="426" height="240" src="https://www.youtube.com/embed/8w_M5F7kIME" title="Access Policies" alt="02-02 - Access Policies (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
  Currently, you are able to limit access to the following modules:
 
