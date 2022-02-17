@@ -4,13 +4,12 @@ sidebar_position: 3
 
 # Roles & Permissions
 
-iMS has 5 major roles in the System, and their permissions vary according to their roles.
+iMS has 4 major roles in the System, and their permissions vary according to their roles.
 
 + [Super User][su]
 + [Head of Service][hos]
 + [Basic User][bu]
 + [Auditor][au]
-+ [Partner][pa] (Auditor)
 
 You can view more information about each role [here][Accessibility].
 
@@ -548,140 +547,6 @@ Permissions in each Module of the System are as shown below.
 ### Calender
 
 - [X] Read 
-- [ ] Write 
-- [ ] Delete
-
-### User access and license management 
-
-- [ ] Read 
-- [ ] Write 
-- [ ] Delete
-
-## Role-[supplier-partner] (Auditor)
-
-Permissions in each Module of the System are as shown below.
-
-> These permissions are **Organisational-level** permissions. Users with this permission have visibility of all data that have been added to the System within a `System Date` selection.  
-
-### Business Unit Dashboard  
-
-- [ ] Read
-- [ ] Write 
-- [ ] Delete
-
-### Our iMS  
-
-#### Business Units
-
-- [ ] Read
-- [ ] Write 
-- [ ] Delete
-
-#### Compliance Bodies
-
-- [ ] Read
-- [ ] Write 
-- [ ] Delete
-
-#### System dates
-
-- [ ] Read
-- [ ] Write 
-- [ ] Delete
-
-#### Report intervals
-
-- [ ] Read
-- [ ] Write 
-- [ ] Delete
-
-#### Jobroles
-
-- [ ] Read
-- [ ] Write 
-- [ ] Delete
-
-#### Premises
-
-- [ ] Read
-- [ ] Write 
-- [ ] Delete
-
-#### Auditors
-
-- [ ] Read
-- [ ] Write 
-- [ ] Delete
-
-### Risk management 
-
-- [ ] Read 
-- [ ] Write 
-- [ ] Delete
-
-### Incident management 
-
-- [ ] Read 
-- [ ] Write 
-- [ ] Delete
-
-### Internal Audit 
-
-- [ ] Read 
-- [ ] Write 
-- [ ] Delete
-
-### External Audit 
-
-- [ ] Read 
-- [ ] Write 
-- [ ] Delete
-
-### Management review
-
-- [ ] Read 
-- [ ] Write 
-- [ ] Delete
-
-### KPI/Objectives
-
-- [ ] Read 
-- [ ] Write 
-- [ ] Delete
-
-### Continual improvement and planning
-
-- [ ] Read 
-- [ ] Write 
-- [ ] Delete
-
-### Compliance tools
-
-- [ ] Read 
-- [ ] Write 
-- [ ] Delete
-
-### Supplier management
-
-- [ ] Read 
-- [ ] Write 
-- [ ] Delete
-
-### Document management
-
-- [ ] Read 
-- [ ] Write 
-- [ ] Delete
-
-### Task manager
-
-- [ ] Read 
-- [ ] Write 
-- [ ] Delete
-
-### Calender
-
-- [ ] Read 
 - [ ] Write 
 - [ ] Delete
 
