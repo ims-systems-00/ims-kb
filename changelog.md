@@ -1,9 +1,16 @@
 # V2.4.2 ( - )
 ### Table
 - Search bars have been added.
-  >**Searches are working for basic fields like reference title desciption name email etc.** 
+  >**Searches are working for basic fields like reference title description name email etc.** 
 ### Bug reporting
 - You can now directly raise a ticket to iMS Systems team from inside the system.
+### Login
+- Organisation selection is introduced in login form
+### System entry point
+- After v2.4.2 users have to go to domain `https://app.imssystems.tech` to access ims systems
+### Dashboard
+- Todays date is showed on the top of the dashboard
+
 # V2.4.1 ( 14 February 2022 )
 ## Added
 ### Toolkit
