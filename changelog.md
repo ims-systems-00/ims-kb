@@ -1,4 +1,4 @@
-# V2.4.2 ( - )
+# V2.4.2 ( 21 February 2022 )
 ### Table
 - Search bars have been added.
   >**Searches are working for basic fields like reference title description name email etc.** 
@@ -7,9 +7,11 @@
 ### Login
 - Organisation selection is introduced in login form
 ### System entry point
-- After v2.4.2 users have to go to domain `https://app.imssystems.tech` to access ims systems
+- After v2.4.2 users have to go to domain `https://portals.imssystems.tech` to access ims systems
 ### Dashboard
 - Todays date is showed on the top of the dashboard
+### Compliance
+- Clauses which are not amendable are also viewable. Users have read view for all the clauses
 
 # V2.4.1 ( 14 February 2022 )
 ## Added
