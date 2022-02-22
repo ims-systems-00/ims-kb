@@ -12,7 +12,8 @@
 - Todays date is showed on the top of the dashboard
 ### Compliance
 - Clauses which are not amendable are also viewable. Users have read view for all the clauses
-
+### Authentication
+- Flow has been modified. Forgot password needs organisation name.
 # V2.4.1 ( 14 February 2022 )
 ## Added
 ### Toolkit
