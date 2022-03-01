@@ -1,5 +1,9 @@
 # V2.4.3 ( - )
-
+### CRM 
+- Customer specific analytics introduced
+- Customer logo Introduced in invoice form
+- Invoice bug reports has been fixed.
+- Interaction section introduced in customers.
 # V2.4.2 ( 21 February 2022 )
 ### Table
 - Search bars have been added.
