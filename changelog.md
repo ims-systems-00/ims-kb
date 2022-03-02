@@ -1,9 +1,15 @@
 # V2.4.3 ( - )
+### Validation library
+- Joi-browser (V13.4.0) updated to Joi (V17.0.1) as latest version
+- Latest validation supports are available
+### Dashboard
+- CRM analytics introduced
 ### CRM 
-- Customer specefic analytics introduced
+- Customer specific analytics introduced
 - Customer logo Introduced in invoice form
 - Invoice bug reports has been fixed.
 - Interaction section introduced in customers.
+- Invoice table validation introduced
 # V2.4.2 ( 21 February 2022 )
 ### Table
 - Search bars have been added.
