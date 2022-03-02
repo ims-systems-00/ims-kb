@@ -1,6 +1,6 @@
 # V2.4.3 ( - )
 ### CRM 
-- Customer specific analytics introduced
+- Customer specefic analytics introduced
 - Customer logo Introduced in invoice form
 - Invoice bug reports has been fixed.
 - Interaction section introduced in customers.
