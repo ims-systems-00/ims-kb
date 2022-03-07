@@ -12,7 +12,7 @@ sidebar_position: 23
 
 [Dashboard]: ./dashboard
 
-Note that there is an up to 5-minute delay between when information is uploaded and the dashboard reflecting changes.
+Note that there is an up to 5-minute delay between information being uploaded and the dashboard reflecting those changes.
 
 ### Our IMS
 
@@ -27,8 +27,6 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 [License Management][Our IMS - License Management]
 
 [System Defaults][Our IMS - System Defaults]
-
-[Toolkit][Our IMS - Toolkit]
 
 [Our IMS - Business Unit]: ./Our%20IMS/business_units
 [Our IMS - Users]: ./Our%20IMS/users
@@ -96,7 +94,12 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 
 ### Compliance
 
-**WIP**
+[Overview of Toolkits][Overview]
+
+[Toolkit Controls][Control]
+
+[Overview]: ./Compliance/overview
+[Control]: ./Compliance/controls
 
 ### Supplier Management
 
@@ -109,15 +112,9 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 
 ### Document Management
 
-**WIP**
-
 [How to add Documents to the Document Manager][Upload]
 
 [Upload]: ./Document%20Management/upload
-
-### Project Management
-
-**Feature is WIP**
 
 ### Task Manager
 
@@ -137,10 +134,6 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 [Calendar]: ./Calendar/add_calendar
 [Calendar Actions]: ./Calendar/add_calendar#managing-calendar-events
 
-### User Access
-
-**WIP**
-
 ## Others
 
 ### Send Report
@@ -157,7 +150,7 @@ Note that there is an up to 5-minute delay between when information is uploaded 
 
 ### Account
  
-[Profile][] **WIP**
+[Profile] **not made yet**
 
 [Change Password][]
 
