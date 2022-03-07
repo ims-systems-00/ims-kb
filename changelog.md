@@ -1,4 +1,7 @@
 # V2.4.3 ( - )
+### Organisation profile
+- From the dropdown of profile section organisation overview is available.
+- Super user can amend organisation info, all other user will have a read view
 ### Validation library
 - Joi-browser (V13.4.0) updated to Joi (V17.0.1) as latest version
 - Latest validation supports are available
