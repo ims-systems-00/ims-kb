@@ -21,14 +21,23 @@ module.exports = {
       },
       items: [
         {
-          type: 'doc',
-          docId: 'intro',
-          label: 'Documentation',
+          to: '/docs/updates',
+          label: 'Patch Notes',
+          position: 'left',
+        },
+        {
+          to: '/docs/intro',
+          label: 'Tutorial',
+          position: 'left',
+        },
+        {
+          to: '/docs/faq',
+          label: 'FAQs',
           position: 'left',
         },
         {
           to: '/blog',
-          label: 'Tutorial',
+          label: 'Blog',
           position: 'left'
         },
       ],
@@ -40,7 +49,7 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Documentation',
+              label: 'First-Time Configuration',
               to: '/docs/intro',
             },
           ],
@@ -62,8 +71,16 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Blog',
               to: '/blog',
+            },
+            {
+              label: 'Patch Notes',
+              to: '/docs/updates',
+            },
+            {
+              label: 'Tutorial',
+              to: '/docs/intro',
             },
           ],
         },
