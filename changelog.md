@@ -1,12 +1,3 @@
-# V2.4.3 ( 8 March 2022 )
-### Supplier management
-- Contract value added in the supplier form
-- Contract value analytics introduced in the dashboard
-
-### Organisation profile
-- From the dropdown of profile section organisation overview is available.
-- Super user can amend organisation info, all other user will have a read view
-
 # V2.4.4( - )
 ### Dashboard
 - CRM analytics introduced
@@ -21,6 +12,17 @@
 - Joi-browser (V13.4.0) updated to Joi (V17.0.1) as latest version
 - Latest validation supports are available
 
+# V2.4.3 ( 10 March 2022 )
+### Developer updates
+- Profile picture secure URL introduced
+- CSV support for mobile app has been introduced
+### Supplier management
+- Contract value added in the supplier form
+- Contract value analytics introduced in the dashboard
+
+### Organisation profile
+- From the dropdown of profile section organisation overview is available.
+- Super user can amend organisation info, all other user will have a read view
 
 # V2.4.2 ( 21 February 2022 )
 ### Table
