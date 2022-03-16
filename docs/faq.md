@@ -266,7 +266,7 @@ sidebar_position: 4
 [IncResTime]: ./General%20Information/Our%20IMS/system_defaults#incident-resolution
 [CalEvent]: ./General%20Information/Calendar/add_calendar#adding-an-event
 [TaskCompelete]: ./General%20Information/Task%20Manager/add_task#modifying-a-task
-[Supp]: ./General%20Information/Supplier%20Management/
+[Supp]: ./General%20Information/Supplier%20Management/add_supplier
 [SuppInc]: ./General%20Information/Supplier%20Management/add_supplier#modifying-a-supplier
 [Reports]: ./General%20Information/CQC/Reports
 [SG]: ./General%20Information/CQC/SG

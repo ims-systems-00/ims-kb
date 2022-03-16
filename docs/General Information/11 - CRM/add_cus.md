@@ -4,17 +4,17 @@ sidebar_position: 1
 
 # Adding Customers
 
-<iframe width="426" height="240" src="" title="Creating a Customer" alt="" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<!-- <iframe width="426" height="240" src="" title="Creating a Customer" alt="" frameborder="0" allow="fullscreen" allowfullscreen></iframe> -->
 
 ## Getting Started
 
-Get started by navigating to and clicking on the `CRM` button on the `Sidebar`, which is on the left-hand side, then click on `Customers & Prospects`.
+Get started by navigating to and clicking on the `CRM` button on the `Sidebar`, which is on the left-hand side. <br/>Then click on `Customers & Prospects`.
 
 For more information on making changes within the CRM module click [here][CRM].
 
 ### Creating a Customer
 
-You must first choose the **Business Unit** you are assigning the Customer/Lead to, after which provide an `Organisation Name`, this is the name of the Customer/Lead..
+You must first choose the **Business Unit** you are assigning the Customer/Lead to, after which provide an `Organisation Name`, this is the name of the Customer/Lead.
 
 After this, you must provide the logo of the organisation.
 
@@ -51,9 +51,34 @@ Finally, you can attach any files and add any relevant notes. These are optional
 
 Once you are done, click `Create` or `Go live` to add the Customer/Lead.
 
-## Modifying a Customer
+## Managing a Customer
 
-<iframe width="426" height="240" src="" title="Managing Customers" alt="" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<!-- <iframe width="426" height="240" src="" title="Managing Customers" alt="" frameborder="0" allow="fullscreen" allowfullscreen></iframe> -->
 
 
-[CRM]: #modifying-a-customer
+For each `Customer`, you can `Modify` or `Delete` each entry in the `CRM` module.
+
+### Modifying a Customer
+
+When modifying a customer, you can make three different modifications:
+
++ [Amending Customer Details](#amending-customer-details)
++ [Managing Invoices\*](#managing-invoices)
++ [Managing Incidents\*](#managing-incidents)
+
+\**Only `Live` customers have these features.*
+
+#### Amending Customer Details
+
+In order to `Amend` a Customer, click on the eye icon under the `Actions` field, and then navigate to the `Amend` tab. When finished making changes make sure click on `Update` at the bottom of the page, above `Interactions`.
+
+#### Managing Invoices
+
+In order to manage a Customer's invoices, click on the eye icon under the `Actions` field, and then navigate to the `Invoices` tab. Here you will find sub-tabs to create invoices and manage existing ones.
+
+#### Managing Incidents
+
+In order to manage a Customer's incidents, click on the eye icon under the `Actions` field, and then navigate to the `Manage incidents` tab. Here you will find sub-tabs to create incidents, manage existing ones or export the incidents in CSV format.
+
+
+[CRM]: #managing-a-customer
