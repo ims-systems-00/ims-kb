@@ -63,8 +63,8 @@ For each `Customer`, you can `Modify` or `Delete` each entry in the `CRM` module
 When modifying a customer, you can make three different modifications:
 
 + [Amending Customer Details](#amending-customer-details)
-+ [Managing Invoices\*](#managing-invoices)
-+ [Managing Incidents\*](#managing-incidents)
++ [Managing Invoices\*][Invoice]
++ [Managing Incidents\*][Inc]
 
 \**Only `Live` customers have these features.*
 
@@ -76,9 +76,14 @@ In order to `Amend` a Customer, click on the eye icon under the `Actions` field,
 
 In order to manage a Customer's invoices, click on the eye icon under the `Actions` field, and then navigate to the `Invoices` tab. Here you will find sub-tabs to create invoices and manage existing ones.
 
+You can view more information about raising and managing invoices [here][Invoice].
+
 #### Managing Incidents
 
 In order to manage a Customer's incidents, click on the eye icon under the `Actions` field, and then navigate to the `Manage incidents` tab. Here you will find sub-tabs to create incidents, manage existing ones or export the incidents in CSV format.
 
+You can view more information about the Incident Management module [here][Inc].
 
 [CRM]: #managing-a-customer
+[Invoice]: ./invoice
+[Inc]: ../Incident%20Management/raising_incidents
