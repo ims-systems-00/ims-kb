@@ -14,7 +14,7 @@ View how to add a review [here][Add Review]
 
 This page shows a list of Management Reviews that have been scheduled and not yet completed.
 
-Clicking on the pencil icon next to a scheduled Management Review will allow you to view more information related to the Review.
+Clicking on the clipboard icon next to a scheduled Management Review will allow you to view more information related to the Review.
 
 | Type 			| Information 																	|
 | :------------ | :---------------------------------------------------------------------------- |

@@ -2,9 +2,7 @@
 sidebar_position: 24
 ---
 
-# How to find specific data [OUTDATED]
-
-*Please note that* `Partner` *business unit can only view Assets that they have been given access to AND/OR are owned by their business unit.*
+# How to find specific data
 
 ## Tables
 
@@ -30,9 +28,9 @@ Each table also allows you to customise how you wish to sort it. At the moment, 
 <img src="/img/DocImg/General Information/Actions/Search/Hardware_Sort_By.png" alt="Sort By" class="center"/>
 
 
-### Number of Results
+### Change Pages
 
-You can also adjust the number of rows to display at once. The default number of displayed rows is 10, and the maximum is 100.
+The default number of displayed rows is 10. You can switch between pages by clicking the numbered button at the bottom of a page.
 
 <img src="/img/DocImg/General Information/Actions/Search/Number_of_Rows.png" alt="Number of Rows" class="center"/>
 

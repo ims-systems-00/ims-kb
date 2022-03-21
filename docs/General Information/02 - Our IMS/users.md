@@ -4,8 +4,6 @@ sidebar_position: 2
 
 # Users
 
-**WIP**
-
 ## Creating a User
 
 To create a user, go to the `Create user` tab and fill in the form. 
