@@ -2,44 +2,36 @@
 sidebar_position: 21
 ---
 
-# New User [OUTDATED]
+# New User
 
-Upon being granted access either by iMS or your organisation, you will receive an email containing your login details.
+Upon being granted access either by iMS or your organisation, you will receive an email containing an email verification link. During the email verification process, you will be able to setup your password.
 
 <img src="/img/DocImg/General Information/New_User/New_User_Email.png" alt="New User Email" class="center"/>
 
 ## Logging In 
 
+<iframe width="426" height="240" src="https://www.youtube.com/embed/9xyhqlusJmA" title="YT Login" alt="00 - Login (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+
 You will need to access your organisation's iMS System, you will have received the website address during your onboarding process. From here, log in to the website using the login details found in the email. 
 
 <img src="/img/DocImg/General Information/New_User/Log_In.png" alt="Log In" class="center"/>
 
-<iframe width="426" height="240" src="https://www.youtube.com/embed/Jaz9u9NxEaQ" title="YT Login" alt="00 - Login (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
-
-## Setting a Password
-
-Upon logging in for the first time, you will be prompted to change your password for security purposes. Your password must contain at least 8 characters.
-
-<img src="/img/DocImg/General Information/New_User/First_Time_Login_Change_Password.png" alt="First Login Change Password" class="center"/>
-
-Take note of this new password, as it will be what you log into the system with from this point forward.
-If you have forgotten your password, click [here][Forgot Password].
-
 ### Successful Login
 
-If you enter your email and password correctly, then you will see the notice below.
+If you enter your organisation, email and password correctly, then you will see the notice below.
 
 <img src="/img/DocImg/General Information/New_User/Log_In_Successful.png" alt="Log In Successful" class="center"/>
- 
+ <br/>
 After this, you will be brought straight to the `Dashboard`.
 
 ### Unsuccessful Login
 
-If you do not enter your Email or Password correctly, then you will see the notice below.
+If you do not enter your Email or Password correctly, then you will see a notice similar to the below.
 
 <img src="/img/DocImg/General Information/New_User/Log_In_Failure.png" alt="Log In Failure" class="center"/>
 
-This could be caused by a number of reasons.
+This type of failure to login could be caused by a number of reasons:
++ Incorrect organisation
 + Misspelt email address/password
 + No license assigned by Admin
 + An issue with the server configuration
@@ -75,7 +67,7 @@ After clicking this you will be prompted to enter your email address.
 <img src="/img/DocImg/General Information/New_User/Forgot_Password.png" alt="Forgot Password" class="center"/>
 
 
-Upon clicking on `Send Verification Email` you will see the following:
+Upon clicking on `Send Verification Email` you will see the following message:
 
 <img src="/img/DocImg/General Information/New_User/Reset_Password_Email.png" alt="Reset Password Email" class="center"/>
 
