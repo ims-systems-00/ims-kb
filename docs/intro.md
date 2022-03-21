@@ -14,17 +14,27 @@ To get started, we will begin by **creating your organisation** with the appropr
 
 First, you need to access your organisation’s iMS by visiting the sub-domain within [yourdomain.imssystems.tech][iMS]. As an example, the demo version of iMS is hosted on [my.imssystems.tech][myIMS].
 
-## Create a Business Unit
+## Create a User
 
 Log in to the system using your **Super Admin** login details and navigate to `Our iMS` from the `Sidebar`, which is on the left side of the screen.
 
-After clicking on `Our iMS`, you will find 5 buttons on the drop-down that opens there. Click on `Business Units` then navigate to the `Create a function` tab to create your first business unit. 
+Under `Our IMS` click on `Users`. 
 
-Here you will find two drop-down menus - the first being `Access type` and the second is `Access policy`. 
+From here, click on the `Create user` tab.
 
-**Access Type** defines the type of business unit you are creating, of which there are `Internal` and `External` types. 
+Here you can add users by filling the form. 
 
-**Access Policy** allows you to pick what features the business unit is granted access to.
+Once you have added one or more members you will need to grant them access to Business Units relevant to their role.
+
+## Create a Business Unit
+
+Using the `Sidebar`, under `Our IMS` click on `Business Units`, then navigate to the `Create a function` tab to create your first Business Unit. 
+
+Here you will find two drop-down menus - the first being `Access type` and the second `Access policy`. 
+
+**Access Type** defines the type of Business Unit you are creating, of which there are `Internal` and `External` types. 
+
+**Access Policy** allows you to pick what features the Business Unit is granted access to;
 
 For now, you can either choose between one of the two pre-made policies or create your own
 
@@ -32,65 +42,21 @@ For now, you can either choose between one of the two pre-made policies or creat
 
 - iMS Compliance Body
 
-Once you have successfully created your first business unit, proceed to the next step.
-
-<iframe width="426" height="240" src="https://www.youtube.com/embed/YVZ3wjvnY8k" title="Create a Business Unit" alt="00-01 - Create a Business Unit (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
-
-## Create a User
-
-Navigate back to the `Sidebar`, under `Our IMS` click on `Users`. 
-
-From here, click on the `Create user` tab.
-
-Here you can add users by filling the form. Once you have added one or more members you will need to grant them access to Business Units relevant to their role.
-
-<iframe width="426" height="240" src="https://www.youtube.com/embed/fnt-q_nJgDo" title="Create a User" alt="00-02 - Create a User (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+Once you have successfully created your first Business Unit, proceed to the next step.
 
 ## Add a User to a Business Unit
 
-Navigate back to the `Sidebar`, under `Our IMS` click on `Business Units`.
+Click on the `Business unit` tab.
 
-From here, click on the pencil icon to the right of the Business Unit you created earlier.
+Now click on the eye icon to the right of the Business Unit you created earlier.
 
 Navigate to the `Add members` tab and use the two drop down menus to first select the user you created and the role you want to assign them within the Business Unit.
 
-After adding the user to your Business Unit, navigate to the `Members` tab.
-
-**If the user cannot be added to a Business Unit, you will get one of the following errors**
-
-> This license is unavailable for this group
-
-This could be a result of either the organisation as a whole or only that specific Business Unit not possessing enough `Basic User Licenses`. The number of **Basic User Licenses** your organisation possesses will be related to the service you purchased.
-
-If this is your first time setting up iMS, continue following this guide, otherwise, if this occurs in the future please visit the [FAQ][].
-
-## License management
-
-Navigate to the `Sidebar`, under `Our IMS` click on `License Management`. 
-
-From here, find the Business Unit you create and click on the pencil icon to the right of it.
-
-Navigate to the `Manage licenses` tab.
-
-The table titled **Remaining licenses** is the total number of licenses remaining for your organisation as a whole.
-
-Add a single license relevant to the job role you wish to give to your first user, this will be either HoS (*Head of Service*) or Basic User.
-
-Once you have assigned the relevant license to the Business Unit, return to the Business Unit and add the user once again.
-
-<iframe width="426" height="240" src="https://www.youtube.com/embed/IZC7ZxBwVns" title="Licence Management" alt="00-03 - Licence Management (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
-
 ## Access granted
 
-Navigate to the `Members` tab and click on the green `key` icon next to the user’s name.
-
-**If there is no green key to the right of the user’s name, the user needs to verify their email address.**
-
-After confirming the pop-up, the user will receive an email with confirmation that they have been granted access to the system.
+**NOTE:** The user you created will not be able to login until they Verify their account. Upon user creation, an email is sent with a link that expires after 1 hour. The process only requires the user to setup a password.
 
 You are recommended to browse the [General Information][] portion of the User Manual if this is your first time using the iMS System.
-
-<iframe width="426" height="240" src="https://www.youtube.com/embed/agSZPfqCPLk" title="Granting Access" alt="00-04 - Grant Access (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 
 [iMS]: https://imssystems.tech/ "iMS Homepage"

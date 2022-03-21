@@ -19,7 +19,7 @@ Click `Confirm` to finish raising a Complaint.
 
 ### Modifying and Adding Documents to a Complaint
 
-Navigate to the `Complaints` tab and click on the pencil icon next to the relevant Complaint.
+Navigate to the `Complaints` tab and click on the eye icon next to the relevant Complaint.
 
 1. Select the `Amend` tab and modify the fields of the form if required.
 
@@ -29,7 +29,7 @@ Once you are done, click `Update` to finish the process of amending a Complaint.
 
 ### Assigning an Investigator to a Complaint
 
-Navigate to the `Complaints` tab and click on the pencil icon next to the relevant Complaint.
+Navigate to the `Complaints` tab and click on the eye icon next to the relevant Complaint.
 
 Select the `Amend` tab and select the relevant investigator from the drop-down menu.
 
@@ -37,7 +37,7 @@ Once you are done, click `Update` to finish the process of assign an investigato
 
 ### Referring a Complaint to another Investigator
 
-Navigate to the `Complaints` tab and click on the pencil icon next to the relevant Complaint.
+Navigate to the `Complaints` tab and click on the eye icon next to the relevant Complaint.
 
 Select the `Amend` tab and click the checkbox to `Refer to another investigator`.
 
@@ -45,7 +45,7 @@ Select the relevant investigator from the drop-down menu and click `Update` to f
 
 ### Adding Investigations, Actions and Outcomes to a Complaint
 
-Navigate to the `Complaints` tab and click on the pencil icon next to the relevant Complaint.
+Navigate to the `Complaints` tab and click on the eye icon next to the relevant Complaint.
 
 Select the `Amend` tab and enter the details of the `Investigation`, the `Actions` taken and the `Outcome` of said actions.
 
@@ -53,7 +53,7 @@ Once you are done, click `Update` to finish the process.
 
 ## Closing a Complaint
 
-Navigate to the `Complaints` tab and click on the pencil icon next to the relevant Complaint.
+Navigate to the `Complaints` tab and click on the eye icon next to the relevant Complaint.
 
 Select the `Amend` tab and click the checkbox next to `Matter closed`.
 

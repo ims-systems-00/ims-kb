@@ -111,7 +111,7 @@ For each `Risk`, you can either `Modify`, `Escalate` or `Delete` them, much like
 
 <iframe width="426" height="240" src="https://www.youtube.com/embed/rv-TctklEAY" title="Mitigating a Risk" alt="04-03 - Risk Management - Mitigating a Risk (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
-In order to `Amend` a risk, select the pencil icon under the `Actions` field.
+In order to `Amend` a risk, select the eye icon under the `Actions` field.
 
 When modifying a Risk, you may be limited by your level of access.
 

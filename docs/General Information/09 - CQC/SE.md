@@ -22,14 +22,14 @@ Click `Confirm` to finish creation of the Significant Event.
 
 ## Modifying a Significant Event
 
-Navigate to the `Significant events` tab and click on the pencil icon the right of the relevant event.
+Navigate to the `Significant events` tab and click on the eye icon the right of the relevant event.
 
 Select the `Amend` tab and modify the fields of the form if required. Click `Update` to save any changes.
 
 ## Adding an Action to a Significant Event
 
 1. Navigate to the `Significant events` tab
-2. Click on the pencil icon the right of the relevant event
+2. Click on the eye icon the right of the relevant event
 3. Navigate to the `Amend event` tab
 4. Enter the new action
 5. Select who to assign the action to
@@ -40,7 +40,7 @@ Click `Confirm` to save your changes.
 ## Closing a Significant Event
 
 1. Navigate to the `Significant events` tab
-2. Click on the pencil icon the right of the relevant event
+2. Click on the eye icon the right of the relevant event
 3. Navigate to the `Amend event` tab
 4. Click the checkbox next to `Close`
 

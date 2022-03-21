@@ -6,32 +6,34 @@ sidebar_position: 5
 
 ## Organisation Overview
 
-This page shows three tables,
-
 | Licenses Allocated |
 | :----------------- |
 | This is the number of Licenses allocated to your organisation by iMS. |
 
-| Licenses Assigned |
+| Licenses Used |
 | :---------------- |
-| This is the number of Licenses assigned to various Business Units within your organisation. |
+| This is the number of Licenses used for the various Business Units or Users within your organisation. |
 
-| Remaining Licences |
+| Licences Remaining |
 | :---------------- |
-| This is the number of Licenses that are not allocated anywhere. |
+| This is the number of Licenses that are not used anywhere. |
 
 ## Internal / External
 
-Here, you can view allocated licenses and allocate licenses to the various Business Units within your organisation.
+Here, you can view how Users are allocated to Business Units within your organisation.
 
-**HOS**, **Basic** and **Auditor** show the three different User Types for which licenses can be allocated.
+**HOS**, **Basic** and **Auditor** are the three different User Types that can be created.
 
-To allocate or revoke licenses within a Business Unit, simply click on the pencil icon to the right of the Business Unit and navigate to the `Manage Licenses` tab. From here, you can use the form to either Allocate or Revoke licenses within that specific Business Unit.
+**User Licences are consumed upon creating a User**. These licences can be returned by deleting the user.
+
+**Business Unit Licences are consume upon created a Business Unit**. These licences cannot be returned, as Business Units cannot be deleted.
+
+To allocate or revoke **Toolkit access** within a Business Unit, simply click on the eye icon to the right of the Business Unit and navigate to the `Tools` tab. From here, you can use the form to either `Allocate` or `Revoke` **Toolkit access** within that specific Business Unit.
 
 ## Request / Requested
 
-This is where you can request licences - as a HoS these requests would go to the Superadmin, as a Superadmin these requests would go to iMS.
+This is where you can request licences - if a HoS creates a request it would go to the Superadmin, a Superadmin creating the request would forward it to the iMS team.
 
-The requested tab allows you to view requests you have made, and as a superuser allows you to see requests made by the HoS users in your organisation. You can accept these requests to directly grant the licences or decline the request otherwise.
+The requested tab allows you to view requests you have made, and as a Superadmin, allows you to see requests made by the HoS users within your organisation. You can accept these requests to directly forward the request of licences to iMS.
 
-You can also request access to certain toolkits for your Business Unit or Organisation depending on user level.
+You can also request access to specific Toolkits for your Business Unit or Organisation depending on user level, this functions the same as requesting User Licences.

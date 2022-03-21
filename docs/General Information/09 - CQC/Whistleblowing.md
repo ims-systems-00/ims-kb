@@ -18,13 +18,13 @@ Click `Confirm` to complete the process.
 
 ## Modifying a Whistleblowing Concern
 
-Navigate to the `Open` tab and click on the pencil icon the right of the relevant Concern.
+Navigate to the `Open` tab and click on the eye icon the right of the relevant Concern.
 
 Select the `Amend` tab and modify the fields of the form if required. Click `Update` to save any changes.
 
 ## Closing a Whistleblowing Concern
 
-Navigate to the `Open` tab and click on the pencil icon the right of the relevant Concern.
+Navigate to the `Open` tab and click on the eye icon the right of the relevant Concern.
 
 Select the `Amend` tab and click the checkbox next to `Close` to close the Concern.
 
