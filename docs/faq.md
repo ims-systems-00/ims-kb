@@ -6,10 +6,6 @@ sidebar_position: 4
 
 ## General
 
-eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-
-send binary pls
-
 ### I can't log in
 
 - Make sure you are at the correct web address ex. **example**.imssystems.tech instead of **my**.imssystems.tech
