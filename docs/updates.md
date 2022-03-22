@@ -3,6 +3,17 @@ sidebar_position: 0
 ---
 # Patch Notes
 
+## v2.4.3
+
+### Added
+
+- Supplier Management
+	- `Contract value` added to Supplier form
+	- Contract value analytics added to Dashboard
+- Organisation Profile
+	- Profile section dropdown now has `My organisation` button
+		- Superadmin can amend Organisation details, other users have read-only access
+
 ## v2.4.2
 
 ### Added
