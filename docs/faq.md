@@ -261,22 +261,22 @@ sidebar_position: 4
 - You can switch between views by clicking the `month`, `week`, `day` and `agenda` buttons in the top right.
 
 
-[RiskEscalate]: ./General%20Information/Risk%20Management/adding_risks#escalating-a-risk
-[IncEscalate]: ./General%20Information/Incident%20Management/raising_incidents#escalating-an-incident
-[IncResTime]: ./General%20Information/Our%20IMS/system_defaults#incident-resolution
-[CalEvent]: ./General%20Information/Calendar/add_calendar#adding-an-event
-[TaskCompelete]: ./General%20Information/Task%20Manager/add_task#modifying-a-task
-[Supp]: ./General%20Information/Supplier%20Management/add_supplier
-[SuppInc]: ./General%20Information/Supplier%20Management/add_supplier#modifying-a-supplier
-[Reports]: ./General%20Information/CQC/Reports
-[SG]: ./General%20Information/CQC/SG
-[SE]: ./General%20Information/CQC/SE#adding-an-action-to-a-significant-event
-[Concerns]: ./General%20Information/CQC/Whistleblowing
-[Complaints]: ./General%20Information/CQC/Complaints
-[CQC]: ./General%20Information/CQC/CQC
-[OFIcreate]: ./General%20Information/Continual%20Improvement/add_ofi
-[PushNotif]: ./General%20Information/Our%20IMS/system_defaults#push-notifications
-[Licences]: ./General%20Information/Our%20IMS/license_management#request--requested
+[RiskEscalate]: ./General%20Information/Modules/Risk%20Management/adding_risks#escalating-a-risk
+[IncEscalate]: ./General%20Information/Modules/Incident%20Management/raising_incidents#escalating-an-incident
+[IncResTime]: ./General%20Information/Modules/Our%20IMS/system_defaults#incident-resolution
+[CalEvent]: ./General%20Information/Modules/Calendar/add_calendar#adding-an-event
+[TaskCompelete]: ./General%20Information/Modules/Task%20Manager/add_task#modifying-a-task
+[Supp]: ./General%20Information/Modules/Supplier%20Management/add_supplier
+[SuppInc]: ./General%20Information/Modules/Supplier%20Management/add_supplier#modifying-a-supplier
+[Reports]: ./General%20Information/Modules/CQC/Reports
+[SG]: ./General%20Information/Modules/CQC/SG
+[SE]: ./General%20Information/Modules/CQC/SE#adding-an-action-to-a-significant-event
+[Concerns]: ./General%20Information/Modules/CQC/Whistleblowing
+[Complaints]: ./General%20Information/Modules/CQC/Complaints
+[CQC]: ./General%20Information/Modules/CQC/CQC
+[OFIcreate]: ./General%20Information/Modules/Continual%20Improvement/add_ofi
+[PushNotif]: ./General%20Information/Modules/Our%20IMS/system_defaults#push-notifications
+[Licences]: ./General%20Information/Modules/Our%20IMS/license_management#request--requested
 [UserBU]: ./intro#add-a-user-to-a-business-unit
-[Dashboard]: ./General%20Information/dashboard
-[Priority]: ./General%20Information/Incident%20Management/raising_incidents#raising-an-incident
+[Dashboard]: ./General%20Information/Modules/dashboard
+[Priority]: ./General%20Information/Modules/Incident%20Management/raising_incidents#raising-an-incident

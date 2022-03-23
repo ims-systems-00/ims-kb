@@ -25,4 +25,4 @@ External Functions on the other hand are for outside parties that need access to
 You can view more information about Access Policies [here][Access Policies].
 
 [Access Policies]: ./access_policies
-[First Time Configuration]: ../../intro#create-a-business-unit "First Time Configuration"
+[First Time Configuration]: ../../../intro#create-a-business-unit "First Time Configuration"

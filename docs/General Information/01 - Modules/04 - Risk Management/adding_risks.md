@@ -117,7 +117,7 @@ When modifying a Risk, you may be limited by your level of access.
 
 ### Escalating a Risk
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/anTc2aHOAEg" title="Escalating a Risk" alt="04-02 - Risk Management - Escalating a Risk (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+<iframe width="426" height="240" src="https://www.youtube.com/embed/anTc2aHOAEg" title="Escalating a Risk" alt="04-02 - Risk Management - Escalating a Risk (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 When escalating a Risk, you will be first asked to confirm the escalation of the Risk. Note that escalating a Risk will notify the Head of Service and Superadmin accounts of the risk that was escalated, as well as the `owner` of the risk.
 

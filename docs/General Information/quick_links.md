@@ -10,7 +10,7 @@ sidebar_position: 0
 
 [Dashboard Information][Dashboard]
 
-[Dashboard]: ./dashboard
+[Dashboard]: ./Modules/dashboard
 
 Note that there is an up to 5-minute delay between information being uploaded and the dashboard reflecting those changes.
 
@@ -28,12 +28,12 @@ Note that there is an up to 5-minute delay between information being uploaded an
 
 [System Defaults][Our IMS - System Defaults]
 
-[Our IMS - Business Unit]: ./Our%20IMS/business_units
-[Our IMS - Users]: ./Our%20IMS/users
-[Our IMS - Access Policies]: ./Our%20IMS/access_policies
-[Our IMS - Business Premises]: ./Our%20IMS/business_premises
-[Our IMS - License Management]: ./Our%20IMS/license_management
-[Our IMS - System Defaults]: ./Our%20IMS/system_defaults
+[Our IMS - Business Unit]: ./Modules/Our%20IMS/business_units
+[Our IMS - Users]: ./Modules/Our%20IMS/users
+[Our IMS - Access Policies]: ./Modules/Our%20IMS/access_policies
+[Our IMS - Business Premises]: ./Modules/Our%20IMS/business_premises
+[Our IMS - License Management]: ./Modules/Our%20IMS/license_management
+[Our IMS - System Defaults]: ./Modules/Our%20IMS/system_defaults
 
 ### Inventory
 
@@ -41,8 +41,8 @@ Note that there is an up to 5-minute delay between information being uploaded an
 
 [How to modify and delete Assets within the Inventory System][Asset Actions]
 
-[Inventory Management]: ./Inventory%20Management/adding_assets
-[Asset Actions]: ./Inventory%20Management/adding_assets#managing-assets
+[Inventory Management]: ./Modules/Inventory%20Management/adding_assets
+[Asset Actions]: ./Modules/Inventory%20Management/adding_assets#managing-assets
 
 ### Risk Management
 
@@ -52,9 +52,9 @@ Note that there is an up to 5-minute delay between information being uploaded an
 
 [How is the Risk Score System Calculated][Risk Scoring]
 
-[Risk Management]: ./Risk%20Management/adding_risks
-[Risk Actions]: ./Risk%20Management/adding_risks#managing-risks
-[Risk Scoring]: ./Risk%20Management/risk_scoring
+[Risk Management]: ./Modules/Risk%20Management/adding_risks
+[Risk Actions]: ./Modules/Risk%20Management/adding_risks#managing-risks
+[Risk Scoring]: ./Modules/Risk%20Management/risk_scoring
 
 ### Incident Management
 
@@ -62,8 +62,8 @@ Note that there is an up to 5-minute delay between information being uploaded an
 
 [How to modify and delete Incidents within the Incident Management System][Incident Action]
 
-[Incident Management]: ./Incident%20Management/raising_incidents
-[Incident Action]: ./Incident%20Management/raising_incidents#managing-incidents
+[Incident Management]: ./Modules/Incident%20Management/raising_incidents
+[Incident Action]: ./Modules/Incident%20Management/raising_incidents#managing-incidents
 
 ### Audits
 
@@ -71,8 +71,8 @@ Note that there is an up to 5-minute delay between information being uploaded an
 
 [How to modify and delete an Audit][Audit Action]
 
-[Add Audit]: ./Audits/add_audit
-[Audit Action]: ./Audits/add_audit#managing-audits
+[Add Audit]: ./Modules/Audits/add_audit
+[Audit Action]: ./Modules/Audits/add_audit#managing-audits
 
 ### Management Reviews
 
@@ -80,8 +80,8 @@ Note that there is an up to 5-minute delay between information being uploaded an
 
 [How to modify and delete Management Reviews][Management Actions]
 
-[Add Management Review]: ./Management%20Reviews/add_review
-[Management Actions]: ./Management%20Reviews/add_review#managing-reviews
+[Add Management Review]: ./Modules/Management%20Reviews/add_review
+[Management Actions]: ./Modules/Management%20Reviews/add_review#managing-reviews
 
 ### Continual Improvement
 
@@ -89,8 +89,8 @@ Note that there is an up to 5-minute delay between information being uploaded an
 
 [How to modify and delete OFIs within the Continual Improvement System][OFI Action]
 
-[OFI]: ./Continual%20Improvement/add_ofi
-[OFI Action]: ./Continual%20Improvement/add_ofi#managing-ofis
+[OFI]: ./Modules/Continual%20Improvement/add_ofi
+[OFI Action]: ./Modules/Continual%20Improvement/add_ofi#managing-ofis
 
 ### Compliance
 
@@ -98,8 +98,8 @@ Note that there is an up to 5-minute delay between information being uploaded an
 
 [Toolkit Controls][Control]
 
-[Overview]: ./Compliance/overview
-[Control]: ./Compliance/controls
+[Overview]: ./Modules/Compliance/overview
+[Control]: ./Modules/Compliance/controls
 
 ### Supplier Management
 
@@ -107,14 +107,14 @@ Note that there is an up to 5-minute delay between information being uploaded an
 
 [How to modify and delete Suppliers within the Supplier Management System][Supplier Action]
 
-[Supplier]: ./Supplier%20Management/add_supplier
-[Supplier Action]: ./Supplier%20Management/add_supplier#modifying-a-supplier
+[Supplier]: ./Modules/Supplier%20Management/add_supplier
+[Supplier Action]: ./Modules/Supplier%20Management/add_supplier#modifying-a-supplier
 
 ### Document Management
 
 [How to add Documents to the Document Manager][Upload]
 
-[Upload]: ./Document%20Management/upload
+[Upload]: ./Modules/Document%20Management/upload
 
 ### Task Manager
 
@@ -122,8 +122,8 @@ Note that there is an up to 5-minute delay between information being uploaded an
 
 [How to modify and delete Tasks within the Task Manager][Task Manager Actions]
 
-[Task Manager]: ./Task%20Manager/add_task
-[Task Manager Actions]: ./Task%20Manager/add_task#managing-tasks
+[Task Manager]: ./Modules/Task%20Manager/add_task
+[Task Manager Actions]: ./Modules/Task%20Manager/add_task#managing-tasks
 
 ### Calendar
 
@@ -131,8 +131,8 @@ Note that there is an up to 5-minute delay between information being uploaded an
 
 [How to modify and delete Events within the Calendar][Calendar Actions]
 
-[Calendar]: ./Calendar/add_calendar
-[Calendar Actions]: ./Calendar/add_calendar#managing-calendar-events
+[Calendar]: ./Modules/Calendar/add_calendar
+[Calendar Actions]: ./Modules/Calendar/add_calendar#managing-calendar-events
 
 ## Others
 
@@ -140,7 +140,7 @@ Note that there is an up to 5-minute delay between information being uploaded an
 
 [Send Report Information][Send Report]
 
-[Send Report]: ./dashboard#dashboard-report
+[Send Report]: ./Modules/dashboard#dashboard-report
 
 ### Notifications
 
