@@ -53,4 +53,4 @@ This is the Owner of the file.
 After filling the form, click on the bordered box `Select`, and select the file you are trying to upload. Once the upload is completed, click on `Upload document`.
 
 
-[Documents]: ../actions 'not done yet'
+[Documents]: ../../actions 'not done yet'
