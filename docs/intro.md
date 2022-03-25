@@ -12,11 +12,11 @@ More information about the UI, navigating it, and the many buttons can be found 
 
 To get started, we will begin by **creating your organisation** with the appropriate number of licenses (these will be included in the onboarding process).
 
-First, you need to access your organisation’s iMS by visiting the sub-domain within [yourdomain.imssystems.tech][iMS]. As an example, the demo version of iMS is hosted on [my.imssystems.tech][myIMS].
+First, you need to access the iMS portal by visiting [portals.imssystems.tech](portals.imssystems.tech).
 
 ## Create a User
 
-Log in to the system using your **Super Admin** login details and navigate to `Our iMS` from the `Sidebar`, which is on the left side of the screen.
+[Login][] to the system using your **Super Admin** login details and navigate to `Our iMS` from the `Sidebar`, which is on the left side of the screen.
 
 Under `Our IMS` click on `Users`. 
 
@@ -58,13 +58,9 @@ Navigate to the `Add members` tab and use the two drop down menus to first selec
 
 You are recommended to browse the [General Information][] portion of the User Manual if this is your first time using the iMS System.
 
-
+[Login]: ./General%20Information/new_user#logging-in
 [iMS]: https://imssystems.tech/ "iMS Homepage"
-
 [myIMS]: https://my.imssystems.tech/ "Demo iMS"
-
 [Permissions]: ./permission "Link to Permissions Page"
-
 [General Information]: ./General%20Information/quick_links
-
 [FAQ]: ./faq

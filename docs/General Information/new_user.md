@@ -12,7 +12,7 @@ Upon being granted access either by iMS or your organisation, you will receive a
 
 <iframe width="426" height="240" src="https://www.youtube.com/embed/9xyhqlusJmA" title="YT Login" alt="00 - Login (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
-You will need to access your organisation's iMS System, you will have received the website address during your onboarding process. From here, log in to the website using the login details found in the email. 
+You will need to access your organisation's [iMS System](portals.imssystems.tech), you will have received the `Organisation name` during your onboarding process. You will need to log in to the website using the login details found in the email. 
 
 <img src="/img/DocImg/General Information/New_User/Log_In.png" alt="Log In" class="center"/>
 
@@ -26,7 +26,7 @@ After this, you will be brought straight to the `Dashboard`.
 
 ### Unsuccessful Login
 
-If you do not enter your Email or Password correctly, then you will see a notice similar to the below.
+If you do not enter your organisation, email or password correctly, then you will see a notice similar to the below.
 
 <img src="/img/DocImg/General Information/New_User/Log_In_Failure.png" alt="Log In Failure" class="center"/>
 
@@ -36,7 +36,7 @@ This type of failure to login could be caused by a number of reasons:
 + No license assigned by Admin
 + An issue with the server configuration
 
-If there is an issue regarding your password, you could try [resetting your password][Forgot Password]. If you are a system administrator, please take a look at the [Troubleshooting Guide][] **Not yet made**, or contact a member of the iMS Team.
+If there is an issue regarding your password, you could try [resetting your password][Forgot Password]. If you are a system administrator, contact a member of the iMS Team.
 
 ### Logging Out
 
@@ -57,12 +57,12 @@ After typing your new password out, click the `Confirm` button to change your pa
 
 ### Forgot Password
 
-If you have forgotten your password and need a newly generated password, you click on `Forgot Password?` from your organisation's login screen. Please ensure you are on the correct web address, as you will not be sent a password reset if you are attempting to log in to the wrong iMS System.
+If you have forgotten your password and need a newly generated password, click on `Forgot Password?` from the login screen. Please ensure you are on [portals.imssystems.tech](portals.imssystems.tech), as you will not be sent a password reset if you are attempting to login from the wrong web address.
 
 <img src="/img/DocImg/General Information/New_User/Log_In.png" alt="Log In" class="center"/>
 
  
-After clicking this you will be prompted to enter your email address.
+After clicking this you will be prompted to enter your organisation name and email address.
 
 <img src="/img/DocImg/General Information/New_User/Forgot_Password.png" alt="Forgot Password" class="center"/>
 
