@@ -8,8 +8,8 @@ sidebar_position: 4
 
 ### I can't log in
 
-- Make sure you are at the correct web address ex. **example**.imssystems.tech instead of **my**.imssystems.tech
-- Click forgot password, enter your email and try to login with the new password
+- Make sure you are at the correct web address **portals**.imssystems.tech
+- [Reset your password][ResetPassword] by clicking `Forgot password`, enter your email and try to login with the new password
 
 ### How do I change my password?
 
@@ -19,25 +19,22 @@ sidebar_position: 4
 
 ### Why am I not receiving any emails?
 
-- Make sure you are at the correct web address ex. **example**.imssystems.tech instead of **my**.imssystems.tech
+- Make sure you are at the correct web address **portals**.imssystems.tech
 - Check that you typed your email correctly
 - Check your spam/junk inboxes in your email
 - Is your account granted access to the system? Check with your system's Super Admin or your Head of Service
 
 ### How do I change my sidebar colour?
 
-- Click on the gear symbol on the right side
-	- You can adjust the colour of the sidebar
+- Click on the gear symbol on the right side and click on the colored circle of your preference
 
 ### How do I keep my sidebar fully visible?
 
-- Click on the gear symbol on the right side
-	- You can enable "Full Sidebar" mode
+- Click on the gear symbol on the right side and enable `Full Sidebar` mode
 
 ###	How do I switch to/from Dark/Light Mode?
 
-- Click on the gear symbol on the right side
-	- You can switch between light and dark mode
+- Click on the gear symbol on the right side and switch between Light and Dark modes.
 
 ###	How do I switch business units?
 
@@ -280,3 +277,4 @@ sidebar_position: 4
 [UserBU]: ./intro#add-a-user-to-a-business-unit
 [Dashboard]: ./General%20Information/Modules/dashboard
 [Priority]: ./General%20Information/Modules/Incident%20Management/raising_incidents#raising-an-incident
+[ResetPassword]: ./General%20Information/new_user#forgot-password

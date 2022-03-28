@@ -3,6 +3,23 @@ sidebar_position: 0
 ---
 # Patch Notes
 
+## V2.4.4
+
+### Added
+
+- Dashboard
+	- CRM analytics
+- CRM
+	- Customer-specific analytics
+	- Customer logo in invoice form
+	- Interaction section in Customers.
+	- Invoice table validation
+
+### Fixed
+
+- CRM
+	- Invoice bug reports have been fixed
+
 ## v2.4.3
 
 ### Added
@@ -26,7 +43,7 @@ sidebar_position: 0
 - Login
 	- You must now enter your Organisation name during login
 - System entry point
-	- v2.4.2 will require users have to go to <https://app.imssystems.tech> in order to login
+	- v2.4.2 will require users have to go to <https://portals.imssystems.tech> in order to login
 - Compliance
 	- Previously, clauses that could not be edited could not be viewed.
 - Dashboard

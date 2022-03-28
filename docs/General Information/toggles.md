@@ -32,7 +32,7 @@ There are also useful links that are in the same menu.
 
 <img src="/img/DocImg/General Information/Toggles/Dark_Mode.png" alt="Dark Mode" class="center"/>
 
-The `Light` and `Dark` mode slider allows you to choose the colour scheme of the site.
+The `Light` and `Dark` mode slider allows you to choose the colour scheme of the site. This will save the change permanently.
 
 ### User Manual
 
@@ -46,5 +46,5 @@ The `User Manual` button will take you to [this][User Manual] page, which is whe
 
 The `iMS System` button will take you to [this][iMS Systems] page. This is the homepage of the iMS System website, where more information about our services can be found.
 
-[User Manual]: https://docs.imssystems.tech/ "Documentation Website"
+[User Manual]: https://knowledge-base.imssystems.tech/ "Documentation Website"
 [iMS Systems]: https://imssystems.tech/ "IMS Systems Homepage"
