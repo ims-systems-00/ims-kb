@@ -34,4 +34,4 @@ You can see an example below:
 3. Actual Result
 	> There is no trash can icon.
 4. Visual Proof
-	> [Screenshot]
+	> <img src="/img/DocImg/General Information/Report_Issue/Evidence.png" alt="Completed Audit Form" class="center"/>
