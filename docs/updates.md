@@ -3,6 +3,23 @@ sidebar_position: 0
 ---
 # Patch Notes
 
+## V2.4.4
+
+### Added
+
+- Dashboard
+	- CRM analytics
+- CRM
+	- Customer-specific analytics
+	- Customer logo in invoice form
+	- Interaction section in Customers.
+	- Invoice table validation
+
+### Fixed
+
+- CRM
+	- Invoice bug reports have been fixed
+
 ## v2.4.3
 
 ### Added
