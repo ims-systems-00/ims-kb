@@ -18,11 +18,12 @@ sidebar_position: 3
 + Document Management
 + Task Manager
 + Calendar
++ CRM
 
 You have the ability to choose between giving the user the following permission for each module:
 
 + Read
-+ Write (Create)
++ Create (Write)
 + Delete
 + Full Access (all of the above)
 
