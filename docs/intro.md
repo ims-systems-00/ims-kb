@@ -12,7 +12,7 @@ More information about the UI, navigating it, and the many buttons can be found 
 
 To get started, we will begin by **creating your organisation** with the appropriate number of licenses (these will be included in the onboarding process).
 
-First, you need to access the iMS portal by visiting [portals.imssystems.tech](portals.imssystems.tech).
+First, you need to access the iMS portal by visiting [portals.imssystems.tech](https://portals.imssystems.tech).
 
 ## Create a User
 
