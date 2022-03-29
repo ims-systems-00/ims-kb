@@ -12,7 +12,7 @@ Upon being granted access either by iMS or your organisation, you will receive a
 
 <iframe width="426" height="240" src="https://www.youtube.com/embed/9xyhqlusJmA" title="YT Login" alt="00 - Login (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
-You will need to access your organisation's [iMS System](portals.imssystems.tech), you will have received the `Organisation name` during your onboarding process. You will need to log in to the website using the login details found in the email. 
+You will need to access your organisation's [iMS System](https://portals.imssystems.tech), you will have received the `Organisation name` during your onboarding process. You will need to log in to the website using the login details found in the email. 
 
 <img src="/img/DocImg/General Information/New_User/Log_In.png" alt="Log In" class="center"/>
 
@@ -57,7 +57,7 @@ After typing your new password out, click the `Confirm` button to change your pa
 
 ### Forgot Password
 
-If you have forgotten your password and need a newly generated password, click on `Forgot Password?` from the login screen. Please ensure you are on [portals.imssystems.tech](portals.imssystems.tech), as you will not be sent a password reset if you are attempting to login from the wrong web address.
+If you have forgotten your password and need a newly generated password, click on `Forgot Password?` from the login screen. Please ensure you are on [portals.imssystems.tech](https://portals.imssystems.tech), as you will not be sent a password reset if you are attempting to login from the wrong web address.
 
 <img src="/img/DocImg/General Information/New_User/Log_In.png" alt="Log In" class="center"/>
 
