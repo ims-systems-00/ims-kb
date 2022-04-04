@@ -6,6 +6,12 @@ sidebar_position: 2
 
 ## Creating a User
 
+<p>
+<a target="\_blank" href={require('./Our IMS.pdf').default}> 
+View Our IMS Flowchart
+</a>
+</p>
+
 To create a user, go to the `Create user` tab and fill in the form. 
 
 User Type:

@@ -4,6 +4,12 @@ sidebar_position: 1
 
 # Creating a Management Review
 
+<p>
+<a target="\_blank" href={require('./Management Reviews.pdf').default}> 
+View Management Reviews Flowchart
+</a>
+</p>
+
 <iframe width="426" height="240" src="https://www.youtube.com/embed/7EMohC1CkuI" title="Create a Review" alt="07-01 - Management Reviews - Add Review (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Getting Started

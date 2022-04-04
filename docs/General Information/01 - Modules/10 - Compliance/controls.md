@@ -1,5 +1,11 @@
 # Controls
 
+<p>
+<a target="\_blank" href={require('./Compliance.pdf').default}> 
+View Compliance Flowchart
+</a>
+</p>
+
 ## Getting Started
 
 Get started by navigating to the relevant toolkit using the sidebar that you want to make changes to, the following toolkits are available:

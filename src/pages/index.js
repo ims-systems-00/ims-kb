@@ -19,6 +19,10 @@ function HomepageHeader() {
             to="/docs/intro">
             Tutorial
           </Link>
+            <p>&nbsp;&nbsp;&nbsp;</p>
+          <Link class="button button--secondary button--lg" target="\_blank" href={require('./All Flowcharts.pdf').default}> 
+              View latest flowcharts 
+          </Link>
         </div>
       </div>
     </header>

@@ -4,6 +4,12 @@ sidebar_position: 1
 
 # Adding Suppliers
 
+<p>
+<a target="\_blank" href={require('./Supplier Management.pdf').default}> 
+View Supplier Management Flowchart
+</a>
+</p>
+
 <iframe width="426" height="240" src="https://www.youtube.com/embed/Vq6wZU29mqo" title="Creating a Supplier" alt="11-01 - Supplier Management - Add Supplier (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Getting Started

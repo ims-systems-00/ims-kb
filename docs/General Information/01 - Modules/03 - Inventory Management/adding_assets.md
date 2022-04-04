@@ -4,6 +4,12 @@ sidebar_position: 1
 
 # Inventory Management
 
+<p>
+<a target="\_blank" href={require('./Inventory Management.pdf').default}> 
+View Inventory Management Flowchart
+</a>
+</p>
+
 ## Adding Assets
 
 <iframe width="426" height="240" src="https://www.youtube.com/embed/HzL1dcRxmt8" title="Inventory Management" alt="03-00 - Inventory Management (Video)" frameborder="0" allow="fullscreen"></iframe>

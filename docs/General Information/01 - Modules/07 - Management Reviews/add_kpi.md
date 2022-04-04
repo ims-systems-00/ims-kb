@@ -4,6 +4,12 @@ sidebar_position: 2
 
 # Adding KPIs
 
+<p>
+<a target="\_blank" href={require('./Management Reviews.pdf').default}> 
+View Management Reviews Flowchart
+</a>
+</p>
+
 <iframe width="426" height="240" src="https://www.youtube.com/embed/mvycNHbVDxY" title="Create a KPI" alt="07-02 - Management Reviews - Add KPI (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Getting Started
