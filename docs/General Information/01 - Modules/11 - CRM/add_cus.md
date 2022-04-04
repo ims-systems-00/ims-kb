@@ -10,7 +10,7 @@ View CRM Flowchart
 </a>
 </p>
 
-<!-- <iframe width="426" height="240" src="" title="Creating a Customer" alt="" frameborder="0" allow="fullscreen" allowfullscreen></iframe> -->
+<iframe width="426" height="240" src="https://www.youtube.com/embed/Y96z8RjRWDQ?vq=hd1080" title="Creating a Customer" alt="" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Getting Started
 
