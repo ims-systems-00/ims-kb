@@ -4,6 +4,12 @@ sidebar_position: 1
 
 # Raising Incidents
 
+<p>
+<a target="\_blank" href={require('./Incident Management.pdf').default}> 
+View Incident Management Flowchart
+</a>
+</p>
+
 <iframe width="426" height="240" src="https://www.youtube.com/embed/k8IXz5Wfegk" title="Raising an Incident" alt="05-01 - Incident Management - Raising an Incident (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Getting Started

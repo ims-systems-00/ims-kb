@@ -4,6 +4,12 @@ sidebar_position: 1
 
 # Risk Management
 
+<p>
+<a target="\_blank" href={require('./Risk Management.pdf').default}> 
+View Risk Management Flowchart
+</a>
+</p>
+
 ## Adding Risks
 
 <iframe width="426" height="240" src="https://www.youtube.com/embed/5_YyahR-a3c" title="Adding a Risk" alt="04-01 - Risk Management - Adding a Risk (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>

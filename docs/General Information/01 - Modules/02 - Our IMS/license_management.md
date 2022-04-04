@@ -4,6 +4,12 @@ sidebar_position: 5
 
 # License Management
 
+<p>
+<a target="\_blank" href={require('./Our IMS.pdf').default}> 
+View Our IMS Flowchart
+</a>
+</p>
+
 ## Organisation Overview
 
 | Licenses Allocated |

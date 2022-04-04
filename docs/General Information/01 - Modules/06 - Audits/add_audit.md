@@ -5,6 +5,12 @@ sidebar_position: 1
 
 # Adding an Audit
 
+<p>
+<a target="\_blank" href={require('./Audits.pdf').default}> 
+View Audit Flowchart
+</a>
+</p>
+
 <iframe width="426" height="240" src="https://www.youtube.com/embed/FnYaMpZ-z8E" title="Create an Audit" alt="06-00 - Audits - Create an Audit (Video)" frameborder="0" allow="fullscreen"></iframe>
 
 ## Getting Started

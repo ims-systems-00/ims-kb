@@ -4,6 +4,12 @@ sidebar_position: 1
 
 # Adding Events/Agendas
 
+<p>
+<a target="\_blank" href={require('./Calendar.pdf').default}> 
+View Calendar Flowchart
+</a>
+</p>
+
 <iframe width="426" height="240" src="https://www.youtube.com/embed/hnLlclDmJ0o" title="Add Event" alt="14-01 - Calendar - Add Event (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Getting Started

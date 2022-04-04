@@ -4,6 +4,12 @@ sidebar_position: 4
 
 # Business Premises
 
+<p>
+<a target="\_blank" href={require('./Our IMS.pdf').default}> 
+View Our IMS Flowchart
+</a>
+</p>
+
 <iframe width="426" height="240" src="https://www.youtube.com/embed/XMw0WQnBadQ" title="Business Premises" alt="02-03 - Business Premises (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Create Premise

@@ -4,6 +4,12 @@ sidebar_position: 1
 
 # Business Units
 
+<p>
+<a target="\_blank" href={require('./Our IMS.pdf').default}> 
+View Our IMS Flowchart
+</a>
+</p>
+
 ## Creating a Business Unit
 
 Please view the first time configuration guide [here][First Time Configuration] for information on creating Business Functions.

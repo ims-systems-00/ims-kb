@@ -4,6 +4,12 @@ sidebar_position: 1
 
 # Upload Files
 
+<p>
+<a target="\_blank" href={require('./Document Management.pdf').default}> 
+View Document Management Flowchart
+</a>
+</p>
+
 <iframe width="426" height="240" src="https://www.youtube.com/embed/RCgonvLYdHw" title="Uploading Files" alt="12-01 - Document Management - Upload Documents (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Getting Started

@@ -4,6 +4,12 @@ sidebar_position: 1
 
 # Adding Customers
 
+<p>
+<a target="\_blank" href={require('./CRM.pdf').default}> 
+View CRM Flowchart
+</a>
+</p>
+
 <!-- <iframe width="426" height="240" src="" title="Creating a Customer" alt="" frameborder="0" allow="fullscreen" allowfullscreen></iframe> -->
 
 ## Getting Started

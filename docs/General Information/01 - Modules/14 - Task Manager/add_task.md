@@ -4,6 +4,12 @@ sidebar_position: 1
 
 # Adding Tasks
 
+<p>
+<a target="\_blank" href={require('./Task Manager.pdf').default}> 
+View Task Manager Flowchart
+</a>
+</p>
+
 <iframe width="426" height="240" src="https://www.youtube.com/embed/r3lhX3h3Cys" title="Create a Task" alt="13-01 - Task Managemenr - Create a Task (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
 
 ## Getting Started

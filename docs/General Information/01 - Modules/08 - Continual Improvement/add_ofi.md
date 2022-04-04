@@ -4,6 +4,12 @@ sidebar_position: 1
 
 # Adding OFIs
 
+<p>
+<a target="\_blank" href={require('./Continual Improvement.pdf').default}> 
+View Continual Improvement Flowchart
+</a>
+</p>
+
 <iframe width="426" height="240" src="https://www.youtube.com/embed/zstGZxqPVHU" title="Create an OFI" alt="08-01 - Continual Improvement - Create an OFI (Video)" frameborder="0" allow="fullscreen"></iframe>
 
 ## Getting Started

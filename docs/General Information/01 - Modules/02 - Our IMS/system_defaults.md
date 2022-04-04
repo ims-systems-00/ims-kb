@@ -4,6 +4,12 @@ sidebar_position: 6
 
 # System Defaults
 
+<p>
+<a target="\_blank" href={require('./Our IMS.pdf').default}> 
+View Our IMS Flowchart
+</a>
+</p>
+
 ## Setting a System Date
 
 <iframe width="426" height="240" src="https://www.youtube.com/embed/bf9WOf-kE64" title="System Dates" alt="02-06 - System Defaults 01 - System Dates (Video)" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
