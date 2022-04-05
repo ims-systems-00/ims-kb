@@ -173,6 +173,26 @@ sidebar_position: 4
 
 - [Raise an OFI][OFIcreate] (Opportunity for Improvement).
 
+## CRM
+
+### Why can’t I see a Customer I just added?
+
+- Ensure that you are on the correct filter. By default you will only see `Live Customers`.
+
+### How do I view Customers that are assigned to me?
+
+- Select the `My Customers` filter.
+
+### How do I change the status of a Customer?
+
+- When amending the customer, you are able to change their Status.
+
+*Please note that you cannot change the status of `Live` customers.*
+
+### How do I view an overview of a Customer?
+
+- You can see an overview of any customer within the “Details” tab.
+
 ##	CQC
 
 ###	How do I see an overview of my Site?
