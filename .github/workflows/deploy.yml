@@ -36,7 +36,7 @@ jobs:
           CI: false
 
       - name: Copy files to s3
-        run: aws s3 sync ./ ${{ secrets.S3_BUCKET }}
+        run: aws s3 sync ./build ${{ secrets.S3_BUCKET }}
 
       - name: Invalidate cache
         run: |
