@@ -1,6 +1,6 @@
-<p><a target="\_blank" href='/_pdf/Compliance.pdf'> 
+<!-- <p><a target="\_blank" href='/_pdf/Compliance.pdf'> 
 View Flowchart
-</a></p>
+</a></p> -->
 
 ---
 
@@ -54,5 +54,5 @@ The first graph shows the completion of each section of the toolkit, followed by
 
 + An implemented control is a clause that has been adopted by your organisation; you should implement all controls that your organisation has adopted and put in practice.
 
-[CQC]: ../CQC/CQC
+<!-- [CQC]: ../CQC/CQC -->
 [Overview]: #overview

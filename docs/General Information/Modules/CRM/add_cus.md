@@ -1,6 +1,6 @@
-<p><a target="\_blank" href='/_pdf/CRM.pdf'> 
+<!-- <p><a target="\_blank" href='/_pdf/CRM.pdf'> 
 View Flowchart
-</a></p>
+</a></p> -->
 
 <!-- <iframe width="448" height="252" src="" title="Creating a Customer" alt="" frameborder="0" allow="fullscreen" allowfullscreen></iframe> -->
 

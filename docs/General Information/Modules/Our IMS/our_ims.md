@@ -1,6 +1,6 @@
-<p><a target="\_blank" href='/_pdf/Our%20IMS.pdf'>
+<!-- <p><a target="\_blank" href='/_pdf/Our%20IMS.pdf'>
 View Flowchart
-</a></p>
+</a></p> -->
 
 ---
 
@@ -203,4 +203,4 @@ The history of previously-sent push notifications is also saved below the form.
 <img src="/img/DocImg/General Information/Our_IMS/Push_Notification_Form.png" alt="Push Notification Form and Table" class="center"/>
 
 [Access Policies]: #access-policies
-[First Time Configuration]: /intro#create-a-business-unit "First Time Configuration"
+<!-- [First Time Configuration]: /intro#create-a-business-unit "First Time Configuration" -->

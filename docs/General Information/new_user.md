@@ -4,9 +4,9 @@ Upon being granted access either by iMS or your organisation, you will receive a
 
 ## Logging In
 
-<p><a target="\_blank" href='/_pdf/Portals.pdf'> 
+<!-- <p><a target="\_blank" href='/_pdf/Portals.pdf'> 
 View Flowchart
-</a></p>
+</a></p> -->
 
 ---
 
