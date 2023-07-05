@@ -1,11 +1,6 @@
----
-sidebar_position: 25
----
-
-# Toggles
-
 There are a few things that can be toggled on/off and will last until the session is reset. A session can be reset by either
-+ Logging out then back on
+
++ Logging out then back in
 + Re-opening the browser
 
 You can access toggles through the floating settings wheel (see image below)
@@ -24,15 +19,15 @@ These buttons allow you to change the colour of the sidebar. The default colour 
 
 This slider allows you to choose whether you want the sidebar to open when you mouse-over it, or to keep it open at all times.
 
-## Useful Links
-
-There are also useful links that are in the same menu.
-
 ### Light/Dark Mode Toggle
 
 <img src="/img/DocImg/General Information/Toggles/Dark_Mode.png" alt="Dark Mode" class="center"/>
 
 The `Light` and `Dark` mode slider allows you to choose the colour scheme of the site. This will save the change permanently.
+
+## Useful Links
+
+There are also useful links that are in the same menu.
 
 ### User Manual
 

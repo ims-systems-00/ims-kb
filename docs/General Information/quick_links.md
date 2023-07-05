@@ -1,11 +1,3 @@
----
-sidebar_position: 0
----
-
-# Quick Links
-
-## Sidebar
-
 ### Dashboard
 
 [Dashboard Information][Dashboard]
@@ -28,12 +20,12 @@ Note that there is an up to 5-minute delay between information being uploaded an
 
 [System Defaults][Our IMS - System Defaults]
 
-[Our IMS - Business Unit]: ./Modules/Our%20IMS/business_units
-[Our IMS - Users]: ./Modules/Our%20IMS/users
-[Our IMS - Access Policies]: ./Modules/Our%20IMS/access_policies
-[Our IMS - Business Premises]: ./Modules/Our%20IMS/business_premises
-[Our IMS - License Management]: ./Modules/Our%20IMS/license_management
-[Our IMS - System Defaults]: ./Modules/Our%20IMS/system_defaults
+[Our IMS - Business Unit]: ./Modules/Our%20IMS/our_ims#business-units
+[Our IMS - Users]: ./Modules/Our%20IMS/our_ims#users
+[Our IMS - Access Policies]: ./Modules/Our%20IMS/our_ims#access-policies
+[Our IMS - Business Premises]: ./Modules/Our%20IMS/our_ims#business-premises
+[Our IMS - License Management]: ./Modules/Our%20IMS/our_ims#license-management
+[Our IMS - System Defaults]: ./Modules/Our%20IMS/our_ims#system-defaults
 
 ### Inventory
 
@@ -54,7 +46,7 @@ Note that there is an up to 5-minute delay between information being uploaded an
 
 [Risk Management]: ./Modules/Risk%20Management/adding_risks
 [Risk Actions]: ./Modules/Risk%20Management/adding_risks#managing-risks
-[Risk Scoring]: ./Modules/Risk%20Management/risk_scoring
+[Risk Scoring]: ./Modules/Risk%20Management/adding_risks#risk-scoring
 
 ### Incident Management
 
@@ -62,8 +54,8 @@ Note that there is an up to 5-minute delay between information being uploaded an
 
 [How to modify and delete Incidents within the Incident Management System][Incident Action]
 
-[Incident Management]: ./Modules/Incident%20Management/raising_incidents
-[Incident Action]: ./Modules/Incident%20Management/raising_incidents#managing-incidents
+[Incident Management]: ./Modules/Incident%20Management/incident_management#raising-an-incident
+[Incident Action]: ./Modules/Incident%20Management/incident_management#managing-incidents
 
 ### Audits
 
@@ -71,7 +63,7 @@ Note that there is an up to 5-minute delay between information being uploaded an
 
 [How to modify and delete an Audit][Audit Action]
 
-[Add Audit]: ./Modules/Audits/add_audit
+[Add Audit]: ./Modules/Audits/add_audit?id=creating-an-audit
 [Audit Action]: ./Modules/Audits/add_audit#managing-audits
 
 ### Management Reviews
@@ -80,8 +72,8 @@ Note that there is an up to 5-minute delay between information being uploaded an
 
 [How to modify and delete Management Reviews][Management Actions]
 
-[Add Management Review]: ./Modules/Management%20Reviews/add_review
-[Management Actions]: ./Modules/Management%20Reviews/add_review#managing-reviews
+[Add Management Review]: ./Modules/Management%20Reviews/management_review
+[Management Actions]: ./Modules/Management%20Reviews/management_review?id=managing-reviews
 
 ### Continual Improvement
 
@@ -98,7 +90,7 @@ Note that there is an up to 5-minute delay between information being uploaded an
 
 [Toolkit Controls][Control]
 
-[Overview]: ./Modules/Compliance/overview
+[Overview]: ./Modules/Compliance/controls?id=overview
 [Control]: ./Modules/Compliance/controls
 
 ### Supplier Management
@@ -134,8 +126,6 @@ Note that there is an up to 5-minute delay between information being uploaded an
 [Calendar]: ./Modules/Calendar/add_calendar
 [Calendar Actions]: ./Modules/Calendar/add_calendar#managing-calendar-events
 
-## Others
-
 ### Send Report
 
 [Send Report Information][Send Report]
@@ -149,7 +139,7 @@ Note that there is an up to 5-minute delay between information being uploaded an
 [Notifs]: ./notifications
 
 ### Account
- 
+
 [Profile] **not made yet**
 
 [Change Password][]
@@ -159,6 +149,6 @@ Note that there is an up to 5-minute delay between information being uploaded an
 [Log Out][]
 
 [Change Password]: ./new_user#changing-your-password "New User Change Password"
-[Forgot Password]: ./new_user#forgot-password
-[Log Out]: ./new_user#logging-out "New User Log Out"
-[Profile]: ./new_user#profile
+[Forgot Password]: ./new_user?id=changing-your-password
+[Log Out]: ./new_user#logging-out
+[Profile]: ./new_user#profile-wip

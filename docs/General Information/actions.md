@@ -1,14 +1,9 @@
----
-sidebar_position: 24
----
-
-# How to find specific data
-
 When browsing a set of data presented on a table, there are a number of ways to search, sort, and present the information you are looking at.
 
 ## Search
 
 Each table allows you to search relevant information to find a match. For example, if you are searching for a **Hardware Asset**, you have the option of searching by any of the following
+
 + Asset Name
 + Asset Tag
 + Asset Owner
@@ -17,7 +12,6 @@ Each table allows you to search relevant information to find a match. For exampl
 + Business Unit
 
 <img src="/img/DocImg/General Information/Actions/Search/Hardware_Asset_Search.png" alt="Hardware Asset Search" class="center"/>
-
 
 ## Sort
 
