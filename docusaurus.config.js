@@ -6,24 +6,24 @@ module.exports = {
   title: "iMS Knowledge Base",
   tagline:
     "Integrate your business operations, processes and compliance for easier management",
-  url: "https://docs.imssystems.tech",
+  url: "https://knowledge-base.imssystems.tech",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/logo.png",
   organizationName: "iMS Systems",
-  projectName: "ims-docs",
+  projectName: "ims-knowledge-base",
   themeConfig: {
     navbar: {
       logo: {
         alt: "iMS Systems",
-        src: "img/iMS_Light_Mode.svg",
-        srcDark: "img/iMS_Dark_Mode.svg",
+        src: "img/login-ims-logo.svg",
+        srcDark: "img/login-ims-logo.svg",
       },
       items: [
         {
           to: "/docs/updates",
-          label: "Patch Notes",
+          label: "Release notes",
           position: "left",
         },
         {
@@ -76,7 +76,7 @@ module.exports = {
               to: "/blog",
             },
             {
-              label: "Patch Notes",
+              label: "Release notes",
               to: "/docs/updates",
             },
             {
@@ -99,11 +99,11 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl: "https://github.com/RiadHossain43/ims-docs",
+          editUrl: "https://github.com/ims-systems-00/ims-kb",
         },
         blog: {
           showReadingTime: true,
-          editUrl: "https://github.com/RiadHossain43/ims-docs",
+          editUrl: "https://github.com/ims-systems-00/ims-kb",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
