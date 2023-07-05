@@ -2,7 +2,7 @@ name: s3 site-deployment
 
 on:
   push:
-    branches: [main]
+    branches: [master]
 
 jobs:
   build:
