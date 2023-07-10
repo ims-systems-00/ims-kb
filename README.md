@@ -1,6 +1,6 @@
 ## Contribution guidelines 
 
-### Get started?
+### Get your works published?
 
 Always create branches with a name link this: **docs/anything-dash-seperated-like-this**. You can create branches according to your convenience.
 
