@@ -13,6 +13,7 @@ module.exports = {
   favicon: "img/logo.png",
   organizationName: "iMS Systems",
   projectName: "ims-knowledge-base",
+  staticDirectories: ["public", "static"],
   themeConfig: {
     navbar: {
       logo: {
