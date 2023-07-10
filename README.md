@@ -111,7 +111,7 @@ Publishing is quite easy. Just hit the exact same command here.
 git push origin development
 ```
 
-> Ocassionally it may be a case you fail to publish the first time. In case you come accorss this issue then follow these steps. Otherwise, if successfull skip to [Final step](#final-step).
+> Ocassionally it may be a case you fail to publish the first time. In case you come accorss this issue then follow these steps. Otherwise, if successfull skip to [End](#end).
 
 If you find this kind of error or message that is somehow close to this,
 
@@ -144,5 +144,9 @@ git push origin development
 ```
 
 You will see your works have been published after 5 minutes.
+
+### End
+
+Congratulations you are all done.
 
 > Note: Why are we not following standard flow? The reason is so that every **developer** or **semi-developer** can contributte to this repository.
