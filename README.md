@@ -111,7 +111,7 @@ Publishing is quite easy. Just hit the exact same command here.
 git push origin development
 ```
 
-> Ocassionally it may be case you fail to publish the first time. In case you come accorss this issue then follow these steps. Otherwise, if successfull skip to [Final step](#final-step).
+> Ocassionally it may be a case you fail to publish the first time. In case you come accorss this issue then follow these steps. Otherwise, if successfull skip to [Final step](#final-step).
 
 If you find this kind of error or message that is somehow close to this,
 
