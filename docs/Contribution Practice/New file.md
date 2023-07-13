@@ -1,6 +1,6 @@
 ## Contribution guidelines
 
-### How to do amend documentation??
+### How to do amend documentation???
 
 Comming soon...
 
