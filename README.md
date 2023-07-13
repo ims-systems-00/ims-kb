@@ -1,6 +1,6 @@
 ## Contribution guidelines
 
-### How to do amend documentation?
+### How do you amend documentation as a user?
 
 Here is the Online based [Markdown Editor](https://onlinemarkdowneditor.dev/) resource that might be usefull for easier text formatting. You will still need to copy the source from this editor and paste in the files of the KB.
 
