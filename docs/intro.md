@@ -4,25 +4,47 @@ sidebar_position: 1
 
 # Configuration
 
-Let’s configure iMS. This should take less than **10 minutes**
+Let’s configure your iMS Systems.
 
-More information about the UI, navigating it, and the many buttons can be found in the `General Information` portion of the User Manual. However, it is recommended to complete the Configuration at least once before moving on.
+Information about specific modules and how to use them can be found in their relevant pages on the sidebar within this Knowledge Base. 
+
+It is reccomended to read through this page first before moving on, as you will be unable to utilise the system properly without following these steps first.
+
+**Please Note: This page is mainly for Super Admins. If you are not a Super Admin, you will not have the ability to follow all of these steps below, however some of these are possible if you are a Head of Service.**
 
 ## Getting Started
 
-To get started, we will begin by **creating your organisation** with the appropriate number of licenses (these will be included in the onboarding process).
+First, you must already have an organisation with iMS Systems as well as your login credentials. If you do not have these yet, please book a [Demo](https://imssystems.tech/bookDemo.php) with us.
 
-First, you need to access the iMS portal by visiting [portals.imssystems.tech](https://portals.imssystems.tech).
+If you have these details, then simply access the iMS portal by visiting [portals.imssystems.tech](https://portals.imssystems.tech).
+
+## Logging in
+
+To log into the system, first click within the dropdown labeled `Enter your organisation` and start typing the name of your organisation. Once it appears in the dropdown, make sure to click on it.
+
+Next, simply enter your `Email` and `Password` and click `Login`.
+
+After you have logged into the system, you will be greeted by the Dashboard. 
+
+On the left side of the system you will see the sidebar. You can either click on, or hover over, each of the buttons in order to see which module they link you to. You will see that the module you are currently in is noted by a blue highlight around the button. 
 
 ## Create a User
 
-[Login][] to the system using your **Super Admin** login details and navigate to `Our iMS` from the `Sidebar`, which is on the left side of the screen.
+Click on the second button down on the sidebar which is called `Our iMS`. You will then see a drawer open from the sidebar containing the different pages within this module.
 
-Under `Our IMS` click on `Users`. 
+Click on `Users` and then on the `Create user` tab.
 
-From here, click on the `Create user` tab.
+This is where you can add Users to the system. You must first select the `User type`.
 
-Here you can add users by filling the form. 
+The User type selector is a drop-down menu, from which you can select from the following options:
+
++ Internal
+
+    > This user will have full time access to the system.
+
++ External
+
+    > This user can either have their access automatically expire within 1 to 5 days, or have the same full time access as an Internal User.
 
 Once you have added one or more members you will need to grant them access to Business Units relevant to their role.
 
