@@ -17,13 +17,13 @@ There are two types of Business Units.
 + Internal Function
 + External Function
 
-Internal Functions are effectively departments within the same company - for example when making the HR Department you would pick `Internal Function` as the Access Type, as it would be the policy put in place for internal users.
+Internal Functions are effectively departments within the same company - for example when making the HR Department you would pick `Internal Function` as the Access Type as it would be the policy put in place for internal users.
 
-External Functions, on the other hand, are for outside parties that need access to the iMS System, such as Compliance Bodies that would audit your Organisation.
+External Functions on the other hand are for outside parties that need access to the iMS System, such as Compliance Bodies that would audit your Organisation.
 
 ## Access Policy
 
-`Access Policies` allow you to limit the features users within a Business Unit have access to.
+`Access Policies` allow you to limit the features users within the Business Unit have access to.
 
 You can view more information about Access Policies [here][Access Policies].
 
@@ -35,24 +35,14 @@ To create a user, go to the `Create user` tab and fill in the form.
 
 User Type:
 
-+ Internal Users have full time access to the system.
-+ External Users can either have their access automatically expire within 1 to 5 days, or have the same full time access as an Internal User.
++ Internal Users have access to the system for as long as they are granted access
++ External Users can have their access automatically expire within 5 days, or have the same access rights as an Internal User.
 
 ## Granting Access to Users
 
-In order to grant access to a User after creation, simply assign them to a Business Unit.
+In order to grant access to a User after creation, simply assign them to a Business Unit and click the green `key` icon to grant access.
 
-Navigate to the "Business Units" heading within "Our IMS" and then click on the relevant Business Unit you wish to add the User to. Next, click on the "Add Members" tab and then select the User in question from the dropdown alongside their Licence Type. Finally, click "Confirm".
-
-You can view more information about Licence Types [here][Licence Management].
-
-*Note, if you do not assign them to a Business Unit, then they will still be able to verify their account, however they will be unable to sign into the system.*
-
-## Revoking Access to Users
-
-In order to revoke access to a User, simply click on the "actions" 
-
-*Note, 
+*Note, to add a User to a Business Unit they must verify their email address*
 
 ## Deleting a User
 
@@ -105,21 +95,21 @@ You can add a single Premise to multiple Business Units and they will be display
 
 You can edit Premises by clicking the eye icon and navigating to the `Amend premise` tab, and you can delete Premises using the trash can icon. The ability to delete Premises may be limited to Super Users if they were assigned to multiple Business Units during creation.
 
-# Licence Management
+# License Management
 
 ## Organisation Overview
 
-| Licences Allocated |
+| Licenses Allocated |
 | :----------------- |
-| This is the number of Licences allocated to your organisation by iMS. |
+| This is the number of Licenses allocated to your organisation by iMS. |
 
-| Licences Used |
+| Licenses Used |
 | :---------------- |
-| This is the number of Licences used for the various Business Units or Users within your organisation. |
+| This is the number of Licenses used for the various Business Units or Users within your organisation. |
 
 | Licences Remaining |
 | :---------------- |
-| This is the number of Licences that are not used anywhere. |
+| This is the number of Licenses that are not used anywhere. |
 
 ## Internal / External
 
@@ -213,5 +203,4 @@ The history of previously-sent push notifications is also saved below the form.
 <img src="/img/DocImg/General Information/Our_IMS/Push_Notification_Form.png" alt="Push Notification Form and Table" class="center"/>
 
 [Access Policies]: #access-policies
-[Licence Management]: #licence-management
 <!-- [First Time Configuration]: /intro#create-a-business-unit "First Time Configuration" -->
