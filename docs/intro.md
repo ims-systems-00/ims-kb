@@ -126,11 +126,12 @@ There are 3 total different roles you can grant a user - though **iMS Auditor** 
 
 Once you have assigned a user to a business unit, they will then recieve an email notifying them. Provided they have first verified their account, as mentioned above, they will now be able to login and start using iMS Systems.
 
+*The verification email sent to the user has a 1 week deadline before the link no longer works, due to security reasons. You can resend the verification email at any time from the `Users` tab within `Our iMS`.*
+
 You are recommended to browse the [General Information][] portion of the User Manual if this is your first time using the iMS System.
 
 [Login]: ./General%20Information/new_user#logging-in
 [iMS]: https://imssystems.tech/ "iMS Homepage"
-[myIMS]: https://my.imssystems.tech/ "Demo iMS"
 [Permissions]: ./permission "Link to Permissions Page"
 [General Information]: ./General%20Information/quick_links
 [FAQ]: ./faq
