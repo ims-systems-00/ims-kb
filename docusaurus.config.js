@@ -23,11 +23,6 @@ module.exports = {
       },
       items: [
         {
-          to: "/docs/updates",
-          label: "Release notes",
-          position: "left",
-        },
-        {
           to: "/docs/intro",
           label: "Tutorial",
           position: "left",
@@ -40,6 +35,11 @@ module.exports = {
         {
           to: "/blog",
           label: "Blog",
+          position: "left",
+        },
+        {
+          to: "/docs/release-notes",
+          label: "Release notes",
           position: "left",
         },
       ],
