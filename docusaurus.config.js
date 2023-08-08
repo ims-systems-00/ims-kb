@@ -72,13 +72,13 @@ module.exports = {
         {
           title: "More",
           items: [
-            {
-              label: "Blog",
-              to: "/blog",
-            },
+            // {
+            //   label: "Blog",
+            //   to: "/blog",
+            // },
             {
               label: "Release notes",
-              to: "/docs/updates",
+              to: "/docs/release-notes",
             },
             {
               label: "Tutorial",

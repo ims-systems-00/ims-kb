@@ -128,10 +128,4 @@ Once you have assigned a user to a business unit, they will then recieve an emai
 
 *The verification email sent to the user has a 1 week deadline before the link no longer works, due to security reasons. You can resend the verification email at any time from the `Users` tab within `Our iMS`.*
 
-You are recommended to browse the [General Information][] portion of the User Manual if this is your first time using the iMS System.
-
-[Login]: ./General%20Information/new_user#logging-in
-[iMS]: https://imssystems.tech/ "iMS Homepage"
-[Permissions]: ./permission "Link to Permissions Page"
-[General Information]: ./General%20Information/quick_links
-[FAQ]: ./faq
+<!-- You are recommended to browse the [General Information][] portion of the User Manual if this is your first time using the iMS System. -->
