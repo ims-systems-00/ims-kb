@@ -6,9 +6,9 @@ sidebar_position: 1
 
 Let’s configure your iMS Systems.
 
-Information about specific modules and how to use them can be found in their relevant pages on the sidebar within this Knowledge Base. 
+Information about specific modules and how to use them can be found on their relevant pages on the sidebar within this Knowledge Base. 
 
-It is reccomended to read through this page first before moving on, as you will be unable to utilise the system properly without following these steps first.
+It is recommended to read through this page first before moving on, as you will be unable to utilise the system properly without following these steps first.
 
 **Please Note: This page is mainly for Super Admins. If you are not a Super Admin, you will not have the ability to follow all of these steps below, however some of these are possible if you are a Head of Service.**
 
@@ -80,7 +80,7 @@ The `Access type` selector is a drop-down menu, from which you can select from t
 
 After selecting the `Access type`, you will then need to select the `Access policy`. This dropdown consists of `iMS Business function`, `iMS Compliance body` as well as any other access policies you may have created yourself within the `Access Policies` section of `Our iMS`. 
 
-*The form will be completely different based on this choice. Please note that any custom Access Policies will be treated the same as the `iMS Business function` access policy for the purposes of this form, so refer to that section for all custom access polciies.*
+*The form will be completely different based on this choice. Please note that any custom Access Policies will be treated the same as the `iMS Business function` access policy for the purposes of this form, so refer to that section for all custom access policies.*
 
 ### Creating a Business Unit with iMS Business Function Access Policy
 
@@ -124,7 +124,7 @@ There are 3 total different roles you can grant a user - though **iMS Auditor** 
 
 ## Access granted
 
-Once you have assigned a user to a business unit, they will then recieve an email notifying them. Provided they have first verified their account, as mentioned above, they will now be able to login and start using iMS Systems.
+Once you have assigned a user to a business unit, they will then receive an email notifying them. Provided they have first verified their account, as mentioned above, they will now be able to login and start using iMS Systems.
 
 *The verification email sent to the user has a 1 week deadline before the link no longer works, due to security reasons. You can resend the verification email at any time from the `Users` tab within `Our iMS`.*
 
