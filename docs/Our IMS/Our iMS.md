@@ -6,26 +6,43 @@ View Flowchart
 
 # Business Units
 
-## Creating a Business Unit
+## Create a Business Unit
 
-Please view the [First Time Configuration](intro.md) for information on creating Business Functions.
+To begin creating a new Business Unit, navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
 
-## Access Type
+Click on `Business Units` and then on the `Create a function` tab.
 
-There are two types of Business Units.
+This is where you can add Business Units to the system. You must first select the `Access type`.
 
-+ Internal Function
-+ External Function
+The `Access type` selector is a drop-down menu, from which you can select from the following options:
 
-Internal Functions are effectively departments within the same company - for example when making the HR Department you would pick `Internal Function` as the Access Type, as it would be the policy put in place for internal users.
++ Internal function
 
-External Functions, on the other hand, are for outside parties that need access to the iMS System, such as Compliance Bodies that would audit your Organisation.
+    > This access type is effectively for teams or departments within the same company, such as HR, Operations and Finance.
 
-## Access Policy
++ External function
 
-`Access Policies` allow you to limit the features users within a Business Unit have access to.
+    > This access type is for outside parties that would need access to your iMS Systems, such as for Compliance Bodies that want to audit your Organisation.
 
-You can view more information about Access Policies [here][Access Policies].
+After selecting the `Access type`, you will then need to select the `Access policy`. This dropdown consists of `iMS Business function`, `iMS Compliance body` as well as any other access policies you may have created yourself within the `Access Policies` section of `Our iMS`. 
+
+*The form will be completely different based on this choice. Please note that any custom Access Policies will be treated the same as the `iMS Business function` access policy for the purposes of this form, so refer to that section for all custom access policies. You can view more information about Access Policies [here][Access Policies].*
+
+### Creating a Business Unit with iMS Business Function Access Policy
+
+After selecting `iMS Business function` or a custom policy for the `Access policy` dropdown, you will then need to enter the `Name` of the Business Unit, followed by its `Operating location` and `Responsibility`.
+
+Finally, click `Confirm` to create the business unit. This will utilise 1 of your business unit licences which you will be able to see a summary of on the right side of this tab. After creating this business unit, you will then be able to add members to it in order to grant your users access to the system.
+
+*For business units created this way, you will be able to assign users as either a **iMS Basic User** or as a **iMS Head of service**.*
+
+### Creating a Business Unit with iMS Compliance Body Access Policy
+
+After selecting `iMS Compliance body` for the `Access policy` dropdown, you will then need to enter the name of the `Compliance body`, followed by what `Standards` they cover and their relevant `Responsibility`.
+
+Finally, click `Confirm` to create the business unit. This will utilise 1 of your business unit licences which you will be able to see a summary of on the right side of this tab. After creating this business unit, you will then be able to add members to it in order to grant your users access to the system.
+
+*For business units created this way, you will only be able to assign users as an **iMS Auditor** within it.*
 
 # Users
 
