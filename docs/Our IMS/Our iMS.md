@@ -46,14 +46,37 @@ Finally, click `Confirm` to create the business unit. This will utilise 1 of you
 
 # Users
 
-## Creating a User
+## Create a User
 
-To create a user, go to the `Create user` tab and fill in the form. 
+To begin creating a new user, navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
 
-User Type:
+Click on `Users` and then on the `Create user` tab.
 
-+ Internal Users have full time access to the system.
-+ External Users can either have their access automatically expire within 1 to 5 days, or have the same full time access as an Internal User.
+This is where you can add Users to the system. You must first select the `User type`.
+
+The `User type` selector is a drop-down menu, from which you can select from the following options:
+
++ Internal
+
+    > This user will have full time access to the system.
+
++ External
+
+    > This user can either have their access automatically expire within 1 to 5 days, or have the same full time access as an Internal User.
+
+*The form will differ slightly depending on this choice. These differences will be covered later in this section.*
+
+After selecting the relevant `User type`, you will then enter the `Email`, followed by the `First name`, `Last name`, `Job title` and `Working place` of the user in question.
+
+The `Working place` refers to whether the user is working **On-site** or **Remote**. This can be changed by the user themselves at any time from their Profile. 
+
+For **Internal** users, you will then have the option to enter their `Salary` if you wish, followed by their `Line manager`. These are both optional fields and can be added/amended at any time from the users' profile page.
+
+For **External** users, you will instead have the option to control their `Access period.` This can vary from anywhere between **1 to 5 days** or **Full time** access. You can change or grant additional access at any time after creation.
+
+Finally, click `Confirm` to create the user. This will utilise 1 of your user licences which you will be able to see a summary of on the right side of this tab. After creating this user, the system will send out an email to allow them to verify their account.
+
+*Users must both be **verified** and be **assigned to a Business Unit** in order to access the system. Creating and assigning users to a Business Unit will be covered below.*
 
 ## Granting Access to Users
 
