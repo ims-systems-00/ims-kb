@@ -78,21 +78,45 @@ Finally, click `Confirm` to create the user. This will utilise 1 of your user li
 
 *Users must both be **verified** and be **assigned to a Business Unit** in order to access the system. Creating and assigning users to a Business Unit will be covered below.*
 
-## Granting Access to Users
+## Adding a User to a Business Unit
 
-In order to grant access to a User after creation, simply assign them to a Business Unit.
+To begin adding a user to a business unit, navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
 
-Navigate to the "Business Units" heading within "Our IMS" and then click on the relevant Business Unit you wish to add the User to. Next, click on the "Add Members" tab and then select the User in question from the dropdown alongside their Licence Type. Finally, click "Confirm".
+Click on `Business Units` and then you will see a table which contains all of the business units you have created.
 
-You can view more information about Licence Types [here][Licence Management].
+Navigate to the relevant business unit you wish to add a user to and click on their entry within the table to open a pop-up. On this pop-up, click on the `Add members` tab at the top.
 
-*Note, if you do not assign them to a Business Unit, then they will still be able to verify their account, however they will be unable to sign into the system.*
+You must first select which `User` it is you wish to add to this business unit followed by their `Role`.
+
+There are 3 total different roles you can grant a user - though **iMS Auditor** will only appear for those business units created with the `iMS Compliance body` access policy.
+
++ iMS Basic User
+
+    > This user will have full access to all of the basic modules within their business unit but a limited, read-only, access to `Our iMS`.
+
++ iMS Head of service
+
+    > This user will have full access to all of the basic modules within their business unit as well as limited version of `Our iMS` that is specific to their business unit. They are able to add new users and business premises to their own business unit here, as well as send a licence request to their **Super Admin**.
+
++ iMS Auditor
+
+    > This user will have read-only access to all of the basic modules within the entire system, with full access to the `Audits` module. Only **iMS Auditor** and **Super Admin** users are able to complete audits.
+
+### Access granted
+
+Once you have assigned a user to a business unit, they will then receive an email notifying them. Provided they have first verified their account, as mentioned above, they will now be able to login and start using iMS Systems.
+
+*The verification email sent to the user has a 1 week deadline before the link no longer works, due to security reasons. You can resend the verification email at any time from the `Users` tab within `Our iMS`.*
 
 ## Revoking Access to Users
 
-In order to revoke access to a User, simply click on the "actions" 
+To begin revoking access to a user, navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
 
-*Note, 
+Click on `Users` and then you will see a table which contains all of the users within the system.
+
+Navigate to the relevant user you wish to revoke access from and click on the action
+
+Navigate to the relevant business unit you wish to add a user to and click on their entry within the table to open a pop-up. On this pop-up, click on the `Add members` tab at the top.
 
 ## Deleting a User
 
