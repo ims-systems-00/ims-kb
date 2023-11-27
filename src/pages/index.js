@@ -15,7 +15,7 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
-            className="button button--secondary button--lg"
+            className={clsx("button button--secondary button--lg",styles.btnCta)}
             to="/docs/intro"
           >
             Tutorial
@@ -34,9 +34,9 @@ export default function Home() {
       description={`Knowledge Base for ${siteConfig.title}`}
     >
       <HomepageHeader />
-      <main>
+      {/* <main>
         <HomepageFeatures />
-      </main>
+      </main> */}
     </Layout>
   );
 }
