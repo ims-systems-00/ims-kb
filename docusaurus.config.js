@@ -23,25 +23,25 @@ module.exports = {
       },
       items: [
         {
-          to: "/docs/updates",
-          label: "Release notes",
-          position: "left",
-        },
-        {
           to: "/docs/intro",
           label: "Tutorial",
           position: "left",
         },
-        {
-          to: "/docs/faq",
-          label: "FAQs",
-          position: "left",
-        },
-        {
-          to: "/blog",
-          label: "Blog",
-          position: "left",
-        },
+        // {
+        //   to: "/docs/faq",
+        //   label: "FAQs",
+        //   position: "left",
+        // },
+        // {
+        //   to: "/blog",
+        //   label: "Blog",
+        //   position: "left",
+        // },
+        // {
+        //   to: "/docs/release-notes",
+        //   label: "Release notes",
+        //   position: "left",
+        // },
       ],
     },
     footer: {
@@ -72,13 +72,13 @@ module.exports = {
         {
           title: "More",
           items: [
-            {
-              label: "Blog",
-              to: "/blog",
-            },
+            // {
+            //   label: "Blog",
+            //   to: "/blog",
+            // },
             {
               label: "Release notes",
-              to: "/docs/updates",
+              to: "/docs/release-notes",
             },
             {
               label: "Tutorial",
