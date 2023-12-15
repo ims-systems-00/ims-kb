@@ -8,11 +8,11 @@ View Flowchart
 
 ## Create a Business Unit
 
-To begin creating a new Business Unit, navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
+To begin creating a new business unit, navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
 
 Click on `Business Units` and then on the `Create a function` tab.
 
-This is where you can add Business Units to the system. You must first select the `Access type`.
+This is where you can add business units to the system. You must first select the `Access type`.
 
 The `Access type` selector is a drop-down menu, from which you can select from the following options:
 
@@ -22,7 +22,7 @@ The `Access type` selector is a drop-down menu, from which you can select from t
 
 + External function
 
-    > This access type is for outside parties that would need access to your iMS Systems, such as for Compliance Bodies that want to audit your Organisation.
+    > This access type is effectively for outside parties that would need access to your iMS Systems, such as for Compliance Bodies that want to audit your Organisation.
 
 After selecting the `Access type`, you will then need to select the `Access policy`. This dropdown consists of `iMS Business function`, `iMS Compliance body` as well as any other access policies you may have created yourself within the `Access Policies` section of `Our iMS`. 
 
@@ -86,7 +86,7 @@ Click on `Business Units` and then you will see a table which contains all of th
 
 Navigate to the relevant business unit you wish to add a user to and click on their entry within the table to open a pop-up. On this pop-up, click on the `Add members` tab at the top.
 
-You must first select which `User` it is you wish to add to this business unit followed by their `Role`.
+You must first select which `User` it is you wish to add to this business unit followed by their `Role` and then finally click on the `Confirm` button.
 
 There are 3 total different roles you can grant a user - though **iMS Auditor** will only appear for those business units created with the `iMS Compliance body` access policy.
 
@@ -102,11 +102,25 @@ There are 3 total different roles you can grant a user - though **iMS Auditor** 
 
     > This user will have read-only access to all of the basic modules within the entire system, with full access to the `Audits` module. Only **iMS Auditor** and **Super Admin** users are able to complete audits.
 
+*The user will recieve an email notifying them of access being granted.*
+
 ### Access granted
 
 Once you have assigned a user to a business unit, they will then receive an email notifying them. Provided they have first verified their account, as mentioned above, they will now be able to login and start using iMS Systems.
 
 *The verification email sent to the user has a 1 week deadline before the link no longer works, due to security reasons. You can resend the verification email at any time from the `Users` tab within `Our iMS`.*
+
+## Removing a User from a Business Unit
+
+To remove a user from a business unit you have assigned them to, first navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
+
+Click on `Business Units` and then you will see a table which contains all of the business units you have created.
+
+Navigate to the relevant business unit(s) that the user in question is a part of and click on their entry within the table to open a pop-up. On this pop-up, click on the `Members` tab at the top.
+
+Navigate to the relevant user you wish to remove from the business unit and click on the action button on the right side of their entry. Then simply click on `Remove` in the dropdown that appears and confirm your choice.
+
+*The user will recieve an email notifying them of their removal from a business unit.*
 
 ## Revoking Access to Users
 
@@ -114,19 +128,53 @@ To begin revoking access to a user, navigate to and click on the `Our iMS` butto
 
 Click on `Users` and then you will see a table which contains all of the users within the system.
 
-Navigate to the relevant user you wish to revoke access from and click on the action
+Navigate to the relevant user you wish to revoke access from and click on the action button on the right side of their entry. Then simply click on `Revoke` in the dropdown that appears and confirm your choice.
 
-Navigate to the relevant business unit you wish to add a user to and click on their entry within the table to open a pop-up. On this pop-up, click on the `Add members` tab at the top.
+*Once a User has been revoked access to the system, they will no longer be able to login to the system, but their account and data will still remain. They will recieve an email notifying them of this.*
+
+## Granting Access to a Revoked User
+
+To grant access to a user after previously having revoked their access, first navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
+
+Click on `Users` and then you will see a table which contains all of the users within the system.
+
+Navigate to the relevant user you wish to grant access to and click on the action button on the right side of their entry. Then simply click on `Grant` in the dropdown that appears and confirm your choice.
+
+*Once a User has been granted access to the system, they will be able to login again, with all their data still remaining in the system. They will recieve an email notifying them of this.*
 
 ## Deleting a User
 
-To delete a User, you must first revoke their access to the System, remove them from the Business Units they are in then click the trash can icon next to their name in the `Users` tab.
+To delete a user from the system, first navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
 
-<iframe src="https://www.youtube-nocookie.com/embed/W0dALUp04HY?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+Click on `Users` and then you will see a table which contains all of the users within the system.
+
+You **must** ensure that they have been removed from all of their existing business units, otherwise the option to delete the user will not appear. After ensuring their removal, navigate to the relevant user you wish to delete from the system and click on the action button on the right side of their entry. Following this, click on `Delete` in the dropdown that appears.
+
+The system will then do an automatic data integrity check, to ensure that any data raised by the user will remain in the system. You will be prompted to select a user via a dropdown that all data related to the deleted user will be transferred to. After you have selected this user via the `Transfer to` dropdown, then click `Confirm`. The system will then complete the data transfer and notify you when this has been completed and it is safe to delete the user in question.
+
+*If the user in question does not have any data within the system, then the data transfer step will be automatically skipped.*
+
+Once the data integrity step has been completed, you will now be able to delete the user. Simply type in the prompted word in the drawer and click on `Confirm`.
 
 # Access Policies
 
-<iframe src="https://www.youtube-nocookie.com/embed/8w_M5F7kIME?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+To begin creating a new access policy, navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
+
+Click on `Access Policies` and then on the `Create policy` tab.
+
+This is where you can create custom access policies that can be selected when creating a business unit. These tailor the modules and level of access of your business units to your specific requirements. You must first enter the `Name` of the access policy, followed by selecting the `Access scope`.
+
+The `Access scope` selector is a drop-down menu, from which you can select from the following options:
+
++ Single business unit
+
+    > This access scope is effectively for singular teams or departments within the same company, such as HR, Operations and Finance.
+
++ All business unit
+
+    > This access scope is effectively for parties that would need access to your entire iMS Systems, such as for Compliance Bodies that want to audit your Organisation as a whole.
+
+After selecting the `Access scope` you can then 
 
  Currently, you are able to limit access to the following modules:
 
@@ -149,7 +197,7 @@ You have the ability to choose between giving the user the following permission 
 + Delete
 + Full Access (all of the above)
 
-**Certain actions, such as Escalating or Mitigating risks and incidents require Full Access.**
+*Certain actions, such as Escalating or Mitigating risks and incidents require Full Access.*
 
 # Business Premises
 
