@@ -44,6 +44,36 @@ Finally, click `Confirm` to create the business unit. This will utilise 1 of you
 
 *For business units created this way, you will only be able to assign users as an **iMS Auditor** within it.*
 
+## Amend a Business Unit
+
+To begin amending a business unit, navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
+
+Click on `Business Units` and then you will see a table which contains all of the business units you have created.
+
+Navigate to the relevant business unit you wish to amend and click on their entry within the table to open a pop-up. On this pop-up, click on the `Edit` button underneath the name of the business unit within the `Details` tab.
+
+When modifying a business unit, you may be limited by your level of access. 
+
+*Only the Super Admin is able to amend a business unit.*
+ 
+For a business unit with `iMS Business Function` access policy, you will be able to amend the following fields:
+
++ Name
++ Operating location
++ Responsibility
+
+For a business unit with `iMS Compliance body` access policy, you will be able to amend the following fields:
+
++ Compliance body
++ Standards
++ Responsibility
+
+Once you have completed your amendments, scroll to the bottom of the pop-up and click the `Update` button.
+
+## Delete a Business Unit
+
+It is currently not possible to delete a business unit you have created.
+
 # Users
 
 ## Create a User
@@ -78,7 +108,7 @@ Finally, click `Confirm` to create the user. This will utilise 1 of your user li
 
 *Users must both be **verified** and be **assigned to a Business Unit** in order to access the system. Creating and assigning users to a Business Unit will be covered below.*
 
-## Adding a User to a Business Unit
+## Add a User to a Business Unit
 
 To begin adding a user to a business unit, navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
 
@@ -110,7 +140,7 @@ Once you have assigned a user to a business unit, they will then receive an emai
 
 *The verification email sent to the user has a 1 week deadline before the link no longer works, due to security reasons. You can resend the verification email at any time from the `Users` tab within `Our iMS`.*
 
-## Removing a User from a Business Unit
+## Remove a User from a Business Unit
 
 To remove a user from a business unit you have assigned them to, first navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
 
@@ -122,7 +152,7 @@ Navigate to the relevant user you wish to remove from the business unit and clic
 
 *The user will recieve an email notifying them of their removal from a business unit.*
 
-## Revoking Access to Users
+## Revoke Access to Users
 
 To begin revoking access to a user, navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
 
@@ -132,7 +162,7 @@ Navigate to the relevant user you wish to revoke access from and click on the ac
 
 *Once a User has been revoked access to the system, they will no longer be able to login to the system, but their account and data will still remain. They will recieve an email notifying them of this.*
 
-## Granting Access to a Revoked User
+## Grant Access to a Revoked User
 
 To grant access to a user after previously having revoked their access, first navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
 
@@ -142,7 +172,7 @@ Navigate to the relevant user you wish to grant access to and click on the actio
 
 *Once a User has been granted access to the system, they will be able to login again, with all their data still remaining in the system. They will recieve an email notifying them of this.*
 
-## Deleting a User
+## Delete a User
 
 To delete a user from the system, first navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
 
@@ -157,6 +187,8 @@ The system will then do an automatic data integrity check, to ensure that any da
 Once the data integrity step has been completed, you will now be able to delete the user. Simply type in the prompted word in the drawer and click on `Confirm`.
 
 # Access Policies
+
+## Create an Access Policy
 
 To begin creating a new access policy, navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
 
@@ -174,155 +206,187 @@ The `Access scope` selector is a drop-down menu, from which you can select from 
 
     > This access scope is effectively for parties that would need access to your entire iMS Systems, such as for Compliance Bodies that want to audit your Organisation as a whole.
 
-After selecting the `Access scope` you can then 
+After selecting the `Access scope` you can then select which `Feature` you wish to add to the policy.  Currently, you are able to select the following modules within the `Feature` drop-down menu:
 
- Currently, you are able to limit access to the following modules:
-
-+ Inventory Management
-+ Risk Management
-+ Incident Management
-+ Management Review
++ Inventory
++ Risk management
++ Incident management
++ Management review
 + KPI/Objectives
-+ Continual Improvement
-+ Supplier Management
-+ Document Management
-+ Task Manager
++ Continual improvement plan
++ Supplier management
++ Document management
 + Calendar
-+ CRM
 
-You have the ability to choose between giving the user the following permission for each module:
+After selecting a `Feature` you can then choose any combination of `Permissions` you wish. Currently, you are able to select the following `Permissions` from the drop-down menu:
 
++ All
++ Create
 + Read
-+ Create (Write)
 + Delete
-+ Full Access (all of the above)
 
-*Certain actions, such as Escalating or Mitigating risks and incidents require Full Access.*
+*Certain actions, such as Escalating or Mitigating risks and incidents require **All** permission.*
+
+Once you have finished your selection, click on the `Add` button to add the `Feature` and `Permissions` for it to the current policy. You may then repeat the above steps to add multiple features, each with their own `Permissions` level if you wish.
+
+*After you click on `Add`, the selected feature will no longer show up in the `Feature` drop-down menu.*
+
+After you have finished adding all relevant modules you wish to the policy, simply click on the `Create policy` button.
+
+## Amend an Access Policy
+
+To begin amending an access policy, navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
+
+Click on `Access Policies` and then you will see a table which contains all of the access policies you have created.
+
+Navigate to the relevant access policy you wish to amend and click on their entry within the table to open a pop-up. On this pop-up, click on the `Edit` button underneath the name of the access policy within the `Details` tab.
+
+*Only the Super Admin is able to amend an access policy.*
+ 
+You will be able to amend the following fields:
+
++ Name
++ Access scope
++ Feature
++ Permissions
+
+*If you wish to change the `Permissions` for a `Feature` you have already added to the access policy, simply click `Delete` within the box containing the relevant information first, then this will allow you to select the `Feature` again in the drop-down menu.*
+
+Once you have completed your amendments, scroll to the bottom of the pop-up and click the `Update` button.
+
+## Delete an Access Policy
+
+It is currently not possible to delete an access policy you have created.
 
 # Business Premises
 
-<iframe src="https://www.youtube-nocookie.com/embed/XMw0WQnBadQ?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+## Create a Business Premise
 
-## Create Premise
+To begin creating a new premise, navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
 
-+ This page allows you to create and assign Premises to Business Units
+Click on `Business Premises` and then on the `Create Premise` tab.
 
-*Please note, changes to the Premises here does not add the Premises to the Inventory Management module of the relevant Business Unit(s)*
+This is where you can add your premises to the system and assign them to any relevant business units. This is particularly useful for large organisations with multiple teams in multiple locations.
 
-<img src="/img/DocImg/General Information/Our_IMS/Completed_Premises_Form.png" alt="Premises Form" class="center"/>
+You must first select the `Business units` that are currently utilising the premise you are adding, followed by entering the `Name`, `Location` and `Address` of the premise in question.
 
-After creating a Premise it will be shown on the `Premises` tab. 
+*You are able to select multiple `Business units` from this dropdown, as well as add more to the premise at any later time via amending the premise.*
 
-You can add a single Premise to multiple Business Units and they will be displayed as a list.
+Finally, click `Confirm` to create the business premise.
 
-You can edit Premises by clicking the eye icon and navigating to the `Amend premise` tab, and you can delete Premises using the trash can icon. The ability to delete Premises may be limited to Super Users if they were assigned to multiple Business Units during creation.
+## Amend a Business Premise
+
+To begin amending an business premise, navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
+
+Click on `Business Premises` and then you will see a table which contains all of the business premises you have created.
+
+Navigate to the relevant business premise you wish to amend and click on their entry within the table to open a pop-up. On this pop-up, click on the `Edit` button underneath the name of the business premise within the `Details` tab.
+
+*Only the Super Admin is able to amend a business premise.*
+ 
+You will be able to amend the following fields:
+
++ Business units
++ Name
++ Location
++ Address
+
+Once you have completed your amendments, scroll to the bottom of the pop-up and click the `Update` button.
+
+## Delete a Business Premise
+
+To delete a business premise from the system, first navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
+
+Click on `Business Premises` and then you will see a table which contains all of the business premises within the system.
+
+Navigate to the relevant business premise you wish to delete from the system and click on the action button on the right side of their entry. Following this, click on `Delete` in the dropdown that appears.
+
+You will then be prompted to confirm your choice. Simply click `Cancel` to stop the deletion process or `Confirm` in order to delete the premise.
 
 # Licence Management
 
 ## Organisation Overview
 
-| Licences Allocated |
-| :----------------- |
-| This is the number of Licences allocated to your organisation by iMS. |
+To view your organisation overview, navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
 
-| Licences Used |
-| :---------------- |
-| This is the number of Licences used for the various Business Units or Users within your organisation. |
+Click on `Licence Management` and then on the `Organisation Overview` tab.
 
-| Licences Remaining |
-| :---------------- |
-| This is the number of Licences that are not used anywhere. |
+This is where you can see an overview of the remaining licences within your organisation, as well as which compliance toolkits you have been allocated.
 
-## Internal / External
+The top section covers your **Business Unit** and **User** licences, as well as showcasing how many **Super Admin** licences you have.
 
-Here, you can view how Users are allocated to Business Units within your organisation.
+The section underneath shows a list of your **Compliance Toolkits** alongside whether they have been **Allocated** to a business unit or not.
 
-**HOS**, **Basic** and **Auditor** are the three different User Types that can be created.
+*You are able allocate a compliance toolkit to numerous different business units with just 1 licence.*
 
-**User Licences are consumed upon creating a User**. These licences can be returned by deleting the user.
+## View Licences Utilised per Business Unit
 
-**Business Unit Licences are consume upon created a Business Unit**. These licences cannot be returned, as Business Units cannot be deleted.
+To view the number of licences that are being used by each of your business units, navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
 
-To allocate or revoke **Toolkit access** within a Business Unit, simply click on the eye icon to the right of the Business Unit and navigate to the `Tools` tab. From here, you can use the form to either `Allocate` or `Revoke` **Toolkit access** within that specific Business Unit.
+Click on `Licence Management` and then on the `Business units` tab.
 
-## Request / Requested
+Within the table you will see a list of all the business units you have created alongside the following information:
 
-This is where you can request licences - if a HoS creates a request it would go to the Superadmin, a Superadmin creating the request would forward it to the iMS team.
++ Basic (Basic Users)
++ HoS (Head of Service Users)
++ Auditor
++ Total Number of Staff
 
-The requested tab allows you to view requests you have made, and as a Superadmin, allows you to see requests made by the HoS users within your organisation. You can accept these requests to directly forward the request of licences to iMS.
+*Please note, a business unit will have either **Basic** and **HoS** users OR **Auditor** users.*
 
-You can also request access to specific Toolkits for your Business Unit or Organisation depending on user level, this functions the same as requesting User Licences.
+## Assign a Compliance Toolkit to a Business Unit
 
-# System Defaults
+To assign a toolkit to a business unit, navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
 
-## Setting a System Date
+Click on `Licence Management` and then on the `Business units` tab.
 
-<iframe src="https://www.youtube-nocookie.com/embed/bf9WOf-kE64?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+Navigate to the relevant business unit you wish to grant a toolkit and click on their entry within the table to open a pop-up. On this pop-up, click on the `Tools` tab. You will then see a `Toolkit` drop-down menu which contains all of the toolkits your organisation has been assigned. Simply select the relevant toolkits you wish to add to the business unit in question and then click `Confirm`.
 
-You first need to navigate to `Our IMS` on the `Sidebar` which is on the left-hand side. From here, you need to click on the button called `System Defaults`.
-Here, there are four tabs. The first tab is for System Dates which requires you to pick a `System Start Date` and a `System End Date`. After selecting your dates click on `Confirm` to save your changes.
+### Remove a Compliance Toolkit from a Business Unit
 
-System Dates allow you to pick a start and end date that the Dashboard will display and use the data of, this allows you to set goals for your organisation and keep track of your progress throughout the year on the dashboard. Once the date has passed, the data is hidden from the dashboard and will not be shown on it.
+To remove a toolkit from a business unit, navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
 
-<img src="/img/DocImg/General Information/Our_IMS/System_Dates_Form.png" alt="System Dates Form" class="center"/>
+Click on `Licence Management` and then on the `Business units` tab.
 
-## Report Intervals
+Navigate to the relevant business unit you wish to remove the toolkit from and click on their entry within the table to open a pop-up. On this pop-up, click on the `Tools` tab. Within the `Toolkit` field you will see a list of all existing toolkits assigned to this business unit. Simply click the `X` button next to all of the toolkits you wish to remove and then click `Confirm`.
 
-<iframe src="https://www.youtube-nocookie.com/embed/fqTOKEUn26k?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+## Request Licences (Super Admin)
 
-You first need to navigate to `Our IMS` on the `Sidebar` which is on the left-hand side then click on `System Defaults`. 
-From here, you need to switch to the tab called `Report Intervals`.
-Report Intervals requires you to enter a `Name` and `Email` for the person receiving the report, the `Issue Date` for which day of the month they receive the report, and a drop-down menu that allows you to pick from:
+To request licences from iMS Systems Administration, navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
 
-+ Monthly
-+ Quarterly
-+ Half-Yearly
-+ Yearly
+Click on `Licence Management` and then on the `Request licences` tab.
 
-After selecting from the drop-down menu, click on `Create` to update your changes or `Reset` to clear the fields.
+Here you can request licences or toolkits from iMS Systems. Simply enter the number of `Business unit licences` and `User licences` you wish to request, if any. The `Toolkit` dropdown will show you a list of all existing toolkits we have within the system; select one or multiple toolkits here if required. Finally, simply add a `Message` and click on `Confirm` to send the licence request to us.
 
-Report intervals allow you to pick a day for each period where they will be sent an email containing the dashboard report. 
+### Request Licences (Head of Service)
 
-Below the form, you can see a table with all the information about who receives a report, how often, and which day of the month. You can also remove a person from receiving a report by clicking on the trash can icon to the right of the column that displays the day of the month they receive the report.
+To request licences from your iMS Systems Super Admin, navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
 
-<img src="/img/DocImg/General Information/Our_IMS/Report_Interval.png" alt="Report Interval Form and Table" class="center"/>
+Click on `Licence Management` and then on the `Request licences` tab.
 
-## Incident Resolution
+Here you can request user licences or toolkits from your Super Admin. Simply enter the number of `User licences` you wish to request, if any. The `Toolkit` dropdown will show you a list of all existing toolkits we have within the system; select one or multiple toolkits here if required. Finally, simply add a `Message` and click on `Confirm` to send the request.
 
-<iframe src="https://www.youtube-nocookie.com/embed/0D8njF5Ik00?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+If your Super Admin approves the request, then it will be forward onto iMS Systems Administration to grant your organisation the requested licences.
 
-To make any changes to your incident resolution times, you must first click on `Our IMS` from the `Sidebar` on the left-hand side.
+## View Licence Requests
 
-Next, click on the `System Default` button then in the `Incident Resolution` tab to find the form that allows you to make adjustments to the recommended incident resolution times.
+To view the status of your licence requests, navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
 
-From here, you can adjust the number of hours of each incident priority.
+Click on `Licence Management` and then on the `Requested` tab.
 
-Below is an example of how the resolution times may be set, refer to your organisation's policies for your own incident resolution times.
+Here you can view the status of any licence requests. For requests sent by the Super Admin, they will have a **Pending** status by default. Once iMS Systems Administration has assigned you the requested licences, the status will update to **Granted**.
 
-| Priority 				| Example 																			|
-| :-------------------- | :-------------------------------------------------------------------------------- |
-| Priority 1 Escalation | Major System defects and crash. Resolution in 6 hours. 							|
-| Priority 2 Escalation | Issues with Logging into accounts. Resolution in 9 hours. 						|
-| Priority 3 Escalation | Document issues, help with navigation and use of System. Resolution in 48 hours.	|
-| Priority 4 Escalation | Technical queries and advice. Resolution in 72 hours.								|
+### Responding to Licence Requests (Super Admin)
 
-The incident resolution time affects the relevant graphs on the Dashboard, as the Dashboard will reflect incidents being handled on time.
+To respond to licence requests by any of your Head of Services, navigate to and click on the `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see a drawer open from the sidebar containing the different pages within this module.
 
-## Push Notifications
+Click on `Licence Management` and then on the `Requested` tab.
 
-<iframe src="https://www.youtube-nocookie.com/embed/szvB-p9Ivog?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+For these licence requests, the status will be **Open**. You can click on the entry in the table to view the details of the request.
 
-You first need to navigate to `Our IMS` on the `Sidebar` which is on the left-hand side then click on `System Defaults`. 
-From here, you need to switch to the tab called `Push notification`.
-Push Notifications requires you to enter a `Message` and select the `Audience` that will receive the notification.
+To respond, navigate to the relevant request and click on the action button on the right side of their entry. Following this, click on either `Grant` or `Decline` in the dropdown that appears.
 
-Push notifications allow you to send a notification to either:
-+ All users
-+ All Head of Service users
-
-The history of previously-sent push notifications is also saved below the form.
-
-<img src="/img/DocImg/General Information/Our_IMS/Push_Notification_Form.png" alt="Push Notification Form and Table" class="center"/>
+*Granting this request will then forward it onto iMS Systems Administration.*
 
 [Access Policies]: #access-policies
 [Licence Management]: #licence-management
