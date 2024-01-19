@@ -29,7 +29,7 @@ The `Access type` selector is a drop-down menu, from which you can select from t
 
 After selecting the `Access type`, you will then need to select the `Access policy`. This dropdown consists of `iMS Business function`, `iMS Compliance body` as well as any other access policies you may have created yourself within the `Access Policies` section of `Our iMS`. 
 
-*The form will be completely different based on this choice. Please note that any custom Access Policies will be treated the same as the `iMS Business function` access policy for the purposes of this form, so refer to that section for all custom access policies. You can view more information about Access Policies [here][Access Policies].*
+*The form will be completely different based on this choice. Please note that any custom Access Policies will be treated the same as the `iMS Business function` access policy for the purposes of this form, so refer to that section for all custom access policies. You can view more information about Access Policies [here](#create-an-access-policy).*
 
 ### Creating a Business Unit with iMS Business Function Access Policy
 
