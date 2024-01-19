@@ -10,7 +10,7 @@ sidebar_position: 999
 
 Before you begin importing data into iMS Systems, you must first ensure that the data in question is in the **CSV** file format and organised in **columns** with the top row of each column providing the name of the field, as the system will read the top row for the names of the columns and will then provide these for you to select via the dropdowns.
 
-*Please also view the specific section for your chosen module [here][???] to ensure that your spreadsheet meets all the relevant requirements.*
+*Please also view the specific section for your chosen module [here](#available-modules) to ensure that your spreadsheet meets all the relevant requirements.*
 
 ## Importing Data into iMS Systems
 
@@ -22,7 +22,7 @@ After selecting the `Module`, you will then need to select the `Format`. Current
 
 Finally, simply click inside the box on the right-hand side, then navigate and select the relevant file you wish to import into the system. 
 
-*The form will be completely different based on the choice of `Module`. The different options will all be covered in their own seperate sections below, which will cover both **required** and **optional** fields as well as any requirements for specific fields. Please view this [here][???]*
+*The form will be completely different based on the choice of `Module`. The different options will all be covered in their own seperate sections below, which will cover both **required** and **optional** fields as well as any requirements for specific fields. Please view this [here](#available-modules)*
 
 ### Selecting Data to Import into iMS Systems
 
@@ -46,7 +46,7 @@ Before your data is imported into the system, you must first validate it in orde
 * Category fields must match the categories within the system
 * Scoring or Priority Level fields, such as in Risk or Incident Management, must be within the existing number limits 
 
-*The specific requirements, if any, are all included in [this][???] section below for each module.*
+*The specific requirements, if any, are all included in [this](#available-modules) section below for each module.*
 
 In order to check your selection for this, simply follow all the steps above, then simply click the `Validate dataset` button at the bottom of the page. Once you have clicked this, the system will compare the data in the dropdowns you have selected against the requirements.
 
