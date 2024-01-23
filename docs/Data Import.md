@@ -8,7 +8,7 @@ sidebar_position: 999
 
 ## Prerequisites for Importing Data into iMS System
 
-Before you begin importing data into iMS Systems, you must first ensure that the data in question is in the **CSV** file format and organised in **columns** with the top row of each column providing the name of the field, as the system will read the top row for the names of the columns and will then provide these for you to select via the dropdowns.
+Before you begin importing data into iMS Systems, you must first ensure that the data in question is in the **CSV** file format and organised in **columns** with the top row of each column providing the name of the field, as the system will read the top row for the names of the columns and will then provide these for you to select via the dropdowns. You must also ensure that there are no empty cells within any of the columns, otherwise the data import process will not validate successfully.
 
 *Please also view the specific section for your chosen module [here](#available-modules) to ensure that your spreadsheet meets all the relevant requirements.*
 
@@ -66,9 +66,113 @@ This section below will cover all of the currently available modules you can imp
 
 ### CRM/Customers
 
-| Field Name 			| Format Requirements?																| Optional or Required? | 
-| :-------------------- | :-------------------------------------------------------------------------------- | :-------------------- |
-| Priority 1 Escalation | Major System defects and crash. Resolution in 6 hours. 							| Optional Required     |
-| Priority 2 Escalation | Issues with Logging into accounts. Resolution in 9 hours. 						| Optional Required     |
-| Priority 3 Escalation | Document issues, help with navigation and use of System. Resolution in 48 hours.	| Optional Mandator     |
-| Priority 4 Escalation | Technical queries and advice. Resolution in 72 hours.								| Optional Mandatory    |
+| Field Name 			 | Format Requirements?																        | Optional or Required? | 
+| :--------------------- | :--------------------------------------------------------------------------------------- | :-------------------- |
+| Business function      | N/A                                                   							        | **Required**          |
+| Company number         | This field must be a number.                              						        | Optional              |
+| Probability            | This field must be a number.                                                 	        | Optional              |
+| Source                 | N/A                          						                        		    | Optional              |
+| Organisational profile | This field must be one of the following: Live, Prospect, Warm lead, Qualified, Proposal.	| Optional              |
+| Phone number           | This field must be a number.                         								    | Optional              |
+| Customer name          | N/A                                                  								    | **Required**          |
+| Building name          | N/A                                                  								    | Optional              |
+| Street name            | N/A                                                  								    | Optional              |
+| Post code              | N/A                                                  								    | Optional              |
+| Town                   | N/A                                                  								    | Optional              |
+| Account manager        | N/A                                                  								    | Optional              |
+| Account number         | N/A                                                  								    | Optional              |
+| Primary contact        | N/A                                                  								    | Optional              |
+| Primary email          | This field must include an email address.            								    | **Required**          |
+| Secondary contact      | N/A                                                  								    | Optional              |
+| Secondary email        | This field must include an email address.            								    | Optional              |
+| Service provision      | N/A                                                  								    | Optional              |
+| Contract value         | This field must be a number.                         								    | Optional              |
+| Contract start date    | This field must be a valid date.                     								    | Optional              |
+| Contract end date      | This field must be a valid date.                     								    | Optional              |
+| Review date            | This field must be a valid date.                     								    | Optional              |
+| Notes                  | N/A                                                  								    | Optional              |
+| Reason for loss        | N/A                                                  								    | Optional              |
+
+### Risk management
+
+| Field Name 			    | Format Requirements?																                       | Optional or Required? | 
+| :------------------------ | :------------------------------------------------------------------------------------------------------- | :-------------------- |
+| Business function         | N/A                                                   							                       | **Required**          |
+| Risk title                | N/A                                                        						                       | **Required**          |
+| Risk category             | This field must be one of the following: Hardware, Software, People, Premise, Organisational, Clinical.  | **Required**          |
+| Description               | N/A                                                        						                       | Optional              |
+| Controls and mitigation   | N/A                                                        						                       | Optional              |
+| Acceptance rationale      | N/A                                                        						                       | Optional              |
+| Decision maker            | N/A                                                        						                       | Optional              |
+| Risk owner                | N/A                                                        						                       | Optional              |
+| Likelihood                | This field must be a number between 1 and 5.                 						                       | **Required**          |
+| Consequence               | This field must be a number between 1 and 5.               						                       | **Required**          |
+
+### Incident management
+
+| Field Name 			 | Format Requirements?										 | Optional or Required? | 
+| :--------------------- | :-------------------------------------------------------- | :-------------------- |
+| Business function      | N/A                                                   	 | **Required**          |
+| Incident title         | N/A                                                       | **Required**          |
+| Description            | N/A                                                       | Optional              |
+| Incident owner         | N/A                          						     | Optional              |
+| Method of notification | N/A                                                       | Optional              |
+| Affected service       | N/A                                                  	 | Optional              |
+| Resolution             | N/A                                                  	 | Optional              |
+| Priority               | This field must be one of the following: P1, P2, P3, P4.	 | Optional              |
+
+### Inventory/hardware
+
+| Field Name 			 | Format Requirements?				 | Optional or Required? | 
+| :--------------------- | :-------------------------------- | :-------------------- |
+| Business function      | N/A                               | **Required**          |
+| Name                   | N/A                               | **Required**          |
+| Tag                    | N/A                               | Optional              |
+| Owner                  | N/A                          	 | Optional              |
+| Assigned date          | This field must be a valid date.  | Optional              |
+| Returned date          | This field must be a valid date.  | Optional              |
+| Destruction date       | This field must be a valid date.  | Optional              |
+| Cost                   | This field must be a number.      | Optional              |
+
+### Inventory/information
+
+| Field Name 			 | Format Requirements?				 | Optional or Required? | 
+| :--------------------- | :-------------------------------- | :-------------------- |
+| Business function      | N/A                               | **Required**          |
+| Information inventory  | N/A                               | Optional              |
+| Title                  | N/A                               | **Required**          |
+| Owner                  | N/A                          	 | Optional              |
+| Storage location       | N/A                          	 | Optional              |
+| Format                 | N/A                          	 | Optional              |
+| Link                   | N/A                          	 | Optional              |
+| Cost                   | This field must be a number.      | Optional              |
+
+### Inventory/people
+
+| Field Name 			 | Format Requirements?				 | Optional or Required? | 
+| :--------------------- | :-------------------------------- | :-------------------- |
+| Business function      | N/A                               | **Required**          |
+| Name                   | N/A                               | **Required**          |
+| Role                   | N/A                               | **Required**          |
+| Responsibility         | N/A                               | Optional              |
+| Skill                  | N/A                               | **Required**          |
+
+### Inventory/premise
+
+| Field Name 			 | Format Requirements?				 | Optional or Required? | 
+| :--------------------- | :-------------------------------- | :-------------------- |
+| Business function      | N/A                               | **Required**          |
+| Name                   | N/A                               | **Required**          |
+| Location               | N/A                               | **Required**          |
+| Address                | N/A                               | **Required**          |
+| Cost                   | This field must be a number.      | Optional              |
+
+### Inventory/software
+
+| Field Name 			 | Format Requirements?				 | Optional or Required? | 
+| :--------------------- | :-------------------------------- | :-------------------- |
+| Business function      | N/A                               | **Required**          |
+| Name                   | N/A                               | **Required**          |
+| Number of licences     | This field must be a number.      | Optional              |
+| Number of installs     | This field must be a number.      | Optional              |
+| Cost                   | This field must be a number.      | Optional              |
