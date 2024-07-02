@@ -4,13 +4,12 @@
   position: relative;
   overflow: hidden;
   height: 80vh;
-  background: url(https://imssystems.tech/static/assets/images/hero.png);
+  background-image: linear-gradient(273.1deg, #2d64ff 0.69%, #00c2ff 100%);
   background-position: center;
   background-size: cover;
 }
 .btnCta {
-  background: linear-gradient(273.1deg, #2d64ff 0.69%, #00c2ff 100%);
-  color: white !important;
+  background: white;
   border: 0;
 }
 @media screen and (max-width: 966px) {
