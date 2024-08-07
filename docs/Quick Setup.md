@@ -46,7 +46,7 @@ Once you have followed these steps, the User will recieve an email prompting the
 
 iMS Systems allows you to upload and manage all of your documents securely. Here's how you can upload documents:
 
-1. Go to `Document Management` on the sidebar and click on `Repositories`.
+1. Go to `Documents` on the sidebar and click on `Repositories`.
 2. Click on the `Create` button on the top right-hand side of the screen.
 3. Fill in the fields that appear with the relevant information.
 4. Click on `Create repository`.
