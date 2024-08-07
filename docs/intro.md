@@ -14,9 +14,9 @@ It is reccomended to read through this page first before moving on, as you will 
 
 ## Getting Started
 
-First, you must already have an organisation with iMS Systems as well as your login credentials. If you do not have these yet, please book a [Demo](https://imssystems.tech/bookDemo.php) with us.
+First, you must already have an organisation with iMS Systems as well as your login credentials. If you do not have these yet, please book a [Demo](https://www.imssystems.tech/book-demo) with us.
 
-If you have these details, then simply access the iMS portal by visiting [portals.imssystems.tech](https://portals.imssystems.tech).
+If you have these details, then simply access the iMS portal by visiting [app.imssystems.tech](https://app.imssystems.tech/).
 
 ## Logging in
 
