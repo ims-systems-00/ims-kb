@@ -46,12 +46,12 @@ Once you have followed these steps, the User will recieve an email prompting the
 
 iMS Systems allows you to upload and manage all of your documents securely. Here's how you can upload documents:
 
-1. Go to `Document Management` on the sidebar and click on `Repositories`.
+1. Go to `Documents` on the sidebar and click on `Repositories`.
 2. Click on the `Create` button on the top right-hand side of the screen.
 3. Fill in the fields that appear with the relevant information.
 4. Click on `Create repository`.
 5. Within your chosen repository, click on the `Add new` button and select `Upload file`.
-6. Navigate to, or drag and drop your file into the field and select the `Purpose` of the document.
+6. Navigate to, or drag and drop your file into the field and select the `Purpose` of the document as well as the `Owners`.
 7. Click on `Upload File`.
 
 ## Step 5 - Uploading Spreadsheets / Importing Data
@@ -84,7 +84,7 @@ Now you will be able to choose your category within the forms of whichever `Appl
 
 iMS Systems provides you a Risk Management module to help you identify, assess and manage different risks within your organisation. Here is how you can start to utilise this module:
 
-1. Go to `Risk Management` on the sidebar and click on `Risk list`.
+1. Click on `Risks` on the sidebar.
 2. Click on the `Raise` button on the top right-hand side of the screen.
 3. Fill in the fields that appear with the relevant information.
 4. Click `Raise risk`.
@@ -93,7 +93,7 @@ iMS Systems provides you a Risk Management module to help you identify, assess a
 
 iMS Systems provides you an Incident Management module which allows you to track and manage incidents that occur within your organisation. Here is how you can start to utilise this module:
 
-1. Go to `Incidents` on the sidebar and click on `Incident list`.
+1. Click on `Incidents` on the sidebar.
 2. Click on the `Raise` button on the top right-hand side of the screen.
 3. Fill in the fields that appear with the relevant information.
 4. Click `Raise incident`.
@@ -102,7 +102,7 @@ iMS Systems provides you an Incident Management module which allows you to track
 
 iMs Systems also offers a Supplier Management module to help you track and manage your supplier relationships and ensure compliance. Here is how you can start to utilise this module:
 
-1. Go to `Supplier Management` on the sidebar and click on `Supplier list`.
+1. Click on `Suppliers` on the sidebar.
 2. Click on the `Add` button on the top right-hand side of the screen.
 3. Fill in the fields that appear with the relevant information.
 4. Click `Add`.
