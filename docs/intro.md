@@ -78,7 +78,7 @@ This is where you can add Business Units to the system. You must first select th
 
 The `Access type` selector is a drop-down menu, from which you can select from the following options:
 
-+ Internal function
++ Internal business function
 
     > This access type is effectively for teams or departments within the same company, such as HR, Operations and Finance.
 
