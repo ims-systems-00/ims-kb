@@ -2,6 +2,8 @@
 sidebar_position: 3
 ---
 
+# Our iMS
+
 # Business Units
 
 ## Create a Business Unit
