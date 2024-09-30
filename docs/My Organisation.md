@@ -1,6 +1,43 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
+
+# My Organisation
+
+To access `My Organisation` navigate to and click on your name in the top right of the system. You will then see further options appear underneath this. Simply click on `My Organisation`.
+
+# Current Organisation
+
+On the left side of this section you will see the name of your current organisation alongside your user role. If you have uploaded your organisations' logo, this will appear here as well. 
+
+## Upload Organisation Logo
+
+To begin uploading a new Organisation Logo, navigate to and click on the 
+ `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see further options appear underneath this button containing the different pages within this module.
+
+## Switching Organisations
+
+# Basic Information & Address
+
+# Licences
+
+
+# Incident Resolution Time
+
+
+# System Dates
+
+
+# Report Intervals
+
+
+# Partnership
+
+## Partnership Sign Up
+
+## Partnership Dashboard
+
+
 
 # Licence Management
 
