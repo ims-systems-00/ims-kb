@@ -10,12 +10,13 @@ To access `My Organisation` navigate to and click on your name in the top right 
 
 On the left side of this section you will see the name of your current organisation alongside your user role. If you have uploaded your organisations' logo, this will appear here as well. 
 
-## Upload Organisation Logo
+## Upload or Edit Organisation Logo
 
-To begin uploading a new Organisation Logo, navigate to and click on the 
- `Our iMS` button on the `Sidebar`, which is on the left-hand side. You will then see further options appear underneath this button containing the different pages within this module.
+To begin uploading a new Organisation Logo, navigate to and click on the camera icon on the left side of the current page. Here you can choose to either upload a new Organisation Logo, or edit your existing one.
 
 ## Switching Organisations
+
+Provided you have access to multiple organisations, 
 
 # Basic Information & Address
 
