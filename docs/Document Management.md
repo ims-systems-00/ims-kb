@@ -1,22 +1,40 @@
-<p><a target="\_blank" href='/_pdf/Document%20Management.pdf'> 
-View Flowchart
-</a></p>
+---
+sidebar_position: 6
+---
 
-<iframe src="https://www.youtube-nocookie.com/embed/tWrcs-DRdr4?vq=hd1080&rel=0&color=white" width="448" height="252" allow="fullscreen" frameborder="0" allowfullscreen></iframe>
+# Document Management
 
-## Getting Started
+## Repository Overview
 
-Get started by navigating to and clicking on the `Document Management` button on the `Sidebar`, which is on the left-hand side.
+To view the Repository Overview, navigate to and click on the `Documents` button on the `Sidebar`, which is on the left-hand side. You will then see further options appear underneath this button containing the different pages within this module.
 
-Once you have selected this you will be able to create a Repository using the `New repository` tab.
+Click on `Overview`.
 
-<iframe src="https://www.youtube-nocookie.com/embed/RCgonvLYdHw?vq=hd1080&rel=0&cc_load_policy=1&color=white" width="448" height="252" frameborder="0" allow="fullscreen" allowfullscreen></iframe>
+Here you will see a table which shows the `Overall Total` number of documents you have uploaded across all Repositories, as well as a breakdown of how many documents you have according to their Purpose.
 
-## Creating a Repository
+You are able to click on the `View` buttons under each purpose to show a list of all documents within all Repositories which have that relevant purpose.
 
-You must first enter the `Name` for the Repository followed by entering a `Description` for it. Next, you must select the `Privacy`.
+*The Overview section does not include any documents that are contained within Repositories that are created with the `Only me` privacy.*
 
-The Privacy selector is a drop-down menu, from which you can select from the following options:
+## Repositories
+
+To view any created Repositories, navigate to and click on the `Documents` button on the `Sidebar`, which is on the left-hand side. You will then see further options appear underneath this button containing the different pages within this module.
+
+Click on `Repositories`.
+
+Here you will see a list of all the Repositories that you have access to.
+
+### Create a Repository
+
+To begin creating a new Repository, navigate to and click on the `Documents` button on the `Sidebar`, which is on the left-hand side. You will then see further options appear underneath this button containing the different pages within this module.
+
+Click on `Repositories` and then on the `Create` button on the right-hand side.
+
+This will open a drawer where you can create new Repositories to store your documents within the system. You must first enter a `Name` for the Repository, followed by a `Description`. 
+
+Next, you must select the `Privacy` of the Repository. 
+
+The `Privacy` selector is a drop-down menu, from which you can select from the following options:
 
 + Organisational
 
@@ -38,91 +56,67 @@ If you select the *Business Unit* privacy, you will have an additional drop-down
 
 If you select the *Custom* privacy, you will have an additional drop-down where you can select the `Audience` that you wish to grant access to this Repository to.
 
-For all privacy types, other than *Only me*, you will then have to select the `Owner` of the Repository.
+*This audience can consist of multiple Users across multiple different Business Units.*
+
+For all privacy types, other than *Only me*, you will then have to select the `Owner(s)` of the Repository.
+
+*There can be a maximum of 3 Repository Owners, including yourself, for each Repository. These Repository Owners will be automatically added as Document Owners to every document that gets uploaded within the Repository.*
 
 The remaining steps apply to **all** privacy types.
 
-You must then select the `Classification` of the Repository.
-
-+ Public
-+ Private
-+ Confidential
-+ Restricted
-
-Next, you must select the `Purpose` of the Repository.
-
-+ Processes
-+ Standard operating procedures
-+ Policy
-
-Next, you must select the `Review interval` for the Repository.
+Finally, regardless of your privacy selection, you must select the `Review interval` for the Repository.
 
 + Quarterly
 + Half yearly
 + Yearly
 
-Finally, click `Confirm` to create the Repository which will be visible in the `Repositories` tab.
+Finally, click `Create repository` to create the Repository which will be visible in the `Repositories` table.
 
-**Please Note: External functions cannot view Organisational documents.**
+*Upon creating a new Repository, you will be taken inside of it straight away.*
 
-## Repository Tab
+### Amending a Repository
 
-This tab shows a list of Repositories. By default it shows the *Organisational* Repositories.
+In order to `Amend` a Repository, you must first ensure that you are one of the *Repository Owners* within the relevant Repository first, then simply ensure you are within the Repository.
 
-Clicking on the clipboard icon will allow you to view more information related to the Repository.
+*You can simply click on the entry of a Repository within the table to be taken inside of it.*
 
-After clicking on the clipboard icon, you will first see the `Documents & Details` tab which shows a summary of the information related to the Repository - see the table below.
+Once you are within the relevant Repository, you can click on the three-dots menu button on the right-hand side of the repository, next to the *files total*. From here you simply click on the button to `Edit Repository`.
 
-| Type 					 | Information 																|
-| :--------------------- | :----------------------------------------------------------------------- |
-| Reference              | This is the Reference ID of the Repository.                              |
-| Repository name        | This is the name of the Repository.                                      |
-| Privacy                | This is the Privacy of the Repository.                                   |
-| Business Unit 		 | This is the Business Unit that the Repository belongs to.				|
-| Owner         	 	 | This is the Owner of the Repository.             						|
-| Classification		 | This is the Classification of the Repository.                     		|
-| Purpose       	 	 | This is the Purpose of the Repository. 						            |
-| Review Date   		 | This is the date the Repository should be reviewed by.					|
-| Created By    		 | This is the user who created the Repository.								|
-| Description      		 | This is the Description of the Repository.	   							|
-| Documents     		 | This is the section where all Documents within the Repository will be listed.|
-| Comments         		 | This is where the Comments raised within the Repository will be listed.	|
-
-## Amending a Repository
-
-In order to `Amend` a Repository, select the clipboard icon under the `Actions` field next to the relevant Repository.
-
-When modifying an Repository, you may be limited by your level of access. 
-
-*Only the Super Admin or the Repository Owner is able to amend a Repository.*
-
-In the `Amend` tab, you will be able to amend the following fields:
+You will be able to amend the following fields:
 
 + Name
 + Description
 + Privacy
 	+ Business unit (If Business unit privacy)
 	+ Select audience (if Custom privacy)
-+ Owner
-+ Classification
-+ Purpose
++ Owner(s)
 + Review interval
 
-Once you have completed your amendments, scroll to the bottom of the tab and click the `Update` button.
+Once you have completed your amendments, simply click the `Update` button at the bottom of the newly opened pop-up.
 
-### Adding a Comment to a Repository
+### Recycling a Repository
 
-Within the same `Amend` tab, if you scroll to the bottom you will see an option to add a `New comment` to the Repository. Simply enter your comment into the box, then press the `Add` button.
+In order to move a Repository to the `Recycle bin`, you must ensure you are within the `Repositories` section of Document Management. Next, navigate to the relevant Repository entry in the table, then click on the three-dots button underneath the `Actions` heading. Click on the option that appears to `Move to recycle bin`.
 
-## Deleting a Repository
+When recycling a Repository, you will first be asked to confirm you really wish to do so.
 
-In order to `Delete` a Repository, select the trash can icon under the `Actions` field.
+Simply select `Cancel` to stop the process or `Confirm` in order to move the Repository to the `Recycle Bin`.
 
-When deleting a Repository, you will first be asked to confirm you really wish to delete the Repository. Please be warned that deleted Repositories cannot be easily retrieved and due care is required.
+### Permanently Deleting a Repository
 
-*Please ensure that the Repository is empty before deleting it.*
+To permanently delete a Repository, you must first ensure you have moved it to the `Recycle Bin`. Next, navigate to and click on the `Documents` button on the `Sidebar`, which is on the left-hand side. You will then see further options appear underneath this button containing the different pages within this module.
 
-Simply select `Cancel` to stop the deletion process or `Confirm` in order to delete the Repository.
+Click on `Recycle Bin`.
+
+In order to permanently delete the Repository, first navigate to the relevant Repository entry in the table, then click on the three-dots button underneath the `Actions` heading. Click on the option that appears to `Delete permanently`.
+
+You will then be asked to confirm you really wish to do so.
+
+Simply select `Cancel` to stop the process or `Confirm` in order to permanently delete the Repository.
+
+*Permanently deleting a Repository will remove all files within it.*
+
+////////////////////
 
 ## Adding a Document to a Repository
 
