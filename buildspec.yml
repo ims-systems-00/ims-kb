@@ -1,0 +1,27 @@
+version: 0.2
+ 
+phases:
+  install:
+    runtime-versions:
+      nodejs: 18
+    commands:
+      - echo Installing dependencies...
+      - yarn install
+ 
+  pre_build:
+    commands:
+      - echo Preparing build...
+ 
+  build:
+    commands:
+      - echo Building the React app...
+      - yarn build
+ 
+  post_build:
+    commands:
+      - echo Build completed successfully.
+ 
+artifacts:
+  files:
+    - '**/*'
+  base-directory: build
