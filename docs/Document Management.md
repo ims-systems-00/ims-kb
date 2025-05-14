@@ -102,6 +102,20 @@ When recycling a Repository, you will first be asked to confirm you really wish 
 
 Simply select `Cancel` to stop the process or `Confirm` in order to move the Repository to the `Recycle Bin`.
 
+### Restoring a Recycled Repository
+
+To being restoring a Repository which was sent to the recycle bin, first navigate to and click on the `Documents` button on the `Sidebar`, which is on the left-hand side. You will then see further options appear underneath this button containing the different pages within this module.
+
+Click on `Recycle Bin`.
+
+In order to restore the Repository, navigate to the relevant Repository entry in the table, then click on the three-dots button underneath the `Actions` heading. Click on the option that appears to `Restore`.
+
+You will then be asked to confirm you really wish to do so.
+
+Simply select `Cancel` to stop the process or `Confirm` in order to restore the Repository.
+
+*Restoring a Repository will also restore all folders and files within it.*
+
 ### Permanently Deleting a Repository
 
 To permanently delete a Repository, you must first ensure you have moved it to the `Recycle Bin`. Next, navigate to and click on the `Documents` button on the `Sidebar`, which is on the left-hand side. You will then see further options appear underneath this button containing the different pages within this module.
@@ -115,6 +129,72 @@ You will then be asked to confirm you really wish to do so.
 Simply select `Cancel` to stop the process or `Confirm` in order to permanently delete the Repository.
 
 *Permanently deleting a Repository will remove all files within it.*
+
+## Repository Folders & Files
+
+### Uploading a Document to a Repository
+
+In order to upload a document to a Repository, you must first ensure that you are within the Repository in question.
+
+*You can simply click on the entry of a Repository within the table to be taken inside of it.*
+
+Once you are within the relevant Repository, you can click on the `Add New` button in the middle of the repository. A dropdown will then appear, from which you can select from the following options:
+
++ Create Folder
+
+    > This option will allow you to create a new Folder within the Repository. The folder will be created in the current path.
+
++ Upload File 
+
+    > This option will allow you to upload any required file(s) within the Repository. The file(s) will be uploaded in the current path.
+
+Next, simply click on `Upload File` which will then open a new pop-up containing the following options:
+
++ Document (Required)
+
+	> Either click inside this box, then navigate and select the relevant document(s) you wish to upload, or simply drag the document(s) into the box.
+
++ Purpose (Required)
+
+	> This dropdown contains the following options: **Process**, **Standard operating procedure**, **Policy**, **Document**, **Legal** and **Miscellaneous**. The option you choose here will be used for categorising purposes in the [Repository Overview](#Repository-Overview).
+
++ Applicable modules (Optional)
+
+	> This dropdown will allow you to link the document(s) to any module within the system, as well as to any relevant Compliance Standard, if available. This will be visible to all users via the blue `Documents` button inside the relevant module.
+
++ Select owners (Required)
+
+	> This dropdown will allow you to select the owner(s) of the document(s) being uploaded. You are able to select a maximum of 5 Document Owners, with all repository owners being automatically added onto any document added within the repository.
+
++ Authorisation (Optional)
+
+	> If you wish to send the document(s) for authorisation before they are published within the repository, you may select this option. Detailed instructions on the authorisation process is available [here](#Sending-a-Document-to-be-Signed)
+
+Finally, after you have ensured all of the **required** options above are filled in, the blue `Upload File` button at the bottom of the pop-up will be clickable. Simply click this button and your document(s) will be uploaded.
+
+*You will be able to upload 15 files at a time, however the files will ALL share the selected Purpose and Owner(s). If selected, they will also be linked to the same modules and be sent for authorisation to the same user(s).*
+
+////////////////////
+
+### Moving a Document within a Repository
+
+### Recycling a Document
+
+### Restoring a Document
+
+### Permently Deleting a Document
+
+### Creating a Folder within a Repository
+
+### Renaming a Folder within a Repository
+
+### Moving a Folder within a Repository
+
+### Recycling a Folder
+
+### Restoring a Folder
+
+### Permently Deleting a Folder
 
 ////////////////////
 
