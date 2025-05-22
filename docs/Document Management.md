@@ -104,7 +104,7 @@ Simply select `Cancel` to stop the process or `Confirm` in order to move the Rep
 
 ### Restoring a Recycled Repository
 
-To being restoring a Repository which was sent to the recycle bin, first navigate to and click on the `Documents` button on the `Sidebar`, which is on the left-hand side. You will then see further options appear underneath this button containing the different pages within this module.
+To begin restoring a Repository which was sent to the recycle bin, first navigate to and click on the `Documents` button on the `Sidebar`, which is on the left-hand side. You will then see further options appear underneath this button containing the different pages within this module.
 
 Click on `Recycle Bin`.
 
@@ -138,7 +138,9 @@ In order to upload a document to a Repository, you must first ensure that you ar
 
 *You can simply click on the entry of a Repository within the table to be taken inside of it.*
 
-Once you are within the relevant Repository, you can click on the `Add New` button in the middle of the repository. A dropdown will then appear, from which you can select from the following options:
+Once you are within the relevant Repository, you can choose whether you wish to upload the document(s) here (in the root) or within any already existing folders. 
+
+If you wish to upload the document(s) within an existing folder, you can simply click on the name of the folder within the table to go within it. Once you arrive at the relevant path you wish upload within, you can click on the `Add New` button in the middle of the repository. A dropdown will then appear, from which you can select from the following options:
 
 + Create Folder
 
@@ -174,27 +176,127 @@ Finally, after you have ensured all of the **required** options above are filled
 
 *You will be able to upload 15 files at a time, however the files will ALL share the selected Purpose and Owner(s). If selected, they will also be linked to the same modules and be sent for authorisation to the same user(s).*
 
-////////////////////
-
 ### Moving a Document within a Repository
+
+To move a document within a Repository, you must first ensure that you are within the Repository in question.
+
+*You can simply click on the entry of a Repository within the table to be taken inside of it.*
+
+Once you are within the relevant Repository, navigate to the document in question - if the document is within a folder, you can access this by clicking on the name of the folder within the table. Once you arrive at the relevant document you wish to move within the table, click on the three-dots button underneath the `Actions` heading. Click on the `Move to` option within the dropdown which will open a pop-up window. 
+
+Here you will be able to navigate to the relevant path where you want to move this document to - by default the pop-up will open within the current folder. 
+
+* You are able to navigate between the folders and paths here the same as within the Repository itself. You also have the option to create a new folder if required, which will be created within your current path shown on the top of the pop-up.*
+
+Finally, after you have navigated to the path you desire, click on the blue `Move here` button at the bottom of the pop-up to move the document to the current path shown.
 
 ### Recycling a Document
 
-### Restoring a Document
+In order to move a Document to the `Recycle bin`, you must first ensure that you are within the Repository in question. 
+
+Once you are within the relevant Repository, navigate to the document in question - if the document is within a folder, you can access this by clicking on the name of the folder within the table. Once you arrive at the relevant document you wish to recycle within the table, click on the three-dots button underneath the `Actions` heading. 
+
+Click on the option that appears to `Move to recycle bin`.
+
+### Restoring a Recycled Document
+
+To begin restoring a document which was sent to the recycle bin, you must first ensure that you are within the Repository in question where the document was originally recycled. 
+
+Once you are within the relevant Repository, click on the three-dots button next to the blue `Add New` button. Click on the `View recycle bin` option within the dropdown which will then take you to the recycle bin of the current repository.
+
+In order to restore the document, navigate to the relevant document entry in the table, then click on the three-dots button underneath the `Actions` heading. Finally, click on the option that appears to `Restore`.
+
+*Restoring a Document will restore it back to its original path within the Repository.*
 
 ### Permently Deleting a Document
 
+To permanently delete a document which was sent to the recycle bin, you must first ensure that you are within the Repository in question where the document was originally recycled. 
+
+Once you are within the relevant Repository, click on the three-dots button next to the blue `Add New` button. Click on the `View recycle bin` option within the dropdown which will then take you to the recycle bin of the current repository.
+
+In order to permanently delete the document, navigate to the relevant document entry in the table, then click on the three-dots button underneath the `Actions` heading. Finally, click on the option that appears to `Delete permanently`.
+
+*Permanently deleting a Document will also delete all previous versions of the document as well as all related information in the audit trail.*
+
 ### Creating a Folder within a Repository
+
+In order to create a folder within a Repository, you must first ensure that you are within the Repository in question.
+
+*You can simply click on the entry of a Repository within the table to be taken inside of it.*
+
+Once you are within the relevant Repository, you can choose whether you wish to create the folder here (in the root) or within any already existing folders. 
+
+If you wish to create the folder within an existing folder, you can simply click on the name of the folder within the table to go within it. Once you arrive at the relevant path you wish to create the new folder within, you can click on the `Add New` button in the middle of the repository. A dropdown will then appear, from which you can select from the following options:
+
++ Create Folder
+
+    > This option will allow you to create a new Folder within the Repository. The folder will be created in the current path.
+
++ Upload File 
+
+    > This option will allow you to upload any required file(s) within the Repository. The file(s) will be uploaded in the current path.
+
+Next, simply click on `Create Folder` which will then open a new pop-up where you can name the folder in question.
+
+Finally, after you have entered the name of the folder, the blue `Create Folder` button at the bottom of the pop-up will be clickable. Simply click this button and your folder will be created.
 
 ### Renaming a Folder within a Repository
 
+To rename a folder within a Repository, you must first ensure that you are within the Repository in question.
+
+*You can simply click on the entry of a Repository within the table to be taken inside of it.*
+
+Once you are within the relevant Repository, navigate to the folder in question - if the folder is within another folder, you can access this by clicking on the name of the folder within the table. Once you arrive at the relevant folder you wish to rename within the table, click on the three-dots button underneath the `Actions` heading. Click on the `Rename` option within the dropdown which will open a pop-up window where you will be able to amend the name of the folder.
+
+Finally, after you have amended the name of the folder, the blue `Rename Folder` button at the bottom of the pop-up will be clickable. Simply click this button and your folder will be renamed.
+
 ### Moving a Folder within a Repository
+
+To move a folder within a Repository, you must first ensure that you are within the Repository in question.
+
+*You can simply click on the entry of a Repository within the table to be taken inside of it.*
+
+Once you are within the relevant Repository, navigate to the folder in question - if the folder is within another folder, you can access this by clicking on the name of the folder within the table. Once you arrive at the relevant folder you wish to move within the table, click on the three-dots button underneath the `Actions` heading. Click on the `Move to` option within the dropdown which will open a pop-up window. 
+
+Here you will be able to navigate to the relevant path where you want to move this folder to - by default the pop-up will open within the current folder. 
+
+*You are able to navigate between the folders and paths here the same as within the Repository itself. You also have the option to create a new folder if required, which will be created within your current path shown on the top of the pop-up.*
+
+Finally, after you have navigated to the path you desire, click on the blue `Move here` button at the bottom of the pop-up to move the folder to the current path shown.
 
 ### Recycling a Folder
 
-### Restoring a Folder
+In order to move a folder to the `Recycle bin`, you must first ensure that you are within the Repository in question. 
+
+Once you are within the relevant Repository, navigate to the folder in question - if the folder is within another folder, you can access this by clicking on the name of the folder within the table. Once you arrive at the relevant folder you wish to recycle within the table, click on the three-dots button underneath the `Actions` heading. 
+
+Click on the option that appears to `Move to recycle bin`.
+
+*Recycling a Folder will also recycle all folders and files within it.*
+
+### Restoring a Recycled Folder
+
+To begin restoring a folder which was sent to the recycle bin, you must first ensure that you are within the Repository in question where the folder was originally recycled. 
+
+Once you are within the relevant Repository, click on the three-dots button next to the blue `Add New` button. Click on the `View recycle bin` option within the dropdown which will then take you to the recycle bin of the current repository.
+
+In order to restore the folder, navigate to the relevant folder entry in the table, then click on the three-dots button underneath the `Actions` heading. Finally, click on the option that appears to `Restore`.
+
+*Restoring a Folder will restore it back to its original path within the Repository and also restore all folders and files within it.*
 
 ### Permently Deleting a Folder
+
+To permanently delete a folder which was sent to the recycle bin, you must first ensure that you are within the Repository in question where the folder was originally recycled. 
+
+Once you are within the relevant Repository, click on the three-dots button next to the blue `Add New` button. Click on the `View recycle bin` option within the dropdown which will then take you to the recycle bin of the current repository.
+
+In order to permanently delete the folder, navigate to the relevant folder entry in the table, then click on the three-dots button underneath the `Actions` heading. Finally, click on the option that appears to `Delete permanently`.
+
+*Permanently deleting a Folder will also delete all folders and files within it.*
+
+///////////////////////////////////
+
+# Developing Documents with Alice AI
 
 ////////////////////
 
