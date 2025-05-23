@@ -294,11 +294,50 @@ In order to permanently delete the folder, navigate to the relevant folder entry
 
 *Permanently deleting a Folder will also delete all folders and files within it.*
 
+### View Document/Folder Details
+
+To view the details of a document/folder within a Repository, you must first ensure that you are within the Repository in question.
+
+*You can simply click on the entry of a Repository within the table to be taken inside of it.*
+
+Once you are within the relevant Repository, navigate to the document/folder in question - if the document/folder is within another folder, you can access this by clicking on the name of the folder within the table. Once you arrive at the relevant document/folder you wish to view the details of, simply click anywhere other than the name of the entry within the table and it will show you the details on the right-hand side.
+
 ///////////////////////////////////
 
 # Developing Documents with Alice AI
 
-////////////////////
+[here](https://alice-knowledge-base.imssystems.tech/docs/Alice%20MS%20Addin/Draft%20a%20Document)
+
+
+
+Add Activities/Notes to a Document
+
+Add Activities/Notes to a Repository
+
+Sending a Document for Authorisation
+
+Viewing all Authorisation Requests in a Repository
+
+Approving an Authorisation Request
+
+Rejecting an Authorisation Request
+
+Adding a New Document Version
+
+Viewing an Old Document Version
+
+Sending a Document for Signature
+
+Signing a Document - Internal User
+
+Signing a Document - External User
+
+Document Conformance
+
+
+
+
+/////////////////
 
 ## Adding a Document to a Repository
 
